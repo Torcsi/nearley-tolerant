@@ -1,0 +1,10 @@
+{
+    "Lexer":"lexer",
+    "Interpreter":"interpreter",
+    "ParserRules": 
+    [
+    {"name": "start", "symbols": [{ "terminal":"foo"}, { "terminal":"bar"}], "postprocess": "start"}
+]
+    ,
+    "ParserStart": "start"
+}

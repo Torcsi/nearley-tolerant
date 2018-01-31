@@ -1,0 +1,30 @@
+{
+  "name": "nearley-tolerant",
+  "version": "0.0.0-alpha-0",
+  "description": "Extensions to Nearley: add more tolerance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Torcsi/nearley-tolerant.git"
+  },
+  "keywords": [
+    "nearley",
+    "parser",
+    "generator",
+    "javascript"
+  ],
+  "author": "Attila Törcsvári, Arcanum Development",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Torcsi/nearley-tolerant/issues"
+  },
+  "homepage": "https://github.com/Torcsi/nearley-tolerant#readme",
+  "dependencies": {
+    "nearley": "^2.11.0",
+    "xregexp": "^4.0.0",
+    "yargs": "^11.0.0"
+  }
+}

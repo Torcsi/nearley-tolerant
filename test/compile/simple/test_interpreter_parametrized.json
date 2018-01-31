@@ -1,0 +1,18 @@
+{
+    "Lexer":"lexer",
+    "Interpreter":"interpreter",
+    "ParserRules": 
+    [
+    {"name": "start", "symbols": [{"literal":"prefix"}, { "terminal":"foo"}, { "terminal":"bar"}], "postprocess": {"function":"foobarStart","foo":1,"bar":0,"any":[12.4,"abc",14],"some":"xxx"}},
+    {"name": "directFunction", "symbols": [{ "terminal":"bar"}, { "terminal":"foo"}], "postprocess": "start"},
+    {"name": "parametrizedFunction", "symbols": [{ "terminal":"foo"}, { "terminal":"foo"}, { "terminal":"bar"}], "postprocess": [2,1,-1,"abc"]},
+    {"name": "noPostprocess", "symbols": [{ "terminal":"bar"}, { "terminal":"bar"}]},
+    {"name": "choices", "symbols": [{ "terminal":"bar"}, { "terminal":"bar"}], "postprocess": "choice"},
+    {"name": "choices", "symbols": [{ "terminal":"bar"}, { "terminal":"foo"}], "postprocess": "choice"},
+    {"name": "choices", "symbols": [{ "terminal":"bar"}, { "terminal":"foo"}], "postprocess": "choice2"},
+    {"name": "choices", "symbols": [{ "terminal":"bar"}, { "terminal":"foo"}], "postprocess": "choice3"},
+    {"name": "noFuncNameSpecArray", "symbols": [{ "terminal":"bar"}], "postprocess": [1]},
+    {"name": "noFuncNameSpecObject", "symbols": [{ "terminal":"bar"}], "postprocess": {"bar":1}}
+],
+    "ParserStart": "start"
+}
