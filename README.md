@@ -1,2 +1,2 @@
 # nearley-tolerant
-Tolerant nearley parser with generator tools
+Tolerant nearley parser with .json generator tools
