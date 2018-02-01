@@ -1,5 +1,7 @@
 # nearley-tolerant
-*** under development ***
+
+**under development** 
+
 Tolerant nearley parser with .json generator tools
 Tolerant lexer that can be accompanied to nearley.
 
@@ -128,3 +130,7 @@ In case a token value (read with next() of lexer) may be interpreted either as t
  In this case, if the lexer provides and isA(sReceivedType,sExpectedType,sTokenValue), nearley-tolerant will continue with both rules
 
 Please note that the isA function may evaluate the token value.
+
+## Lexer
+
+Described in detail in (./lexer.md){./lexer.md};
