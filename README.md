@@ -1,6 +1,7 @@
 # nearley-tolerant
 *** under development ***
 Tolerant nearley parser with .json generator tools
+Tolerant lexer that can be accompanied to nearley.
 
 
 Nearley https://www.npmjs.com/package/nearley and https://nearley.js.org/
