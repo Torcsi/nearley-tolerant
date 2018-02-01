@@ -59,7 +59,7 @@ atom("camel",regexp("[a-zA-Z]+")).substitute([(x)=>(x.toUpperCase()),(x)=>("${"+
 ```
 atom("r",regexp("[ivx]+"));
 atom("n",regexp("[1-9][0-9]*"));
-atom("nr",["n","r"]).substitute([(x,d)=>{ d.r = d.r.toUppserCase(); return x;},"${r}.${d}"]))
+atom("nr",["n","r"]).substitute([(x,d)=>{ d.r = d.r.toUpperCase(); return x;},"${r}.${d}"]))
 ```
 In the above example, once ``nr`` matches, the substitution function will access its parts through its second parameter, which is rewriteable and the substitute will use the rewritten value. However, regexp-like substitutions cannot use created new variables.
 
