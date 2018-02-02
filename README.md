@@ -32,7 +32,7 @@ However, the loaded JSON file will be compiled so that a missing function, i.e. 
 
 ## Call of interpreter functions in JS files
 
-If the @interpreter pragma added, the postprocessor functions are replaced by declarations of the function calls.
+If the **@interpreter** pragma added, the postprocessor functions are replaced by declarations of the function calls.
 
 In order to allow proper postprocessing functions, the {% %} should contain JSON data, that will be interpreted as follows
 

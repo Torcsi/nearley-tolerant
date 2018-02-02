@@ -1,0 +1,11 @@
+{
+    "Lexer":"undefined",
+    "Interpreter":"interpreterObject",
+    "ParserRules": 
+    [
+    {"name": "start$string$1", "symbols": [{"literal":"f"}, {"literal":"o"}, {"literal":"o"}], "postprocess": ["literal","foo"]},
+    {"name": "start$string$2", "symbols": [{"literal":"b"}, {"literal":"a"}, {"literal":"r"}], "postprocess": ["literal","bar"]},
+    {"name": "start", "symbols": ["start$string$1", "start$string$2"]}
+],
+    "ParserStart": "start"
+}

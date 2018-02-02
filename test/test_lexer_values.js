@@ -28,7 +28,7 @@ function ScanTest(sCaption, lexer, aSample, aResponse, hFilter) {
     }
 }
 
-describe("Lexer values tests"    , function(){
+describe.skip("Lexer values tests"    , function(){
         describe("Single value string substitute",function(){
             it("Single atom scanning",function(){
                 let myLexer= new Lexer();

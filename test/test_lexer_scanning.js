@@ -59,7 +59,7 @@ function Scan2Test(sCaption, lexer1, lexer2, aSample, aResponse1, aResponse2) {
     }
 }
 
-describe("Lexer scanning tests", function(){
+describe.skip("Lexer scanning tests", function(){
   describe('Basic successful scanning',
     function(){
       it("Single atom scanning",
@@ -173,6 +173,7 @@ describe("Lexer scanning tests", function(){
       );
     }
   );
+  /** 
   describe.skip("Selective scanning",
     function(){
       it("Return NONE for selective scan (not yet implemented)",
@@ -189,4 +190,5 @@ describe("Lexer scanning tests", function(){
       )
     }
   )
+  **/
 });

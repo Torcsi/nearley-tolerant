@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Torcsi/nearley-tolerant#readme",
   "dependencies": {
+    "graceful-fs": "^4.1.11",
     "nearley": "^2.11.0",
     "xregexp": "^4.0.0",
     "yargs": "^11.0.0"
