@@ -16,8 +16,8 @@ function ScanTest(sCaption, lexer, aSample, aResponse, hFilter) {
     if (!compileLexer(sCaption, lexer))
         return;
     for (let i = 0; i < aSample.length; i++) {
-        let oParse = new LexicalParser(aSample[i]);
-        oParse.start(lexer);
+        let oParse = new LexicalParser(lexer);
+        oParse.init(aSample[i]);
         let aParseInfo = [];
         for (let i = 0; (m = oParse.next(hFilter)) != null; i++) {
             //console.log(i + ":" + m.type + ":" + m.at + ":" + m.end);
@@ -28,7 +28,7 @@ function ScanTest(sCaption, lexer, aSample, aResponse, hFilter) {
     }
 }
 
-describe.skip("Lexer values tests"    , function(){
+describe("Lexer values tests"    , function(){
         describe("Single value string substitute",function(){
             it("Single atom scanning",function(){
                 let myLexer= new Lexer();

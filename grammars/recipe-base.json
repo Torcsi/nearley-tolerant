@@ -18,7 +18,7 @@
     {"name": "steps$ebnf$1", "symbols": ["steps$ebnf$1", "steps$ebnf$1$subexpression$2"], "postprocess": ["repeat"]},
     {"name": "steps", "symbols": [{ "terminal":"steps"}, "steps$ebnf$1"]},
     {"name": "step", "symbols": [{ "terminal":"number"}, { "terminal":"white"}, "sentence"]},
-    {"name": "sentence", "symbols": [{ "terminal":"verb"}, { "terminal":"white"}, { "terminal":"subjects"}]}
+    {"name": "sentence", "symbols": [{ "terminal":"verb"}, { "terminal":"white"}, { "terminal":"subject"}]}
 ],
     "ParserStart": "start"
 }

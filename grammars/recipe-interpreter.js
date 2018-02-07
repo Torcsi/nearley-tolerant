@@ -29,7 +29,7 @@ class RecipeInterpreter
         return r.join("\n");
     }
     repeat(data){
-        console.log("### REPEAT... " + data.length+this.dumpArray(data));
+        //console.log("### REPEAT... " + data.length+this.dumpArray(data));
         
         if(!data)
             return [];
@@ -39,7 +39,7 @@ class RecipeInterpreter
             return data[1];
         if(!data[1])
             return data[0];
-        console.log("###*** REPEAT "+(data[0]?data[0].type:"NULL")+" + "+(data[1]?data[1].type:"NULL"));
+        //console.log("###*** REPEAT "+(data[0]?data[0].type:"NULL")+" + "+(data[1]?data[1].type:"NULL"));
         return data[0].concat([ data[1] ]);
     }
     

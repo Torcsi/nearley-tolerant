@@ -15,8 +15,9 @@ function ScanTest(sCaption, lexer, aSample, aResponse, hFilter) {
     if (!compileLexer(sCaption, lexer))
         return;
     for (let i = 0; i < aSample.length; i++) {
-        let oParse = new LexicalParser(aSample[i]);
-        oParse.start(lexer);
+        let oParse = new LexicalParser(lexer);
+        oParse.init(aSample[i]);
+        oParse.start(0);
         let aParseInfo = [];
         for (let i = 0; (m = oParse.next(hFilter)) != null; i++) {
             //console.log(i + ":" + m.type + ":" + m.at + ":" + m.end);
@@ -37,8 +38,9 @@ function Scan2Test(sCaption, lexer1, lexer2, aSample, aResponse1, aResponse2) {
     if (!compileLexer(sCaption, lexer2))
         return;
     for (let i = 0; i < aSample.length; i++) {
-        let oParse = new LexicalParser(aSample[i]);
-        oParse.start(lexer1);
+        let oParse = new LexicalParser(lexer1);
+        oParse.init(aSample[i]);
+        oParse.start(0);
         let aParseInfo = [];
         for (let i = 0; (m = oParse.next()) != null; i++) {
             //console.log(i + ":" + m.type + ":" + m.at + ":" + m.end);
@@ -47,7 +49,8 @@ function Scan2Test(sCaption, lexer1, lexer2, aSample, aResponse1, aResponse2) {
         }
         assert.deepStrictEqual(aResponse1[i],aParseInfo);
         //console.log("------------------------------------------------------------------------");
-        oParse.start(lexer2);
+        oParse.setLexer(lexer2);
+        oParse.start(0);
         aParseInfo = [];
         for (let i = 0; (m = oParse.next()) != null; i++) {
             //console.log(i + ":" + m.type + ":" + m.at + ":" + m.end);
@@ -59,7 +62,7 @@ function Scan2Test(sCaption, lexer1, lexer2, aSample, aResponse1, aResponse2) {
     }
 }
 
-describe.skip("Lexer scanning tests", function(){
+describe("Lexer scanning tests", function(){
   describe('Basic successful scanning',
     function(){
       it("Single atom scanning",

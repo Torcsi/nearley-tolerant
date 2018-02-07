@@ -31,7 +31,7 @@ function getResults(r,nIndent)
 }
 describe("nearley compiler interface",
 function(){
-    describe.skip("Basic compile from file",
+    describe("Basic compile from file",
         function(){
             it("Report missing grammar file",
                 function(){
@@ -89,7 +89,7 @@ function(){
             )
         }
     );
-    describe.skip("Basic compile from string",
+    describe("Basic compile from string",
     function(){
         it("Compile flat string to JSON object",
         function(){
@@ -116,7 +116,7 @@ function(){
         });
     }
     );
-    describe.skip("Lexer compile bad files",
+    describe("Lexer compile bad files",
         function(){
             it("Missing grammar",
                 function(){
@@ -169,10 +169,10 @@ function(){
         
         }
     );
-    describe.skip("Lexer/interpreter combination with parser",
+    describe("Lexer/interpreter combination with parser",
     
         function(){
-            it("Unidefined token in lexer",
+            it("Undefined token in lexer",
             function(){
                 let oCompiler = new cCompiler();
                 let hParserTable = oCompiler.compileFile("grammars/recipe-base.ne",{"json":""});
@@ -180,8 +180,8 @@ function(){
                 let oInterpreter = require("../grammars/bad/recipe-interpreter-missingfunction.js");
                 let aErrors = oCompiler.linkGrammar(hParserTable,oLexer,oInterpreter)
                 let sErrors= aErrors == null ?"no error detected":"\n\t"+aErrors.join("\n\t");
-                assert.ok(aErrors.length>=0 && aErrors[0].indexOf("not defined in lexical analyzer")>0,"missing report of undefined token"+sErrors);
-                assert.ok(aErrors.length>=1 && aErrors[1].indexOf("function is not defined")>0,"missing report of undefined function"+sErrors);
+                assert.ok(aErrors && aErrors.length>=0 && aErrors[0].indexOf("not defined in lexical analyzer")>0,"missing report of undefined token "+sErrors);
+                assert.ok(aErrors && aErrors.length>=1 && aErrors[1].indexOf("function is not defined")>0,"missing report of undefined function "+sErrors);
                 //aErrors = oCompiler.addInterpreter(hParserTable,oInterpreter);
                 //console.log(JSON.stringify(aErrors));
             }
@@ -235,22 +235,28 @@ function(){
                 let oCompiler = new cCompiler();
                 let hParserTable = oCompiler.compileFile("grammars/recipe-base.ne",{"json":""});
                 let oLexer = require("../grammars/recipe-lexer.js");
+                
                 let aErrors = oLexer.compile();
                 if( aErrors!=null){
-                    console.log(aErrors);
+                    assert.fail(aErrors[0]);
                 }
                 let oInterpreter = require("../grammars/recipe-interpreter.js");
-                aErrors = oCompiler.linkGrammar(hParserTable,oLexer,oInterpreter);
 
+                let oLexicalParser = new mLexer.LexicalParser(oLexer);
+
+                aErrors = oCompiler.linkGrammar(hParserTable,oLexer,oInterpreter);
+                if( aErrors!=null){
+                    assert.fail(aErrors[0]);
+                }
+                
                 let sText = 
 //"RECIPE dough INGREDIENTS 1 l water 1 kg flour STEPS 1 MIX flour INTO water 2 WAIT"
 "RECIPE dough INGREDIENTS 1 l water 1 kg flour 1 g sugar STEPS 1 MIX flour 2 WAIT little"
-                let oLexicalParser = new mLexer.LexicalParser("");
+                
                 let oParser = new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
                 
-
-                 oLexicalParser.reset(sText);
-                 oLexicalParser.start(oLexer,0);
+                oLexicalParser.reset(sText);
+                oLexicalParser.start(oLexer,0);
                 oParser.init();
                 //console.log("Test case:"+x);
                 try{

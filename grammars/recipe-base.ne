@@ -9,4 +9,4 @@ steps -> %steps (%white step):+
 step -> %number %white sentence
 # sentence -> %verb (%white  %subject others):?
 # others -> (%white %preposition %white %name):?
-sentence -> %verb %white %subjects
+sentence -> %verb %white %subject

@@ -1,7 +1,7 @@
 var assert = require("assert");
 const {Lexer,LexicalParser,use,atom,regexp} = require("../lib/lexer-tolerant");
 
-describe.skip("Lexer declaration tests",
+describe("Lexer declaration tests",
   function(){
     describe('Creation and basic operations',
       function(){
