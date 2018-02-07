@@ -1,0 +1,24 @@
+{
+    "Lexer":"myRecipeLexer",
+    "Interpreter":"recipeInterpreter",
+    "ParserRules": 
+    [
+    {"name": "start", "symbols": [{ "terminal":"recipe"}, { "terminal":"white"}, { "terminal":"name"}, { "terminal":"white"}, "ingredients", "steps"]},
+    {"name": "ingredients", "symbols": [{ "terminal":"ingredients"}, { "terminal":"white"}, "ingredientlist"]},
+    {"name": "ingredientlist$ebnf$1$subexpression$1", "symbols": ["ingredient"]},
+    {"name": "ingredientlist$ebnf$1", "symbols": ["ingredientlist$ebnf$1$subexpression$1"], "postprocess": ["null"]},
+    {"name": "ingredientlist$ebnf$1$subexpression$2", "symbols": ["ingredient"]},
+    {"name": "ingredientlist$ebnf$1", "symbols": ["ingredientlist$ebnf$1", "ingredientlist$ebnf$1$subexpression$2"], "postprocess": ["repeat"]},
+    {"name": "ingredientlist", "symbols": ["ingredientlist$ebnf$1"]},
+    {"name": "ingredient", "symbols": [{ "terminal":"number"}, { "terminal":"white"}, { "terminal":"weight"}, { "terminal":"white"}, { "terminal":"name"}, { "terminal":"white"}]},
+    {"name": "ingredient", "symbols": [{ "terminal":"number"}, { "terminal":"white"}, { "terminal":"volume"}, { "terminal":"white"}, { "terminal":"name"}, { "terminal":"white"}]},
+    {"name": "steps$ebnf$1$subexpression$1", "symbols": [{ "terminal":"white"}, "step"]},
+    {"name": "steps$ebnf$1", "symbols": ["steps$ebnf$1$subexpression$1"], "postprocess": ["null"]},
+    {"name": "steps$ebnf$1$subexpression$2", "symbols": [{ "terminal":"white"}, "step"]},
+    {"name": "steps$ebnf$1", "symbols": ["steps$ebnf$1", "steps$ebnf$1$subexpression$2"], "postprocess": ["repeat"]},
+    {"name": "steps", "symbols": [{ "terminal":"steps"}, "steps$ebnf$1"]},
+    {"name": "step", "symbols": [{ "terminal":"number"}, { "terminal":"white"}, "sentence"]},
+    {"name": "sentence", "symbols": [{ "terminal":"verb"}, { "terminal":"white"}, { "terminal":"subjects"}]}
+],
+    "ParserStart": "start"
+}
