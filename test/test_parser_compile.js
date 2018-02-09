@@ -6,28 +6,40 @@ const Parser = require("../lib/nearley-tolerant.js").Parser;
 
 function getArray(b,nIndent,aRes)
 {
-    var sIndent = Array(nIndent).join(" ");
+    var sIndent = nIndent==-1?"":Array(nIndent).join(" ");
+    if( nIndent==-1)
+        aRes.push("[");
     for(let j=0;j<b.length;j++){
         if(b[j]==null)
             continue;
         if( Array.isArray(b[j])){
-            getArray(b[j],nIndent+1,aRes)
+            getArray(b[j],nIndent==-1?nIndent:nIndent+1,aRes)
+            if(nIndent==-1 && j!=b.length-1)
+                aRes.push(",");
         }else{
-            aRes.push(sIndent+b[j].type+" "+b[j].text);
+            aRes.push(sIndent+b[j].type+" \""+b[j].text+"\"");
+            if(nIndent==-1 && j!=b.length-1)
+                aRes.push(",");
         }
     }
+    if( nIndent==-1)
+        aRes.push("]");
 
 }
-function getResults(r,nIndent)
+function getResults(r,c,e,nIndent)
 {
     let a = [];
     if(nIndent==null)
-        nIndent = 0;
+        nIndent = -1;
     for(let i=0;i<r.length;i++){
         let b = r[i];
+        a.push("{Production:"+i+", completed="+c[i]+(c[i]?"":(", expected:"+JSON.stringify(e[i]))));
         getArray(b,nIndent,a);
+        if(nIndent==-1){
+            a.push("}")
+        }
     }
-    return a.join("\n");
+    return a.join(nIndent==-1?"":"\n");
 }
 describe("nearley compiler interface",
 function(){
@@ -205,7 +217,7 @@ function(){
 
             }
         );
-        it("Compile recipe file to JSON file, with external lexer and interpreter",
+        it.skip("Compile recipe file to JSON file, with external lexer and interpreter",
             function(){
                 let oCompiler = new cCompiler();
                 let hParser = oCompiler.compileFile("grammars/recipe-base.ne",{"out":"grammars/recipe-base.json","json":""});
@@ -230,56 +242,63 @@ function(){
                 assert.ok(aErrors==null,"some errors found:"+sErrors);
             }
         )
-        it("Parse sample",
+        it.skip("Parse sample",
             function(){
                 let oCompiler = new cCompiler();
-                let hParserTable = oCompiler.compileFile("grammars/recipe-base.ne",{"json":""});
                 let oLexer = require("../grammars/recipe-lexer.js");
-                
-                let aErrors = oLexer.compile();
-                if( aErrors!=null){
-                    assert.fail(aErrors[0]);
-                }
                 let oInterpreter = require("../grammars/recipe-interpreter.js");
 
-                let oLexicalParser = new mLexer.LexicalParser(oLexer);
+                let hParserTable = oCompiler.compileFile("grammars/recipe-base.ne",{"json":""});
+                let oParser = oCompiler.createParser(hParserTable,oLexer,oInterpreter); //new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
+                let oLexicalParser = oParser.lexer;
 
-                aErrors = oCompiler.linkGrammar(hParserTable,oLexer,oInterpreter);
-                if( aErrors!=null){
-                    assert.fail(aErrors[0]);
-                }
-                
-                let sText = 
-//"RECIPE dough INGREDIENTS 1 l water 1 kg flour STEPS 1 MIX flour INTO water 2 WAIT"
-"RECIPE dough INGREDIENTS 1 l water 1 kg flour 1 g sugar STEPS 1 MIX flour 2 WAIT little"
-                
-                let oParser = new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
-                
+                let sText = "RECIPE dough INGREDIENTS 1 l water 1 kg flour 1 g sugar STEPS 1 MIX flour 2 WAIT little"
+
                 oLexicalParser.reset(sText);
-                oLexicalParser.start(oLexer,0);
                 oParser.init();
-                //console.log("Test case:"+x);
+
+                
                 try{
                     for(;;){
                         oParser.feed(sText);
-                        console.log("Results 1:\n"+getResults(oParser.results));
+                        console.log("Results 1:\n"+getResults(oParser.results,oParser.completed,oParser.expected));
                         if(oParser.finished)
                             break;
                         oParser.carryOn();
                     }
-                    /** 
-                    sText = "RECIPE caramel INGREDIENTS 1 kg sugar STEPS 1 MIX flour 2 WAIT little";
-                    oLexicalParser.reset(sText)
-                    oParser.init();
+                }catch(e){
+                    console.log(e.message);
+                    console.log(e.stack);
+                }
+                            
+                
+
+            }
+        );
+        it("Parse with unparseable parts",
+            function(){
+                let oCompiler = new cCompiler();
+                let oLexer = require("../grammars/measure-lexer.js");
+                let oInterpreter = require("../grammars/recipe-interpreter.js");
+
+                let hParserTable = oCompiler.compileFile("grammars/measure.ne",{"json":"","out":"grammars/measure.json"});
+                let oParser = oCompiler.createParser(hParserTable,oLexer,oInterpreter,{"tolerant":true,"keepHistory":true}); //new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
+                let oLexicalParser = oParser.lexer;
+
+                let sText = "Recipe: 1 kg flour, 2 l milk, mix well; add 3 eggs, mix again"
+
+                oLexicalParser.reset(sText);
+                oParser.init();
+
+                
+                try{
                     for(;;){
                         oParser.feed(sText);
-                        console.log("Results 2:\n"+getResults(oParser.results));
+                        console.log("Results 1:\n"+getResults(oParser.results,oParser.completed,oParser.expected));
                         if(oParser.finished)
                             break;
                         oParser.carryOn();
                     }
-                    */
-                    
                 }catch(e){
                     console.log(e.message);
                     console.log(e.stack);
