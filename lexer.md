@@ -63,6 +63,26 @@ atom("nr",["n","r"]).substitute([(x,d)=>{ d.r = d.r.toUpperCase(); return x;},"$
 ```
 In the above example, once ``nr`` matches, the substitution function will access its parts through its second parameter, which is rewriteable and the substitute will use the rewritten value. However, regexp-like substitutions cannot use created new variables.
 
+# Important
+
+## Order of regexp
+Javascript regular expressions are not greedy.
+```
+(a|ab) on ab will return match "a" not on "ab"
+```
+Therefore each individual regexp containing choices ( | ) must be formed so that a choice matching a potentially longer string must precede other choices matching the prefix of the same sequence.
+
+Likewise, atom sequences must be sorted so that when a subatom (A) matching a prefix of another subatom (B), then "B" must precede "A".
+```
+(ab|a) an on will match "ab"
+```
+
+
+
+
+
+
+
 
 
 

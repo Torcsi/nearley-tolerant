@@ -82,7 +82,7 @@ The lexer reads this entirely so that at the next() call it will return a valid 
 
 However, the original nearley fails and drops an exception.
 
-Instead, nearley-tolerant computes the partial results, and a NONE-type token is added after each non-finished rule (or calls that way the processing functions.)
+Instead, nearley-tolerant computes even the partial results; the parser's ```completed: Array[boolean]``` and ```expected:{rule:{string},symbols:{string:*}}``` properties provide information about completion. (or calls that way the processing functions.) Since there may be both completed and partial results, one of the completed productions can be fished or information about incomplete production can be used.
 
 ## Tolerance on unexpected tokens
 

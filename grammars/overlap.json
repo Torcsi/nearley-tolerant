@@ -1,0 +1,15 @@
+{
+    "Lexer":"overlapLexer",
+    "Interpreter":"undefined",
+    "ParserRules": 
+    [
+    {"name": "start$ebnf$1", "symbols": []},
+    {"name": "start$ebnf$1$subexpression$1", "symbols": [{ "terminal":"comma"}, "weight"]},
+    {"name": "start$ebnf$1", "symbols": ["start$ebnf$1", "start$ebnf$1$subexpression$1"]},
+    {"name": "start", "symbols": ["weight", "start$ebnf$1"]},
+    {"name": "weight", "symbols": [{ "terminal":"gramWeight"}, { "terminal":"g"}]},
+    {"name": "weight", "symbols": [{ "terminal":"kgWeight"}, { "terminal":"kg"}]},
+    {"name": "weight", "symbols": [{ "terminal":"number"}, { "terminal":"gpl"}]}
+],
+    "ParserStart": "start"
+}

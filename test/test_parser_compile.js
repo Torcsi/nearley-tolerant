@@ -17,7 +17,7 @@ function getArray(b,nIndent,aRes)
             if(nIndent==-1 && j!=b.length-1)
                 aRes.push(",");
         }else{
-            aRes.push(sIndent+b[j].type+" \""+b[j].text+"\"");
+            aRes.push(sIndent+b[j].type+" \""+b[j].text+"\""+(b[j].getValue?"="+b[j].getValue():""));
             if(nIndent==-1 && j!=b.length-1)
                 aRes.push(",");
         }
@@ -33,7 +33,7 @@ function getResults(r,c,e,nIndent)
         nIndent = -1;
     for(let i=0;i<r.length;i++){
         let b = r[i];
-        a.push("{Production:"+i+", completed="+c[i]+(c[i]?"":(", expected:"+JSON.stringify(e[i]))));
+        a.push("{Production:"+i+", completed="+c[i]+(c[i]?"":(", expected:"+JSON.stringify(e[i])))+" ");
         getArray(b,nIndent,a);
         if(nIndent==-1){
             a.push("}")
@@ -162,7 +162,7 @@ function(){
             function(){
                 let oCompiler = new cCompiler();
                 let aErrors = oCompiler.compileFile("grammars/bad/recipe-with-warning.ne",{"out":"grammars/bad/recipe-with-warning.js","export":"grammar","test":""});
-                console.log(aErrors[0]);
+                //console.log(aErrors[0]);
                 assert.ok(fs.existsSync("grammars/bad/recipe-with-warning.js"),"file exists");
                 assert.ok(aErrors!=null && aErrors[0].indexOf("Undefined symbol")>=0,"maybe no or different error reported "+aErrors[0]);
 
@@ -172,7 +172,7 @@ function(){
             function(){
                 let oCompiler = new cCompiler();
                 let aErrors = oCompiler.compileFile("grammars/bad/recipe-bad-missinglexelement.ne",{"out":"grammars/bad/recipe-bad-missinglexelement.js","export":"grammar","test":""});
-                console.log(aErrors[0]);
+                //console.log(aErrors[0]);
                 assert.ok(fs.existsSync("grammars/bad/recipe-bad-missinglexelement.js"),"file exists");
                 assert.ok(aErrors!=null && aErrors[0].indexOf("is not defined")>=0,"maybe no or different error reported "+aErrors[0]);
 
@@ -202,7 +202,7 @@ function(){
     );
     describe("Lexer compile with file",
     function(){
-        it.skip("Compile proper recipe file",
+        it("Compile proper recipe file",
             function(){
                 let oCompiler = new cCompiler();
                 oCompiler.compileFile("grammars/recipe-base.ne",{"out":"grammars/recipe-base.js","export":"grammar1"});
@@ -217,7 +217,7 @@ function(){
 
             }
         );
-        it.skip("Compile recipe file to JSON file, with external lexer and interpreter",
+        it("Compile recipe file to JSON file, with external lexer and interpreter",
             function(){
                 let oCompiler = new cCompiler();
                 let hParser = oCompiler.compileFile("grammars/recipe-base.ne",{"out":"grammars/recipe-base.json","json":""});
@@ -225,7 +225,7 @@ function(){
             }
         );
        
-        it.skip("Compile recipe file to memory only add external lexer and interpreter",
+        it("Compile recipe file to memory only add external lexer and interpreter",
             function(){
                 let oCompiler = new cCompiler();
                 let hParserTable = oCompiler.compileFile("grammars/recipe-base.ne",{"json":""});
@@ -242,7 +242,7 @@ function(){
                 assert.ok(aErrors==null,"some errors found:"+sErrors);
             }
         )
-        it.skip("Parse sample",
+        it("Parse sample",
             function(){
                 let oCompiler = new cCompiler();
                 let oLexer = require("../grammars/recipe-lexer.js");
@@ -257,11 +257,15 @@ function(){
                 oLexicalParser.reset(sText);
                 oParser.init();
 
-                
+                sExpected = '{Production:0, completed=true [recipe "RECIPE",white " ",name "dough",white " ",[ingredients "INGREDIENTS",white " ",[[[number "1",white " ",volume "l",white " ",name "water",white " "],[[number "1",white " ",weight "kg",white " ",name "flour",white " "]],[[number "1",white " ",weight "g",white " ",name "sugar",white " "]]]]],[steps "STEPS",[white " ",[number "1",white " ",[verb "MIX",white " ",subject "flour"]],[white " ",[number "2",white " ",[verb "WAIT",white " ",subject "little"]]]]]]}';
                 try{
                     for(;;){
                         oParser.feed(sText);
-                        console.log("Results 1:\n"+getResults(oParser.results,oParser.completed,oParser.expected));
+                        sReceived = getResults(oParser.results,oParser.completed,oParser.expected);
+                        if( oParser.results==null)
+                            break;
+                        //console.log("Results:\n"+sReceived+":"+JSON.stringify(oParser.expected));
+                        assert.equal(sReceived,sExpected,"not the expected output for Parse sample");
                         if(oParser.finished)
                             break;
                         oParser.carryOn();
@@ -269,6 +273,7 @@ function(){
                 }catch(e){
                     console.log(e.message);
                     console.log(e.stack);
+                    assert.fail(e.message+"\n"+e.stack);
                 }
                             
                 
@@ -290,11 +295,53 @@ function(){
                 oLexicalParser.reset(sText);
                 oParser.init();
 
-                
+                aExpected = [
+                    '{Production:0, completed=true [[measure "1 kg",space " ",name "flour"],[[[[],[comma ", ",[measure "2 l",space " ",name "milk"]]]]]]}',
+                    '{Production:0, completed=false, expected:{"rule":"start$subexpression$1","symbols":{"action":true,"comma":true}} [[measure "3",space " ",name "eggs"]]}{Production:1, completed=true [[measure "3",space " ",name "eggs"],[[[]]]]}'
+                ];
                 try{
-                    for(;;){
+                    let oResult;
+                    for(let i=0;(oResult = oParser.get())!=null;i++){
+                        let sReceived = getResults(oResult.results,oParser.completed,oParser.expected)
+                        assert.equal(aExpected[i],sReceived," example no."+i+' does not match')
+                    }
+                }catch(e){
+                    console.log(e.message);
+                    console.log(e.stack);
+                    assert.fail(e.message+"\n"+e.stack);
+                }
+                            
+            }
+        )
+        it("Parse overlapping",
+            function(){
+                let oCompiler = new cCompiler();
+                let oLexer = require("../grammars/overlap-lexer.js");
+                let oInterpreter = require("../grammars/recipe-interpreter.js");
+
+                let hParserTable = oCompiler.compileFile("grammars/overlap.ne",{"json":"","out":"grammars/overlap.json"});
+                let oParser = oCompiler.createParser(hParserTable,oLexer,oInterpreter,{"tolerant":true,"keepHistory":true}); //new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
+                let oLexicalParser = oParser.lexer;
+
+                let sText = "Recipe: 1 kg flour, 2 g salt, that is 2 g/l"
+
+                oLexicalParser.reset(sText);
+                oParser.init();
+
+                let aExpected = [
+                   '{Production:0, completed=false, expected:null [[kgWeight "1"="1":1000,kg " kg"]]}{Production:1, completed=true [[kgWeight "1"="1":1000,kg " kg"],[]]}',
+                   '{Production:0, completed=false, expected:null [[gramWeight "2"=2,g " g"]]}{Production:1, completed=true [[gramWeight "2"=2,g " g"],[]]}',
+                   '{Production:0, completed=true [[number "2"=2,gpl " g/l"],[]]}'
+
+                ];
+                try{
+                    for(let i=0;i<100;i++){
                         oParser.feed(sText);
-                        console.log("Results 1:\n"+getResults(oParser.results,oParser.completed,oParser.expected));
+                        if( oParser.results==null)
+                            break;
+                        let sReceived = getResults(oParser.results,oParser.completed,oParser.expected);
+                        //console.log("Results "+i+"\n"+sReceived);
+                        assert.equal(aExpected[i],sReceived," example no."+i+' does not match')
                         if(oParser.finished)
                             break;
                         oParser.carryOn();
@@ -302,10 +349,9 @@ function(){
                 }catch(e){
                     console.log(e.message);
                     console.log(e.stack);
+                    assert.fail(e.message+"\n"+e.stack);
                 }
-                            
                 
-
             }
         )
     }
