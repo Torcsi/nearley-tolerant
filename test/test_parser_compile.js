@@ -1,6 +1,6 @@
 const assert = require("assert");
-const cCompiler = require("../lib/nearley-compiler.js");
 const fs = require("graceful-fs");
+const cCompiler = require("../lib/nearley-compiler.js");
 const mLexer = require("../lib/lexer-tolerant.js");
 const Parser = require("../lib/nearley-tolerant.js").Parser;
 
@@ -74,7 +74,7 @@ function(){
             it("Compile flat file",
                 function(){
                     let oCompiler = new cCompiler();
-                    oCompiler.compileFile("grammars/flat.ne",{"out":"grammars/flat.js","export":"grammar"});
+                    oCompiler.compileFile("grammars/flat.ne",{"out":"grammars/flat.js","export":"grammar","rr":""});
                     assert.ok(fs.existsSync("grammars/flat.js"),"file exists")
                 }
             )

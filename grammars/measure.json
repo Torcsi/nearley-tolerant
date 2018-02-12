@@ -3,14 +3,15 @@
     "Interpreter":"undefined",
     "ParserRules": 
     [
-    {"name": "start$subexpression$1", "symbols": ["moreIngredients"]},
-    {"name": "start$subexpression$1", "symbols": ["action"]},
-    {"name": "start", "symbols": ["ingredient", "start$subexpression$1"]},
+    {"name": "start", "symbols": ["ingredient", "moreIngredients", "actions"], "postprocess": "repeat"},
+    {"name": "actions$ebnf$1", "symbols": []},
+    {"name": "actions$ebnf$1", "symbols": ["actions$ebnf$1", "action"]},
+    {"name": "actions", "symbols": ["actions$ebnf$1"]},
     {"name": "moreIngredients$ebnf$1", "symbols": []},
     {"name": "moreIngredients$ebnf$1$subexpression$1", "symbols": [{ "terminal":"comma"}, "ingredient"]},
     {"name": "moreIngredients$ebnf$1", "symbols": ["moreIngredients$ebnf$1", "moreIngredients$ebnf$1$subexpression$1"]},
     {"name": "moreIngredients", "symbols": ["moreIngredients$ebnf$1"]},
-    {"name": "ingredient", "symbols": [{ "terminal":"measure"}, { "terminal":"space"}, { "terminal":"name"}]},
+    {"name": "ingredient", "symbols": [{ "terminal":"measure"}, { "terminal":"space"}, { "terminal":"name"}], "postprocess": { "function": "unit","unitType":"ingredient", "fields":{"measure":0,"name":2} }},
     {"name": "action", "symbols": [{ "terminal":"action"}]}
 ],
     "ParserStart": "start"

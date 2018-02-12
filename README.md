@@ -133,4 +133,4 @@ Please note that the isA function may evaluate the token value.
 
 ## Lexer
 
-Described in detail in (./lexer.md){./lexer.md};
+Described in detail in [./lexer.md](./lexer.md);

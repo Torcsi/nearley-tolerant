@@ -1,0 +1,27 @@
+test case 2: expected
+1/1: completed
+1/2: 
+     Input: [{"a":"a","b":"b",}]
+  Expected: [{"a":"a","b":"b",},{"c":"c",}]
+  Received: [{"a":"a","b":"b",}]
+Difference: at: 1: missing array elements: [{"c":c]
+1/3: 
+     Input: [{"a":"a","b":"b",},{"c":"c",}]
+  Expected: [{"a":"a","b":"b",}]
+  Received: [{"a":"a","b":"b",},{"c":"c",}]
+Difference: at: 0 extra array elements: [{"c":c]
+1/4: 
+     Input: [{"a":"a","b":"b",},{"c":"c",}]
+  Expected: [{"a":"a","b":"b","c":"c",}]
+  Received: [{"a":"a","b":"b",},{"c":"c",}]
+Difference: [0] missing selector: c=c
+1/5: 
+     Input: [{"a":"a","b":"c",},{"c":"c",}]
+  Expected: [{"a":"a","b":"b","c":"c",}]
+  Received: [{"a":"a","b":"c",},{"c":"c",}]
+Difference: [0] missing selector: c=c
+1/6: 
+     Input: [{"a":"a","b":"c",},{"c":"c",}]
+  Expected: [{"a":"a","b":"b",}]
+  Received: [{"a":"a","b":"c",},{"c":"c",}]
+Difference: [0].b common: ""', expected:"b", received:"c"

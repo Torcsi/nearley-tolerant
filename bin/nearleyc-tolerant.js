@@ -40,6 +40,11 @@ var opts = nomnom
         flag: true,
         help: "Create JSON output"
     })
+    .option('rr', {
+        abbr: 'r',
+        flag: true,
+        help: "Create railroad HTML output"
+    })
     // TA 20180131 +}
     .parse();
 
