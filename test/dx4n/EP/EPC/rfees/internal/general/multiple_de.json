@@ -1,0 +1,19 @@
+[
+ {
+  "text": "Artikeln◦9◦(1)∙und∙11◦b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{11◦b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:9_1:de:xml#9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:11_b:de:xml#11_b~11◦b)∙Gebührenordnung}",
+  "name": "M18287",
+  "file": "/EP/organization/EPC/2014/1/1.0/electronicproofer/de/rfees.eplegal.zip",
+  "referringId": "EPC:_Ref377730238",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikeln◦9∙(1)∙und∙11◦b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9∙(1)}∙und∙{11◦b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.5:electronicproofer:9_1:de:xml#9_1~Artikeln◦9∙(1)}∙und∙{ep-legal:countries:EP::EPC:2016:1:1.5:electronicproofer:11_b:de:xml#11_b~11◦b)∙Gebührenordnung}",
+  "name": "M18329",
+  "file": "/EP/organization/EPC/2016/1/1.5/electronicproofer/de/rfees.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "text": "G-II,∙1∙-∙3",
+  "unit": "{G-II,∙1}∙-∙{3}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_1:de:xml#GLG_CII_1~G-II,∙1}∙-∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_3:de:xml#GLG_CII_3~3}",
+  "name": "M24035",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_28",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-IV∙bis∙G-VI",
+  "unit": "{G-IV}∙bis∙{G-VI}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CIV:de:xml#GLG_CIV~G-IV}∙bis∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CVI:de:xml#GLG_CVI~G-VI}",
+  "name": "M24037",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_B_II",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-IV∙und∙G-VI",
+  "unit": "{G-IV}∙und∙{G-VI}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CIV:de:xml#GLG_CIV~G-IV}∙und∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CVI:de:xml#GLG_CVI~G-VI}",
+  "name": "M24041",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_32",
+  "relativeParagraph": 3
+ }
+]

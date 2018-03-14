@@ -1,0 +1,11 @@
+[
+ {
+  "text": "paragraphes◦1∙et∙paragraphe◦2",
+  "unit": "{paragraphes◦1}∙et∙{paragraphe◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:7_1:fr:docx:rfees::7#7_1~paragraphes◦1}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:7_2:fr:docx:rfees::7#7_2~paragraphe◦2}",
+  "name": "M12336",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "7_3",
+  "relativeParagraph": 0
+ }
+]

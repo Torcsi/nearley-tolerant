@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Art.◦2.2,∙2.18∙RRT",
+  "unit": "{Art.◦2.2},∙{2.18∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1::internet:2_2:fr:docx:rfees::2#2_2~Art.◦2.2},∙{ep-legal:countries:EP::EPC:2011:1::internet:2:fr:docx:rfees::#2~2.18∙RRT}",
+  "name": "M22948",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_171",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.∙2.4,∙2.5∙RRT",
+  "unit": "{Art.∙2.4},∙{2.5∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:2:fr:docx:rfees::#2~Art.∙2.4},∙{ep-legal:countries:EP::EPC:2012:1::internet:2:fr:docx:rfees::#2~2.5∙RRT}",
+  "name": "M23136",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2012/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_593",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.◦2(1),∙points∙2∙RRT∙et∙Art.◦2(1),∙points∙18∙RRT",
+  "unit": "{Art.◦2(1),∙points∙2∙RRT}∙et∙{Art.◦2(1),∙points∙18∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:2_1_2:fr:docx:rfees::2#2_1_2~Art.◦2(1),∙points∙2∙RRT}∙et∙{ep-legal:countries:EP::EPC:2016:3.0::internet:2_1_18:fr:docx:rfees::2#2_1_18~Art.◦2(1),∙points∙18∙RRT}",
+  "name": "M23218",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_175",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.∙2(1),∙points∙4∙RRT∙et∙Art.∙2(1),∙points∙5∙RRT",
+  "unit": "{Art.∙2(1),∙points∙4∙RRT}∙et∙{Art.∙2(1),∙points∙5∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:2_1_4:fr:docx:rfees::2#2_1_4~Art.∙2(1),∙points∙4∙RRT}∙et∙{ep-legal:countries:EP::EPC:2016:3.0::internet:2_1_5:fr:docx:rfees::2#2_1_5~Art.∙2(1),∙points∙5∙RRT}",
+  "name": "M23262",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_600",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.∙2,∙no∙8∙RRT,∙Art.∙2,∙no∙9∙RRT",
+  "unit": "{Art.∙2,∙no∙8∙RRT},∙{Art.∙2,∙no∙9∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:2_8:fr:docx:rfees::2#2_8~Art.∙2,∙no∙8∙RRT},∙{ep-legal:countries:EP::EPC:2007:1::internet:2_9:fr:docx:rfees::2#2_9~Art.∙2,∙no∙9∙RRT}",
+  "name": "M23340",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/fr/D.eplegal.zip",
+  "referringId": "GLD_CX_5",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Art.◦7(3)∙et∙(4)◦RRT",
+  "unit": "{Art.◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:7_3:fr:docx:rfees::7#7_3~Art.◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:7_4:fr:docx:rfees::7#7_4~(4)◦RRT}",
+  "name": "M23458",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2015/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CX_6_2_1",
+  "relativeParagraph": 2
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "text": "DIR/PCT-OEB∙B-VIII,∙3.2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_162",
+  "relativeParagraph": 4,
+  "name": "S05830",
+  "unit": "{DIR/PCT-OEB∙B-VIII,∙3.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVIII_3_2:fr:docx:B::PGB#PGB_CVIII_3_2~DIR/PCT-OEB∙B-VIII,∙3.2}"
+ },
+ {
+  "text": "DIR/PCT-OEB∙B-II,∙2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_218",
+  "relativeParagraph": 3,
+  "name": "S05833",
+  "unit": "{DIR/PCT-OEB∙B-II,∙2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CII_2:fr:docx:B::PGB#PGB_CII_2~DIR/PCT-OEB∙B-II,∙2}"
+ },
+ {
+  "text": "DIR/PCT-OEB∙C-I,◦3",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_246",
+  "relativeParagraph": 3,
+  "name": "S05834",
+  "unit": "{DIR/PCT-OEB∙C-I,◦3}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGC_CI_3:fr:docx:C::PGC#PGC_CI_3~DIR/PCT-OEB∙C-I,◦3}"
+ },
+ {
+  "text": "DIR/PCT-OEB∙H",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_361",
+  "relativeParagraph": 3,
+  "name": "S05835",
+  "unit": "{DIR/PCT-OEB∙H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGH:fr:docx:H::#PGH~DIR/PCT-OEB∙H}"
+ }
+]

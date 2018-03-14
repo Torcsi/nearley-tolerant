@@ -1,11 +1,18 @@
+/* eslint-env mocha */
 var assert = require("assert");
 var CT = require("./casetester");
+let NCT = require("../lib/nearley-casetester.js");
 var fs = require("graceful-fs");
 const cCompiler = require("../lib/nearley-compiler.js");
 const mLexer = require("../lib/lexer-tolerant.js");
 const Parser = require("../lib/nearley-tolerant.js").Parser;
 
 
+function fileContains(sFile,sText)
+{
+    let sContent = fs.readFileSync(sFile,{encoding:'utf-8'});
+    return sContent.indexOf(sText)>=0;
+}
 function getFoundText(b,nIndent,aRes)
 {
     for(let j=0;j<b.length;j++){
@@ -173,7 +180,7 @@ describe.skip("comparison",
         });
     }
 );
-describe("mark found text",function(){
+describe.skip("mark found text",function(){
     it("measure",function(){
         //let oInterpreter = require("../grammars/recipe-interpreter.js");
 
@@ -259,4 +266,188 @@ describe("mark found text",function(){
         }  
         **/
     });
-})
+    }
+);
+describe.skip("case tester compilation errors",function(){
+    it("Compile non-test file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/nosuch.ne"});
+        assert.ok(sError.indexOf("input file extension is not '.test.json'")>0,"loading error not detected");
+        //assert.ok(fs.existsSync("grammars/nosuch.err.txt"),"loading error file not found");
+        //assert.ok(fileContains("grammars/nosuch.err.txt","no such file or directory"),"error file does not contain 'no such file'");
+    });
+    it("Compile non-existing test file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/bad/nosuch.test.json"});
+        assert.ok(sError.indexOf("loading error")>0,"loading error not detected");
+        assert.ok(fs.existsSync("grammars/bad/nosuch.test.err.txt"),"loading error file not found");
+        assert.ok(fileContains("grammars/bad/nosuch.test.err.txt","no such file or directory"),"error file does not contain 'no such file'");
+    });
+    it("Compile non-JSON test file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/bad/nojson.test.json"});
+        assert.ok(sError.indexOf("loading error")>0,"loading error not detected");
+        assert.ok(fs.existsSync("grammars/bad/nojson.test.err.txt"),"loading error file not found");
+        assert.ok(fileContains("grammars/bad/nojson.test.err.txt","Unexpected token"),"error file does not contain 'Unexpected token'");
+    });
+    it("Compile non-existing grammar file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/bad/nosuchgrammar.test.json"});
+        assert.ok(sError.indexOf("grammar file does not exist")>0,"not reported: grammar file does not exist");
+        assert.ok(fs.existsSync("grammars/bad/nosuchgrammar.test.err.txt"),"loading error file not found");
+        assert.ok(fileContains("grammars/bad/nosuchgrammar.test.err.txt","grammar file does not exist"),"error does not contain 'grammar file does not exist'");
+    });
+    it("Compile non-existing lexer file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/bad/nosuchlexer.test.json"});
+        assert.ok(sError.indexOf("lexer file does not exist")>0,"not reported: lexer file does not exist");
+        assert.ok(fs.existsSync("grammars/bad/nosuchlexer.test.err.txt"),"loading error file not found");
+        assert.ok(fileContains("grammars/bad/nosuchlexer.test.err.txt","lexer file does not exist"),"error does not contain 'lexer file does not exist'");
+    });
+    it("Compile bad lexer file",function(){
+        let nct = new NCT();
+        let sError = nct.perform({testfile:"grammars/bad/badlexer.test.json"});
+        assert.ok(sError.indexOf("lexer file invalid javascript")>0,"not reported: lexer file invalid");
+        assert.ok(fs.existsSync("grammars/bad/badlexer.test.err.txt"),"loading error file not found");
+        assert.ok(fileContains("grammars/bad/badlexer.test.err.txt","lexer file invalid javascript"),"error does not contain 'lexer file invalid javascript'");
+    });
+    it("Compile bad syntax grammar file",function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/bad/badgrammar-syntax"
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError.indexOf("invalid grammar file")>0,"not reported: invalid grammar file");
+        assert.ok(fs.existsSync(sTestFile+".test.err.txt"),"loading error file not found");
+        assert.ok(fileContains(sTestFile+".test.err.txt","invalid grammar file"),"error does not contain 'invalid grammar file'");
+    });
+    it("Compile bad grammar file",function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/bad/badgrammar-missingnonterminal"
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError.indexOf("invalid grammar file")>0,"not reported: invalid grammar file");
+        assert.ok(fs.existsSync(sTestFile+".test.err.txt"),"loading error file not found");
+        assert.ok(fileContains(sTestFile+".test.err.txt","invalid grammar file"),"error does not contain 'invalid grammar file'");
+    });
+    it("Compile incompatible lexer file",function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/bad/incompatible-grammar-lexer"
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError.indexOf("invalid grammar file")>0,"not reported: invalid grammar file");
+        assert.ok(fs.existsSync(sTestFile+".test.err.txt"),"loading error file not found");
+        assert.ok(fileContains(sTestFile+".test.err.txt","invalid grammar file"),"error does not contain 'invalid grammar file'");
+    });
+    
+});
+
+describe.skip("case tester compiler output switches",function(){
+    it("Compile without compilation output", function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/good/measure"
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError==null,"errors detected:"+sError);
+    });
+    it("Compile with JSON output", function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/good/measure"
+        try{fs.unlinkSync(sTestFile+".json");}
+        catch(e){
+            //
+        }
+        let sError = nct.perform({testfile:sTestFile+".test.json","json":true});
+        assert.ok(sError==null,"errors detected:"+sError);
+        assert.ok(fs.existsSync(sTestFile+".json"),"JSON created");
+    });
+    it("Compile with JS output", function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/good/measure"
+        try{fs.unlinkSync(sTestFile+".js");}
+        catch(e){
+            //
+        }
+        let sError = nct.perform({testfile:sTestFile+".test.json","js":true});
+        assert.ok(sError==null,"errors detected:"+sError);
+        assert.ok(fs.existsSync(sTestFile+".js"),"JS created");
+    });
+    it("Compile with RR output", function(){
+        let nct = new NCT();
+        let sTestFile = "grammars/good/measure"
+        try{fs.unlinkSync(sTestFile+".html");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".js");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".json");}
+        catch(e){
+            //
+        }
+        let sError = nct.perform({testfile:sTestFile+".test.json","railroad":true});
+        assert.ok(sError==null,"errors detected:"+sError);
+        assert.ok(fs.existsSync(sTestFile+".html"),"HTML created");
+        assert.ok(!fs.existsSync(sTestFile+".js"),"JS should not be created");
+        assert.ok(!fs.existsSync(sTestFile+".json"),"JSON should not be created");
+    });
+});
+
+describe("case tester output switches",function(){
+    it.skip("Perform test without compilation output", function(){
+        let sTestFile = "grammars/good/measure"
+        try{fs.unlinkSync(sTestFile+".test.txt");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".test.html");}
+        catch(e){
+            //
+        }
+        let nct = new NCT();
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError==null,"errors detected:"+sError);
+    });
+    it.skip("Perform test with some errors", function(){
+        let sTestFile = "grammars/good/measure-errors"
+        try{fs.unlinkSync(sTestFile+".test.txt");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".test.html");}
+        catch(e){
+            //
+        }
+        let nct = new NCT();
+        let sError = nct.perform({testfile:sTestFile+".test.json"});
+        assert.ok(sError!=null,"no errors detected?");
+        console.log(sError);
+    });
+    it("Perform single method test", function(){
+        let sTestFile = "grammars/good/measure-errors"
+        try{fs.unlinkSync(sTestFile+".test.txt");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".test.html");}
+        catch(e){
+            //
+        }
+        let nct = new NCT();
+        let sError = nct.perform({testfile:sTestFile+".test.json",method:"Sequence"});
+        assert.ok(sError!=null,"no errors detected?");
+        console.log(sError);
+    });
+    it("Perform single case test", function(){
+        let sTestFile = "grammars/good/measure-errors"
+        try{fs.unlinkSync(sTestFile+".test.txt");}
+        catch(e){
+            //
+        }
+        try{fs.unlinkSync(sTestFile+".test.html");}
+        catch(e){
+            //
+        }
+        let nct = new NCT();
+        let sError = nct.perform({testfile:sTestFile+".test.json",case:"1/1"});
+        assert.ok(sError!=null,"no errors detected?");
+        console.log(sError);
+    });
+});

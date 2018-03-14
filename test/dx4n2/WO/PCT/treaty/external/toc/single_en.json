@@ -1,0 +1,42 @@
+[
+ {
+  "text": "Chapter∙II∙PCT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 149,
+  "style": "EPOTOCP1",
+  "name": "S61750",
+  "unit": "{Chapter∙II∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:CII:en:docx:treaty:CI:31#CII~Chapter∙II∙PCT}"
+ },
+ {
+  "text": "Preamble",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 4,
+  "style": "TOC1",
+  "name": "S61777",
+  "unit": "{Preamble}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:PRE:en::treaty:TITLE:#PRE~Preamble}"
+ },
+ {
+  "text": "Introductory∙Provisions",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 5,
+  "style": "TOC1",
+  "name": "S61778",
+  "unit": "{Introductory∙Provisions}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:INTRO:en::treaty:PRE:1#INTRO~Introductory∙Provisions}"
+ },
+ {
+  "text": "Chapter∙I∙of∙the∙Treaty",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2000/1/internet/en/regulations.eplegal.zip",
+  "referringId": "REG",
+  "relativeParagraph": 12,
+  "style": "TOC1",
+  "name": "S61782",
+  "unit": "{Chapter∙I∙of∙the∙Treaty}",
+  "value": "{ep-legal:countries:WO::PCT:2000:1::internet:CI:en:docx:treaty:TITLE:3#CI~Chapter∙I∙of∙the∙Treaty}"
+ }
+]

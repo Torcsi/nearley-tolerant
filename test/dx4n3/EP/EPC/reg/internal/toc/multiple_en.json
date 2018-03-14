@@ -1,0 +1,67 @@
+[
+ {
+  "text": "Rule◦6∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention∙and∙Article◦14(1)∙of∙the∙Rules∙relating∙to∙Fees",
+  "unit": "{Rule◦6∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}∙and∙{Article◦14(1)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R6:en:docx:reg:RI_I:#R6~Rule◦6∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}∙and∙{ep-legal:countries:EP::EPC:2014:sls::sls:14_1:en:docx:rfees::14#14_1~Article◦14(1)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "name": "M81776",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/01/internet/en/OJ_2014_i01_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i01_toc",
+  "relativeParagraph": 12,
+  "bad": true
+ },
+ {
+  "text": "Rules◦36,∙38",
+  "unit": "{Rules◦36},∙{38}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R36:en:docx:reg:RIII_I:#R36~Rules◦36},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R38:en:docx:reg:RIII_I:#R38~38}",
+  "name": "M81778",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/en/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "135∙EPC∙and∙Article◦2(1)∙of∙the∙Rules∙relating∙to∙Fees",
+  "unit": "{135∙EPC}∙and∙{Article◦2(1)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R135:en:docx:reg:RVII_V:#R135~135∙EPC}∙and∙{ep-legal:countries:EP::EPC:2014:sls::sls:2_1:en:docx:rfees::2#2_1~Article◦2(1)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "name": "M81780",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/en/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 8,
+  "bad": true
+ },
+ {
+  "text": "Rule◦6∙EPC∙and∙Article∙14(1)∙RFees",
+  "unit": "{Rule◦6∙EPC}∙and∙{Article∙14(1)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R6:en:docx:reg:RI_I:#R6~Rule◦6∙EPC}∙and∙{ep-legal:countries:EP::EPC:2014:sls::sls:14_1:en:docx:rfees::14#14_1~Article∙14(1)∙RFees}",
+  "name": "M81782",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/en/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 9,
+  "bad": true
+ },
+ {
+  "text": "Rules◦51(2)∙and◦162(2)∙EPC",
+  "unit": "{Rules◦51(2)}∙and◦{162(2)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R51_2:en:docx:reg:RIII_III:R51#R51_2~Rules◦51(2)}∙and◦{ep-legal:countries:EP::EPC:2016:3.0::internet:R162_2:en:docx:reg:RIX:R162#R162_2~162(2)∙EPC}",
+  "name": "M81798",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/12/internet/en/OJ_2016_i12_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_i12_toc",
+  "relativeParagraph": 9,
+  "bad": true
+ },
+ {
+  "text": "135∙EPC∙and∙Article◦2(1)∙RFees",
+  "unit": "{135∙EPC}∙and∙{Article◦2(1)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R135:en:docx:reg:RVII_V:#R135~135∙EPC}∙and∙{ep-legal:countries:EP::EPC:2016:3.0::internet:2_1:en:docx:rfees::2#2_1~Article◦2(1)∙RFees}",
+  "name": "M81800",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/en/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 20,
+  "bad": true
+ }
+]

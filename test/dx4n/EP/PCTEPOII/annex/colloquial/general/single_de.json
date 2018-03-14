@@ -1,0 +1,34 @@
+[
+ {
+  "text": "Anlage◦I",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/de/part-ib.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S14698",
+  "unit": "{Anlage◦I}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPANNEX_I:de:xml#IPANNEX_I~Anlage◦I}"
+ },
+ {
+  "text": "Anlage◦I,∙4.1.2",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/de/part-ib.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S14699",
+  "unit": "{Anlage◦I,∙4.1.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPANNEX_I_4_1_2:de:xml#IPANNEX_I_4_1_2~Anlage◦I,∙4.1.2}"
+ },
+ {
+  "text": "Anlage◦I,◦6",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/de/part-ib.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S14702",
+  "unit": "{Anlage◦I,◦6}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPANNEX_I_6:de:xml#IPANNEX_I_6~Anlage◦I,◦6}"
+ },
+ {
+  "text": "Anlage◦I,◦4.1.4",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/de/part-ib.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S14710",
+  "unit": "{Anlage◦I,◦4.1.4}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPANNEX_I_4_1_4:de:xml#IPANNEX_I_4_1_4~Anlage◦I,◦4.1.4}"
+ }
+]

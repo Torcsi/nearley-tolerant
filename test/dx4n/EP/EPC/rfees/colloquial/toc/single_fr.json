@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 11,
+  "name": "S28142",
+  "unit": "{Règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:FEE:fr:xml~Règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article∙2∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/fr/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 14,
+  "name": "S28634",
+  "unit": "{l'article∙2∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:fr:xml#2~l'article∙2∙du∙règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article◦2(1)∙RRT",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 20,
+  "name": "S28665",
+  "unit": "{l'article◦2(1)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:2_1:fr:xml#2_1~l'article◦2(1)∙RRT}"
+ },
+ {
+  "text": "l'article◦2∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 171,
+  "name": "S28678",
+  "unit": "{l'article◦2∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:2:fr:xml#2~l'article◦2∙du∙règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 178,
+  "name": "S28680",
+  "unit": "{l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:9_2:fr:xml#9_2~l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article∙9(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/OJ/2017/11/issue/electronicproofer/fr/OJ_2017_i11_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2017_i11_toc",
+  "relativeParagraph": 5,
+  "name": "S28681",
+  "unit": "{l'article∙9(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:9_2:fr:xml#9_2~l'article∙9(2)∙du∙règlement∙relatif∙aux∙taxes}"
+ }
+]

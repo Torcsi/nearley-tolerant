@@ -1,0 +1,96 @@
+[
+ {
+  "text": "I.◦brevetabilite",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 7,
+  "name": "S28086",
+  "unit": "{I.◦brevetabilite}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I:fr:xml~I.◦brevetabilite}"
+ },
+ {
+  "text": "A.◦Inventions∙brevetables",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 8,
+  "name": "S28087",
+  "unit": "{A.◦Inventions∙brevetables}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A:fr:xml~A.◦Inventions∙brevetables}"
+ },
+ {
+  "text": "1.◦Nature∙technique∙de∙l'invention",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 9,
+  "name": "S28088",
+  "unit": "{1.◦Nature∙technique∙de∙l'invention}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1:fr:xml~1.◦Nature∙technique∙de∙l'invention}"
+ },
+ {
+  "text": "1.1.◦Inventions∙mises∙en∙œuvre∙par∙ordinateur",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 10,
+  "name": "S28089",
+  "unit": "{1.1.◦Inventions∙mises∙en∙œuvre∙par∙ordinateur}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1_1:fr:xml~1.1.◦Inventions∙mises∙en∙œuvre∙par∙ordinateur}"
+ },
+ {
+  "text": "1.4.1◦Méthodes∙dans∙le∙domaine∙des∙activités∙économiques",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 14,
+  "name": "S28090",
+  "unit": "{1.4.1◦Méthodes∙dans∙le∙domaine∙des∙activités∙économiques}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1_4_1:fr:xml~1.4.1◦Méthodes∙dans∙le∙domaine∙des∙activités∙économiques}"
+ },
+ {
+  "text": "B.◦Exceptions∙à∙la∙brevetabilité",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 33,
+  "name": "S28091",
+  "unit": "{B.◦Exceptions∙à∙la∙brevetabilité}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_B:fr:xml~B.◦Exceptions∙à∙la∙brevetabilité}"
+ },
+ {
+  "text": "1.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S28101",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1:fr:xml#CLR_I_A_1~1.→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S28102",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_1:fr:xml#CLR_I_A_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "1.4.1→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S28103",
+  "unit": "{1.4.1→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_4_1:fr:xml#CLR_I_A_1_4_1~1.4.1→xxx}"
+ },
+ {
+  "text": "a)→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S28104",
+  "unit": "{a)→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_4_1_a:fr:xml#CLR_I_A_1_4_1_a~a)→xxx}"
+ },
+ {
+  "text": "i)→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "relativeParagraph": 32,
+  "name": "S28105",
+  "unit": "{i)→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_C_1_9_8_i:fr:xml#CLR_I_C_1_9_8_i~i)→xxx}"
+ }
+]

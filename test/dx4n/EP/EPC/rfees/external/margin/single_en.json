@@ -1,0 +1,106 @@
+[
+ {
+  "text": "Art.∙2∙RFees",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_16",
+  "relativeParagraph": 1,
+  "name": "S02691",
+  "unit": "{Art.∙2∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:2:en:xml~Art.∙2∙RFees}"
+ },
+ {
+  "text": "Art.∙14(1)∙RFees",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_22",
+  "relativeParagraph": 1,
+  "name": "S02693",
+  "unit": "{Art.∙14(1)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:14_1:en:xml~Art.∙14(1)∙RFees}"
+ },
+ {
+  "text": "Art.∙2.1∙RFees",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_118",
+  "relativeParagraph": 1,
+  "name": "S02714",
+  "unit": "{Art.∙2.1∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:2_1:en:xml~Art.∙2.1∙RFees}"
+ },
+ {
+  "text": "Art.∙11(a)∙RFees",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_122a",
+  "relativeParagraph": 5,
+  "name": "S02731",
+  "unit": "{Art.∙11(a)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:11_a:en:xml#11_a~Art.∙11(a)∙RFees}"
+ },
+ {
+  "text": "Art.◦3(1)∙RFees",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_139",
+  "relativeParagraph": 1,
+  "name": "S02757",
+  "unit": "{Art.◦3(1)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:3_1:en:xml#3_1~Art.◦3(1)∙RFees}"
+ },
+ {
+  "text": "Art.◦8∙RFees",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_178",
+  "relativeParagraph": 1,
+  "name": "S02758",
+  "unit": "{Art.◦8∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:8:en:xml#8~Art.◦8∙RFees}"
+ },
+ {
+  "text": "Art.◦2(1).13∙RFees",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:_Ref358805839",
+  "relativeParagraph": 3,
+  "name": "S02794",
+  "unit": "{Art.◦2(1).13∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_13:en:xml#2_1_13~Art.◦2(1).13∙RFees}"
+ },
+ {
+  "text": "Art.∙2(1).3∙RFees",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:_Ref358805857",
+  "relativeParagraph": 1,
+  "name": "S02797",
+  "unit": "{Art.∙2(1).3∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_3:en:xml#2_1_3~Art.∙2(1).3∙RFees}"
+ },
+ {
+  "text": "Art.∙2(1).14a∙RFees",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02799",
+  "unit": "{Art.∙2(1).14a∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_14a:en:xml#2_1_14a~Art.∙2(1).14a∙RFees}"
+ },
+ {
+  "text": "Art.◦2(1)13∙RFees",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S02812",
+  "unit": "{Art.◦2(1)13∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:2_1_13:en:xml#2_1_13~Art.◦2(1)13∙RFees}"
+ },
+ {
+  "text": "Art.∙2(1)3∙RFees",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02816",
+  "unit": "{Art.∙2(1)3∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:2_1_3:en:xml#2_1_3~Art.∙2(1)3∙RFees}"
+ },
+ {
+  "text": "Art.∙2(1)14a∙RFees",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02818",
+  "unit": "{Art.∙2(1)14a∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:2_1_14a:en:xml#2_1_14a~Art.∙2(1)14a∙RFees}"
+ }
+]

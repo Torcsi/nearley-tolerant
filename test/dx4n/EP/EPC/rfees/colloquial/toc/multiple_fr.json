@@ -1,0 +1,20 @@
+[
+ {
+  "text": "article∙9(1)∙et∙11b)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{article∙9(1)}∙et∙{11b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:9_1:fr:xml#9_1~article∙9(1)}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:11_b:fr:xml#11_b~11b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M39445",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 177
+ },
+ {
+  "text": "articles∙2∙et∙14∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙2}∙et∙{14∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2:fr:xml#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:14:fr:xml#14~14∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M39449",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/fr/OJ_2018_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2018_i01_toc",
+  "relativeParagraph": 5
+ }
+]

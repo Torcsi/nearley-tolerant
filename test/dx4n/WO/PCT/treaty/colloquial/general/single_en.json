@@ -1,0 +1,181 @@
+[
+ {
+  "text": "Art.◦17(2)(a)(ii)",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CVIII_1",
+  "relativeParagraph": 4,
+  "name": "S01454",
+  "unit": "{Art.◦17(2)(a)(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:17_2_a_ii:en:xml#17_2_a_ii~Art.◦17(2)(a)(ii)}"
+ },
+ {
+  "text": "Article∙17(2)(a)(ii)",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CVIII_3",
+  "relativeParagraph": 2,
+  "name": "S01455",
+  "unit": "{Article∙17(2)(a)(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:17_2_a_ii:en:xml#17_2_a_ii~Article∙17(2)(a)(ii)}"
+ },
+ {
+  "text": "Art.∙17",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CX_8_ii_b",
+  "relativeParagraph": 3,
+  "name": "S01459",
+  "unit": "{Art.∙17}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:17:en:xml#17~Art.∙17}"
+ },
+ {
+  "bad":true,
+  "text": "II",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CXII_10_4",
+  "relativeParagraph": 4,
+  "name": "S01465",
+  "unit": "{II}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:en:xml#CII~II}"
+ },
+ {
+  "text": "Art.∙35(2)",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "referringId": "PCTEPOGL:PGC_CVIII_1",
+  "relativeParagraph": 1,
+  "name": "S01473",
+  "unit": "{Art.∙35(2)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:35_2:en:xml#35_2~Art.∙35(2)}"
+ },
+ {
+  "text": "Art.∙17(2)(a)",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01489",
+  "unit": "{Art.∙17(2)(a)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:17_2_a:en:xml#17_2_a~Art.∙17(2)(a)}"
+ },
+ {
+	"bad":true, 
+  "text": "Chapter◦I∙of∙the∙Patent∙Cooperation∙Treaty",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S01526",
+  "unit": "{Chapter◦I∙of∙the∙Patent∙Cooperation∙Treaty}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:CI:en:xml#CI~Chapter◦I∙of∙the∙Patent∙Cooperation∙Treaty}"
+ },
+ {
+  "text": "Article◦17(2)(a)(ii)",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S01527",
+  "unit": "{Article◦17(2)(a)(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:17_2_a_ii:en:xml#17_2_a_ii~Article◦17(2)(a)(ii)}"
+ },
+ {
+  "text": "Article◦8(1)",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01535",
+  "unit": "{Article◦8(1)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:8_1:en:xml#8_1~Article◦8(1)}"
+ },
+ {
+	 "bad":true,
+  "text": "Chapters∙I",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XII_10_4",
+  "relativeParagraph": 1,
+  "name": "S01560",
+  "unit": "{Chapters∙I}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CI:en:xml#CI~Chapters∙I}"
+ },
+ {
+	 "bad":true,
+  "text": "Chapters◦I",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01577",
+  "unit": "{Chapters◦I}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:CI:en:xml#CI~Chapters◦I}"
+ },
+ {
+	 "bad":true,
+  "text": "34(2)(b)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/en/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE_20_11",
+  "relativeParagraph": 1,
+  "name": "S01602",
+  "unit": "{34(2)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:34_2_b:en:xml#34_2_b~34(2)(b)}"
+ },
+ {
+	 "bad":true,
+  "text": "CHAPTER∙I",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "referringId": "PCT:REG_B",
+  "relativeParagraph": 0,
+  "name": "S01603",
+  "unit": "{CHAPTER∙I}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CI:en:xml#CI~CHAPTER∙I}"
+ },
+ {
+  "text": "Article◦11(1)(iii)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "referringId": "PCT:REG_4_18",
+  "relativeParagraph": 1,
+  "name": "S01605",
+  "unit": "{Article◦11(1)(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:11_1_iii:en:xml#11_1_iii~Article◦11(1)(iii)}"
+ },
+ {
+  "text": "Article◦11(1)(iii)(c)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "referringId": "PCT:REG_20_1_b",
+  "relativeParagraph": 0,
+  "name": "S01612",
+  "unit": "{Article◦11(1)(iii)(c)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:11_1_iii_c:en:xml#11_1_iii_c~Article◦11(1)(iii)(c)}"
+ },
+ {
+	 "bad":true,
+  "text": "Chapter∙II∙of∙the∙Treaty",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "referringId": "PCT:REG_53_7",
+  "relativeParagraph": 1,
+  "name": "S01618",
+  "unit": "{Chapter∙II∙of∙the∙Treaty}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:en:xml#CII~Chapter∙II∙of∙the∙Treaty}"
+ },
+ {
+  "text": "Article∙2(xi)(b)",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/en/ipse.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S01630",
+  "unit": "{Article∙2(xi)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:2_xi_b:en:xml#2_xi_b~Article∙2(xi)(b)}"
+ },
+ {
+	 "bad":true,
+  "text": "items∙(i)",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01631",
+  "unit": "{items∙(i)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:11_1_i:en:xml#11_1_i~items∙(i)}"
+ },
+ {
+  "text": "Article◦2(ii)",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "relativeParagraph": 0,
+  "name": "S01632",
+  "unit": "{Article◦2(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:2_ii:en:xml#2_ii~Article◦2(ii)}"
+ },
+ {
+  "text": "Article◦31∙of∙the∙Patent∙Cooperation∙Treaty",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/en/regulations.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01633",
+  "unit": "{Article◦31∙of∙the∙Patent∙Cooperation∙Treaty}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:31:en:xml#31~Article◦31∙of∙the∙Patent∙Cooperation∙Treaty}"
+ }
+]

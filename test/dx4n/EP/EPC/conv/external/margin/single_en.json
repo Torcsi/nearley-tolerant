@@ -1,0 +1,120 @@
+[
+ {
+  "bad":true
+  "text": "Art.∙52(1)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_27",
+  "relativeParagraph": 1,
+  "name": "S02698",
+  "unit": "{Art.∙52(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A52_1:en:xml~Art.∙52(1)}"
+ },
+ {
+  "text": "Art.◦150(1)∙EPC",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_7",
+  "relativeParagraph": 1,
+  "name": "S02744",
+  "unit": "{Art.◦150(1)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A150_1:en:xml#A150_1~Art.◦150(1)∙EPC}"
+ },
+ {
+  "text": "Art.◦151∙EPC",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_43",
+  "relativeParagraph": 1,
+  "name": "S02752",
+  "unit": "{Art.◦151∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A151:en:xml#A151~Art.◦151∙EPC}"
+ },
+ {
+  "text": "Art.∙153(1)∙EPC",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_407",
+  "relativeParagraph": 2,
+  "name": "S02770",
+  "unit": "{Art.∙153(1)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:A153_1:en:xml#A153_1~Art.∙153(1)∙EPC}"
+ },
+ {
+  "text": "Art.∙121∙EPC",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_465",
+  "relativeParagraph": 1,
+  "name": "S02782",
+  "unit": "{Art.∙121∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:A121:en:xml#A121~Art.∙121∙EPC}"
+ },
+ {
+  "bad":true,
+ "text": "94∙EPC",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_580",
+  "relativeParagraph": 1,
+  "name": "S02786",
+  "unit": "{94∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:A94:en:xml#A94~94∙EPC}"
+ },
+ {
+  "text": "Art.∙87(1)(b)∙EPC",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S02800",
+  "unit": "{Art.∙87(1)(b)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:A87_1_b:en:xml#A87_1_b~Art.∙87(1)(b)∙EPC}"
+ },
+ {
+  "text": "Art.◦54(4)∙EPC◦1973",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "referringId": "guiex:GLC_CII_4_3",
+  "relativeParagraph": 9,
+  "name": "S02846",
+  "unit": "{Art.◦54(4)∙EPC◦1973}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:A54_4:en:xml~Art.◦54(4)∙EPC◦1973}"
+ },
+ {
+  "text": "Art.◦150(2)◦EPC",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF_CV_1",
+  "relativeParagraph": 10,
+  "name": "S02933",
+  "unit": "{Art.◦150(2)◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:A150_2:en:xml#A150_2~Art.◦150(2)◦EPC}"
+ },
+ {
+  "text": "Article∙97(3)∙EPC",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/en/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_45",
+  "relativeParagraph": 3,
+  "name": "S02944",
+  "unit": "{Article∙97(3)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A97_3:en:xml#A97_3~Article∙97(3)∙EPC}"
+ },
+ {
+  "text": "Article∙114∙EPC",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/en/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_82",
+  "relativeParagraph": 3,
+  "name": "S02946",
+  "unit": "{Article∙114∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A114:en:xml#A114~Article∙114∙EPC}"
+ },
+ {
+  "text": "Article◦14(1)∙EPC",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/en/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_G_I",
+  "relativeParagraph": 6,
+  "name": "S02950",
+  "unit": "{Article◦14(1)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A14_1:en:xml#A14_1~Article◦14(1)∙EPC}"
+ },
+ {
+  "text": "Article◦14(3)◦EPC",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/en/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_G_I",
+  "relativeParagraph": 7,
+  "name": "S02951",
+  "unit": "{Article◦14(3)◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A14_3:en:xml#A14_3~Article◦14(3)◦EPC}"
+ }
+]

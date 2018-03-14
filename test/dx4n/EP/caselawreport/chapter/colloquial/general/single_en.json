@@ -1,0 +1,58 @@
+[
+ {
+  "bad":true,
+ "text": "VI.I.4.4",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 378,
+  "name": "S00120",
+  "unit": "{VI.I.4.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_4_4:en:xml~VI.I.4.4}"
+ },
+ {
+  "bad":true,
+ "text": "VIII",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 137,
+  "name": "S00125",
+  "unit": "{VIII}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII:en:xml~VIII}"
+ },
+ {
+  "bad":true,
+ "text": "III.C.4.1.3.h",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S00249",
+  "unit": "{III.C.4.1.3.h}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_III_C_4_1_3_h:en:xml#CLR_III_C_4_1_3_h~III.C.4.1.3.h}"
+ },
+ {
+  "bad":true,
+ "text": "IV.E.3.1.f",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "relativeParagraph": 10,
+  "name": "S00250",
+  "unit": "{IV.E.3.1.f}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_IV_E_3_1_f:en:xml#CLR_IV_E_3_1_f~IV.E.3.1.f}"
+ },
+ {
+  "bad":true,
+ "text": "IV.E.3.1.i",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "relativeParagraph": 12,
+  "name": "S00251",
+  "unit": "{IV.E.3.1.i}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_IV_E_3_1_i:en:xml#CLR_IV_E_3_1_i~IV.E.3.1.i}"
+ },
+ {
+  "bad":true,
+ "text": "I.C.7.2.4.i",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/annexes.eplegal.zip",
+  "relativeParagraph": 87,
+  "name": "S00387",
+  "unit": "{I.C.7.2.4.i}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_7_2_4_i:en:xml#CLR_I_C_7_2_4_i~I.C.7.2.4.i}"
+ }
+]

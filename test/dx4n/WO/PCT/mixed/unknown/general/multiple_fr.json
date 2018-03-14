@@ -1,0 +1,83 @@
+[
+ {
+  "text": "règle∙70.12∙et∙le∙chapitre∙17",
+  "unit": "{règle∙70.12}∙et∙le∙{chapitre∙17}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_12:fr:xml#REG_70_12~règle∙70.12}∙et∙le∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17:fr:xml#PCTIPSE_17~chapitre∙17}",
+  "name": "M36817",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE_3_16_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "bad":true
+  "text": "alinéas∙a)∙et∙b),∙l'article∙2.vi)",
+  "unit": "{alinéas∙a)}∙et∙{b)},∙{l'article∙2.vi)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_4_10_a:fr:xml#REG_4_10_a~alinéas∙a)}∙et∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_4_10_b:fr:xml#REG_4_10_b~b)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:2_vi:fr:xml#2_vi~l'article∙2.vi)}",
+  "name": "M36895",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "referringId": "PCT:REG_4_10_c",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "articles◦33.2)∙à∙6)∙et◦35.2)∙et◦3)∙et∙les∙règles◦43.4,∙43.6bis,∙64,∙65,∙66.1.e),∙66.7,∙67,∙70.2.b)∙et∙d),∙70.3,∙70.4.ii),∙70.5.a),∙70.6∙à∙70.10,∙70.12,∙70.14∙et∙70.15.a)",
+  "unit": "{articles◦33.2)}∙à∙{6)}∙et◦{35.2)}∙et◦{3)}∙et∙les∙{règles◦43.4},∙{43.6bis},∙{64},∙{65},∙{66.1.e)},∙{66.7},∙{67},∙{70.2.b)}∙et∙{d)},∙{70.3},∙{70.4.ii)},∙{70.5.a)},∙{70.6}∙à∙{70.10},∙{70.12},∙{70.14}∙et∙{70.15.a)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:33_2:fr:xml#33_2~articles◦33.2)}∙à∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:33_6:fr:xml#33_6~6)}∙et◦{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:35_2:fr:xml#35_2~35.2)}∙et◦{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:35_3:fr:xml#35_3~3)}∙et∙les∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_43_4:fr:xml#REG_43_4~règles◦43.4},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_43_6a:fr:xml#REG_43_6a~43.6bis},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_64:fr:xml#REG_64~64},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_65:fr:xml#REG_65~65},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_66_1_e:fr:xml#REG_66_1_e~66.1.e)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_66_7:fr:xml#REG_66_7~66.7},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_67:fr:xml#REG_67~67},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_2_b:fr:xml#REG_70_2_b~70.2.b)}∙et∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_2_d:fr:xml#REG_70_2_d~d)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_3:fr:xml#REG_70_3~70.3},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_4_ii:fr:xml#REG_70_4_ii~70.4.ii)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_5_a:fr:xml#REG_70_5_a~70.5.a)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_6:fr:xml#REG_70_6~70.6}∙à∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_10:fr:xml#REG_70_10~70.10},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_12:fr:xml#REG_70_12~70.12},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_14:fr:xml#REG_70_14~70.14}∙et∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_15_a:fr:xml#REG_70_15_a~70.15.a)}",
+  "name": "M36977",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "referringId": "PCT:REG_43a_1_b",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "l'article∙17.2)∙et∙les∙règles∙13ter.1,∙33∙et∙39",
+  "unit": "{l'article∙17.2)}∙et∙les∙{règles∙13ter.1},∙{33}∙et∙{39}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:17_2:fr:xml#17_2~l'article∙17.2)}∙et∙les∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_13b_1:fr:xml#REG_13b_1~règles∙13ter.1},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_33:fr:xml#REG_33~33}∙et∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_39:fr:xml#REG_39~39}",
+  "name": "M36995",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "referringId": "PCT:REG_45a_5_c",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "L'article◦20.3)∙et∙la∙règle◦44.3",
+  "unit": "{L'article◦20.3)}∙et∙la∙{règle◦44.3}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:20_3:fr:xml#20_3~L'article◦20.3)}∙et∙la∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_44_3:fr:xml#REG_44_3~règle◦44.3}",
+  "name": "M37007",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "referringId": "PCT:REG_45a_7_c",
+  "relativeParagraph": 0
+ },
+ {
+  "bad":true
+  "text": "l'alinéa∙c),∙l'article∙20.1)∙et∙les∙règles∙45.1,∙47.1.d)∙et∙70.7.a)",
+  "unit": "{l'alinéa∙c)},∙{l'article∙20.1)}∙et∙les∙{règles∙45.1},∙{47.1.d)}∙et∙{70.7.a)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_45a_8_c:fr:xml#REG_45a_8_c~l'alinéa∙c)},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:20_1:fr:xml#20_1~l'article∙20.1)}∙et∙les∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_45_1:fr:xml#REG_45_1~règles∙45.1},∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_47_1_d:fr:xml#REG_47_1_d~47.1.d)}∙et∙{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:REG_70_7_a:fr:xml#REG_70_7_a~70.7.a)}",
+  "name": "M37009",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "referringId": "PCT:REG_45a_8_b",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "règle∙70.12∙et∙le∙Chapitre∙17",
+  "unit": "{règle∙70.12}∙et∙le∙{Chapitre∙17}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_12:fr:xml#REG_70_12~règle∙70.12}∙et∙le∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17:fr:xml#PCTIPSE_17~Chapitre∙17}",
+  "name": "M37137",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE_3_17_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "articles∙33.2)∙à∙6)∙et∙35.2)∙et∙3)∙et∙les∙règles∙43.4,∙43.6bis,∙64,∙65,∙66.1.e),∙66.7,∙67,∙70.2.b)∙et∙d),∙70.3,∙70.4.ii),∙70.5.a),∙70.6∙à∙70.10,∙70.12,∙70.14∙et∙70.15.a)",
+  "unit": "{articles∙33.2)}∙à∙{6)}∙et∙{35.2)}∙et∙{3)}∙et∙les∙{règles∙43.4},∙{43.6bis},∙{64},∙{65},∙{66.1.e)},∙{66.7},∙{67},∙{70.2.b)}∙et∙{d)},∙{70.3},∙{70.4.ii)},∙{70.5.a)},∙{70.6}∙à∙{70.10},∙{70.12},∙{70.14}∙et∙{70.15.a)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:33_2:fr:xml#33_2~articles∙33.2)}∙à∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:33_6:fr:xml#33_6~6)}∙et∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:35_2:fr:xml#35_2~35.2)}∙et∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:35_3:fr:xml#35_3~3)}∙et∙les∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_43_4:fr:xml#REG_43_4~règles∙43.4},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_43_6a:fr:xml#REG_43_6a~43.6bis},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_64:fr:xml#REG_64~64},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_65:fr:xml#REG_65~65},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_66_1_e:fr:xml#REG_66_1_e~66.1.e)},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_66_7:fr:xml#REG_66_7~66.7},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_67:fr:xml#REG_67~67},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_2_b:fr:xml#REG_70_2_b~70.2.b)}∙et∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_2_d:fr:xml#REG_70_2_d~d)},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_3:fr:xml#REG_70_3~70.3},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_4_ii:fr:xml#REG_70_4_ii~70.4.ii)},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_5_a:fr:xml#REG_70_5_a~70.5.a)},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_6:fr:xml#REG_70_6~70.6}∙à∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_10:fr:xml#REG_70_10~70.10},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_12:fr:xml#REG_70_12~70.12},∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_14:fr:xml#REG_70_14~70.14}∙et∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_70_15_a:fr:xml#REG_70_15_a~70.15.a)}",
+  "name": "M37175",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "L'article∙20.3)∙et∙la∙règle∙44.3",
+  "unit": "{L'article∙20.3)}∙et∙la∙{règle∙44.3}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:20_3:fr:xml#20_3~L'article∙20.3)}∙et∙la∙{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:REG_44_3:fr:xml#REG_44_3~règle∙44.3}",
+  "name": "M37183",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/regulations.eplegal.zip",
+  "relativeParagraph": 0
+ }
+]

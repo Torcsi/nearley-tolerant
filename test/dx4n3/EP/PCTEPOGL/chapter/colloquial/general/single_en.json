@@ -1,0 +1,110 @@
+[
+ {
+  "text": "Part∙B",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/B.eplegal.zip",
+  "referringId": "PGB_CI_1",
+  "relativeParagraph": 0,
+  "name": "S60232",
+  "unit": "{Part∙B}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGB:en:docx:B::#PGB~Part∙B}"
+ },
+ {
+  "text": "Part◦B",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/B.eplegal.zip",
+  "referringId": "PGB_CI_1",
+  "relativeParagraph": 1,
+  "name": "S60233",
+  "unit": "{Part◦B}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGB:en:docx:B::#PGB~Part◦B}"
+ },
+ {
+  "text": "B-XI,◦6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/B.eplegal.zip",
+  "referringId": "PGB_CXII_5",
+  "relativeParagraph": 2,
+  "name": "S60260",
+  "unit": "{B-XI,◦6}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGB_CXI_6:en:docx:B::PGB#PGB_CXI_6~B-XI,◦6}"
+ },
+ {
+  "text": "III",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CIII_3",
+  "relativeParagraph": 3,
+  "name": "S60263",
+  "unit": "{III}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH_CIII:en:docx:H::PGH#PGH_CIII~III}"
+ },
+ {
+  "text": "G-IV,◦7.5.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/G.eplegal.zip",
+  "referringId": "PGG_CIV_6_4",
+  "relativeParagraph": 3,
+  "name": "S60276",
+  "unit": "{G-IV,◦7.5.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG_CIV_7:en:docx:G::PGG#PGG_CIV_7~G-IV,◦7.5.1}"
+ },
+ {
+  "text": "G-IV,◦7.6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/G.eplegal.zip",
+  "referringId": "PGG_CIV_6_5",
+  "relativeParagraph": 1,
+  "name": "S60277",
+  "unit": "{G-IV,◦7.6}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG_CIV_7:en:docx:G::PGG#PGG_CIV_7~G-IV,◦7.6}"
+ },
+ {
+  "text": "H-I",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/H.eplegal.zip",
+  "referringId": "PGH_CI_1_ii",
+  "relativeParagraph": 2,
+  "name": "S60278",
+  "unit": "{H-I}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH_CI:en:docx:H::PGH#PGH_CI~H-I}"
+ },
+ {
+  "text": "B-III,∙2.3.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/M.eplegal.zip",
+  "referringId": "PGM",
+  "relativeParagraph": 2,
+  "name": "S60321",
+  "unit": "{B-III,∙2.3.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CIII_2_3_1:en:docx:B::PGB#PGB_CIII_2_3_1~B-III,∙2.3.1}"
+ },
+ {
+  "text": "B-IV,∙1.2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/M.eplegal.zip",
+  "referringId": "PGM",
+  "relativeParagraph": 6,
+  "name": "S60322",
+  "unit": "{B-IV,∙1.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CIV_1_2:en:docx:B::PGB#PGB_CIV_1_2~B-IV,∙1.2}"
+ },
+ {
+  "text": "B-VI,∙2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/M.eplegal.zip",
+  "referringId": "PGM",
+  "relativeParagraph": 12,
+  "name": "S60323",
+  "unit": "{B-VI,∙2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVI_2:en:docx:B::PGB#PGB_CVI_2~B-VI,∙2}"
+ },
+ {
+  "text": "Introduction",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/M.eplegal.zip",
+  "referringId": "PGM",
+  "relativeParagraph": 84,
+  "name": "S60324",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGM:en:docx:M::#PGM~Introduction}"
+ },
+ {
+  "text": "H-II,◦2.2.2.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/M.eplegal.zip",
+  "referringId": "PGM",
+  "relativeParagraph": 109,
+  "name": "S60327",
+  "unit": "{H-II,◦2.2.2.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGH_CII_2_2_2_1:en:docx:H::PGH#PGH_CII_2_2_2_1~H-II,◦2.2.2.1}"
+ }
+]

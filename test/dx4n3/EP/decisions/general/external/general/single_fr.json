@@ -1,0 +1,66 @@
+[
+ {
+  "text": "T∙9/00",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/headnotes.eplegal.zip",
+  "referringId": "CLR_HEADWORDS",
+  "relativeParagraph": 1,
+  "name": "S00942",
+  "unit": "{T∙9/00}",
+  "value": "{ep-legal:countries:EP::decisions:2000:1::external:T_2000_0009:fr::T_2000_0009::#T_2000_0009~T∙9/00}"
+ },
+ {
+  "text": "T◦931/95",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_A_1",
+  "relativeParagraph": 4,
+  "name": "S00944",
+  "unit": "{T◦931/95}",
+  "value": "{ep-legal:countries:EP::decisions:1995:1::external:T_1995_0931:fr::T_1995_0931::#T_1995_0931~T◦931/95}"
+ },
+ {
+  "text": "T◦1173/97",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_A_1",
+  "relativeParagraph": 4,
+  "name": "S00945",
+  "unit": "{T◦1173/97}",
+  "value": "{ep-legal:countries:EP::decisions:1997:1::external:T_1997_1173:fr::T_1997_1173::#T_1997_1173~T◦1173/97}"
+ },
+ {
+  "text": "T∙1482/05",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/VI.eplegal.zip",
+  "referringId": "CLR_VI_C_2_2",
+  "relativeParagraph": 3,
+  "name": "S01493",
+  "unit": "{T∙1482/05}",
+  "value": "{ep-legal:countries:EP::decisions:2005:1::external:T_2005_1482:fr::T_2005_1482::#T_2005_1482~T∙1482/05}"
+ },
+ {
+  "text": "J◦5/1981",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CVI_1_2",
+  "relativeParagraph": 3,
+  "name": "S02472",
+  "unit": "{J◦5/1981}",
+  "value": "{ep-legal:countries:EP::decisions:1981:1::external:J_1981_0005:fr::J_1981_0005::#J_1981_0005~J◦5/1981}"
+ },
+ {
+  "text": "8/83",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CVII_5_3",
+  "relativeParagraph": 1,
+  "name": "S02476",
+  "unit": "{8/83}",
+  "value": "{ep-legal:countries:EP::decisions:1983:1::external:J_1983_0008:fr::J_1983_0008::#J_1983_0008~8/83}",
+  "bad": true
+ },
+ {
+  "text": "R∙2/2010",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2011/08-09/internet/fr/OJ_2011_452.eplegal.zip",
+  "referringId": "OJ_2011_452",
+  "relativeParagraph": 34,
+  "name": "S03928",
+  "unit": "{R∙2/2010}",
+  "value": "{ep-legal:countries:EP::decisions:2010:1::external:R_2010_0002:fr::R_2010_0002::#R_2010_0002~R∙2/2010}"
+ }
+]

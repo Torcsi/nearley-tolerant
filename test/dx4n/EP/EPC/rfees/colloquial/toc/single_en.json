@@ -1,0 +1,38 @@
+[
+ {
+  "text": "Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 11,
+  "name": "S01731",
+  "unit": "{Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:FEE:en:xml~Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Article∙2∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/en/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 14,
+  "name": "S02150",
+  "unit": "{Article∙2∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:en:xml#2~Article∙2∙of∙the∙Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Article◦2∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 171,
+  "name": "S02186",
+  "unit": "{Article◦2∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:2:en:xml#2~Article◦2∙of∙the∙Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 178,
+  "name": "S02188",
+  "unit": "{Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:9_2:en:xml#9_2~Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees}"
+ }
+]

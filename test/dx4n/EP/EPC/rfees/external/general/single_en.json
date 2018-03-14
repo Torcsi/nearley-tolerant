@@ -1,0 +1,74 @@
+[
+ {
+  "text": "Art.◦8∙RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_D_1_3_3",
+  "relativeParagraph": 2,
+  "name": "S00079",
+  "unit": "{Art.◦8∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:8:en:xml~Art.◦8∙RRF}"
+ },
+ {
+  "bad":true,
+ "text": "Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H",
+  "relativeParagraph": 0,
+  "name": "S00086",
+  "unit": "{Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:FEE:en:xml~Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Art.◦7(2),∙first∙sentence,∙RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H_1_2",
+  "relativeParagraph": 1,
+  "name": "S00087",
+  "unit": "{Art.◦7(2),∙first∙sentence,∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_2:en:xml~Art.◦7(2),∙first∙sentence,∙RRF}"
+ },
+ {
+  "text": "Art.◦9∙(2),∙second∙sentence,∙RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H_1_2",
+  "relativeParagraph": 1,
+  "name": "S00088",
+  "unit": "{Art.◦9∙(2),∙second∙sentence,∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:9_2:en:xml~Art.◦9∙(2),∙second∙sentence,∙RRF}"
+ },
+ {
+  "text": "Art.◦7(2),∙second∙sentence,∙RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H_1_2",
+  "relativeParagraph": 1,
+  "name": "S00089",
+  "unit": "{Art.◦7(2),∙second∙sentence,∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_2:en:xml~Art.◦7(2),∙second∙sentence,∙RRF}"
+ },
+ {
+  "text": "Art.◦9(1),∙fourth∙sentence,∙RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H_3",
+  "relativeParagraph": 2,
+  "name": "S00090",
+  "unit": "{Art.◦9(1),∙fourth∙sentence,∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:9_1:en:xml~Art.◦9(1),∙fourth∙sentence,∙RRF}"
+ },
+ {
+  "text": "Art.◦9(1)◦RRF",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_H_3",
+  "relativeParagraph": 5,
+  "name": "S00091",
+  "unit": "{Art.◦9(1)◦RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:9_1:en:xml~Art.◦9(1)◦RRF}"
+ },
+ {
+  "text": "Art.◦2(2)3◦Rfees",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 18,
+  "name": "S01031",
+  "unit": "{Art.◦2(2)3◦Rfees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_2_3:en:xml#2_2_3~Art.◦2(2)3◦Rfees}"
+ }
+]

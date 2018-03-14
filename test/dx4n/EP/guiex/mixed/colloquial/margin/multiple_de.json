@@ -1,0 +1,19 @@
+[
+ {
+  "text": "RL/EPA∙Allgemeiner∙Teil,∙7,∙A-III,∙12",
+  "unit": "{RL/EPA∙Allgemeiner∙Teil,∙7},∙{A-III,∙12}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_7:de:xml#GLG_7~RL/EPA∙Allgemeiner∙Teil,∙7},∙{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIII_12:de:xml#GLA_CIII_12~A-III,∙12}",
+  "name": "M24271",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_122",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "RL/EPA∙Allgemeiner∙Teil,∙7,∙A-III,∙12◦-◦12.5",
+  "unit": "{RL/EPA∙Allgemeiner∙Teil,∙7},∙{A-III,∙12}◦-◦{12.5}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLI_7:de:xml#GLI_7~RL/EPA∙Allgemeiner∙Teil,∙7},∙{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLA_CIII_12:de:xml#GLA_CIII_12~A-III,∙12}◦-◦{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLA_CIII_12_5:de:xml#GLA_CIII_12_5~12.5}",
+  "name": "M24639",
+  "file": "/EP/organization/guiapp2/2017/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

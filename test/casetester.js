@@ -224,7 +224,10 @@ class CaseTester
     performCases(fConverter,hOptions)
     {
         let aRes = [];
-        let sOutputFormat = hOptions.format;
+        let sOutputFormat = hOptions.outputFile.indexOf(".htm")?"html":"text";
+        if( sOutputFormat == "html"){
+            aRes.push("<html><body><h1>"+hOptions.title+"</h1>");
+        }
         let sExpectedOutputField = hOptions.field;
         switch(sOutputFormat){
             case "html":
@@ -292,6 +295,9 @@ class CaseTester
             case "text":
         }
         let sRes = aRes.join("\n");
+        if( sOutputFormat == "html"){
+            aRes.push("</body></html>");
+        }
         if("outputFile" in hOptions){
             fs.writeFileSync(this.relativeFile(hOptions.outputFile),sRes,{encoding:"utf-8"});
         }
@@ -444,7 +450,70 @@ class CaseTester
         }
         return null;
     }
+    /**
+     * perform a set of scenarios
+     * @param {string} sTestFile 
+     */
+    performTest(sTestFile)
+    {
+        let ct = new CT();
+        ct.loadFile(sTestFile);
+        let oOptions = ct.options;
 
+        let sLexerFile = ct.relativeFile(oOptions.lexer);
+        let sGrammarFile = ct.relativeFile(oOptions.grammar);
+        
+        let oCompiler = new cCompiler();
+        let oLexer = require(sLexerFile);
+
+       
+        let aMethods = oOptions.methods;
+        for(let im=0;im<aMethods.length;im++){
+            let sInterpreter = aMethods[im].interpreter;
+            if( sInterpreter == "default" ){
+                sInterpreter = "../lib/default-interpreter.js";
+            }else if( sInterpreter == "none"){
+                sInterpreter = null;
+            }
+            let sInterpreterFile = sInterpreter?ct.relativeFile(sInterpreter):null;
+            let oInterpreter = sInterpreterFile?require(sInterpreterFile):null;
+            console.log("----------------------------------");
+            let hParserTable = oCompiler.compileFile(sGrammarFile,{"json":""});
+            let oParser = oCompiler.createParser(hParserTable,oLexer,oInterpreter,{"tolerant":true,"keepHistory":true}); //new Parser(hParserTable.ParserRules,"start",{lexer:oLexicalParser});
+            let oLexicalParser = oParser.lexer;
+            let sMethod = aMethods[im].method;
+            let sTestField = aMethods[im].field;
+            let sOutputFile = aMethods[im].file;
+            console.log("Method:"+sMethod);
+            ct.performCases((x)=>{
+                console.log("TEST CASE "+x);
+                oLexicalParser.reset(x);
+                oParser.init();
+                let aRes = [];
+                for(let i=0;i<100;i++){
+                    console.log("Sequence:"+i)
+                    oParser.feed(x);
+                    if( oParser.results==null)
+                        break;
+                    let sReceived = getResultText(oParser.results,oParser.completed,oParser.expected);
+                    
+                    aRes.push(sReceived);
+                    if(oParser.finished)
+                        break;
+                    oParser.carryOn();
+                }
+                return aRes;
+            },{
+                title: sMethod,
+                field:sTestField,
+                input:true,
+                expected:true,
+                received:true,
+                all: true,
+                outputFile:sOutputFile
+            })
+        }
+    }
 }
 
 module.exports = CaseTester;

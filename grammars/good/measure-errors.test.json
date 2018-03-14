@@ -1,0 +1,42 @@
+{
+    "name":"Measure test cases",
+    "options": {
+        "grammar":"measure.ne",
+        "lexer":"measure-lexer.js",
+       "methods":
+        [
+            {
+                "method":"Sequence",
+                "interpreter":"none",
+                "field":"sequence",
+                "file": "measure-errors.sequence.found.html"
+            },
+            {
+                "method":"Units",
+                "interpreter":"../../lib/unit-interpreter.js",
+                "field":"unit",
+                "file": "measure-errors.unit.found.html"
+            },
+            {
+                "method":"Values",
+                "interpreter":"../../lib/unitvalue-interpreter.js",
+                "field":"unitvalue",
+                "file": "measure-errors.value.found.html"
+            }
+        ]
+    },
+    "cases":[
+        {   "name":"1/1",
+            "input":"Recipe: 1 kg flour, 2 l milk, mix well; add 1 g salt, 1 l vinegar, mix again",
+            "sequence":["1 kg flour","1 g salt, 1 l vinegar"],
+            "unit":["{1 kg flour}, {2 l milkbaexp}","{1 g salt}, {1 l vinegar}"],
+            "unitvalue":["{1 kg flour}={measure=1'kg,name=flour}, {2 l milk}={measure=2'l,name=milk}","{1 g salt}={measure=1'g,name=salt}, {1 l vinegar}={measure=1'l,name=vinegar}","{1 g salt}={measure=1'g,name=salt}"]
+        },
+        {   "name":"1/2",
+            "input":"Recipe: 1 g salt, 1 l vinegar and something else",
+            "sequence":["1 g salt, 1 l vinegar"],
+            "unit":["{1 g salt}, {1 l vinegar}"],
+            "unitvalue":["{1 g salt}={measure=1'g,name=salt}, {1 l vinegar}={measure=1'l,name=vinegar}"]
+        }
+     ]
+}

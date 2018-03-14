@@ -1,0 +1,47 @@
+[
+ {
+  "text": "PR◦4,◦5",
+  "unit": "{PR◦4},◦{5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P4:fr:xml~PR◦4},◦{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P5:fr:xml~5}",
+  "name": "M37583",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 17
+ },
+ {
+  "text": "PR◦9,∙PR◦10",
+  "unit": "{PR◦9},∙{PR◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:fr:xml~PR◦9},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P10:fr:xml~PR◦10}",
+  "name": "M37659",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_D",
+  "relativeParagraph": 19
+ },
+ {
+  "text": "PR◦1(1),∙PR◦2",
+  "unit": "{PR◦1(1)},∙{PR◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_1:fr:xml~PR◦1(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P2:fr:xml~PR◦2}",
+  "name": "M37697",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_D",
+  "relativeParagraph": 182
+ },
+ {
+  "text": "PR◦1(2),∙PR◦9,∙PR◦10",
+  "unit": "{PR◦1(2)},∙{PR◦9},∙{PR◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_2:fr:xml~PR◦1(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:fr:xml~PR◦9},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P10:fr:xml~PR◦10}",
+  "name": "M37727",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 27
+ },
+ {
+  "text": "PR◦9-11",
+  "unit": "{PR◦9}-{11}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:fr:xml~PR◦9}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P11:fr:xml~11}",
+  "name": "M37823",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_R",
+  "relativeParagraph": 38
+ }
+]

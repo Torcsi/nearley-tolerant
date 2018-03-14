@@ -1,0 +1,74 @@
+[
+ {
+  "text": "II/PCT-EPA∙IB-XI,∙4.2∙und∙4.3",
+  "unit": "{II/PCT-EPA∙IB-XI,∙4.2}∙und∙{4.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_4_2:de:docx:part-ib::IPB#IPB_XI_4_2~II/PCT-EPA∙IB-XI,∙4.2}∙und∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_4_3:de:docx:part-ib::IPB#IPB_XI_4_3~4.3}",
+  "name": "M51690",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ib.eplegal.zip",
+  "referringId": "IPB_XI_1_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "II/PCT-EPA∙IC-VIII,∙2.2◦–◦2.3",
+  "unit": "{II/PCT-EPA∙IC-VIII,∙2.2}◦–◦{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_2:de:docx:part-ic::IPC#IPC_VIII_2_2~II/PCT-EPA∙IC-VIII,∙2.2}◦–◦{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_3:de:docx:part-ic::IPC#IPC_VIII_2_3~2.3}",
+  "name": "M51696",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ic.eplegal.zip",
+  "referringId": "IPC_III_4",
+  "relativeParagraph": 10
+ },
+ {
+  "text": "II/PCT-EPA∙IC-VIII,∙2.3∙und∙2.5",
+  "unit": "{II/PCT-EPA∙IC-VIII,∙2.3}∙und∙{2.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_3:de:docx:part-ic::IPC#IPC_VIII_2_3~II/PCT-EPA∙IC-VIII,∙2.3}∙und∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_5:de:docx:part-ic::IPC#IPC_VIII_2_5~2.5}",
+  "name": "M51704",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ic.eplegal.zip",
+  "referringId": "IPC_IV_2_6",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "II/PCT-EPA∙IB-VIII,∙2.1∙und∙II/PCT-EPA∙IB-XI,∙6.2",
+  "unit": "{II/PCT-EPA∙IB-VIII,∙2.1}∙und∙{II/PCT-EPA∙IB-XI,∙6.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_VIII_2_1:de:docx:part-ib::IPB#IPB_VIII_2_1~II/PCT-EPA∙IB-VIII,∙2.1}∙und∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_6_2:de:docx:part-ib::IPB#IPB_XI_6_2~II/PCT-EPA∙IB-XI,∙6.2}",
+  "name": "M51706",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ic.eplegal.zip",
+  "referringId": "IPC_VIII_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "II/PCT-EPA∙IC-VIII,∙2.2∙-∙2.3",
+  "unit": "{II/PCT-EPA∙IC-VIII,∙2.2}∙-∙{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_2:de:docx:part-ic::IPC#IPC_VIII_2_2~II/PCT-EPA∙IC-VIII,∙2.2}∙-∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_3:de:docx:part-ic::IPC#IPC_VIII_2_3~2.3}",
+  "name": "M51714",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ih.eplegal.zip",
+  "referringId": "IPH_I_5",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "II/PCT-EPA∙IC-VIII,◦2.3∙und∙2.5",
+  "unit": "{II/PCT-EPA∙IC-VIII,◦2.3}∙und∙{2.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_3:de:docx:part-ic::IPC#IPC_VIII_2_3~II/PCT-EPA∙IC-VIII,◦2.3}∙und∙{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_5:de:docx:part-ic::IPC#IPC_VIII_2_5~2.5}",
+  "name": "M51734",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/de/part-ic.eplegal.zip",
+  "referringId": "IPC_IV_2_6",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "II/PCT-EPA∙IB-VIII,◦2.1∙und∙II/PCT-EPA∙IB-XI,◦6.2",
+  "unit": "{II/PCT-EPA∙IB-VIII,◦2.1}∙und∙{II/PCT-EPA∙IB-XI,◦6.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPB_VIII_2_1:de:docx:part-ib::IPB#IPB_VIII_2_1~II/PCT-EPA∙IB-VIII,◦2.1}∙und∙{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPB_XI_6_2:de:docx:part-ib::IPB#IPB_XI_6_2~II/PCT-EPA∙IB-XI,◦6.2}",
+  "name": "M51740",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/de/part-ic.eplegal.zip",
+  "referringId": "IPC_VIII_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "II/PCT-EPA∙IC-VIII,◦2.2∙-◦2.3",
+  "unit": "{II/PCT-EPA∙IC-VIII,◦2.2}∙-◦{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_2:de:docx:part-ic::IPC#IPC_VIII_2_2~II/PCT-EPA∙IC-VIII,◦2.2}∙-◦{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_3:de:docx:part-ic::IPC#IPC_VIII_2_3~2.3}",
+  "name": "M51744",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/de/part-ih.eplegal.zip",
+  "referringId": "IPH_I_5",
+  "relativeParagraph": 3
+ }
+]

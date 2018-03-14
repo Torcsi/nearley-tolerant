@@ -1,0 +1,983 @@
+[
+ {
+  "text": "R.∙8,∙R.∙9",
+  "unit": "{R.∙8},∙{R.∙9}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1::internet:R8:en:docx:reg:RI_II:#R8~R.∙8},∙{ep-legal:countries:EP::EPC:0000:1::internet:R9:en:docx:reg:RI_II:#R9~R.∙9}",
+  "name": "M81836",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/0000/1/internet/en/reg.eplegal.zip",
+  "referringId": "R8_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙27a,∙R.∙27",
+  "unit": "{R.∙27a},∙{R.∙27}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1::internet:R27a:en:docx:reg:RIII_II:#R27a~R.∙27a},∙{ep-legal:countries:EP::EPC:0000:1::internet:R27:en:docx:reg:RIII_II:#R27~R.∙27}",
+  "name": "M81864",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/0000/1/internet/en/reg.eplegal.zip",
+  "referringId": "R27a",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "R.∙23b,∙23c,∙23e",
+  "unit": "{R.∙23b},∙{23c},∙{23e}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:R23b:en:docx:reg:RII_VI:#R23b~R.∙23b},∙{ep-legal:countries:EP::EPC:2001:1::internet:R23c:en:docx:reg:RII_VI:#R23c~23c},∙{ep-legal:countries:EP::EPC:2001:1::internet:R23e:en:docx:reg:RII_VI:#R23e~23e}",
+  "name": "M81940",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/conv.eplegal.zip",
+  "referringId": "A52",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23d,∙23e",
+  "unit": "{R.∙23d},∙{23e}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:R23d:en:docx:reg:RII_VI:#R23d~R.∙23d},∙{ep-legal:countries:EP::EPC:2001:1::internet:R23e:en:docx:reg:RII_VI:#R23e~23e}",
+  "name": "M81942",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/conv.eplegal.zip",
+  "referringId": "A53",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙55,∙57a",
+  "unit": "{R.∙55},∙{57a}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:R55:en:docx:reg:RV:#R55~R.∙55},∙{ep-legal:countries:EP::EPC:2001:1::internet:R57a:en:docx:reg:RV:#R57a~57a}",
+  "name": "M81996",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/conv.eplegal.zip",
+  "referringId": "A100",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙83-85b",
+  "unit": "{R.∙83}-{85b}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:R83:en:docx:reg:RVII_IV:#R83~R.∙83}-{ep-legal:countries:EP::EPC:2001:1::internet:R85b:en:docx:reg:RVII_IV:#R85b~85b}",
+  "name": "M82008",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/conv.eplegal.zip",
+  "referringId": "A120",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23b,∙R.∙23c,∙R.∙23e",
+  "unit": "{R.∙23b},∙{R.∙23c},∙{R.∙23e}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:R23b:en:docx:reg:RII_VI:#R23b~R.∙23b},∙{ep-legal:countries:EP::EPC:2002:1::internet:R23c:en:docx:reg:RII_VI:#R23c~R.∙23c},∙{ep-legal:countries:EP::EPC:2002:1::internet:R23e:en:docx:reg:RII_VI:#R23e~R.∙23e}",
+  "name": "M82038",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/conv.eplegal.zip",
+  "referringId": "A52",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23d,∙R.∙23e",
+  "unit": "{R.∙23d},∙{R.∙23e}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:R23d:en:docx:reg:RII_VI:#R23d~R.∙23d},∙{ep-legal:countries:EP::EPC:2002:1::internet:R23e:en:docx:reg:RII_VI:#R23e~R.∙23e}",
+  "name": "M82040",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/conv.eplegal.zip",
+  "referringId": "A53",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙27,∙27a,∙R.∙44",
+  "unit": "{R.∙27},∙{27a},∙{R.∙44}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:R27:en:docx:reg:RIII_II:#R27~R.∙27},∙{ep-legal:countries:EP::EPC:2002:1::internet:R27a:en:docx:reg:RIII_II:#R27a~27a},∙{ep-legal:countries:EP::EPC:2002:1::internet:R44:en:docx:reg:RIV_II:#R44~R.∙44}",
+  "name": "M82042",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/conv.eplegal.zip",
+  "referringId": "A56",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23e,∙R.∙27,∙R.∙27a",
+  "unit": "{R.∙23e},∙{R.∙27},∙{R.∙27a}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:R23e:en:docx:reg:RII_VI:#R23e~R.∙23e},∙{ep-legal:countries:EP::EPC:2002:1::internet:R27:en:docx:reg:RIII_II:#R27~R.∙27},∙{ep-legal:countries:EP::EPC:2002:1::internet:R27a:en:docx:reg:RIII_II:#R27a~R.∙27a}",
+  "name": "M82044",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/conv.eplegal.zip",
+  "referringId": "A57",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23b,∙R.∙28a,∙R.∙48",
+  "unit": "{R.∙23b},∙{R.∙28a},∙{R.∙48}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:R23b:en:docx:reg:RII_VI:#R23b~R.∙23b},∙{ep-legal:countries:EP::EPC:2002:1::internet:R28a:en:docx:reg:RIII_II:#R28a~R.∙28a},∙{ep-legal:countries:EP::EPC:2002:1::internet:R48:en:docx:reg:RIV_III:#R48~R.∙48}",
+  "name": "M82066",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/reg.eplegal.zip",
+  "referringId": "R28",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙12a,∙R.∙12b,∙R.∙12c,∙R.∙12d,∙R.∙13",
+  "unit": "{R.∙12a},∙{R.∙12b},∙{R.∙12c},∙{R.∙12d},∙{R.∙13}",
+  "value": "{ep-legal:countries:EP::EPC:2017:2.0::internet:R12a:en:docx:reg:RI_II_2:#R12a~R.∙12a},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R12b:en:docx:reg:RI_II_2:#R12b~R.∙12b},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R12c:en:docx:reg:RI_II_2:#R12c~R.∙12c},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R12d:en:docx:reg:RI_II_2:#R12d~R.∙12d},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R13:en:docx:reg:RI_II_2:#R13~R.∙13}",
+  "name": "M82208",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2017/2.0/internet/en/conv.eplegal.zip",
+  "referringId": "A23",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙9,∙R.∙12c,∙R.∙122",
+  "unit": "{R.∙9},∙{R.∙12c},∙{R.∙122}",
+  "value": "{ep-legal:countries:EP::EPC:2017:2.0::internet:R9:en:docx:reg:RI_II_1:#R9~R.∙9},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R12c:en:docx:reg:RI_II_2:#R12c~R.∙12c},∙{ep-legal:countries:EP::EPC:2017:2.0::internet:R122:en:docx:reg:RVII_III:#R122~R.∙122}",
+  "name": "M82212",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2017/2.0/internet/en/conv.eplegal.zip",
+  "referringId": "A33",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙23b,∙23c",
+  "unit": "{R.∙23b},∙{23c}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R23b:en:docx:reg:RII_VI:#R23b~R.∙23b},∙{ep-legal:countries:EP::EPC:2003:1::internet:R23c:en:docx:reg:RII_VI:#R23c~23c}",
+  "name": "M82234",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_32",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙26(2)(g),∙38(2)-(3)",
+  "unit": "{R.∙26(2)(g)},∙{38(2)}-{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R26_2_g:en:docx:reg:RIII_II:R26#R26_2_g~R.∙26(2)(g)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R38_2:en:docx:reg:RIII_IV:R38#R38_2~38(2)}-{ep-legal:countries:EP::EPC:2003:1::internet:R38_3:en:docx:reg:RIII_IV:R38#R38_3~(3)}",
+  "name": "M82270",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_55",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.26(3),∙100(1)",
+  "unit": "{R.26(3)},∙{100(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R26_3:en:docx:reg:RIII_II:R26#R26_3~R.26(3)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R100_1:en:docx:reg:RVII_X:R100#R100_1~100(1)}",
+  "name": "M82282",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_64",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙77-∙R.∙82",
+  "unit": "{R.∙77}-∙{R.∙82}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R77:en:docx:reg:RVII_III:#R77~R.∙77}-∙{ep-legal:countries:EP::EPC:2003:1::internet:R82:en:docx:reg:RVII_III:#R82~R.∙82}",
+  "name": "M82284",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_66",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙28(1)(c),∙(2)",
+  "unit": "{R.∙28(1)(c)},∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R28_1_c:en:docx:reg:RIII_II:R28#R28_1_c~R.∙28(1)(c)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R28_2:en:docx:reg:RIII_II:R28#R28_2~(2)}",
+  "name": "M82306",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_78",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙29(1)(a),∙(b)",
+  "unit": "{R.∙29(1)(a)},∙{(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R29_1_a:en:docx:reg:RIII_II:R29#R29_1_a~R.∙29(1)(a)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R29_1_b:en:docx:reg:RIII_II:R29#R29_1_b~(b)}",
+  "name": "M82310",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_83",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙30,∙29(2)",
+  "unit": "{R.∙30},∙{29(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R30:en:docx:reg:RIII_II:#R30~R.∙30},∙{ep-legal:countries:EP::EPC:2003:1::internet:R29_2:en:docx:reg:RIII_II:R29#R29_2~29(2)}",
+  "name": "M82314",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_89",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙51∙(4)-R.∙51∙(6)",
+  "unit": "{R.∙51∙(4)}-{R.∙51∙(6)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R51_4:en:docx:reg:RIV_IV:R51#R51_4~R.∙51∙(4)}-{ep-legal:countries:EP::EPC:2003:1::internet:R51_6:en:docx:reg:RIV_IV:R51#R51_6~R.∙51∙(6)}",
+  "name": "M82358",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_163",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙51∙(4)-(6)",
+  "unit": "{R.∙51∙(4)}-{(6)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R51_4:en:docx:reg:RIV_IV:R51#R51_4~R.∙51∙(4)}-{ep-legal:countries:EP::EPC:2003:1::internet:R51_6:en:docx:reg:RIV_IV:R51#R51_6~(6)}",
+  "name": "M82360",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_163",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙104-R.∙112",
+  "unit": "{R.∙104}-{R.∙112}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R104:en:docx:reg:RIX:#R104~R.∙104}-{ep-legal:countries:EP::EPC:2003:1::internet:R112:en:docx:reg:RIX:#R112~R.∙112}",
+  "name": "M82380",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_8",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙23b,∙R.∙23c",
+  "unit": "{R.∙23b},∙{R.∙23c}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R23b:en:docx:reg:RII_VI:#R23b~R.∙23b},∙{ep-legal:countries:EP::EPC:2003:1::internet:R23c:en:docx:reg:RII_VI:#R23c~R.∙23c}",
+  "name": "M82392",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_31",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙28,∙R.∙28a",
+  "unit": "{R.∙28},∙{R.∙28a}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R28:en:docx:reg:RIII_II:#R28~R.∙28},∙{ep-legal:countries:EP::EPC:2003:1::internet:R28a:en:docx:reg:RIII_II:#R28a~R.∙28a}",
+  "name": "M82420",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_76",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙29(1)(a),∙R.∙29(1)(b)",
+  "unit": "{R.∙29(1)(a)},∙{R.∙29(1)(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R29_1_a:en:docx:reg:RIII_II:R29#R29_1_a~R.∙29(1)(a)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R29_1_b:en:docx:reg:RIII_II:R29#R29_1_b~R.∙29(1)(b)}",
+  "name": "M82422",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_83",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙32,∙R.∙34,∙R.∙35",
+  "unit": "{R.∙32},∙{R.∙34},∙{R.∙35}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R32:en:docx:reg:RIII_II:#R32~R.∙32},∙{ep-legal:countries:EP::EPC:2003:1::internet:R34:en:docx:reg:RIII_II:#R34~R.∙34},∙{ep-legal:countries:EP::EPC:2003:1::internet:R35:en:docx:reg:RIII_II:#R35~R.∙35}",
+  "name": "M82430",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_94",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙83-R.∙85b",
+  "unit": "{R.∙83}-{R.∙85b}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R83:en:docx:reg:RVII_IV:#R83~R.∙83}-{ep-legal:countries:EP::EPC:2003:1::internet:R85b:en:docx:reg:RVII_IV:#R85b~R.∙85b}",
+  "name": "M82462",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_210",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙27(1)(d)∙and∙R.∙27(1)(e)",
+  "unit": "{R.∙27(1)(d)}∙and∙{R.∙27(1)(e)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R27_1_d:en:docx:reg:RIII_II:R27#R27_1_d~R.∙27(1)(d)}∙and∙{ep-legal:countries:EP::EPC:2003:1::internet:R27_1_e:en:docx:reg:RIII_II:R27#R27_1_e~R.∙27(1)(e)}",
+  "name": "M82464",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_AIII_1",
+  "relativeParagraph": 25
+ },
+ {
+  "text": "R.∙27(1)(d)∙and∙(e)",
+  "unit": "{R.∙27(1)(d)}∙and∙{(e)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R27_1_d:en:docx:reg:RIII_II:R27#R27_1_d~R.∙27(1)(d)}∙and∙{ep-legal:countries:EP::EPC:2003:1::internet:R27_1_e:en:docx:reg:RIII_II:R27#R27_1_e~(e)}",
+  "name": "M82466",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2004/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_AIII_1",
+  "relativeParagraph": 25
+ },
+ {
+  "text": "R.∙125–∙R.∙130",
+  "unit": "{R.∙125}–∙{R.∙130}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R125:en:docx:reg:RVII_IV:#R125~R.∙125}–∙{ep-legal:countries:EP::EPC:2007:1::internet:R130:en:docx:reg:RVII_IV:#R130~R.∙130}",
+  "name": "M82482",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2007/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_66",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙45∙(2),∙(3)",
+  "unit": "{R.∙45∙(2)},∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R45_2:en:docx:reg:RIII_II:R45#R45_2~R.∙45∙(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R45_3:en:docx:reg:RIII_II:R45#R45_3~(3)}",
+  "name": "M82492",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2007/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_92",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "R.∙141,∙R.∙70b",
+  "unit": "{R.∙141},∙{R.∙70b}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:R141:en:docx:reg:RVII_VII:#R141~R.∙141},∙{ep-legal:countries:EP::EPC:2013:1::internet:R70b:en:docx:reg:RIV_IV:#R70b~R.∙70b}",
+  "name": "M82544",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_54",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "R.∙71a(3)∙and∙(4)",
+  "unit": "{R.∙71a(3)}∙and∙{(4)}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:R71a_3:en:docx:reg:RIV_IV:R71a#R71a_3~R.∙71a(3)}∙and∙{ep-legal:countries:EP::EPC:2013:1::internet:R71a_4:en:docx:reg:RIV_IV:R71a#R71a_4~(4)}",
+  "name": "M82566",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_168",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "R.∙141,∙70b",
+  "unit": "{R.∙141},∙{70b}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R141:en:docx:reg:RVII_VII:#R141~R.∙141},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R70b:en:docx:reg:RIV_IV:#R70b~70b}",
+  "name": "M82592",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_54",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "R.∙40(1)(c),∙40(2),∙(3)",
+  "unit": "{R.∙40(1)(c)},∙{40(2)},∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R40_1_c:en:docx:reg:RIII_I:R40#R40_1_c~R.∙40(1)(c)},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R40_2:en:docx:reg:RIII_I:R40#R40_2~40(2)},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R40_3:en:docx:reg:RIII_I:R40#R40_3~(3)}",
+  "name": "M82600",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_57",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙38,∙57(a),∙R.∙58",
+  "unit": "{R.∙38},∙{57(a)},∙{R.∙58}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R38:en:docx:reg:RIII_I:#R38~R.∙38},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R57_a:en:docx:reg:RIV_I:R57#R57_a~57(a)},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R58:en:docx:reg:RIV_I:#R58~R.∙58}",
+  "name": "M82620",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_139",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙70a,∙137(2),∙(3)",
+  "unit": "{R.∙70a},∙{137(2)},∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R70a:en:docx:reg:RIV_IV:#R70a~R.∙70a},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R137_2:en:docx:reg:RVII_VI:R137#R137_2~137(2)},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R137_3:en:docx:reg:RVII_VI:R137#R137_3~(3)}",
+  "name": "M82626",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_160",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "R.∙107(1)(d)∙and∙(f)∙EPC",
+  "unit": "{R.∙107(1)(d)}∙and∙{(f)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R107_1_d:en:docx:reg:RIX:R107#R107_1_d~R.∙107(1)(d)}∙and∙{ep-legal:countries:EP::EPC:2003:1::internet:R107_1_f:en:docx:reg:RIX:R107#R107_1_f~(f)∙EPC}",
+  "name": "M82864",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_329",
+  "relativeParagraph": 1,
+  "bad": true
+ },
+ {
+  "text": "R.∙107(1)(c)-(g)∙EPC",
+  "unit": "{R.∙107(1)(c)}-{(g)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R107_1_c:en:docx:reg:RIX:R107#R107_1_c~R.∙107(1)(c)}-{ep-legal:countries:EP::EPC:2003:1::internet:R107_1_g:en:docx:reg:RIX:R107#R107_1_g~(g)∙EPC}",
+  "name": "M82922",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_365",
+  "relativeParagraph": 1,
+  "bad": true
+ },
+ {
+  "text": "R.∙106,∙107(1)(c)∙and∙(d)∙EPC",
+  "unit": "{R.∙106},∙{107(1)(c)}∙and∙{(d)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:R106:en:docx:reg:RIX:#R106~R.∙106},∙{ep-legal:countries:EP::EPC:2006:1::internet:R107_1_c:en:docx:reg:RIX:R107#R107_1_c~107(1)(c)}∙and∙{ep-legal:countries:EP::EPC:2006:1::internet:R107_1_d:en:docx:reg:RIX:R107#R107_1_d~(d)∙EPC}",
+  "name": "M83118",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2006/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_172",
+  "relativeParagraph": 7,
+  "bad": true
+ },
+ {
+  "text": "R.∙1,◦107(1)(a)∙EPC",
+  "unit": "{R.∙1},◦{107(1)(a)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:R1:en:docx:reg:RI_I:#R1~R.∙1},◦{ep-legal:countries:EP::EPC:2006:1::internet:R107_1_a:en:docx:reg:RIX:R107#R107_1_a~107(1)(a)∙EPC}",
+  "name": "M83132",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2006/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_199",
+  "relativeParagraph": 3,
+  "bad": true
+ },
+ {
+  "text": "R.∙106(a),∙107(1)(c)∙EPC",
+  "unit": "{R.∙106(a)},∙{107(1)(c)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:R106_a:en:docx:reg:RIX:R106#R106_a~R.∙106(a)},∙{ep-legal:countries:EP::EPC:2006:1::internet:R107_1_c:en:docx:reg:RIX:R107#R107_1_c~107(1)(c)∙EPC}",
+  "name": "M83148",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2006/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_213",
+  "relativeParagraph": 1,
+  "bad": true
+ },
+ {
+  "text": "R.∙23,∙107(1)(h)∙EPC",
+  "unit": "{R.∙23},∙{107(1)(h)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:R23:en:docx:reg:RII_IV:#R23~R.∙23},∙{ep-legal:countries:EP::EPC:2006:1::internet:R107_1_h:en:docx:reg:RIX:R107#R107_1_h~107(1)(h)∙EPC}",
+  "name": "M83172",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2006/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_262",
+  "relativeParagraph": 2,
+  "bad": true
+ },
+ {
+  "text": "R.∙38(1-∙4)∙EPC",
+  "unit": "{R.∙38(1}-∙{4)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:R38_1:en:docx:reg:RIII_IV:R38#R38_1~R.∙38(1}-∙{ep-legal:countries:EP::EPC:2006:1::internet:R38_4:en:docx:reg:RIII_IV:R38#R38_4~4)∙EPC}",
+  "name": "M83176",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2006/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_263",
+  "relativeParagraph": 2,
+  "bad": true
+ },
+ {
+  "text": "R.∙135,∙70a(2)∙EPC",
+  "unit": "{R.∙135},∙{70a(2)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:R135:en:docx:reg:RVII_V:#R135~R.∙135},∙{ep-legal:countries:EP::EPC:2012:1::internet:R70a_2:en:docx:reg:RIV_IV:R70a#R70a_2~70a(2)∙EPC}",
+  "name": "M83458",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2012/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_490",
+  "relativeParagraph": 2,
+  "bad": true
+ },
+ {
+  "text": "R.∙19∙and◦163(1)",
+  "unit": "{R.∙19}∙and◦{163(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:R19:en:docx:reg:RII_II:#R19~R.∙19}∙and◦{ep-legal:countries:EP::EPC:2012:1::internet:R163_1:en:docx:reg:RIX:R163#R163_1~163(1)}",
+  "name": "M83512",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2012/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_602",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "(6),∙52(1),∙53◦EPC",
+  "unit": "{(6)},∙{52(1)},∙{53◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R163_6:en:docx:reg:RIX:R163#R163_6~(6)},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R52_1:en:docx:reg:RIII_IV:R52#R52_1~52(1)},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R53:en:docx:reg:RIII_IV:#R53~53◦EPC}",
+  "name": "M83592",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2014/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_619",
+  "relativeParagraph": 3,
+  "bad": true
+ },
+ {
+  "text": "R.∙19,∙41(2)(c)∙and◦163(1)",
+  "unit": "{R.∙19},∙{41(2)(c)}∙and◦{163(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R19:en:docx:reg:RII_II:#R19~R.∙19},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:R41_2_c:en:docx:reg:RIII_II:R41#R41_2_c~41(2)(c)}∙and◦{ep-legal:countries:EP::EPC:2016:3.0::internet:R163_1:en:docx:reg:RIX:R163#R163_1~163(1)}",
+  "name": "M83700",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_609",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦41(1),∙(2)",
+  "unit": "{Rule◦41(1)},∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R41_1:en:docx:reg:RIV_I:R41#R41_1~Rule◦41(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R41_2:en:docx:reg:RIV_I:R41#R41_2~(2)}",
+  "name": "M83724",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIII_14_2",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦85a,∙Rule◦31(1)",
+  "unit": "{Rule◦85a},∙{Rule◦31(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R85a:en:docx:reg:RVII_IV:#R85a~Rule◦85a},∙{ep-legal:countries:EP::EPC:2003:1::internet:R31_1:en:docx:reg:RIII_II:R31#R31_1~Rule◦31(1)}",
+  "name": "M83728",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIV_2_7_iii",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦28(1)(c),∙Rule◦28(1)(d)",
+  "unit": "{Rule◦28(1)(c)},∙{Rule◦28(1)(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R28_1_c:en:docx:reg:RIII_II:R28#R28_1_c~Rule◦28(1)(c)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R28_1_d:en:docx:reg:RIII_II:R28#R28_1_d~Rule◦28(1)(d)}",
+  "name": "M83730",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIV_4_1",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦28(1)(c),∙(d)",
+  "unit": "{Rule◦28(1)(c)},∙{(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R28_1_c:en:docx:reg:RIII_II:R28#R28_1_c~Rule◦28(1)(c)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R28_1_d:en:docx:reg:RIII_II:R28#R28_1_d~(d)}",
+  "name": "M83732",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIV_4_1",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦1(1),∙Rule◦1(2)",
+  "unit": "{Rule◦1(1)},∙{Rule◦1(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R1_1:en:docx:reg:RI_I:R1#R1_1~Rule◦1(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R1_2:en:docx:reg:RI_I:R1#R1_2~Rule◦1(2)}",
+  "name": "M83734",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CVIII_3_2",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦101(5),∙Rule◦101(6),∙Rule◦101(7)",
+  "unit": "{Rule◦101(5)},∙{Rule◦101(6)},∙{Rule◦101(7)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R101_5:en:docx:reg:RVII_X:R101#R101_5~Rule◦101(5)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R101_6:en:docx:reg:RVII_X:R101#R101_6~Rule◦101(6)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R101_7:en:docx:reg:RVII_X:R101#R101_7~Rule◦101(7)}",
+  "name": "M83736",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIX_1_6",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦101(5),∙(6),∙(7)",
+  "unit": "{Rule◦101(5)},∙{(6)},∙{(7)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R101_5:en:docx:reg:RVII_X:R101#R101_5~Rule◦101(5)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R101_6:en:docx:reg:RVII_X:R101#R101_6~(6)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R101_7:en:docx:reg:RVII_X:R101#R101_7~(7)}",
+  "name": "M83738",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIX_1_6",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦93,∙Rule◦94",
+  "unit": "{Rule◦93},∙{Rule◦94}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R93:en:docx:reg:RVII_VIII:#R93~Rule◦93},∙{ep-legal:countries:EP::EPC:2003:1::internet:R94:en:docx:reg:RVII_VIII:#R94~Rule◦94}",
+  "name": "M83744",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CXII_1",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule◦23b(2),∙Rule◦23b(3)",
+  "unit": "{Rule◦23b(2)},∙{Rule◦23b(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R23b_2:en:docx:reg:RII_VI:R23b#R23b_2~Rule◦23b(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R23b_3:en:docx:reg:RII_VI:R23b#R23b_3~Rule◦23b(3)}",
+  "name": "M83756",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIV_2a_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦23b(2),∙(3)",
+  "unit": "{Rule◦23b(2)},∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R23b_2:en:docx:reg:RII_VI:R23b#R23b_2~Rule◦23b(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R23b_3:en:docx:reg:RII_VI:R23b#R23b_3~(3)}",
+  "name": "M83758",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIV_2a_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦71a(1),∙(2)",
+  "unit": "{Rule◦71a(1)},∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:R71a_1:en:docx:reg:RVII_II:R71a#R71a_1~Rule◦71a(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:R71a_2:en:docx:reg:RVII_II:R71a#R71a_2~(2)}",
+  "name": "M83762",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIII_8_6",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Rule◦(7),∙(8),∙(9)",
+  "unit": "{Rule◦(7)},∙{(8)},∙{(9)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R152_7:en:docx:reg:RVII_XI:R152#R152_7~Rule◦(7)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_8:en:docx:reg:RVII_XI:R152#R152_8~(8)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_9:en:docx:reg:RVII_XI:R152#R152_9~(9)}",
+  "name": "M83778",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIX_1_6",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule∙55-Rule∙58",
+  "unit": "{Rule∙55}-{Rule∙58}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R55:en:docx:reg:RIV_I:#R55~Rule∙55}-{ep-legal:countries:EP::EPC:2007:1::internet:R58:en:docx:reg:RIV_I:#R58~Rule∙58}",
+  "name": "M83786",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CIV_1_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rules◦30-Rule∙34,∙Rule∙41∙to∙Rule∙50",
+  "unit": "{Rules◦30}-{Rule∙34},∙{Rule∙41}∙to∙{Rule∙50}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R30:en:docx:reg:RII_V:#R30~Rules◦30}-{ep-legal:countries:EP::EPC:2007:1::internet:R34:en:docx:reg:RII_V:#R34~Rule∙34},∙{ep-legal:countries:EP::EPC:2007:1::internet:R41:en:docx:reg:RIII_II:#R41~Rule∙41}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R50:en:docx:reg:RIII_II:#R50~Rule∙50}",
+  "name": "M83790",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CIV_1_2",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Rules◦31-Rule∙33",
+  "unit": "{Rules◦31}-{Rule∙33}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R31:en:docx:reg:RII_V:#R31~Rules◦31}-{ep-legal:countries:EP::EPC:2007:1::internet:R33:en:docx:reg:RII_V:#R33~Rule∙33}",
+  "name": "M83794",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CIV_1_2_iii",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Rule◦45(1)∙and∙Rule◦45(3)",
+  "unit": "{Rule◦45(1)}∙and∙{Rule◦45(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R45_1:en:docx:reg:RIII_II:R45#R45_1~Rule◦45(1)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R45_3:en:docx:reg:RIII_II:R45#R45_3~Rule◦45(3)}",
+  "name": "M83804",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CX_8_i",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Rule◦45(1)∙and∙(3)",
+  "unit": "{Rule◦45(1)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R45_1:en:docx:reg:RIII_II:R45#R45_1~Rule◦45(1)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R45_3:en:docx:reg:RIII_II:R45#R45_3~(3)}",
+  "name": "M83806",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CX_8_i",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Rule◦42(1)(a),∙42(c)",
+  "unit": "{Rule◦42(1)(a)},∙{42(c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R42_1_a:en:docx:reg:RIII_II:R42#R42_1_a~Rule◦42(1)(a)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R42_1_c:en:docx:reg:RIII_II:R42#R42_1_c~42(c)}",
+  "name": "M83808",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIV_1_2_ii",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Rule◦26∙(2),∙Rule◦26(3)",
+  "unit": "{Rule◦26∙(2)},∙{Rule◦26(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R26_2:en:docx:reg:RII_V:R26#R26_2~Rule◦26∙(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R26_3:en:docx:reg:RII_V:R26#R26_3~Rule◦26(3)}",
+  "name": "M83810",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIV_3_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦26∙(2),∙(3)",
+  "unit": "{Rule◦26∙(2)},∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R26_2:en:docx:reg:RII_V:R26#R26_2~Rule◦26∙(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R26_3:en:docx:reg:RII_V:R26#R26_3~(3)}",
+  "name": "M83812",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIV_3_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule∙77(1),∙(2)",
+  "unit": "{Rule∙77(1)},∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R77_1:en:docx:reg:RV_I:R77#R77_1~Rule∙77(1)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R77_2:en:docx:reg:RV_I:R77#R77_2~(2)}",
+  "name": "M83814",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/D.eplegal.zip",
+  "referringId": "GLD_CIV_1_3",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Rule◦152(1)-∙Rule◦152(3)",
+  "unit": "{Rule◦152(1)}-∙{Rule◦152(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R152_1:en:docx:reg:RVII_XI:R152#R152_1~Rule◦152(1)}-∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_3:en:docx:reg:RVII_XI:R152#R152_3~Rule◦152(3)}",
+  "name": "M83816",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/D.eplegal.zip",
+  "referringId": "GLD_CIV_1_3",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "Rule◦152(1)-∙(3)",
+  "unit": "{Rule◦152(1)}-∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R152_1:en:docx:reg:RVII_XI:R152#R152_1~Rule◦152(1)}-∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_3:en:docx:reg:RVII_XI:R152#R152_3~(3)}",
+  "name": "M83818",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/D.eplegal.zip",
+  "referringId": "GLD_CIV_1_3",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "Rule∙82(1),∙Rule∙82(2)",
+  "unit": "{Rule∙82(1)},∙{Rule∙82(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R82_1:en:docx:reg:RV_I:R82#R82_1~Rule∙82(1)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R82_2:en:docx:reg:RV_I:R82#R82_2~Rule∙82(2)}",
+  "name": "M83820",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/D.eplegal.zip",
+  "referringId": "GLD_CVIII_1_4_1",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rules∙118-Rule∙120",
+  "unit": "{Rules∙118}-{Rule∙120}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R118:en:docx:reg:RVII_III:#R118~Rules∙118}-{ep-legal:countries:EP::EPC:2007:1::internet:R120:en:docx:reg:RVII_III:#R120~Rule∙120}",
+  "name": "M83832",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_1_3",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦121(2)(a)-∙Rule◦121(2)(d)",
+  "unit": "{Rule◦121(2)(a)}-∙{Rule◦121(2)(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R121_2_a:en:docx:reg:RVII_III:R121#R121_2_a~Rule◦121(2)(a)}-∙{ep-legal:countries:EP::EPC:2007:1::internet:R121_2_d:en:docx:reg:RVII_III:R121#R121_2_d~Rule◦121(2)(d)}",
+  "name": "M83836",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_1_8_3",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦121(2)(a)-∙(d)",
+  "unit": "{Rule◦121(2)(a)}-∙{(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R121_2_a:en:docx:reg:RVII_III:R121#R121_2_a~Rule◦121(2)(a)}-∙{ep-legal:countries:EP::EPC:2007:1::internet:R121_2_d:en:docx:reg:RVII_III:R121#R121_2_d~(d)}",
+  "name": "M83838",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_1_8_3",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rules◦118(2)∙and∙119(3)",
+  "unit": "{Rules◦118(2)}∙and∙{119(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R118_2:en:docx:reg:RVII_III:R118#R118_2~Rules◦118(2)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R119_3:en:docx:reg:RVII_III:R119#R119_3~119(3)}",
+  "name": "M83840",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_2_4",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "Rule∙82(2)∙and∙(3)",
+  "unit": "{Rule∙82(2)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R82_2:en:docx:reg:RV_I:R82#R82_2~Rule∙82(2)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R82_3:en:docx:reg:RV_I:R82#R82_3~(3)}",
+  "name": "M83842",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CVIII_2_2_3",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rules∙39(2)∙and∙(3)",
+  "unit": "{Rules∙39(2)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R39_2:en:docx:reg:RIII_I:R39#R39_2~Rules∙39(2)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R39_3:en:docx:reg:RIII_I:R39#R39_3~(3)}",
+  "name": "M83844",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CVIII_6_1",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule∙157(1)∙and∙Rule∙157(3)",
+  "unit": "{Rule∙157(1)}∙and∙{Rule∙157(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R157_1:en:docx:reg:RIX:R157#R157_1~Rule∙157(1)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R157_3:en:docx:reg:RIX:R157#R157_3~Rule∙157(3)}",
+  "name": "M83846",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIX_2",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Rule◦24(a)∙and∙Rule◦24(b)",
+  "unit": "{Rule◦24(a)}∙and∙{Rule◦24(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R24_a:en:docx:reg:RII_III:R24#R24_a~Rule◦24(a)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R24_b:en:docx:reg:RII_III:R24#R24_b~Rule◦24(b)}",
+  "name": "M83848",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CXIII_3",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule◦24(a)∙and∙(b)",
+  "unit": "{Rule◦24(a)}∙and∙{(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R24_a:en:docx:reg:RII_III:R24#R24_a~Rule◦24(a)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R24_b:en:docx:reg:RII_III:R24#R24_b~(b)}",
+  "name": "M83850",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2007/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CXIII_3",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule◦56(2),∙Rule◦56(4)∙and∙Rule◦56(5)",
+  "unit": "{Rule◦56(2)},∙{Rule◦56(4)}∙and∙{Rule◦56(5)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R56_2:en:docx:reg:RIV_I:R56#R56_2~Rule◦56(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R56_4:en:docx:reg:RIV_I:R56#R56_4~Rule◦56(4)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R56_5:en:docx:reg:RIV_I:R56#R56_5~Rule◦56(5)}",
+  "name": "M83852",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CII_5_5",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦56(2),∙(4)∙and∙(5)",
+  "unit": "{Rule◦56(2)},∙{(4)}∙and∙{(5)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R56_2:en:docx:reg:RIV_I:R56#R56_2~Rule◦56(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R56_4:en:docx:reg:RIV_I:R56#R56_4~(4)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R56_5:en:docx:reg:RIV_I:R56#R56_5~(5)}",
+  "name": "M83854",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CII_5_5",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦48(1)(a)∙and∙Rule◦48(2)",
+  "unit": "{Rule◦48(1)(a)}∙and∙{Rule◦48(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R48_1_a:en:docx:reg:RIII_II:R48#R48_1_a~Rule◦48(1)(a)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R48_2:en:docx:reg:RIII_II:R48#R48_2~Rule◦48(2)}",
+  "name": "M83860",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIII_8_1",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦48(1)(a)∙and∙(2)",
+  "unit": "{Rule◦48(1)(a)}∙and∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R48_1_a:en:docx:reg:RIII_II:R48#R48_1_a~Rule◦48(1)(a)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R48_2:en:docx:reg:RIII_II:R48#R48_2~(2)}",
+  "name": "M83862",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIII_8_1",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦45(1)∙to∙Rule◦45(2)",
+  "unit": "{Rule◦45(1)}∙to∙{Rule◦45(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R45_1:en:docx:reg:RIII_II:R45#R45_1~Rule◦45(1)}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R45_2:en:docx:reg:RIII_II:R45#R45_2~Rule◦45(2)}",
+  "name": "M83864",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIII_9",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦31(1)(c)∙and∙Rule◦31(1)(d)",
+  "unit": "{Rule◦31(1)(c)}∙and∙{Rule◦31(1)(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R31_1_c:en:docx:reg:RII_V:R31#R31_1_c~Rule◦31(1)(c)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R31_1_d:en:docx:reg:RII_V:R31#R31_1_d~Rule◦31(1)(d)}",
+  "name": "M83874",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIV_4_1",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦31(1)(c)∙and∙(d)",
+  "unit": "{Rule◦31(1)(c)}∙and∙{(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R31_1_c:en:docx:reg:RII_V:R31#R31_1_c~Rule◦31(1)(c)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R31_1_d:en:docx:reg:RII_V:R31#R31_1_d~(d)}",
+  "name": "M83876",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIV_4_1",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦152(2),∙Rule◦152(4),∙Rule◦152(7),∙Rule◦152(8)∙and∙Rule◦152(9)",
+  "unit": "{Rule◦152(2)},∙{Rule◦152(4)},∙{Rule◦152(7)},∙{Rule◦152(8)}∙and∙{Rule◦152(9)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R152_2:en:docx:reg:RVII_XI:R152#R152_2~Rule◦152(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_4:en:docx:reg:RVII_XI:R152#R152_4~Rule◦152(4)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_7:en:docx:reg:RVII_XI:R152#R152_7~Rule◦152(7)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_8:en:docx:reg:RVII_XI:R152#R152_8~Rule◦152(8)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_9:en:docx:reg:RVII_XI:R152#R152_9~Rule◦152(9)}",
+  "name": "M83882",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIX_1_6",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rule◦152(2),∙(4),∙(7),∙(8)∙and∙(9)",
+  "unit": "{Rule◦152(2)},∙{(4)},∙{(7)},∙{(8)}∙and∙{(9)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R152_2:en:docx:reg:RVII_XI:R152#R152_2~Rule◦152(2)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_4:en:docx:reg:RVII_XI:R152#R152_4~(4)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_7:en:docx:reg:RVII_XI:R152#R152_7~(7)},∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_8:en:docx:reg:RVII_XI:R152#R152_8~(8)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R152_9:en:docx:reg:RVII_XI:R152#R152_9~(9)}",
+  "name": "M83884",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIX_1_6",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Rules◦30∙to∙Rules◦34,∙Rules◦40∙to∙Rules◦50∙and∙Rules◦55∙to∙Rules◦58",
+  "unit": "{Rules◦30}∙to∙{Rules◦34},∙{Rules◦40}∙to∙{Rules◦50}∙and∙{Rules◦55}∙to∙{Rules◦58}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R30:en:docx:reg:RII_V:#R30~Rules◦30}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R34:en:docx:reg:RII_V:#R34~Rules◦34},∙{ep-legal:countries:EP::EPC:2007:1::internet:R40:en:docx:reg:RIII_I:#R40~Rules◦40}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R50:en:docx:reg:RIII_II:#R50~Rules◦50}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:R55:en:docx:reg:RIV_I:#R55~Rules◦55}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R58:en:docx:reg:RIV_I:#R58~Rules◦58}",
+  "name": "M83890",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CIV_1_2",
+  "relativeParagraph": 6
+ },
+ {
+  "text": "Rules◦31∙to∙Rule◦32",
+  "unit": "{Rules◦31}∙to∙{Rule◦32}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:R31:en:docx:reg:RII_V:#R31~Rules◦31}∙to∙{ep-legal:countries:EP::EPC:2007:1::internet:R32:en:docx:reg:RII_V:#R32~Rule◦32}",
+  "name": "M83894",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/en/B.eplegal.zip",
+  "referringId": "GLB_CIV_1_2_iii",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Rule◦45(1)∙to∙(3)",
+  "unit": "{Rule◦45(1)}∙to∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R45_1:en:docx:reg:RIII_II:R45#R45_1~Rule◦45(1)}∙to∙{ep-legal:countries:EP::EPC:2010:1::internet:R45_3:en:docx:reg:RIII_II:R45#R45_3~(3)}",
+  "name": "M83906",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CIII_9",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦70a(1)∙and∙Rule◦70a(3)",
+  "unit": "{Rule◦70a(1)}∙and∙{Rule◦70a(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R70a_1:en:docx:reg:RIV_IV:R70a#R70a_1~Rule◦70a(1)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:R70a_3:en:docx:reg:RIV_IV:R70a#R70a_3~Rule◦70a(3)}",
+  "name": "M83910",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CVI_1_1",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "Rule◦70a(1)∙and∙(3)",
+  "unit": "{Rule◦70a(1)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R70a_1:en:docx:reg:RIV_IV:R70a#R70a_1~Rule◦70a(1)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:R70a_3:en:docx:reg:RIV_IV:R70a#R70a_3~(3)}",
+  "name": "M83912",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CVI_1_1",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "Rule◦121(2)(a)-Rule◦121(2)(d)",
+  "unit": "{Rule◦121(2)(a)}-{Rule◦121(2)(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R121_2_a:en:docx:reg:RVII_III:R121#R121_2_a~Rule◦121(2)(a)}-{ep-legal:countries:EP::EPC:2010:1::internet:R121_2_d:en:docx:reg:RVII_III:R121#R121_2_d~Rule◦121(2)(d)}",
+  "name": "M83914",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_1_8_3",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦121(2)(a)-(d)",
+  "unit": "{Rule◦121(2)(a)}-{(d)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R121_2_a:en:docx:reg:RVII_III:R121#R121_2_a~Rule◦121(2)(a)}-{ep-legal:countries:EP::EPC:2010:1::internet:R121_2_d:en:docx:reg:RVII_III:R121#R121_2_d~(d)}",
+  "name": "M83916",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CIV_1_8_3",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rules◦39(2)∙and∙Rule◦39(3)",
+  "unit": "{Rules◦39(2)}∙and∙{Rule◦39(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R39_2:en:docx:reg:RIII_I:R39#R39_2~Rules◦39(2)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:R39_3:en:docx:reg:RIII_I:R39#R39_3~Rule◦39(3)}",
+  "name": "M83918",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CVIII_6_1",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rules◦39(2)∙and∙(3)",
+  "unit": "{Rules◦39(2)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:R39_2:en:docx:reg:RIII_I:R39#R39_2~Rules◦39(2)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:R39_3:en:docx:reg:RIII_I:R39#R39_3~(3)}",
+  "name": "M83920",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2010/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CVIII_6_1",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "Rule◦43(1)∙and∙Rule∙43(3)",
+  "unit": "{Rule◦43(1)}∙and∙{Rule∙43(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:R43_1:en:docx:reg:RIII_II:R43#R43_1~Rule◦43(1)}∙and∙{ep-legal:countries:EP::EPC:2012:1::internet:R43_3:en:docx:reg:RIII_II:R43#R43_3~Rule∙43(3)}",
+  "name": "M83930",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2012/1/internet/en/F.eplegal.zip",
+  "referringId": "GLF_CIV_4_5_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦64(2),∙164(5)",
+  "unit": "{Rule◦64(2)},∙{164(5)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R64_2:en:docx:reg:RIV_II:R64#R64_2~Rule◦64(2)},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R164_5:en:docx:reg:RIX:R164#R164_5~164(5)}",
+  "name": "M83934",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CX_10_2_2",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦164(1)◦and◦Rule◦164(2)",
+  "unit": "{Rule◦164(1)}◦and◦{Rule◦164(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R164_1:en:docx:reg:RIX:R164#R164_1~Rule◦164(1)}◦and◦{ep-legal:countries:EP::EPC:2014:sls::sls:R164_2:en:docx:reg:RIX:R164#R164_2~Rule◦164(2)}",
+  "name": "M83936",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIII_3_1_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rule◦164(1)◦and◦(2)",
+  "unit": "{Rule◦164(1)}◦and◦{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R164_1:en:docx:reg:RIX:R164#R164_1~Rule◦164(1)}◦and◦{ep-legal:countries:EP::EPC:2014:sls::sls:R164_2:en:docx:reg:RIX:R164#R164_2~(2)}",
+  "name": "M83938",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/en/C.eplegal.zip",
+  "referringId": "GLC_CIII_3_1_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Rules∙79(1)∙and◦114(2)",
+  "unit": "{Rules∙79(1)}∙and◦{114(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:R79_1:en:docx:reg:RV_I:R79#R79_1~Rules∙79(1)}∙and◦{ep-legal:countries:EP::EPC:2015:1::internet:R114_2:en:docx:reg:RVII_II:R114#R114_2~114(2)}",
+  "name": "M83946",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2015/1/internet/en/A.eplegal.zip",
+  "referringId": "GLA_CVII_5",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Rule◦22(1)◦and∙Rule◦22(2)",
+  "unit": "{Rule◦22(1)}◦and∙{Rule◦22(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:R22_1:en:docx:reg:RII_III:R22#R22_1~Rule◦22(1)}◦and∙{ep-legal:countries:EP::EPC:2015:1::internet:R22_2:en:docx:reg:RII_III:R22#R22_2~Rule◦22(2)}",
+  "name": "M83956",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2015/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CXII_3",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦22(1)◦and∙(2)",
+  "unit": "{Rule◦22(1)}◦and∙{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:R22_1:en:docx:reg:RII_III:R22#R22_1~Rule◦22(1)}◦and∙{ep-legal:countries:EP::EPC:2015:1::internet:R22_2:en:docx:reg:RII_III:R22#R22_2~(2)}",
+  "name": "M83958",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2015/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CXII_3",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "Rule◦136(1),◦(2)",
+  "unit": "{Rule◦136(1)},◦{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R136_1:en:docx:reg:RVII_V:R136#R136_1~Rule◦136(1)},◦{ep-legal:countries:EP::EPC:2016:3.0::internet:R136_2:en:docx:reg:RVII_V:R136#R136_2~(2)}",
+  "name": "M83964",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2016/1/internet/en/E.eplegal.zip",
+  "referringId": "GLE_CVII_3_1_3",
+  "relativeParagraph": 16
+ }
+]

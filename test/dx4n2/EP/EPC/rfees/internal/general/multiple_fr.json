@@ -1,0 +1,29 @@
+[
+ {
+  "text": "l’article∙5,∙paragraphe∙1,∙lettres∙a)∙et∙b)",
+  "unit": "{l’article∙5,∙paragraphe∙1,∙lettres∙a)}∙et∙{b)}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:5_1_a:fr:docx:rfees::5#5_1_a~l’article∙5,∙paragraphe∙1,∙lettres∙a)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:5_1_b:fr:docx:rfees::5#5_1_b~b)}",
+  "name": "M13438",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "6_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "l'article◦2,∙point◦3,∙point◦3bis,∙point◦7∙et∙point◦15",
+  "unit": "{l'article◦2,∙point◦3},∙{point◦3bis},∙{point◦7}∙et∙{point◦15}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1::internet:2:fr:docx:rfees::#2~l'article◦2,∙point◦3},∙{ep-legal:countries:EP::EPC:2011:1::internet:2:fr:docx:rfees::#2~point◦3bis},∙{ep-legal:countries:EP::EPC:2011:1::internet:2:fr:docx:rfees::#2~point◦7}∙et∙{ep-legal:countries:EP::EPC:2011:1::internet:2:fr:docx:rfees::#2~point◦15}",
+  "name": "M14484",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2011/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "2_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "l'article◦2,∙point◦3,∙point◦3bis,∙point◦7∙et∙point◦15∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article◦2,∙point◦3},∙{point◦3bis},∙{point◦7}∙et∙{point◦15∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1.0::internet:2:fr:docx:rfees::#2~l'article◦2,∙point◦3},∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:fr:docx:rfees::#2~point◦3bis},∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:fr:docx:rfees::#2~point◦7}∙et∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:fr:docx:rfees::#2~point◦15∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M14612",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2014/1.0/internet/fr/rfees.eplegal.zip",
+  "referringId": "2_2",
+  "relativeParagraph": 0
+ }
+]

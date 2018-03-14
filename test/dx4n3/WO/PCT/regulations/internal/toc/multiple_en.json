@@ -1,0 +1,32 @@
+[
+ {
+  "text": "Rules∙22.1(g),∙49∙and∙51bis",
+  "unit": "{Rules∙22.1(g)},∙{49}∙and∙{51bis}",
+  "value": "{ep-legal:countries:WO::PCT:2000:1::internet:REG_22_1_g:en:docx:regulations:REG_B:REG_22#REG_22_1_g~Rules∙22.1(g)},∙{ep-legal:countries:WO::PCT:2000:1::internet:REG_49:en:docx:regulations:REG_B:#REG_49~49}∙and∙{ep-legal:countries:WO::PCT:2000:1::internet:REG_51a:en:docx:regulations:REG_B:#REG_51a~51bis}",
+  "name": "M81820",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2000/1/internet/en/regulations.eplegal.zip",
+  "style": "TOC4",
+  "referringId": "REG",
+  "relativeParagraph": 371
+ },
+ {
+  "text": "Rule∙51bis.1(a)(i)∙to∙(v)",
+  "unit": "{Rule∙51bis.1(a)(i)}∙to∙{(v)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:REG_51a_1_a_i:en:docx:regulations:DOCUMENT_B:REG_51a#REG_51a_1_a_i~Rule∙51bis.1(a)(i)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_51a_1_a_v:en:docx:regulations:DOCUMENT_B:REG_51a#REG_51a_1_a_v~(v)}",
+  "name": "M81822",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/regulations.eplegal.zip",
+  "style": "TOC4",
+  "referringId": "REG",
+  "relativeParagraph": 37
+ },
+ {
+  "text": "Rules∙22.1(g),∙Rule∙49∙and∙Rule∙51bis",
+  "unit": "{Rules∙22.1(g)},∙{Rule∙49}∙and∙{Rule∙51bis}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:REG_22_1_g:en:docx:regulations:DOCUMENT_B:REG_22#REG_22_1_g~Rules∙22.1(g)},∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_49:en:docx:regulations:DOCUMENT_B:#REG_49~Rule∙49}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_51a:en:docx:regulations:DOCUMENT_B:#REG_51a~Rule∙51bis}",
+  "name": "M81824",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/regulations.eplegal.zip",
+  "style": "TOC4",
+  "referringId": "REG",
+  "relativeParagraph": 385
+ }
+]

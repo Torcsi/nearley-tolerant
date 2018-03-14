@@ -1,0 +1,17 @@
+Unexpected token h in JSON at position 1
+SyntaxError: Unexpected token h in JSON at position 1
+    at JSON.parse (<anonymous>)
+    at CaseTester.loadFile (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:12:22)
+    at CaseTester.perform (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:45:16)
+    at Context.<anonymous> (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\test\test_casetester.js:288:26)
+    at callFn (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:354:21)
+    at Test.Runnable.run (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:346:7)
+    at Runner.runTest (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:442:10)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:560:12
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:356:14)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:366:7
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:290:14)
+    at Immediate.<anonymous> (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:334:5)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)

@@ -1,0 +1,82 @@
+[
+ {
+  "text": "1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 3,
+  "style": "TOC2",
+  "name": "S33873",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_I_1:de:docx:annex-i::ANNEX_I#ANNEX_I_1~1.→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 4,
+  "style": "TOC3",
+  "name": "S33874",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_I_1_1:de:docx:annex-i::ANNEX_I#ANNEX_I_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "1.1.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 5,
+  "style": "TOC4",
+  "name": "S33875",
+  "unit": "{1.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_I_1_1_1:de:docx:annex-i::ANNEX_I#ANNEX_I_1_1_1~1.1.1→xxx}"
+ },
+ {
+  "text": "1.1.2.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 7,
+  "style": "TOC5",
+  "name": "S33876",
+  "unit": "{1.1.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_I_1_1_2_1:de:docx:annex-i::ANNEX_I#ANNEX_I_1_1_2_1~1.1.2.1→xxx}"
+ },
+ {
+  "text": "1.2→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 12,
+  "style": "TOC3",
+  "name": "S33877",
+  "unit": "{1.2→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_I_1_2:de:docx:annex-i::ANNEX_I#ANNEX_I_1_2~1.2→xxx}"
+ },
+ {
+  "text": "CP-5:→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-v.eplegal.zip",
+  "referringId": "ANNEX_V",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S33878",
+  "unit": "{CP-5:→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_V_CP5:de:docx:annex-v::ANNEX_V#ANNEX_V_CP5~CP-5:→xxx}"
+ },
+ {
+  "text": "4.1.2.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-via.eplegal.zip",
+  "referringId": "ANNEX_VIa",
+  "relativeParagraph": 24,
+  "style": "TOC4",
+  "name": "S33879",
+  "unit": "{4.1.2.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_VIa_4_1_2:de:docx:annex-via::ANNEX_VIa#ANNEX_VIa_4_1_2~4.1.2.→xxx}"
+ },
+ {
+  "text": "4.1.2.1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2014/11/internet/de/annex-via.eplegal.zip",
+  "referringId": "ANNEX_VIa",
+  "relativeParagraph": 25,
+  "style": "TOC5",
+  "name": "S33880",
+  "unit": "{4.1.2.1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11::internet:ANNEX_VIa_4_1_2_1:de:docx:annex-via::ANNEX_VIa#ANNEX_VIa_4_1_2_1~4.1.2.1.→xxx}"
+ }
+]

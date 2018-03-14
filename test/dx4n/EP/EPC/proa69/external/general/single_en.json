@@ -1,0 +1,37 @@
+[
+ {
+  "text": "Prot.◦Art.◦69",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "guiex:GLI_2_2",
+  "relativeParagraph": 38,
+  "name": "S00814",
+  "unit": "{Prot.◦Art.◦69}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:PI:en:xml#PI~Prot.◦Art.◦69}"
+ },
+ {
+  "text": "Protocol∙on∙the∙Interpretation∙of∙Art.∙69∙EPC",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "guiex:GLI_2_2",
+  "relativeParagraph": 39,
+  "name": "S00815",
+  "unit": "{Protocol∙on∙the∙Interpretation∙of∙Art.∙69∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:PI:en:xml#PI~Protocol∙on∙the∙Interpretation∙of∙Art.∙69∙EPC}"
+ },
+ {
+  "text": "Protocol∙on∙the∙Interpretation∙of∙Article∙69∙EPC",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "guiex:GLI_3_2",
+  "relativeParagraph": 1,
+  "name": "S00816",
+  "unit": "{Protocol∙on∙the∙Interpretation∙of∙Article∙69∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:PI:en:xml#PI~Protocol∙on∙the∙Interpretation∙of∙Article∙69∙EPC}"
+ },
+ {
+  "text": "Protocol∙on∙the∙Interpretation∙of∙Article◦69∙EPC",
+  "file": "/EP/organization/guiex/2017/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S00873",
+  "unit": "{Protocol∙on∙the∙Interpretation∙of∙Article◦69∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:PI:en:xml#PI~Protocol∙on∙the∙Interpretation∙of∙Article◦69∙EPC}"
+ }
+]

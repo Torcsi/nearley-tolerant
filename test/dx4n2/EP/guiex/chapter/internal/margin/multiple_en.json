@@ -1,0 +1,29 @@
+[
+ {
+  "text": "XI,∙5,∙6,∙7",
+  "unit": "{XI,∙5},∙{6},∙{7}",
+  "value": "{ep-legal:countries:EP::guiex:2003:1::internet:GLB_CXI_5:en:docx:B::GLB#GLB_CXI_5~XI,∙5},∙{ep-legal:countries:EP::guiex:2003:1::internet:GLB_CXI_6:en:docx:B::GLB#GLB_CXI_6~6},∙{ep-legal:countries:EP::guiex:2003:1::internet:GLB_CXI:en:docx:B::GLB#GLB_CXI~7}",
+  "name": "M82336",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_146",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "2.2.7,∙2.2.8",
+  "unit": "{2.2.7},∙{2.2.8}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1::internet:GLH_CIV_2_2_7:en:docx:H::GLH#GLH_CIV_2_2_7~2.2.7},∙{ep-legal:countries:EP::guiex:2016:1::internet:GLH_CIV_2_2_8:en:docx:H::GLH#GLH_CIV_2_2_8~2.2.8}",
+  "name": "M82602",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_68",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "1-3",
+  "unit": "{1}-{3}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1::internet:GLB_CVIII_1:en:docx:B::GLB#GLB_CVIII_1~1}-{ep-legal:countries:EP::guiex:2010:1::internet:GLB_CVIII_3:en:docx:B::GLB#GLB_CVIII_3~3}",
+  "name": "M83326",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_254",
+  "relativeParagraph": 1
+ }
+]

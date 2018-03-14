@@ -1,0 +1,29 @@
+[
+ {
+  "active":false,"comment":"can't find where / in which .js file this <cross-reference index> should be",
+  "text": "Annex∙IICross-reference∙index",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 13,
+  "name": "S01733",
+  "unit": "{Annex∙IICross-reference∙index}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL:en:xml~Annex∙IICross-reference∙index}"
+ },
+ {
+  "text": "Abbreviations",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 14,
+  "name": "S01734",
+  "unit": "{Abbreviations}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL_IV:en:xml~Abbreviations}"
+ },
+ {
+  "text": "Annex∙II↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 15,
+  "name": "S01772",
+  "unit": "{Annex∙II↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:CL:en:xml#CL~Annex∙II↲xxx}"
+ }
+]

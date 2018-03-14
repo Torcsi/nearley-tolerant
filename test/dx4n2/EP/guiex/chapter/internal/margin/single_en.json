@@ -1,0 +1,29 @@
+[
+ {
+  "text": "3.4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_113",
+  "relativeParagraph": 1,
+  "name": "S62186",
+  "unit": "{3.4}",
+  "value": "{ep-legal:countries:EP::guiex:2003:1::internet:GLA_CII_3:en:docx:A::GLA#GLA_CII_3~3.4}"
+ },
+ {
+  "text": "4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_136",
+  "relativeParagraph": 1,
+  "name": "S62188",
+  "unit": "{4}",
+  "value": "{ep-legal:countries:EP::guiex:2003:1::internet:GLA_CII_4:en:docx:A::GLA#GLA_CII_4~4}"
+ },
+ {
+  "text": "VI,∙3.2a",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2003/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_145",
+  "relativeParagraph": 3,
+  "name": "S62192",
+  "unit": "{VI,∙3.2a}",
+  "value": "{ep-legal:countries:EP::guiex:2003:1::internet:GLC_CVI_3_2a:en:docx:C::GLC#GLC_CVI_3_2a~VI,∙3.2a}"
+ }
+]

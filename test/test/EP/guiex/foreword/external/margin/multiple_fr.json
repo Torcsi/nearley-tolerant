@@ -1,0 +1,20 @@
+[
+ {
+  "text": "DIR/OEB∙partie∙générale,∙7,∙A-III,∙12",
+  "unit": "{DIR/OEB∙partie∙générale,∙7},∙{A-III,∙12}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1::internet:GLI_7:fr:docx:G::GLI#GLI_7~DIR/OEB∙partie∙générale,∙7},∙{ep-legal:countries:EP::guiex:2010:1::internet:GLA_CIII_12:fr:docx:A::GLA#GLA_CIII_12~A-III,∙12}",
+  "name": "M22918",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_122",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙7,∙A-III,∙12",
+  "unit": "{DIR/OEB,∙partie∙générale,∙7},∙{A-III,∙12}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1::internet:GLI_7:fr:docx:I::GLI#GLI_7~DIR/OEB,∙partie∙générale,∙7},∙{ep-legal:countries:EP::guiex:2012:1::internet:GLA_CIII_12:fr:docx:A::GLA#GLA_CIII_12~A-III,∙12}",
+  "name": "M23028",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2012/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_122",
+  "relativeParagraph": 1
+ }
+]

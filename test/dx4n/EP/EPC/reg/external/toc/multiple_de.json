@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Regeln◦51◦(2)∙und◦162◦(2)∙EPÜ",
+  "unit": "{Regeln◦51◦(2)}∙und◦{162◦(2)∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R51_2:de:xml#R51_2~Regeln◦51◦(2)}∙und◦{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R162_2:de:xml#R162_2~162◦(2)∙EPÜ}",
+  "name": "M25419",
+  "file": "/EP/organization/OJ/2016/12/issue/electronicproofer/de/OJ_2016_i12_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_i12_toc",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "Regeln◦36,∙38∙und∙135∙EPÜ",
+  "unit": "{Regeln◦36},∙{38}∙und∙{135∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R36:de:xml#R36~Regeln◦36},∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R38:de:xml#R38~38}∙und∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R135:de:xml#R135~135∙EPÜ}",
+  "name": "M25421",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "Regel∙12∙bis∙Regel◦13◦EPÜ",
+  "unit": "{Regel∙12}∙bis∙{Regel◦13◦EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R12:de:xml#R12~Regel∙12}∙bis∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R13:de:xml#R13~Regel◦13◦EPÜ}",
+  "name": "M25437",
+  "file": "/EP/organization/OJ/2018/se1/issue/electronicproofer/de/OJ_2018_se1_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2018_se1_toc",
+  "relativeParagraph": 49
+ }
+]

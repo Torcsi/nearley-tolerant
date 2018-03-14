@@ -1,0 +1,54 @@
+[
+ {
+  "text": "Art.◦6∙der∙Revisionsakte",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/de/IV.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S13317",
+  "unit": "{Art.◦6∙der∙Revisionsakte}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV6:de:xml#REV6~Art.◦6∙der∙Revisionsakte}"
+ },
+ {
+  "text": "Art.◦7∙der∙Akte∙zur∙Revision∙des∙Europäischen∙Patentübereinkommens",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/de/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_E_2_1",
+  "relativeParagraph": 3,
+  "name": "S13349",
+  "unit": "{Art.◦7∙der∙Akte∙zur∙Revision∙des∙Europäischen∙Patentübereinkommens}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:de:xml#REV7~Art.◦7∙der∙Akte∙zur∙Revision∙des∙Europäischen∙Patentübereinkommens}"
+ },
+ {
+  "text": "Artikel◦7∙der∙Revisionsakte",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 4,
+  "name": "S13517",
+  "unit": "{Artikel◦7∙der∙Revisionsakte}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV7:de:xml~Artikel◦7∙der∙Revisionsakte}"
+ },
+ {
+  "text": "Artikel◦3◦(1)∙der∙Revisionsakte",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 14,
+  "name": "S13518",
+  "unit": "{Artikel◦3◦(1)∙der∙Revisionsakte}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV3_1:de:xml~Artikel◦3◦(1)∙der∙Revisionsakte}"
+ },
+ {
+  "text": "Artikel∙3◦(2)∙der∙Revisionsakte",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 14,
+  "name": "S13519",
+  "unit": "{Artikel∙3◦(2)∙der∙Revisionsakte}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV3_2:de:xml~Artikel∙3◦(2)∙der∙Revisionsakte}"
+ },
+ {
+  "text": "Artikel∙7∙der∙Revisionsakte",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/foreword.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S13568",
+  "unit": "{Artikel∙7∙der∙Revisionsakte}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:de:xml#REV7~Artikel∙7∙der∙Revisionsakte}"
+ }
+]

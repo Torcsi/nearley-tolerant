@@ -1,0 +1,50 @@
+[
+ {
+  "text": "3.3.4.1.1→xxx",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 56,
+  "name": "S02143",
+  "unit": "{3.3.4.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_III_3_3_4_1_1:en:xml#IB_III_3_3_4_1_1~3.3.4.1.1→xxx}"
+ },
+ {
+  "text": "Annex∙1→xxx",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-if.eplegal.zip",
+  "relativeParagraph": 66,
+  "name": "S02144",
+  "unit": "{Annex∙1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IF_II_AN1:en:xml#IF_II_AN1~Annex∙1→xxx}"
+ },
+ {
+  "text": "Annex→xxx",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-if.eplegal.zip",
+  "relativeParagraph": 152,
+  "name": "S02145",
+  "unit": "{Annex→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IF_IV_AN:en:xml#IF_IV_AN~Annex→xxx}"
+ },
+ {
+  "text": "Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/en/part-ie.eplegal.zip",
+  "relativeParagraph": 339,
+  "name": "S02146",
+  "unit": "{Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IE_XII:en:xml#IE_XII~Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights}"
+ },
+ {
+  "text": "Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/en/part-if.eplegal.zip",
+  "relativeParagraph": 67,
+  "name": "S02147",
+  "unit": "{Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IF_II_AN1:en:xml#IF_II_AN1~Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)}"
+ },
+ {
+  "text": "Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/en/part-if.eplegal.zip",
+  "relativeParagraph": 68,
+  "name": "S02148",
+  "unit": "{Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IF_II_AN2:en:xml#IF_II_AN2~Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)}"
+ }
+]

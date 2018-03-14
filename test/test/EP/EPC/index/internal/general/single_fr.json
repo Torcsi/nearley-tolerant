@@ -1,0 +1,74 @@
+[
+ {
+  "text": "PROTOCOLE∙SUR∙LA∙RECONNAISSANCE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 3,
+  "name": "S01871",
+  "unit": "{PROTOCOLE∙SUR∙LA∙RECONNAISSANCE}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:REC:fr:docx:prorecog::#REC~PROTOCOLE∙SUR∙LA∙RECONNAISSANCE}"
+ },
+ {
+  "text": "PROTOCOLE∙SUR∙LA∙CENTRALISATION",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 4,
+  "name": "S01872",
+  "unit": "{PROTOCOLE∙SUR∙LA∙CENTRALISATION}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:CEN:fr:docx:procen::#CEN~PROTOCOLE∙SUR∙LA∙CENTRALISATION}"
+ },
+ {
+  "text": "PROTOCOLE∙SUR∙LES∙PRIVILÈGES∙ET∙IMMUNITÉS",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 5,
+  "name": "S01873",
+  "unit": "{PROTOCOLE∙SUR∙LES∙PRIVILÈGES∙ET∙IMMUNITÉS}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:IMM:fr:docx:proprimm::#IMM~PROTOCOLE∙SUR∙LES∙PRIVILÈGES∙ET∙IMMUNITÉS}"
+ },
+ {
+  "text": "Annexe∙I∙–∙Liste∙des∙décisions/avis∙publiés∙de∙la∙Grande∙Chambre∙de∙recours",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S01874",
+  "unit": "{Annexe∙I∙–∙Liste∙des∙décisions/avis∙publiés∙de∙la∙Grande∙Chambre∙de∙recours}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:AN1:fr:docx:annex1::#AN1~Annexe∙I∙–∙Liste∙des∙décisions/avis∙publiés∙de∙la∙Grande∙Chambre∙de∙recours}"
+ },
+ {
+  "text": "Index∙alphabétique",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S01875",
+  "unit": "{Index∙alphabétique}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:GLO:fr:docx:keywordindex::#GLO~Index∙alphabétique}"
+ },
+ {
+  "text": "INTRODUCTION",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 1,
+  "name": "S01897",
+  "unit": "{INTRODUCTION}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:PRE:fr:docx:foreword:DOCUMENT:#PRE~INTRODUCTION}"
+ },
+ {
+  "text": "PROTOCOLE∙SUR∙LES∙EFFECTIFS",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S01898",
+  "unit": "{PROTOCOLE∙SUR∙LES∙EFFECTIFS}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:STA:fr:docx:staffreg::#STA~PROTOCOLE∙SUR∙LES∙EFFECTIFS}"
+ },
+ {
+  "text": "ANNEXE∙I∙–∙LISTE∙DES∙DÉCISIONS∙ET∙AVIS∙DE∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS∙PUBLIÉS∙AU∙JOURNAL∙OFFICIEL∙DE∙L'OEB",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S01899",
+  "unit": "{ANNEXE∙I∙–∙LISTE∙DES∙DÉCISIONS∙ET∙AVIS∙DE∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS∙PUBLIÉS∙AU∙JOURNAL∙OFFICIEL∙DE∙L'OEB}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:AN1:fr:docx:annex1::#AN1~ANNEXE∙I∙–∙LISTE∙DES∙DÉCISIONS∙ET∙AVIS∙DE∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS∙PUBLIÉS∙AU∙JOURNAL∙OFFICIEL∙DE∙L'OEB}"
+ }
+]

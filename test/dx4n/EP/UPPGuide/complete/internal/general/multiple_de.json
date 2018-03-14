@@ -1,0 +1,20 @@
+[
+ {
+  "text": "s.◦111∙und∙115",
+  "unit": "{s.◦111}∙und∙{115}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_111:de:xml#UPPG_111~s.◦111}∙und∙{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_115:de:xml#UPPG_115~115}",
+  "name": "M23579",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_28",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "unter◦123∙bis◦125",
+  "unit": "{unter◦123}∙bis◦{125}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_123:de:xml#UPPG_123~unter◦123}∙bis◦{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_125:de:xml#UPPG_125~125}",
+  "name": "M23581",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_58",
+  "relativeParagraph": 0
+ }
+]

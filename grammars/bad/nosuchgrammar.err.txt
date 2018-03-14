@@ -1,0 +1,18 @@
+Path must be a string. Received undefined
+TypeError: Path must be a string. Received undefined
+    at assertPath (path.js:28:11)
+    at Object.resolve (path.js:221:7)
+    at CaseTester.relativeFile (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:147:21)
+    at CaseTester.perform (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:55:31)
+    at Context.<anonymous> (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\test\test_casetester.js:281:26)
+    at callFn (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:354:21)
+    at Test.Runnable.run (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:346:7)
+    at Runner.runTest (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:442:10)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:560:12
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:356:14)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:366:7
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:290:14)
+    at Immediate.<anonymous> (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:334:5)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)

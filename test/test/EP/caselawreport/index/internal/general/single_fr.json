@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Avant-propos∙de∙la∙quatrième∙édition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 2,
+  "name": "S00806",
+  "unit": "{Avant-propos∙de∙la∙quatrième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_FOREWORD:fr:docx:foreword::#CLR_FOREWORD~Avant-propos∙de∙la∙quatrième∙édition}"
+ },
+ {
+  "text": "Avertissement",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 3,
+  "name": "S00807",
+  "unit": "{Avertissement}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_GUIDE:fr:docx:guide::#CLR_GUIDE~Avertissement}"
+ },
+ {
+  "text": "Sommaires∙des∙décisions∙destinées∙à∙être∙publiées∙au∙JO",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 4,
+  "name": "S00808",
+  "unit": "{Sommaires∙des∙décisions∙destinées∙à∙être∙publiées∙au∙JO}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_HEADWORDS:fr:docx:headnotes::#CLR_HEADWORDS~Sommaires∙des∙décisions∙destinées∙à∙être∙publiées∙au∙JO}"
+ },
+ {
+  "text": "Index∙des∙décisions∙citées",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 5,
+  "name": "S00809",
+  "unit": "{Index∙des∙décisions∙citées}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_DECISIONS:fr:docx:tableofcases::#CLR_DECISIONS~Index∙des∙décisions∙citées}"
+ },
+ {
+  "text": "Liste∙des∙dispositions∙citées",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 6,
+  "name": "S00810",
+  "unit": "{Liste∙des∙dispositions∙citées}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_CITATIONS:fr:docx:indexofcitedprovisions::#CLR_CITATIONS~Liste∙des∙dispositions∙citées}"
+ },
+ {
+  "text": "Index∙alphabétique",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 7,
+  "name": "S00811",
+  "unit": "{Index∙alphabétique}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_GLO:fr:docx:keywordindex::#CLR_GLO~Index∙alphabétique}"
+ }
+]

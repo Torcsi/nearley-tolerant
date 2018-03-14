@@ -1,0 +1,29 @@
+[
+ {
+  "text": "GL/EPO∙General∙Part,∙3.1",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_16",
+  "relativeParagraph": 1,
+  "name": "S02745",
+  "unit": "{GL/EPO∙General∙Part,∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_3_1:en:xml#GLG_3_1~GL/EPO∙General∙Part,∙3.1}"
+ },
+ {
+  "text": "GL/EPO,∙General∙Part,∙6",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_31",
+  "relativeParagraph": 1,
+  "name": "S02748",
+  "unit": "{GL/EPO,∙General∙Part,∙6}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_6:en:xml#GLG_6~GL/EPO,∙General∙Part,∙6}"
+ },
+ {
+  "text": "GL/EPO∙General∙Part,∙3",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:_Ref358805812",
+  "relativeParagraph": 1,
+  "name": "S02792",
+  "unit": "{GL/EPO∙General∙Part,∙3}",
+  "value": "{ep-legal:countries:EP::guiex:2014:1:1.0:electronicproofer:GLI_3:en:xml#GLI_3~GL/EPO∙General∙Part,∙3}"
+ }
+]

@@ -1,0 +1,80 @@
+{
+	"name":"OJ1_1",
+	"input":"∙A23",
+	"tokens":"%anySpace %OJArtNo",
+	"rule":"%anySpace %OJArtNo",
+	"urn":"ep-legal:countries:EP::OJ:2014:02:issue:electronicproofer:OJ_2014_A23:de:xml#OJ_2014_A23",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip"
+},
+{
+	"name":"OJ2_1",
+	"input":"387",
+	"tokens":"%number",
+	"rule":"%number",
+	"urn":"ep-legal:countries:EP::OJ:1995:06:1.0:electronicproofer:1995_387:de:pdf",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/de/I.eplegal.zip"
+},
+{
+	"name":"OJ3_1",
+	"input":"2010,◦350",
+	"tokens":"%number %andortocomma %number",
+	"rule":"%number %andortocomma %number",
+	"urn":"ep-legal:countries:EP::OJ:2010:06:1.0:electronicproofer:2010_350:de:pdf",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip"
+},
+{
+	"name":"OJ4_1",
+	"input":"5/2007",
+	"tokens":"%number %per %number",
+	"rule":"%number %per %number",
+	"urn":"ep-legal:countries:EP::OJ:2007:s5:1.0:electronicproofer:2007_se5:de:pdf",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/de/VIII.eplegal.zip"
+},
+{
+	"name":"OJ5_1",
+	"input":"OJ∙2014,∙A122",
+	"tokens":"%OJShort %anySpace %number %andortocomma %OJArtNo",
+	"rule":"OJ %anySpace %number %andortocomma %OJArtNo",
+	"urn":"ep-legal:countries:EP::OJ:2014:12:issue:electronicproofer:OJ_2014_A122:de:xml#OJ_2014_A122",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2015/se4/issue/electronicproofer/de/OJ_2015_se4_169.eplegal.zip"
+},
+{
+	"name":"OJ6_1",
+	"input":"OJ∙1985,∙060",
+	"tokens":"%OJShort %anySpace %number %andortocomma %digit3",
+	"rule":"OJ %anySpace %number %andortocomma %digit3",
+	"urn":"ep-legal:countries:EP::OJ:1985:03:issue:electronicproofer:OJ_1985_60:de:pdf#1985_60",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2016/08/issue/electronicproofer/de/OJ_2016_A71.eplegal.zip"
+},
+{
+	"name":"OJ7_1",
+	"input":"OJ∙2002,∙347",
+	"tokens":"%OJShort %anySpace %number %andortocomma %number",
+	"rule":"OJ %anySpace %number %andortocomma %number",
+	"urn":"ep-legal:countries:EP::OJ:2002:07:issue:electronicproofer:2002_347:de:xml#2002_347",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2002/12/issue/electronicproofer/de/OJ_2002_i12_decisions.eplegal.zip"
+},
+{
+	"name":"OJ8_1",
+	"input":"OJ◦2014,A39",
+	"tokens":"%OJShort %anySpace %number %comma %OJArtNo",
+	"rule":"OJ %anySpace %number %comma %OJArtNo",
+	"urn":"ep-legal:countries:EP::OJ:2014:03:issue:electronicproofer:OJ_2014_A39:de:xml#OJ_2014_A39",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2014/05/issue/electronicproofer/de/OJ_2014_A54.eplegal.zip"
+},
+{
+	"name":"OJ9_1",
+	"input":"OJ∙1985,060",
+	"tokens":"%OJShort %anySpace %number %comma %digit3",
+	"rule":"OJ %anySpace %number %comma %digit3",
+	"urn":"ep-legal:countries:EP::OJ:1985:03:issue:designproofer:1985_60:de:pdf#1985_60",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1998/09/issue/electronicproofer/de/OJ_1998_i09_decisions.eplegal.zip"
+},
+{
+	"name":"OJ10_1",
+	"input":"OJ∙1985,299",
+	"tokens":"%OJShort %anySpace %number %comma %number",
+	"rule":"OJ %anySpace %number %comma %number",
+	"urn":"ep-legal:countries:EP::OJ:1985:10:issue:designproofer:1985_299:de:pdf#1985_299",
+	"file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1998/09/issue/electronicproofer/de/OJ_1998_i09_decisions.eplegal.zip"
+},

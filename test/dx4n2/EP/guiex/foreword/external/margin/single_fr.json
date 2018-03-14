@@ -1,0 +1,29 @@
+[
+ {
+  "text": "DIR/OEB,∙Partie∙générale∙3.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_16",
+  "relativeParagraph": 1,
+  "name": "S06511",
+  "unit": "{DIR/OEB,∙Partie∙générale∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1::internet:GLI_3_1:fr:docx:G::GLI#GLI_3_1~DIR/OEB,∙Partie∙générale∙3.1}"
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_31",
+  "relativeParagraph": 1,
+  "name": "S06514",
+  "unit": "{DIR/OEB,∙partie∙générale,∙6}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1::internet:GLI_6:fr:docx:G::GLI#GLI_6~DIR/OEB,∙partie∙générale,∙6}"
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙3.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2012/1/internet/fr/complete.eplegal.zip",
+  "referringId": "GA_16",
+  "relativeParagraph": 1,
+  "name": "S06536",
+  "unit": "{DIR/OEB,∙partie∙générale,∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1::internet:GLI_3_1:fr:docx:I::GLI#GLI_3_1~DIR/OEB,∙partie∙générale,∙3.1}"
+ }
+]

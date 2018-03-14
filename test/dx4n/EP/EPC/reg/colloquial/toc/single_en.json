@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Implementing∙Regulations∙to∙the∙Convention∙on∙the∙Grant∙of∙European∙Patents",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 3,
+  "name": "S01723",
+  "unit": "{Implementing∙Regulations∙to∙the∙Convention∙on∙the∙Grant∙of∙European∙Patents}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REG:en:xml~Implementing∙Regulations∙to∙the∙Convention∙on∙the∙Grant∙of∙European∙Patents}"
+ },
+ {
+  "text": "Rule◦103∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/en/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 10,
+  "name": "S02149",
+  "unit": "{Rule◦103∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:R103:en:xml#R103~Rule◦103∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}"
+ },
+ {
+  "text": "Rule∙82∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention",
+  "file": "/EP/organization/OJ/2015/10/issue/electronicproofer/en/OJ_2015_i10_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2015_i10_toc",
+  "relativeParagraph": 2,
+  "name": "S02166",
+  "unit": "{Rule∙82∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:R82:en:xml#R82~Rule∙82∙of∙the∙Implementing∙Regulations∙to∙the∙European∙Patent∙Convention}"
+ }
+]

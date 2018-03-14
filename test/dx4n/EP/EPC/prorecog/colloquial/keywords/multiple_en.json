@@ -1,0 +1,54 @@
+[
+ {
+  "text": "PR◦1(1),∙PR◦2",
+  "unit": "{PR◦1(1)},∙{PR◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_1:en:xml~PR◦1(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P2:en:xml~PR◦2}",
+  "name": "M11100",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 92
+ },
+ {
+  "text": "PR◦7,∙PR◦8",
+  "unit": "{PR◦7},∙{PR◦8}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P7:en:xml~PR◦7},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P8:en:xml~PR◦8}",
+  "name": "M11148",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 64
+ },
+ {
+  "text": "PR◦1(2),∙PR◦9,∙PR◦10",
+  "unit": "{PR◦1(2)},∙{PR◦9},∙{PR◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_2:en:xml~PR◦1(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:en:xml~PR◦9},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P10:en:xml~PR◦10}",
+  "name": "M11154",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 75
+ },
+ {
+  "text": "PR∙4,∙5",
+  "unit": "{PR∙4},∙{5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P4:en:xml~PR∙4},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P5:en:xml~5}",
+  "name": "M11314",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_P",
+  "relativeParagraph": 83
+ },
+ {
+  "text": "PR∙1-8",
+  "unit": "{PR∙1}-{8}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:P1:en:xml#P1~PR∙1}-{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:P8:en:xml#P8~8}",
+  "name": "M11374",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "relativeParagraph": 72
+ },
+ {
+  "text": "PR◦9-PR◦10",
+  "unit": "{PR◦9}-{PR◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:P9:en:xml#P9~PR◦9}-{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:P10:en:xml#P10~PR◦10}",
+  "name": "M11414",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "relativeParagraph": 12
+ }
+]

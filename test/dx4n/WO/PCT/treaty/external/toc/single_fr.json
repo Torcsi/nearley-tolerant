@@ -1,0 +1,56 @@
+[
+ {
+  "text": "chapitre∙II∙du∙PCT",
+  "file": "/EP/organization/OJ/2016/09/issue/electronicproofer/fr/OJ_2016_i09_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_i09_toc",
+  "relativeParagraph": 9,
+  "name": "S28662",
+  "unit": "{chapitre∙II∙du∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:fr:xml#CII~chapitre∙II∙du∙PCT}"
+ },
+ {
+  "text": "chapitre◦II∙du∙PCT",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 148,
+  "name": "S28673",
+  "unit": "{chapitre◦II∙du∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:fr:xml#CII~chapitre◦II∙du∙PCT}"
+ },
+ {
+  "text": "Dispositions∙introductives",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 7,
+  "name": "S29118",
+  "unit": "{Dispositions∙introductives}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:INTRO:fr:xml#INTRO~Dispositions∙introductives}"
+ },
+ {
+  "text": "Article∙1er→xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 8,
+  "name": "S29119",
+  "unit": "{Article∙1er→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:1:fr:xml#1~Article∙1er→xxx}"
+ },
+ {
+  "text": "Article∙2→xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 9,
+  "name": "S29120",
+  "unit": "{Article∙2→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:2:fr:xml#2~Article∙2→xxx}"
+ },
+ {
+  "text": "Chapitre∙I:→xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 10,
+  "name": "S29121",
+  "unit": "{Chapitre∙I:→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CI:fr:xml#CI~Chapitre∙I:→xxx}"
+ }
+]

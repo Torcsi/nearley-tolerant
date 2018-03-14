@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Avant-propos∙de∙la∙cinquième∙édition",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 1,
+  "name": "S28083",
+  "unit": "{Avant-propos∙de∙la∙cinquième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_FOREWORD:fr:xml~Avant-propos∙de∙la∙cinquième∙édition}"
+ },
+ {
+  "text": "AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S28095",
+  "unit": "{AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:fr:xml~AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION}"
+ },
+ {
+  "text": "Avant-propos∙de∙la∙sixième∙édition",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:CLR_TOC",
+  "relativeParagraph": 1,
+  "name": "S28099",
+  "unit": "{Avant-propos∙de∙la∙sixième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:fr:xml~Avant-propos∙de∙la∙sixième∙édition}"
+ },
+ {
+  "text": "Avant-propos∙de∙la∙septième∙édition",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S28107",
+  "unit": "{Avant-propos∙de∙la∙septième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_FOREWORD:fr:xml#CLR_FOREWORD~Avant-propos∙de∙la∙septième∙édition}"
+ },
+ {
+  "text": "Avant-propos∙de∙la∙huitième∙édition",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S28113",
+  "unit": "{Avant-propos∙de∙la∙huitième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_FOREWORD:fr:xml#CLR_FOREWORD~Avant-propos∙de∙la∙huitième∙édition}"
+ }
+]

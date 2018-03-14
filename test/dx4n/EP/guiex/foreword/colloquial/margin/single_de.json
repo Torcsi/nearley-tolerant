@@ -1,0 +1,38 @@
+[
+ {
+  "text": "G-II,∙3.6",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_29",
+  "relativeParagraph": 1,
+  "name": "S15489",
+  "unit": "{G-II,∙3.6}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_3_6:de:xml#GLG_CII_3_6~G-II,∙3.6}"
+ },
+ {
+  "text": "G-II,∙4.2.1",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_30",
+  "relativeParagraph": 3,
+  "name": "S15491",
+  "unit": "{G-II,∙4.2.1}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_4_2_1:de:xml#GLG_CII_4_2_1~G-II,∙4.2.1}"
+ },
+ {
+  "text": "RL/EPA,∙Allgemeiner∙Teil,∙3.1",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_16",
+  "relativeParagraph": 1,
+  "name": "S15534",
+  "unit": "{RL/EPA,∙Allgemeiner∙Teil,∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_3_1:de:xml#GLG_3_1~RL/EPA,∙Allgemeiner∙Teil,∙3.1}"
+ },
+ {
+  "text": "RL/EPA,∙Allgemeiner∙Teil,∙6",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_31",
+  "relativeParagraph": 1,
+  "name": "S15535",
+  "unit": "{RL/EPA,∙Allgemeiner∙Teil,∙6}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_6:de:xml#GLG_6~RL/EPA,∙Allgemeiner∙Teil,∙6}"
+ }
+]

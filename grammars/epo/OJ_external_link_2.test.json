@@ -1,0 +1,1077 @@
+{
+    "name":"OJ External link cases",
+    "options": {
+        "grammar":"OJ_external_link.ne",
+        "lexer":"tihylexer-en.js",
+       "methods":
+        [
+            {
+                "method":"SingleRef",
+                "interpreter":"none",
+                "field":"singleref",
+                "file": "OJ_external_link_single.found.html"
+            },
+            {
+                "method":"MultipleRef",
+                "interpreter":"none",
+                "field":"multipleref",
+                "file": "OJ_external_link_multiple.found.html"
+            },
+            {
+                "method":"BadRef",
+                "interpreter":"none",
+                "field":"badref",
+                "file": "OJ_external_link_multiple.found.html"
+            }
+        ]
+    },
+    "cases":
+	[
+        {
+            "name":"OJ1_1",
+            "input":"OJ◦EPO∙special∙edition∙3/2007,∙128",
+            "singleref":["OJ◦EPO∙special∙edition∙3/2007,∙128"],
+            "tokens":"%OJSENormal %number %per %number %andortocomma %number",
+            "rule":"%OJSENormal %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2012/08-09/issue/electronicproofer/en/OJ_2012_472.eplegal.zip",
+            "log":false
+        },
+        {
+            "name":"OJ2_1",
+            "input":"OJ◦EPO∙Special∙editions∙No.◦4/2001,∙pages◦56",
+            "singleref":["OJ◦EPO∙Special∙editions∙No.◦4/2001,∙pages◦56"],
+            "tokens":"%OJSENormal %No %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"%OJSENormal OJNo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:s4:1.0:electronicproofer:2001_se4:en:pdf#2001_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip"
+        },
+        {
+            "name":"OJ3_1",
+            "input":"Special∙edition∙OJ◦EPO∙4/2007,∙p.◦50",
+            "singleref":["Special∙edition∙OJ◦EPO∙4/2007,∙p.◦50"],
+            "tokens":"%OJSEReverse %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"%OJSEReverse %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se4:issue:electronicproofer:OJ_2007_se4:en:pdf#2007_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2012/03/issue/electronicproofer/en/OJ_2012_130.eplegal.zip"
+        },
+        {
+            "name":"OJ4_1",
+            "input":"OJ◦SE∙4/2007",
+            "singleref":["OJ◦SE∙4/2007"],
+            "tokens":"%OJSEShort %anySpace %number %per %number",
+            "rule":"%OJSEShort %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se4:issue:electronicproofer:OJ_2007_se4:en:pdf#2007_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ5_1",
+            "input":"OJ◦SE∙4/2007,∙48",
+            "singleref":["OJ◦SE∙4/2007,∙48"],
+            "tokens":"%OJSEShort %anySpace %number %per %number %andortocomma %number",
+            "rule":"%OJSEShort %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se4:issue:electronicproofer:OJ_2007_se4:en:pdf#2007_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ6_1",
+            "input":"OJ◦Special◦edition∙No.◦1/2007,∙pages◦89",
+            "singleref":["OJ◦Special◦edition∙No.◦1/2007,∙pages◦89"],
+            "tokens":"%OJSEShort %No %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"%OJSEShort OJNo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s1:1.0:electronicproofer:2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip"
+        },
+        {
+            "name":"OJ7_1",
+            "input":"Supplement◦No.◦2∙to∙OJ◦EPO◦3/2010",
+            "singleref":["Supplement◦No.◦2∙to∙OJ◦EPO◦3/2010"],
+            "tokens":"%OJSupplNo %anySpace %number %to %OJEpo %anySpace %number %per %number",
+            "rule":"%OJSupplNo %anySpace %number %to OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:03:1.0:electronicproofer:2010_i03_su2:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2010/1/1.0/electronicproofer/en/conv.eplegal.zip"
+        },
+        {
+            "name":"OJ7_2",
+            "input":"Supplement∙No.◦1∙to∙OJ◦3/2009",
+            "singleref":["Supplement∙No.◦1∙to∙OJ◦3/2009"],
+            "tokens":"%OJSupplNo %anySpace %number %to %OJShort %anySpace %number %per %number",
+            "rule":"%OJSupplNo %anySpace %number %to OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:1.0:electronicproofer:2009_i03:en:pdf#2009_i03",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip"
+        },
+        {
+            "name":"OJ8_1",
+            "input":"Supplement∙No.◦1∙to∙OJ◦EPO∙12/1992,∙1",
+            "singleref":["Supplement∙No.◦1∙to∙OJ◦EPO∙12/1992,∙1"],
+            "tokens":"%OJSupplNo %anySpace %number %to %OJEpo %anySpace %number %per %number %andortocomma %number",
+            "rule":"%OJSupplNo %anySpace %number %to OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:1992:12:sup:electronicproofer:OJ_1992_i12_sup:en:pdf#1992_i12_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1993/10/issue/electronicproofer/en/OJ_1993_647.eplegal.zip"
+        },
+        {
+            "name":"OJ9_1",
+            "input":"Supplement∙No.∙2∙to∙OJ∙EPO∙No.∙1/2005",
+            "singleref":["Supplement∙No.∙2∙to∙OJ∙EPO∙No.∙1/2005"],
+            "tokens":"%OJSupplNo %anySpace %number %to %OJEpo %anySpace %No %anySpace %number %per %number",
+            "rule":"%OJSupplNo %anySpace %number %to OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2005:01:sup2:electronicproofer:OJ_2005_i01_sup2:en:pdf#2005_i01_sup2",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2005/02/issue/electronicproofer/en/OJ_2005_150.eplegal.zip"
+        },
+        {
+            "name":"OJ9_2",
+            "input":"Supplement∙No.∙2∙to∙Official∙Journal∙No.∙12/1992",
+            "singleref":["Supplement∙No.∙2∙to∙Official∙Journal∙No.∙12/1992"],
+            "tokens":"%OJSupplNo %anySpace %number %to %OJLong %anySpace %No %anySpace %number %per %number",
+            "rule":"%OJSupplNo %anySpace %number %to OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1992:12:sup2:electronicproofer:OJ_1992_i12_sup2:en:pdf#1992_i12_sup2",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1993/01-02/issue/electronicproofer/en/OJ_1993_71.eplegal.zip"
+        },
+        {
+            "name":"OJ16_1",
+            "input":"OJ∙EPO,∙1983,∙121",
+            "singleref":["OJ∙EPO,∙1983,∙121"],
+            "tokens":"%OJEpo %andortocomma %number %andortocomma %number",
+            "rule":"OJ %andortocomma %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:1983:04:issue:electronicproofer:OJ_1983_121:en:pdf#1983_121",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1994/06/issue/electronicproofer/en/OJ_1994_349.eplegal.zip"
+        },
+        {
+            "name":"OJ16_2",
+            "input":"OJ,∙2004,∙413",
+            "singleref":["OJ,∙2004,∙413"],
+            "tokens":"%OJShort %andortocomma %number %andortocomma %number",
+            "rule":"OJ %andortocomma %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2004:08-09:issue:electronicproofer:2004_413:en:xml#2004_413",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/II.eplegal.zip"
+        },
+        {
+            "name":"OJ17_1",
+            "input":"OJ◦EPO∙issue∙No.∙10/1992,∙page∙604",
+            "singleref":["OJ◦EPO∙issue∙No.∙10/1992,∙page∙604"],
+            "tokens":"%OJEpo %anySpace %issue %anySpace %No %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %issue %anySpace OJNo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1992:10:issue:electronicproofer:1992_603:en:xml#1992_604",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1992/12/issue/electronicproofer/en/OJ_1992_821a.eplegal.zip"
+        },
+        {
+            "name":"OJ18_1",
+            "log":false,
+            "input":"OJ∙EPO∙2015,∙A35",
+            "singleref":["OJ∙EPO∙2015,∙A35"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %OJArtNo",
+            "rule":"OJ %anySpace %number %andortocomma %OJArtNo",
+            "urn":"ep-legal:countries:EP::OJ:2015:04:issue:electronicproofer:OJ_2015_A35:en:xml#OJ_2015_A35",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/annexes.eplegal.zip"
+        },
+        {
+            "name":"OJ18_2",
+            "input":"OJ◦2016,∙A28",
+            "singleref":["OJ◦2016,∙A28"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %OJArtNo",
+            "rule":"OJ %anySpace %number %andortocomma %OJArtNo",
+            "urn":"ep-legal:countries:EP::OJ:2016:03:issue:electronicproofer:OJ_2016_A28:en:xml#OJ_2016_A28",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ19_1",
+            "input":"OJ◦EPO◦1990,∙page∙384",
+            "singleref":["OJ◦EPO◦1990,∙page∙384"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1990:09:issue:designproofer:1990_384:en:pdf#1990_384",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1995/08/issue/electronicproofer/en/OJ_1995_525.eplegal.zip"
+        },
+        {
+            "name":"OJ19_2",
+            "input":"Official∙Journal∙2002,∙p.∙76",
+            "singleref":["Official∙Journal∙2002,∙p.∙76"],
+            "tokens":"%OJLong %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2002:02:issue:electronicproofer:2002_69:en:xml#2002_76",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2003/10/issue/electronicproofer/en/OJ_2003_441.eplegal.zip"
+        },
+        {
+            "name":"OJ19_3",
+            "input":"OJ∙2009,∙page∙338",
+            "singleref":["OJ∙2009,∙page∙338"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:05:issue:electronicproofer:2009_338:en:xml#2009_338",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ21_1",
+            "input":"OJ∙1993,∙08",
+            "singleref":["OJ∙1993,∙08"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %digit2",
+            "rule":"OJ %anySpace %number %andortocomma %digit2",
+            "urn":"ep-legal:countries:EP::OJ:1993:01-02:issue:electronicproofer:OJ_1993_8:en:pdf#1993_8",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2008/08-09/issue/electronicproofer/en/OJ_2008_i08-09_decisions.eplegal.zip"
+        },
+        {
+            "name":"OJ22_1",
+            "input":"OJ∙EPO∙1985,∙064",
+            "singleref":["OJ∙EPO∙1985,∙064"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %digit3",
+            "rule":"OJ %anySpace %number %andortocomma %digit3",
+            "urn":"ep-legal:countries:EP::OJ:1985:03:issue:designproofer:1985_64:en:pdf#1985_64",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1998/11/issue/electronicproofer/en/OJ_1998_511.eplegal.zip"
+        },
+        {
+            "name":"OJ22_2",
+            "input":"OJ◦2007,∙016",
+            "singleref":["OJ◦2007,∙016"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %digit3",
+            "rule":"OJ %anySpace %number %andortocomma %digit3",
+            "urn":"ep-legal:countries:EP::OJ:2007:01:issue:electronicproofer:2007_16:en:xml#2007_16",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ23_1",
+            "input":"OJ∙EPO∙2007,∙303",
+            "singleref":["OJ∙EPO∙2007,∙303"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:05:1.0:electronicproofer:2007_303:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/annexes.eplegal.zip"
+        },
+        {
+            "name":"OJ23_2",
+            "input":"Official∙Journal∙2004,∙1",
+            "singleref":["Official∙Journal∙2004,∙1"],
+            "tokens":"%OJLong %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2004:01:issue:electronicproofer:2004_1:en:xml#2004_1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2004/04/issue/electronicproofer/en/OJ_2004_177.eplegal.zip"
+        },
+        {
+            "name":"OJ23_3",
+            "input":"OJ∙1990,∙12",
+            "singleref":["OJ∙1990,∙12"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:1990:01-02:1.0:electronicproofer:1990_12:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ24_1",
+            "input":"OJ∙2014,∙Suppl.∙4",
+            "singleref":["OJ∙2014,∙Suppl.∙4"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %OJSuppl %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma OJSuppl %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2014:se4:issue:electronicproofer:OJ_2014_se4_toc:en:xml#OJ_2014_se4_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2015/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ25_1",
+            "input":"OJ◦EPO◦1999,∙Suppl.∙to∙No.∙2/99,∙pp.∙7",
+            "singleref":["OJ◦EPO◦1999,∙Suppl.∙to∙No.∙2/99,∙pp.∙7"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %OJSupplTo %anySpace %No %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma OJSuppl %anySpace OJNo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1999:02:sup:electronicproofer:1999_i02_sup_7:en:xml#1999_i02_sup_7",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1999/02/sup/electronicproofer/en/OJ_1999_i02_sup_21.eplegal.zip"
+        },
+        {
+            "name":"OJ26_1",
+            "input":"OJ◦EPO∙2016,∙supplementary∙publication◦2",
+            "singleref":["OJ◦EPO∙2016,∙supplementary∙publication◦2"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %OJSuppPubLong %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma OJSupplPub %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2016:se2:issue:electronicproofer:OJ_2016_se2_toc:en:pdf#OJ_2016_se2_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2017/se5/issue/electronicproofer/en/OJ_2017_se5_11.eplegal.zip"
+        },
+        {
+            "name":"OJ26_2",
+            "input":"OJ∙2015,∙Supplementary∙publication∙3",
+            "singleref":["OJ∙2015,∙Supplementary∙publication∙3"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %OJSuppPubLong %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma OJSupplPub %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2015:se3:issue:electronicproofer:OJ_2015_se3_toc:en:xml#OJ_2015_se3_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2016/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ26_3",
+            "input":"OJ∙2015,∙Suppl.∙Publ.∙3",
+            "singleref":["OJ∙2015,∙Suppl.∙Publ.∙3"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %OJSuppPubShort %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma OJSupplPub %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2015:se3:issue:electronicproofer:OJ_2015_se3_toc:en:pdf#OJ_2015_se3_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ27_1",
+            "input":"OJ∙EPO∙2007,∙Spec.∙ed.∙3",
+            "singleref":["OJ∙EPO∙2007,∙Spec.∙ed.∙3"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdShort %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip"
+        },
+        {
+            "name":"OJ27_2",
+            "input":"OJ∙2007,∙Spec.Ed.3",
+            "singleref":["OJ∙2007,∙Spec.Ed.3"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %SpecEdShort %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ28_1",
+            "input":"OJ◦EPO∙2007,∙Special∙edition∙4,∙50",
+            "singleref":["OJ◦EPO∙2007,∙Special∙edition∙4,∙50"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdLong %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se4:issue:electronicproofer:OJ_2007_se4:en:pdf#2007_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2011/03/issue/electronicproofer/en/OJ_2011_134.eplegal.zip"
+        },
+        {
+            "name":"OJ29_1",
+            "input":"OJ◦EPO◦2007,∙Special∙edition∙No.◦3",
+            "singleref":["OJ◦EPO◦2007,∙Special∙edition∙No.◦3"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdLong %No %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED OJNo %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2017/1/1.0/electronicproofer/en/E.eplegal.zip"
+        },
+        {
+            "name":"OJ29_2",
+            "input":"OJ∙2007,∙Special∙edition◦No.◦3",
+            "singleref":["OJ∙2007,∙Special∙edition◦No.◦3"],
+            "tokens":"%OJShort %anySpace %number %andortocomma %SpecEdLong %No %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED OJNo %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ30_1",
+            "input":"OJ◦EPO∙2001,◦Special∙edition∙No.◦4,∙p.◦55",
+            "singleref":["OJ◦EPO∙2001,◦Special∙edition∙No.◦4,∙p.◦55"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdLong %No %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED OJNo %anySpace %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:s4:1.0:electronicproofer:2001_se4:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2010/1/1.0/electronicproofer/en/conv.eplegal.zip"
+        },
+        {
+            "name":"OJ31_1",
+            "input":"OJ∙EPO∙2007,∙Special∙Edition∙No.◦1,∙196",
+            "singleref":["OJ∙EPO∙2007,∙Special∙Edition∙No.◦1,∙196"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdLong %No %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED OJNo %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:electronicproofer:OJ_2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2007/10/issue/electronicproofer/en/OJ_2007_504.eplegal.zip"
+        },
+        {
+            "name":"OJ31_2",
+            "input":"OJ◦EPO∙2001,∙Special∙Edition∙No◦4,∙139",
+            "singleref":["OJ◦EPO∙2001,∙Special∙Edition∙No◦4,∙139"],
+            "tokens":"%OJEpo %anySpace %number %andortocomma %SpecEdLong %UnusualNo %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %andortocomma SPECED OJNo %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:se4:issue:electronicproofer:OJ_2001_se4:en:pdf#2001_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2012/03/issue/electronicproofer/en/OJ_2012_130.eplegal.zip"
+        },
+        {
+            "name":"OJ32_1",
+            "input":"OJ∙1990∙114",
+            "singleref":["OJ∙1990∙114"],
+            "tokens":"%OJShort %anySpace %number %anySpace %number",
+            "rule":"OJ %anySpace %number %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1990:04:issue:designproofer:1990_114:en:pdf#1990_114",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2013/1/1.0/electronicproofer/en/II.eplegal.zip"
+        },
+        {
+            "name":"OJ33_1",
+            "input":"OJ∙2007∙Spec.Ed.3",
+            "singleref":["OJ∙2007∙Spec.Ed.3"],
+            "tokens":"%OJShort %anySpace %number %anySpace %SpecEdShort %number",
+            "rule":"OJ %anySpace %number %anySpace SPECED %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ34_1",
+            "input":"OJ◦EPO◦2003∙Special∙edition∙No.◦1,∙202",
+            "singleref":["OJ◦EPO◦2003∙Special∙edition∙No.◦1,∙202"],
+            "tokens":"%OJEpo %anySpace %number %anySpace %SpecEdLong %No %anySpace %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %anySpace SPECED OJNo %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2003:s1:1.0:electronicproofer:2003_se1:en:pdf#2003_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/C.eplegal.zip"
+        },
+        {
+            "name":"OJ35_1",
+            "input":"OJ◦2014,A39",
+            "singleref":["OJ◦2014,A39"],
+            "tokens":"%OJShort %anySpace %number %comma %OJArtNo",
+            "rule":"OJ %anySpace %number %comma %OJArtNo",
+            "urn":"ep-legal:countries:EP::OJ:2014:03:issue:electronicproofer:OJ_2014_A39:en:xml#OJ_2014_A39",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2014/05/issue/electronicproofer/en/OJ_2014_A54.eplegal.zip"
+        },
+        {
+            "name":"OJ36_1",
+            "input":"OJ∙1985,060",
+            "singleref":["OJ∙1985,060"],
+            "tokens":"%OJShort %anySpace %number %comma %digit3",
+            "rule":"OJ %anySpace %number %comma %digit3",
+            "urn":"ep-legal:countries:EP::OJ:1985:03:issue:designproofer:1985_60:de:pdf#1985_60",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1998/09/issue/electronicproofer/en/OJ_1998_i09_decisions.eplegal.zip"
+        },
+        {
+            "name":"OJ37_1",
+            "input":"OJ∙EPO∙2013,194",
+            "singleref":["OJ∙EPO∙2013,194"],
+            "tokens":"%OJEpo %anySpace %number %comma %number",
+            "rule":"OJ %anySpace %number %comma %number",
+            "urn":"ep-legal:countries:EP::OJ:2013:04:issue:electronicproofer:2013_194:en:xml#2013_194",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2013/1/1.0/electronicproofer/en/annex1.eplegal.zip"
+        },
+        {
+            "name":"OJ37_2",
+            "input":"OJ◦2005,14",
+            "singleref":["OJ◦2005,14"],
+            "tokens":"%OJShort %anySpace %number %comma %number",
+            "rule":"OJ %anySpace %number %comma %number",
+            "urn":"ep-legal:countries:EP::OJ:2005:01:1.0:electronicproofer:2005_14:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VII.eplegal.zip"
+        },
+        {
+            "name":"OJ38_1",
+            "input":"OJ∙EPO∙1-2/1996",
+            "singleref":["OJ∙EPO∙1-2/1996"],
+            "tokens":"%OJEpo %anySpace %number %dash %number %per %number",
+            "rule":"OJ %anySpace %number %dash %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1996:01-02:issue:electronicproofer:OJ_1996_i01-02:en:pdf#1996_i01-02",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1996/04/issue/electronicproofer/en/OJ_1996_251.eplegal.zip"
+        },
+        {
+            "name":"OJ39_1",
+            "input":"OJ∙8-9/2009,∙pages∙456",
+            "singleref":["OJ∙8-9/2009,∙pages∙456"],
+            "tokens":"%OJShort %anySpace %number %dash %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:08-09:issue:electronicproofer:2009_454:en:doc#2009_456",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ40_1",
+            "input":"Official∙Journal∙11-12/1979,∙p.447)",
+            "singleref":["Official∙Journal∙11-12/1979,∙p.447)"],
+            "tokens":"%OJLong %anySpace %number %dash %number %per %number %andortocomma %PagesText %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %PagesText %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:1979:11-12:issue:electronicproofer:1979_447:en:xml#1979_447",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1981/09/issue/electronicproofer/en/OJ_1981_359.eplegal.zip"
+        },
+        {
+            "name":"OJ41_1",
+            "input":"OJ◦EPO∙8-9/2010,∙451",
+            "singleref":["OJ◦EPO∙8-9/2010,∙451"],
+            "tokens":"%OJEpo %anySpace %number %dash %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:08-09:issue:electronicproofer:2010_451:en:xml#2010_451",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2010/12/issue/electronicproofer/en/OJ_2010_663.eplegal.zip"
+        },
+        {
+            "name":"OJ41_2",
+            "input":"OJ◦8-9/2012,∙486",
+            "singleref":["OJ◦8-9/2012,∙486"],
+            "tokens":"%OJShort %anySpace %number %dash %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2012:08-09:issue:electronicproofer:2012_486:en:xml#2012_486",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/III.eplegal.zip"
+        },
+        {
+            "name":"OJ42_1",
+            "input":"OJ∙EPO∙8-9/2000,∙406)",
+            "singleref":["OJ∙EPO∙8-9/2000,∙406)"],
+            "tokens":"%OJEpo %anySpace %number %dash %number %per %number %andortocomma %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:2000:08-09:issue:electronicproofer:2000_406:en:xml#2000_406",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2000/10/issue/electronicproofer/en/OJ_2000_443.eplegal.zip"
+        },
+        {
+            "name":"OJ42_2",
+            "input":"OJ∙8-9/2012,∙486)",
+            "singleref":["OJ∙8-9/2012,∙486)"],
+            "tokens":"%OJShort %anySpace %number %dash %number %per %number %andortocomma %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %dash %number %per %number %andortocomma %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:2012:08-09:issue:electronicproofer:2012_486:en:xml#2012_486",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip"
+        },
+        {
+            "name":"OJ43_1",
+            "input":"OJ∙EPO∙11/1992",
+            "singleref":["OJ∙EPO∙11/1992"],
+            "tokens":"%OJEpo %anySpace %number %per %number",
+            "rule":"OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1992:11:issue:electronicproofer:OJ_1992_i11:en:pdf#1992_i11",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1993/01-02/issue/electronicproofer/en/OJ_1993_84.eplegal.zip"
+        },
+        {
+            "name":"OJ43_2",
+            "input":"Official∙Journal∙2/2001",
+            "singleref":["Official∙Journal∙2/2001"],
+            "tokens":"%OJLong %anySpace %number %per %number",
+            "rule":"OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:02:issue:electronicproofer:OJ_2001_i02:en:pdf#2001_i02",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2001/10/issue/electronicproofer/en/OJ_2001_469.eplegal.zip"
+        },
+        {
+            "name":"OJ43_3",
+            "input":"OJ◦4/2010",
+            "singleref":["OJ◦4/2010"],
+            "tokens":"%OJShort %anySpace %number %per %number",
+            "rule":"OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:04:1.0:electronicproofer:2010_i04:en:pdf#2010_i04",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip"
+        },
+        {
+            "name":"OJ44_1",
+            "input":"OJ◦11/2015,∙A91",
+            "singleref":["OJ◦11/2015,∙A91"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %OJArtNo",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %OJArtNo",
+            "urn":"ep-legal:countries:EP::OJ:2015:11:issue:electronicproofer:OJ_2015_A91:en:xml#OJ_2015_A91",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/III.eplegal.zip"
+        },
+        {
+            "name":"OJ45_1",
+            "input":"OJ◦EPO◦12/1982,∙p.∙452",
+            "singleref":["OJ◦EPO◦12/1982,∙p.∙452"],
+            "tokens":"%OJEpo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1982:12:issue:electronicproofer:OJ_1982_452:en:pdf#1982_452",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1986/08/issue/electronicproofer/en/OJ_1986_269.eplegal.zip"
+        },
+        {
+            "name":"OJ45_2",
+            "input":"Official∙Journal∙2/1978,∙pages∙77",
+            "singleref":["Official∙Journal∙2/1978,∙pages∙77"],
+            "tokens":"%OJLong %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:1978:02:issue:electronicproofer:OJ_1978_77:en:pdf#1978_77",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1979/01/issue/electronicproofer/en/OJ_1979_6.eplegal.zip"
+        },
+        {
+            "name":"OJ45_3",
+            "input":"OJ◦10/2008,∙p.∙471",
+            "singleref":["OJ◦10/2008,∙p.∙471"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2008:10:1.0:electronicproofer:2008_471:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VI.eplegal.zip"
+        },
+        {
+            "name":"OJ46_1",
+            "input":"OJ◦EPO◦10/1980,∙p.∙380)",
+            "singleref":["OJ◦EPO◦10/1980,∙p.∙380)"],
+            "tokens":"%OJEpo %anySpace %number %per %number %andortocomma %PagesText %anySpace %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %anySpace %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:1980:10:issue:electronicproofer:1980_380:en:xml#1980_380",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1986/08/issue/electronicproofer/en/OJ_1986_269.eplegal.zip"
+        },
+        {
+            "name":"OJ46_2",
+            "input":"OJ∙1/1979,∙p.∙4)",
+            "singleref":["OJ∙1/1979,∙p.∙4)"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %PagesText %anySpace %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %anySpace %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:1979:01:issue:electronicproofer:OJ_1979_4:en:pdf#1979_4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1982/08/issue/electronicproofer/en/OJ_1982_323a.eplegal.zip"
+        },
+        {
+            "name":"OJ47_1",
+            "input":"OJ∙2/1986,∙p.63",
+            "singleref":["OJ∙2/1986,∙p.63"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %PagesText %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %PagesText %number",
+            "urn":"ep-legal:countries:EP::OJ:1986:02:issue:electronicproofer:1986_63:en:xml#1986_63",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1986/02/issue/electronicproofer/en/OJ_1986_61.eplegal.zip"
+        },
+        {
+            "name":"OJ48_1",
+            "input":"OJ◦EPO◦3/2009,◦182",
+            "singleref":["OJ◦EPO◦3/2009,◦182"],
+            "tokens":"%OJEpo %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:1.0:electronicproofer:2009_182:en:pdf#2009_182",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip"
+        },
+        {
+            "name":"OJ48_2",
+            "input":"OJ◦10/2001,◦465",
+            "singleref":["OJ◦10/2001,◦465"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:10:1.0:electronicproofer:2001_465:en:pdf#2001_465",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip"
+        },
+        {
+            "name":"OJ49_1",
+            "input":"OJ◦EPO◦3/2009,◦182)",
+            "singleref":["OJ◦EPO◦3/2009,◦182)"],
+            "tokens":"%OJEpo %anySpace %number %per %number %andortocomma %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:1.0:electronicproofer:2009_182:en:pdf#2009_182",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip"
+        },
+        {
+            "name":"OJ49_2",
+            "input":"OJ∙6/2012,∙420)",
+            "singleref":["OJ∙6/2012,∙420)"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %per %number %andortocomma %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:2012:06:issue:electronicproofer:2012_420:en:xml#2012_420",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip"
+        },
+        {
+            "name":"OJ50_1",
+            "input":"OJ∙3/2009,∙Supplement",
+            "singleref":["OJ∙3/2009,∙Supplement"],
+            "tokens":"%OJShort %anySpace %number %per %number %andortocomma %OJSuppl",
+            "rule":"OJ %anySpace %number %per %number %andortocomma OJSuppl",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:issue:electronicproofer:2009_i03_sup:en:xml#2009_i03_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ51_1",
+            "input":"OJ◦EPO◦4/2009◦236",
+            "singleref":["OJ◦EPO◦4/2009◦236"],
+            "tokens":"%OJEpo %anySpace %number %per %number %anySpace %number",
+            "rule":"OJ %anySpace %number %per %number %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:04:1.0:electronicproofer:2009_235:en:pdf#2009_236",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2010/1/1.0/electronicproofer/en/C.eplegal.zip"
+        },
+        {
+            "name":"OJ52_1",
+            "input":"OJ∙11/1983∙(p.∙458)",
+            "singleref":["OJ∙11/1983∙(p.∙458)"],
+            "tokens":"%OJShort %anySpace %number %per %number %anySpace %openParenthesis %PagesText %anySpace %number %closeParenthesis",
+            "rule":"OJ %anySpace %number %per %number %anySpace %openParenthesis %PagesText %anySpace %number %closeParenthesis",
+            "urn":"ep-legal:countries:EP::OJ:1983:11:issue:electronicproofer:1983_458:en:xml#1983_458",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1986/02/issue/electronicproofer/en/OJ_1986_61.eplegal.zip"
+        },
+        {
+            "name":"OJ53_1",
+            "input":"OJ∙3/2009∙Suppl.",
+            "singleref":["OJ∙3/2009∙Suppl."],
+            "tokens":"%OJShort %anySpace %number %per %number %anySpace %OJSuppl",
+            "rule":"OJ %anySpace %number %per %number %anySpace OJSuppl",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:issue:electronicproofer:2009_i03_sup:en:pdf#2009_i03_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ54_1",
+            "input":"OJ∙EPO∙7/2005,433",
+            "singleref":["OJ∙EPO∙7/2005,433"],
+            "tokens":"%OJEpo %anySpace %number %per %number %comma %number",
+            "rule":"OJ %anySpace %number %per %number %comma %number",
+            "urn":"ep-legal:countries:EP::OJ:2005:07:issue:electronicproofer:2005_433:en:xml#2005_433",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2005/07/issue/electronicproofer/en/OJ_2005_463.eplegal.zip"
+        },
+        {
+            "name":"OJ55_1",
+            "input":"Official∙Journal∙No.◦1/2004",
+            "singleref":["Official∙Journal∙No.◦1/2004"],
+            "tokens":"%OJLong %anySpace %No %anySpace %number %per %number",
+            "rule":"OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2004:01:issue:electronicproofer:OJ_2004_i01:en:pdf#2004_i01",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2003/11/issue/electronicproofer/en/OJ_2003_569.eplegal.zip"
+        },
+        {
+            "name":"OJ56_1",
+            "input":"Official∙Journal∙No.◦7/1999,∙509",
+            "singleref":["Official∙Journal∙No.◦7/1999,∙509"],
+            "tokens":"%OJLong %anySpace %No %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace OJNo %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:1999:07:issue:electronicproofer:1999_509:en:xml#1999_509",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2000/10/issue/electronicproofer/en/OJ_2000_458.eplegal.zip"
+        },
+        {
+            "name":"OJ57_1",
+            "input":"OJ∙SE∙4",
+            "singleref":[""],
+            "badref":["OJ∙SE∙4"],
+            "tokens":"%OJShort %anySpace %SEShort %anySpace %number",
+            "rule":"OJ %anySpace OJSEText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s4:1.0:electronicproofer:2007_se4:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VIII.eplegal.zip"
+        },
+        {
+            "name":"OJ58_1",
+            "input":"OJ∙SE∙4/2007",
+            "singleref":["OJ∙SE∙4/2007"],
+            "tokens":"%OJShort %anySpace %SEShort %anySpace %number %per %number",
+            "rule":"OJ %anySpace OJSEText %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s4:1.0:electronicproofer:2007_se4:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ59_1",
+            "input":"OJ∙SE∙3/2007,∙p.∙115",
+            "singleref":["OJ∙SE∙3/2007,∙p.∙115"],
+            "tokens":"%OJShort %anySpace %SEShort %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "rule":"OJ %anySpace OJSEText %anySpace %number %per %number %andortocomma %PagesText %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s3:1.0:electronicproofer:2007_se3:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VI.eplegal.zip"
+        },
+        {
+            "name":"OJ60_1",
+            "input":"OJ∙SE∙4/2007,∙48",
+            "singleref":["OJ∙SE∙4/2007,∙48"],
+            "tokens":"%OJShort %anySpace %SEShort %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace OJSEText %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s4:1.0:electronicproofer:2007_se4:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/I.eplegal.zip"
+        },
+        {
+            "name":"OJ61_1",
+            "input":"OJ∙Special∙edition∙3/2007",
+            "singleref":["OJ∙Special∙edition∙3/2007"],
+            "tokens":"%OJShort %anySpace %SpecEdLong %number %per %number",
+            "rule":"OJ %anySpace SPECED %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//IntInst/2013/9/1.0/electronicproofer/en/part-id.eplegal.zip"
+        },
+        {
+            "name":"OJ62_1",
+            "input":"OJ∙Special∙edition∙3/2011,∙187",
+            "singleref":["OJ∙Special∙edition∙3/2011,∙187"],
+            "tokens":"%OJShort %anySpace %SpecEdLong %number %per %number %andortocomma %number",
+            "rule":"OJ %anySpace SPECED %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2011:se3:issue:electronicproofer:OJ_2011_se3:en:pdf#2011_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2017/se6/issue/electronicproofer/en/OJ_2017_se6_116.eplegal.zip"
+        },
+        {
+            "name":"OJ63_1",
+            "input":"Supplement∙2∙to∙OJ∙3/2010",
+            "singleref":["Supplement∙2∙to∙OJ∙3/2010"],
+            "tokens":"%OJSuppl %anySpace %number %to %OJShort %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace %number %to OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:03:1.0:electronicproofer:2010_i03_su2:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VIII.eplegal.zip"
+        },
+        {
+            "name":"OJ64_1",
+            "input":"Supplement∙2∙to∙OJ∙3/2010,∙2",
+            "singleref":["Supplement∙2∙to∙OJ∙3/2010,∙2"],
+            "tokens":"%OJSuppl %anySpace %number %to %OJShort %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJSuppl %anySpace %number %to OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:03:1.0:electronicproofer:2010_i03_su2:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VIII.eplegal.zip"
+        },
+        {
+            "name":"OJ65_1",
+            "input":"Supplement∙to∙OJ∙03/2009",
+            "singleref":["Supplement∙to∙OJ∙03/2009"],
+            "tokens":"%OJSupplTo %anySpace %OJShort %anySpace %digit2 %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %digit2 %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:sup:electronicproofer:2009_i03_sup:en:pdf#2009_i03_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ66_1",
+            "input":"Supplement∙to∙OJ∙EPO∙8-9/2005",
+            "singleref":["Supplement∙to∙OJ∙EPO∙8-9/2005"],
+            "tokens":"%OJSupplTo %anySpace %OJEpo %anySpace %number %dash %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %dash %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2005:08-09:sup:electronicproofer:OJ_2005_i08-09_sup:en:pdf#2005_i08-09_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2005/07/issue/electronicproofer/en/OJ_2005_466.eplegal.zip"
+        },
+        {
+            "name":"OJ67_1",
+            "input":"Suppl.∙OJ∙EPO∙2/1999",
+            "singleref":["Suppl.∙OJ∙EPO∙2/1999"],
+            "tokens":"%OJSuppl %anySpace %OJEpo %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1999:02:sup:electronicproofer:OJ_1999_i02_sup:en:pdf#1999_i02_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2002/01/issue/electronicproofer/en/OJ_2002_59.eplegal.zip"
+        },
+        {
+            "name":"OJ67_2",
+            "input":"Supplement∙to∙OJ◦EPO∙3/2009",
+            "singleref":["Supplement∙to∙OJ◦EPO∙3/2009"],
+            "tokens":"%OJSupplTo %anySpace %OJEpo %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:1.0:electronicproofer:2009_i03:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2010/1/1.0/electronicproofer/en/rfees.eplegal.zip"
+        },
+        {
+            "name":"OJ67_3",
+            "input":"Supplement∙to∙Official∙Journal∙5/1986",
+            "singleref":["Supplement∙to∙Official∙Journal∙5/1986"],
+            "tokens":"%OJSupplTo %anySpace %OJLong %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1986:05:sup:electronicproofer:OJ_1986_i05_sup:en:pdf#1986_i05_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1993/01-02/issue/electronicproofer/en/OJ_1993_59.eplegal.zip"
+        },
+        {
+            "name":"OJ67_4",
+            "input":"Supplement∙to∙OJ∙3/2009",
+            "singleref":["Supplement∙to∙OJ∙3/2009"],
+            "tokens":"%OJSupplTo %anySpace %OJShort %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2009:03:1.0:electronicproofer:2009_i03:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VI.eplegal.zip"
+        },
+        {
+            "name":"OJ68_1",
+            "input":"Supplement∙to∙OJ◦EPO∙1/2013,◦1",
+            "singleref":["Supplement∙to∙OJ◦EPO∙1/2013,◦1"],
+            "tokens":"%OJSupplTo %anySpace %OJEpo %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2013:01:sup:electronicproofer:2013_i01_sup_1:en:xml#2013_i01_sup_1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2013/1/1.0/electronicproofer/en/reg.eplegal.zip"
+        },
+        {
+            "name":"OJ68_2",
+            "input":"Supplement∙to∙OJ∙1/2010,∙50",
+            "singleref":["Supplement∙to∙OJ∙1/2010,∙50"],
+            "tokens":"%OJSupplTo %anySpace %OJShort %anySpace %number %per %number %andortocomma %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace %number %per %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:01:1.0:electronicproofer:2010_i01_su:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2010/1/1.0/electronicproofer/en/VIII.eplegal.zip"
+        },
+        {
+            "name":"OJ69_1",
+            "input":"Supplement∙to∙OJ∙EPO∙No.∙9/1993",
+            "singleref":["Supplement∙to∙OJ∙EPO∙No.∙9/1993"],
+            "tokens":"%OJSupplTo %anySpace %OJEpo %anySpace %No %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:1993:09:issue:electronicproofer:OJ_1993_i09:en:pdf#1993_i09",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/1993/09/issue/electronicproofer/en/OJ_1993_589a.eplegal.zip"
+        },
+        {
+            "name":"OJ69_2",
+            "input":"Supplement∙to∙Official∙Journal∙No.∙4/2001",
+            "singleref":["Supplement∙to∙Official∙Journal∙No.∙4/2001"],
+            "tokens":"%OJSupplTo %anySpace %OJLong %anySpace %No %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:04:sup:electronicproofer:OJ_2001_i04_sup:en:pdf#2001_i04_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2002/10/issue/electronicproofer/en/OJ_2002_515.eplegal.zip"
+        },
+        {
+            "name":"OJ69_3",
+            "input":"Supplement∙to∙OJ∙No.∙1/2013",
+            "singleref":["Supplement∙to∙OJ∙No.∙1/2013"],
+            "tokens":"%OJSupplTo %anySpace %OJShort %anySpace %No %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJ %anySpace OJNo %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2013:01:sup:electronicproofer:2013_i01_sup:en:pdf#2013_i01_sup",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ70_1",
+            "input":"Supplement∙N.o◦2∙to∙OJ◦EPO∙3/2010",
+            "singleref":["Supplement∙N.o◦2∙to∙OJ◦EPO∙3/2010"],
+            "tokens":"%OJSuppl %anySpace %UnusualNo %anySpace %number %to %OJEpo %anySpace %number %per %number",
+            "rule":"OJSuppl %anySpace OJNo %anySpace %number %to OJ %anySpace %number %per %number",
+            "urn":"ep-legal:countries:EP::OJ:2010:03:sup2:electronicproofer:OJ_2010_i03_sup2:en:pdf#2010_i03_sup2",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2011/03/issue/electronicproofer/en/OJ_2011_214.eplegal.zip"
+        },
+        {
+            "name":"OJ71_1",
+            "input":"supplementary∙publication◦4,∙OJ◦EPO∙2014",
+            "singleref":["supplementary∙publication◦4,∙OJ◦EPO∙2014"],
+            "tokens":"%OJSuppPubLong %anySpace %number %andortocomma %OJEpo %anySpace %number",
+            "rule":"OJSupplPub %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2014:se4:issue:electronicproofer:OJ_2014_se4_toc:en:xml#OJ_2014_se4_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2014/1/1.0/electronicproofer/en/rfees.eplegal.zip"
+        },
+        {
+            "name":"OJ71_2",
+            "input":"Supplementary∙publication∙1,∙OJ∙2016",
+            "singleref":["Supplementary∙publication∙1,∙OJ∙2016"],
+            "tokens":"%OJSuppPubLong %anySpace %number %andortocomma %OJShort %anySpace %number",
+            "rule":"OJSupplPub %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2016:se1:issue:electronicproofer:OJ_2016_se1_toc:en:xml#OJ_2016_se1_toc",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/III.eplegal.zip"
+        },
+        {
+            "name":"OJ72_1",
+            "input":"supplementary∙publication∙1,∙OJ◦EPO∙2014,◦1",
+            "singleref":["supplementary∙publication∙1,∙OJ◦EPO∙2014,◦1"],
+            "tokens":"%OJSuppPubLong %anySpace %number %andortocomma %OJEpo %anySpace %number %andortocomma %number",
+            "rule":"OJSupplPub %anySpace %number %andortocomma OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2014:se1:issue:electronicproofer:OJ_2014_se1_1:en:xml#OJ_2014_se1_1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2014/1/1.0/electronicproofer/en/reg.eplegal.zip"
+        },
+        {
+            "name":"OJ72_2",
+            "input":"Supplementary∙publication∙2,∙OJ◦2014,∙2",
+            "singleref":["Supplementary∙publication∙2,∙OJ◦2014,∙2"],
+            "tokens":"%OJSuppPubLong %anySpace %number %andortocomma %OJShort %anySpace %number %andortocomma %number",
+            "rule":"OJSupplPub %anySpace %number %andortocomma OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2014:se2:issue:electronicproofer:OJ_2014_se2_2:en:xml#OJ_2014_se2_2",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2016/1/1.0/electronicproofer/en/V.eplegal.zip"
+        },
+        {
+            "name":"OJ73_1",
+            "input":"Special∙edition◦3,∙OJ∙EPO∙2007",
+            "singleref":["Special∙edition◦3,∙OJ∙EPO∙2007"],
+            "tokens":"%SpecEdLong %number %andortocomma %OJEpo %anySpace %number",
+            "rule":"SPECED %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2009/10/issue/electronicproofer/en/OJ_2009_478.eplegal.zip"
+        },
+        {
+            "name":"OJ74_1",
+            "input":"Special∙edition∙No.◦4,◦",
+            "singleref":["Special∙edition∙No.◦4,◦"],
+            "tokens":"%SpecEdLong %No %anySpace %number %andortocomma",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma",
+            "urn":"ep-legal:countries:EP::OJ:2001:se4:issue:electronicproofer:OJ_2001_se4:en:pdf#2001_se4",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2003/05/issue/electronicproofer/en/OJ_2003_184.eplegal.zip"
+        },
+        {
+            "name":"OJ75_1",
+            "input":"Special∙edition∙No.◦3,∙OJ◦EPO∙2007",
+            "singleref":["Special∙edition∙No.◦3,∙OJ◦EPO∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %andortocomma %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s3:1.0:electronicproofer:2007_se3:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2010/1/1.0/electronicproofer/en/conv.eplegal.zip"
+        },
+        {
+            "name":"OJ75_2",
+            "input":"Special∙edition∙No.◦3,∙OJ∙2007",
+            "singleref":["Special∙edition∙No.◦3,∙OJ∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %andortocomma %OJShort %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s3:1.0:electronicproofer:2007_se3:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ75_3",
+            "input":"Special∙edition∙N.◦3,∙OJ◦EPO∙2007",
+            "singleref":["Special∙edition∙N.◦3,∙OJ◦EPO∙2007"],
+            "tokens":"%SpecEdLong %UnusualNo %anySpace %number %andortocomma %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2013/1/1.0/electronicproofer/en/conv.eplegal.zip"
+        },
+        {
+            "name":"OJ75_4",
+            "input":"Special∙edition∙No◦3,∙OJ∙2007",
+            "singleref":["Special∙edition∙No◦3,∙OJ∙2007"],
+            "tokens":"%SpecEdLong %UnusualNo %anySpace %number %andortocomma %OJShort %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:s3:1.0:electronicproofer:2007_se3:en:pdf",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ76_1",
+            "input":"Special∙edition∙No.◦1,∙OJ◦EPO◦2007,◦197",
+            "singleref":["Special∙edition∙No.◦1,∙OJ◦EPO◦2007,◦197"],
+            "tokens":"%SpecEdLong %No %anySpace %number %andortocomma %OJEpo %anySpace %number %andortocomma %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:electronicproofer:2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiex/2012/1/1.0/electronicproofer/en/D.eplegal.zip"
+        },
+        {
+            "name":"OJ76_2",
+            "input":"Special∙edition∙No.∙3,∙OJ∙2007,∙106",
+            "singleref":["Special∙edition∙No.∙3,∙OJ∙2007,∙106"],
+            "tokens":"%SpecEdLong %No %anySpace %number %andortocomma %OJShort %anySpace %number %andortocomma %number",
+            "rule":"SPECED OJNo %anySpace %number %andortocomma OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip"
+        },
+        {
+            "name":"OJ77_1",
+            "input":"Special∙edition∙No.◦3∙of∙OJ∙EPO∙2007",
+            "singleref":["Special∙edition∙No.◦3∙of∙OJ∙EPO∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %of %anySpace %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2010/05/issue/electronicproofer/en/OJ_2010_316.eplegal.zip"
+        },
+        {
+            "name":"OJ77_2",
+            "input":"Special∙edition∙no.∙1∙of∙the∙OJ∙EPO∙2007",
+            "singleref":["Special∙edition∙no.∙1∙of∙the∙OJ∙EPO∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %ofthe %anySpace %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:electronicproofer:OJ_2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2007/01/issue/electronicproofer/en/OJ_2007_8.eplegal.zip"
+        },
+        {
+            "name":"OJ77_3",
+            "input":"Special∙edition∙No.∙1∙of∙the∙Official∙Journal∙2001",
+            "singleref":["Special∙edition∙No.∙1∙of∙the∙Official∙Journal∙2001"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %ofthe %anySpace %OJLong %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2001:se1:issue:electronicproofer:OJ_2001_se1:en:pdf#2001_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2001/12/issue/electronicproofer/en/OJ_2001_i12_toc.eplegal.zip"
+        },
+        {
+            "name":"OJ77_4",
+            "input":"Special∙edition∙no.∙1∙of∙the∙OJ∙2003",
+            "singleref":["Special∙edition∙no.∙1∙of∙the∙OJ∙2003"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %ofthe %anySpace %OJShort %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2003:se1:issue:electronicproofer:OJ_2003_se1:en:pdf#2003_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2003/03/issue/electronicproofer/en/OJ_2003_i03_toc.eplegal.zip"
+        },
+        {
+            "name":"OJ77_5",
+            "input":"Special∙edition∙no∙1∙of∙the∙OJ∙EPO∙2007",
+            "singleref":["Special∙edition∙no∙1∙of∙the∙OJ∙EPO∙2007"],
+            "tokens":"%SpecEdLong %UnusualNo %anySpace %number %anySpace %ofthe %anySpace %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:electronicproofer:OJ_2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2007/01/issue/electronicproofer/en/OJ_2007_10.eplegal.zip"
+        },
+        {
+            "name":"OJ78_1",
+            "input":"Special∙edition∙No.∙1∙of∙OJ∙EPO∙2007,∙197",
+            "singleref":["Special∙edition∙No.∙1∙of∙OJ∙EPO∙2007,∙197"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %of %anySpace %OJEpo %anySpace %number %andortocomma %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OF %anySpace OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:electronicproofer:OJ_2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2008/12/issue/electronicproofer/en/OJ_2008_567.eplegal.zip"
+        },
+        {
+            "name":"OJ79_1",
+            "input":"Special∙edition∙No.◦3∙OJ◦EPO∙2007",
+            "singleref":["Special∙edition∙No.◦3∙OJ◦EPO∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//EPC/2013/1/1.0/electronicproofer/en/conv.eplegal.zip"
+        },
+        {
+            "name":"OJ79_2",
+            "input":"Special∙edition∙No.∙3∙OJ∙2007",
+            "singleref":["Special∙edition∙No.∙3∙OJ∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %OJShort %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip"
+        },
+        {
+            "name":"OJ80_1",
+            "input":"Special∙edition∙No.◦1∙OJ∙EPO∙2007,∙196",
+            "singleref":["Special∙edition∙No.◦1∙OJ∙EPO∙2007,∙196"],
+            "tokens":"%SpecEdLong %No %anySpace %number %anySpace %OJEpo %anySpace %number %andortocomma %number",
+            "rule":"SPECED OJNo %anySpace %number %anySpace OJ %anySpace %number %andortocomma %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se1:issue:designproofer:2007_se1:en:pdf#2007_se1",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//IntInst/2013/9/1.0/electronicproofer/en/part-ig.eplegal.zip"
+        },
+        {
+            "name":"OJ81_1",
+            "input":"Special∙edition∙No.∙3/2007∙of∙the∙Official∙Journal",
+            "singleref":["Special∙edition∙No.∙3/2007∙of∙the∙Official∙Journal"],
+            "tokens":"%SpecEdLong %No %anySpace %number %per %number %anySpace %ofthe %anySpace %OJLong",
+            "rule":"SPECED OJNo %anySpace %number %per %number %anySpace OF %anySpace OJ",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2007/08-09/issue/electronicproofer/en/OJ_2007_478.eplegal.zip"
+        },
+        {
+            "name":"OJ82_1",
+            "input":"Special∙edition∙No.◦3∙to∙OJ∙EPO∙2007",
+            "singleref":["Special∙edition∙No.◦3∙to∙OJ∙EPO∙2007"],
+            "tokens":"%SpecEdLong %No %anySpace %number %to %OJEpo %anySpace %number",
+            "rule":"SPECED OJNo %anySpace %number %to OJ %anySpace %number",
+            "urn":"ep-legal:countries:EP::OJ:2007:se3:issue:electronicproofer:OJ_2007_se3:en:pdf#2007_se3",
+            "file":"c:/docxml4net/doc4netdata/EPLegalZip/ep-legal/countries/EP/organization//OJ/2010/05/issue/electronicproofer/en/OJ_2010_328.eplegal.zip"
+        }  	]
+}

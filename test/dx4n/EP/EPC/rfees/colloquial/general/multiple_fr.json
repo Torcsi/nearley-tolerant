@@ -1,0 +1,318 @@
+[
+ {
+  "text": "l'article◦7(3)∙et∙(4)◦RRT",
+  "unit": "{l'article◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3:fr:xml~l'article◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:fr:xml~(4)◦RRT}",
+  "name": "M30267",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_D_1_4_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "art.∙5∙et∙7∙RRT",
+  "unit": "{art.∙5}∙et∙{7∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:5:fr:xml~art.∙5}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7:fr:xml~7∙RRT}",
+  "name": "M30315",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_F_2_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦7(3),∙(4)∙RRT",
+  "unit": "{l'art.◦7(3)},∙{(4)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:7_3:fr:xml#7_3~l'art.◦7(3)},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:7_4:fr:xml#7_4~(4)∙RRT}",
+  "name": "M30861",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_Q_3_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles◦2,∙5,∙7∙et∙13◦RRT",
+  "unit": "{articles◦2},∙{5},∙{7}∙et∙{13◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2:fr:xml~articles◦2},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:5:fr:xml~5},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7:fr:xml~7}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:13:fr:xml~13◦RRT}",
+  "name": "M31797",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "articles◦2∙et∙8◦RRT",
+  "unit": "{articles◦2}∙et∙{8◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2:fr:xml~articles◦2}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:8:fr:xml~8◦RRT}",
+  "name": "M31799",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "L'art.◦7(3)∙et∙(4)◦RRT",
+  "unit": "{L'art.◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3:fr:xml~L'art.◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:fr:xml~(4)◦RRT}",
+  "name": "M32635",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦7(1),∙(3)∙et∙(4)◦RRT",
+  "unit": "{l'art.◦7(1)},∙{(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_1:fr:xml~l'art.◦7(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3:fr:xml~(3)}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:fr:xml~(4)◦RRT}",
+  "name": "M32637",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+"bad":true,
+  "text": "l'article◦7(3)◦a)∙∙et∙◦b)",
+  "unit": "{l'article◦7(3)◦a)∙}∙et∙{◦b)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3_a:fr:xml#7_3_a~l'article◦7(3)◦a)∙}∙et∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3_b:fr:xml#7_3_b~◦b)}",
+  "name": "M32991",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CX_6_2_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "L'article◦7(3)∙et∙(4)◦RRT",
+  "unit": "{L'article◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3:fr:xml#7_3~L'article◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_4:fr:xml#7_4~(4)◦RRT}",
+  "name": "M32995",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CX_6_2_5",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article◦7(1),∙(3)∙et∙(4)◦RRT",
+  "unit": "{l'article◦7(1)},∙{(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_1:fr:xml#7_1~l'article◦7(1)},∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3:fr:xml#7_3~(3)}∙et∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_4:fr:xml#7_4~(4)◦RRT}",
+  "name": "M32997",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CX_6_2_6",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article◦7(3)◦a)∙et∙◦b)",
+  "unit": "{l'article◦7(3)◦a)}∙et∙{◦b)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:7_3_a:fr:xml#7_3_a~l'article◦7(3)◦a)}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:7_3_b:fr:xml#7_3_b~◦b)}",
+  "name": "M33911",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles∙5∙à∙8∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙5}∙à∙{8∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:5:fr:xml#5~articles∙5}∙à∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:8:fr:xml#8~8∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M34621",
+  "file": "/EP/organization/OJ/1993/10/issue/electronicproofer/fr/OJ_1993_647.eplegal.zip",
+  "referringId": "OJ:1993_647",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "articles◦5∙à∙9∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles◦5}∙à∙{9∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:5:fr:xml#5~articles◦5}∙à∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:9:fr:xml#9~9∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M34693",
+  "file": "/EP/organization/OJ/1994/06/issue/electronicproofer/fr/OJ_1994_419.eplegal.zip",
+  "referringId": "OJ:1994_419",
+  "relativeParagraph": 13
+ },
+ {
+  "text": "articles◦2∙et∙3(1)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles◦2}∙et∙{3(1)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:fr:xml#2~articles◦2}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:3_1:fr:xml#3_1~3(1)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M34835",
+  "file": "/EP/organization/OJ/1995/06/issue/electronicproofer/fr/OJ_1995_409.eplegal.zip",
+  "referringId": "OJ:1995_409",
+  "relativeParagraph": 97
+ },
+ {
+"bad":true,
+  "text": "articles∙2∙et∙8∙du∙règlement∙relatif∙aux∙taxes◦",
+  "unit": "{articles∙2}∙et∙{8∙du∙règlement∙relatif∙aux∙taxes◦}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:fr:xml#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:8:fr:xml#8~8∙du∙règlement∙relatif∙aux∙taxes◦}",
+  "name": "M35067",
+  "file": "/EP/organization/OJ/1999/03/issue/electronicproofer/fr/OJ_1999_167.eplegal.zip",
+  "referringId": "OJ:1999_167",
+  "relativeParagraph": 6
+ },
+ {
+  "text": "articles∙3∙et∙6∙(4)∙RRT",
+  "unit": "{articles∙3}∙et∙{6∙(4)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:3:fr:xml#3~articles∙3}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:6:fr:xml#6~6∙(4)∙RRT}",
+  "name": "M35071",
+  "file": "/EP/organization/OJ/1999/05/issue/electronicproofer/fr/OJ_1999_300.eplegal.zip",
+  "referringId": "OJ:1999_300",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles∙2∙et∙10∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙2}∙et∙{10∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2005:1:1.0:electronicproofer:2:fr:xml#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2005:1:1.0:electronicproofer:10:fr:xml#10~10∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M35331",
+  "file": "/EP/organization/OJ/2005/07/issue/electronicproofer/fr/OJ_2005_i07_toc.eplegal.zip",
+  "referringId": "OJ:2005_i07_toc",
+  "relativeParagraph": 11
+ },
+ {
+"bad":true,
+  "text": "articles◦2∙et∙8∙du∙règlement∙relatif∙aux∙taxes◦",
+  "unit": "{articles◦2}∙et∙{8∙du∙règlement∙relatif∙aux∙taxes◦}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:2:fr:xml#2~articles◦2}∙et∙{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:8:fr:xml#8~8∙du∙règlement∙relatif∙aux∙taxes◦}",
+  "name": "M35353",
+  "file": "/EP/organization/OJ/2006/03/issue/electronicproofer/fr/OJ_2006_259.eplegal.zip",
+  "referringId": "OJ:2006_259",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "L'article◦7,∙paragraphes◦1,∙3∙et∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{L'article◦7,∙paragraphes◦1},∙{3}∙et∙{4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_1:fr:xml#7_1~L'article◦7,∙paragraphes◦1},∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_3:fr:xml#7_3~3}∙et∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_4:fr:xml#7_4~4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M35439",
+  "file": "/EP/organization/OJ/2007/10/sup/electronicproofer/fr/OJ_2007_i10_sup_5.eplegal.zip",
+  "referringId": "OJ:2007_i10_sup_5",
+  "relativeParagraph": 35
+ },
+ {
+  "text": "l'article◦7,∙paragraphes◦3∙et∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article◦7,∙paragraphes◦3}∙et∙{4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_3:fr:xml#7_3~l'article◦7,∙paragraphes◦3}∙et∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_4:fr:xml#7_4~4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M35441",
+  "file": "/EP/organization/OJ/2007/10/sup/electronicproofer/fr/OJ_2007_i10_sup_5.eplegal.zip",
+  "referringId": "OJ:2007_i10_sup_5",
+  "relativeParagraph": 63
+ },
+ {
+  "text": "article∙7(1),∙(2)∙RRT",
+  "unit": "{article∙7(1)},∙{(2)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_1:fr:xml#7_1~article∙7(1)},∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_2:fr:xml#7_2~(2)∙RRT}",
+  "name": "M35559",
+  "file": "/EP/organization/OJ/2009/02/issue/electronicproofer/fr/OJ_2009_118.eplegal.zip",
+  "referringId": "OJ:2009_118",
+  "relativeParagraph": 98
+ },
+ {
+  "text": "articles∙2∙et∙7(3)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙2}∙et∙{7(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:2:fr:xml#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3:fr:xml#7_3~7(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M35839",
+  "file": "/EP/organization/OJ/2012/03/sup/electronicproofer/fr/OJ_2012_i03_sup_15.eplegal.zip",
+  "referringId": "OJ:2012_i03_sup_15",
+  "relativeParagraph": 10
+ },
+ {
+  "text": "articles∙9(1)∙et∙11b)∙du∙Règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙9(1)}∙et∙{11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:9_1:fr:xml#9_1~articles∙9(1)}∙et∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:11_b:fr:xml#11_b~11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "name": "M35903",
+  "file": "/EP/organization/OJ/2013/01/issue/electronicproofer/fr/OJ_2013_2.eplegal.zip",
+  "referringId": "OJ:2013_2",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "articles∙9(1)∙et∙11b)∙RRT",
+  "unit": "{articles∙9(1)}∙et∙{11b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:9_1:fr:xml#9_1~articles∙9(1)}∙et∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:11_b:fr:xml#11_b~11b)∙RRT}",
+  "name": "M35921",
+  "file": "/EP/organization/OJ/2013/03/issue/electronicproofer/fr/OJ_2013_153.eplegal.zip",
+  "referringId": "OJ:2013_153",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Articles∙2∙et∙11∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{Articles∙2}∙et∙{11∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:fr:xml#2~Articles∙2}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:11:fr:xml#11~11∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M36039",
+  "file": "/EP/organization/OJ/2014/08/issue/electronicproofer/fr/OJ_2014_A84.eplegal.zip",
+  "referringId": "OJ:OJ_2014_A84",
+  "relativeParagraph": 15
+ },
+ {
+  "text": "art.◦9(1)∙et∙11◦b)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{art.◦9(1)}∙et∙{11◦b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:9_1:fr:xml#9_1~art.◦9(1)}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:11_b:fr:xml#11_b~11◦b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M36109",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/fr/OJ_2014_se5_25.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_25",
+  "relativeParagraph": 337
+ },
+ {
+  "text": "articles◦5,∙6,∙7∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles◦5},∙{6},∙{7∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:5:fr:xml#5~articles◦5},∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:6:fr:xml#6~6},∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7:fr:xml#7~7∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M36133",
+  "file": "/EP/organization/OJ/2015/03/issue/electronicproofer/fr/OJ_2015_A28.eplegal.zip",
+  "referringId": "OJ:OJ_2015_A28",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "l'article◦7(3)a)∙et∙b)",
+  "unit": "{l'article◦7(3)a)}∙et∙{b)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_3_a:fr:xml#7_3_a~l'article◦7(3)a)}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_3_b:fr:xml#7_3_b~b)}",
+  "name": "M36221",
+  "file": "/EP/organization/OJ/2015/se3/issue/electronicproofer/fr/OJ_2015_se3_8.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se3_8",
+  "relativeParagraph": 30
+ },
+ {
+  "text": "l'article◦7(3)∙et∙(4)∙RRT",
+  "unit": "{l'article◦7(3)}∙et∙{(4)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_3:fr:xml#7_3~l'article◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_4:fr:xml#7_4~(4)∙RRT}",
+  "name": "M36223",
+  "file": "/EP/organization/OJ/2015/se3/issue/electronicproofer/fr/OJ_2015_se3_8.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se3_8",
+  "relativeParagraph": 61
+ },
+ {
+  "text": "article◦9(1)∙et∙11b)",
+  "unit": "{article◦9(1)}∙et∙{11b)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:9_1:fr:xml#9_1~article◦9(1)}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:11_b:fr:xml#11_b~11b)}",
+  "name": "M36269",
+  "file": "/EP/organization/OJ/2016/03/issue/electronicproofer/fr/OJ_2016_A26.eplegal.zip",
+  "referringId": "OJ:OJ_2016_A26",
+  "relativeParagraph": 16
+ },
+ {
+  "text": "articles◦7(2)∙et∙12∙RRT",
+  "unit": "{articles◦7(2)}∙et∙{12∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:7_2:fr:xml#7_2~articles◦7(2)}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:12:fr:xml#12~12∙RRT}",
+  "name": "M36293",
+  "file": "/EP/organization/OJ/2016/05/issue/electronicproofer/fr/OJ_2016_A40.eplegal.zip",
+  "referringId": "OJ:OJ_2016_A40",
+  "relativeParagraph": 95
+ },
+ {
+  "text": "articles◦5(2)∙et◦7(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles◦5(2)}∙et◦{7(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:5_2:fr:xml#5_2~articles◦5(2)}∙et◦{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:7_2:fr:xml#7_2~7(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M36295",
+  "file": "/EP/organization/OJ/2016/10/issue/electronicproofer/fr/OJ_2016_A83.eplegal.zip",
+  "referringId": "OJ:OJ_2016_A83",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles◦3∙et∙6◦(4)∙RRT",
+  "unit": "{articles◦3}∙et∙{6◦(4)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:3:fr:xml#3~articles◦3}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:6:fr:xml#6~6◦(4)∙RRT}",
+  "name": "M36351",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_452.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_452",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "points∙7∙et∙19",
+  "unit": "{points∙7}∙et∙{19}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_7:fr:xml#2_1_7~points∙7}∙et∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_19:fr:xml#2_1_19~19}",
+  "name": "M36481",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/fr/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 80
+ },
+ {
+"bad":true,
+  "text": "l'article∙2,∙paragraphe∙1,∙point∙7∙ou∙∙paragraphe∙2,∙point∙7∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙2,∙paragraphe∙1,∙point∙7}∙ou∙{∙paragraphe∙2,∙point∙7∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_7:fr:xml#2_1_7~l'article∙2,∙paragraphe∙1,∙point∙7}∙ou∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_2_7:fr:xml#2_2_7~∙paragraphe∙2,∙point∙7∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M36483",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/fr/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 83
+ }
+]

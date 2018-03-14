@@ -1,0 +1,22 @@
+[
+ {
+  "bad":true,
+ "text": "Articles∙2∙to∙6",
+  "unit": "{Articles∙2}∙to∙{6}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P2:en:xml~Articles∙2}∙to∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P6:en:xml~6}",
+  "name": "M05382",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/prorecog.eplegal.zip",
+  "referringId": "EPC:P1_1",
+  "relativeParagraph": 0
+ },
+ {
+  "bad":true,
+ "text": "Articles∙4∙and∙5",
+  "unit": "{Articles∙4}∙and∙{5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P4:en:xml~Articles∙4}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P5:en:xml~5}",
+  "name": "M05384",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/prorecog.eplegal.zip",
+  "referringId": "EPC:P2",
+  "relativeParagraph": 1
+ }
+]

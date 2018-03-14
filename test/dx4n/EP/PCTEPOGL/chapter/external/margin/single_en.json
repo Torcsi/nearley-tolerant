@@ -1,0 +1,26 @@
+[
+ {
+  "text": "GL/PCT-EPO∙B-VIII,∙3.2",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S02813",
+  "unit": "{GL/PCT-EPO∙B-VIII,∙3.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVIII_3_2:en:xml#PGB_CVIII_3_2~GL/PCT-EPO∙B-VIII,∙3.2}"
+ },
+ {
+  "text": "GL/PCT-EPO∙C-I,∙3",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S02814",
+  "unit": "{GL/PCT-EPO∙C-I,∙3}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGC_CI_3:en:xml#PGC_CI_3~GL/PCT-EPO∙C-I,∙3}"
+ },
+ {
+  "text": "GL/PCT-EPO∙H",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02815",
+  "unit": "{GL/PCT-EPO∙H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGH:en:xml#PGH~GL/PCT-EPO∙H}"
+ }
+]

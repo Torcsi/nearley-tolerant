@@ -1,0 +1,29 @@
+[
+ {
+  "text": "General∙Part",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 7,
+  "name": "S02093",
+  "unit": "{General∙Part}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLG_INDEX:en:xml~General∙Part}"
+ },
+ {
+  "text": "1.◦◦xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 7,
+  "name": "S02119",
+  "unit": "{1.◦◦Preliminary∙remarks}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_1:en:xml#GLI_1~1.◦◦Preliminary∙remarks}"
+ },
+ {
+  "text": "2.1◦◦Overview",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 9,
+  "name": "S02121",
+  "unit": "{2.1◦◦Overview}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_2_1:en:xml#GLI_2_1~2.1◦◦Overview}"
+ }
+]

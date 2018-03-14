@@ -1,0 +1,31 @@
+[
+ {
+  "bad":true,
+ "text": "II/OEB∙IB-X,∙12.1",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_X_7_1",
+  "relativeParagraph": 7,
+  "name": "S27906",
+  "unit": "{II/OEB∙IB-X,∙12.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IB_X_12_1:fr:xml#IB_X_12_1~II/OEB∙IB-X,∙12.1}"
+ },
+ {
+  "bad":true,
+ "text": "II/OEB∙IC-III,◦1.2",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/fr/part-ih.eplegal.zip",
+  "referringId": "PCTEPOII:IPH_II_2_3_2_2",
+  "relativeParagraph": 26,
+  "name": "S27917",
+  "unit": "{II/OEB∙IC-III,◦1.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IC_III_1_2:fr:xml#IC_III_1_2~II/OEB∙IC-III,◦1.2}"
+ },
+ {
+  "bad":true,
+ "text": "II/OEB∙IB-X,◦12.1",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S27928",
+  "unit": "{II/OEB∙IB-X,◦12.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:IB_X_12_1:fr:xml#IB_X_12_1~II/OEB∙IB-X,◦12.1}"
+ }
+]

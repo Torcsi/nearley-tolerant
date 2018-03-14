@@ -1,0 +1,46 @@
+[
+ {
+  "text": "G-II,∙3.6",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_29",
+  "relativeParagraph": 2,
+  "name": "S29201",
+  "unit": "{G-II,∙3.6}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_3_6:fr:xml#GLG_CII_3_6~G-II,∙3.6}"
+ },
+ {
+  "text": "G-II,∙4.2.1",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_30",
+  "relativeParagraph": 5,
+  "name": "S29203",
+  "unit": "{G-II,∙4.2.1}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_4_2_1:fr:xml#GLG_CII_4_2_1~G-II,∙4.2.1}"
+ },
+ {
+  "text": "DIR/OEB,∙Partie∙générale∙3.1",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_16",
+  "relativeParagraph": 1,
+  "name": "S29245",
+  "unit": "{DIR/OEB,∙Partie∙générale∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_3_1:de:xml#GLG_3_1~DIR/OEB,∙Partie∙générale∙3.1}"
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙6",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_31",
+  "relativeParagraph": 1,
+  "name": "S29247",
+  "unit": "{DIR/OEB,∙partie∙générale,∙6}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_6:fr:xml#GLG_6~DIR/OEB,∙partie∙générale,∙6}"
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙3.1",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S29265",
+  "unit": "{DIR/OEB,∙partie∙générale,∙3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_3_1:fr:xml#GLI_3_1~DIR/OEB,∙partie∙générale,∙3.1}"
+ }
+]

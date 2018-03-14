@@ -1,0 +1,787 @@
+[
+ {
+  "text": "KAPITEL∙I",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 2,
+  "name": "S15231",
+  "unit": "{KAPITEL∙I}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CI:de:xml~KAPITEL∙I}"
+ },
+ {
+  "text": "1.",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 3,
+  "name": "S15232",
+  "unit": "{1.}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CI_1:de:xml~1.}"
+ },
+ {
+  "text": "1.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 9,
+  "name": "S15233",
+  "unit": "{1.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_1_1:de:xml~1.1}"
+ },
+ {
+  "text": "1.8.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 17,
+  "name": "S15234",
+  "unit": "{1.8.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_1_8_1:de:xml~1.8.1}"
+ },
+ {
+  "text": "4.1.3.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 28,
+  "name": "S15235",
+  "unit": "{4.1.3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_4_1_3_1:de:xml~4.1.3.1}"
+ },
+ {
+  "text": "Kapitel∙XI∙–∙Anlage",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "referringId": "guiex:GLB",
+  "relativeParagraph": 155,
+  "name": "S15236",
+  "unit": "{Kapitel∙XI∙–∙Anlage}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLB_CXIA:de:xml~Kapitel∙XI∙–∙Anlage}"
+ },
+ {
+  "text": "KAPITEL◦II∙–∙Anlage",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "referringId": "guiex:GLC",
+  "relativeParagraph": 44,
+  "name": "S15237",
+  "unit": "{KAPITEL◦II∙–∙Anlage}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLC_CIIA:de:xml~KAPITEL◦II∙–∙Anlage}"
+ },
+ {
+  "text": "EINLEITUNG",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "referringId": "guiex:GLE",
+  "relativeParagraph": 2,
+  "name": "S15238",
+  "unit": "{EINLEITUNG}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLE_I:de:xml~EINLEITUNG}"
+ },
+ {
+  "text": "Teil∙A",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 17,
+  "name": "S15240",
+  "unit": "{Teil∙A}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA:de:xml~Teil∙A}"
+ },
+ {
+  "text": "Kapitel∙II",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 20,
+  "name": "S15241",
+  "unit": "{Kapitel∙II}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII:de:xml~Kapitel∙II}"
+ },
+ {
+  "text": "–∙Anlage",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 44,
+  "name": "S15242",
+  "unit": "{–∙Anlage}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLB_CXIA:de:xml~–∙Anlage}"
+ },
+ {
+  "text": "Kapitel∙I∙-∙Einleitung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S15243",
+  "unit": "{Kapitel∙I∙-∙Einleitung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CI:de:xml~Kapitel∙I∙-∙Einleitung}"
+ },
+ {
+  "text": "1.○Überblick",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S15244",
+  "unit": "{1.○Überblick}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CI_1:de:xml~1.○Überblick}"
+ },
+ {
+  "text": "Kapitel∙II∙-∙Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 8,
+  "name": "S15245",
+  "unit": "{Kapitel∙II∙-∙Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII:de:xml~Kapitel∙II∙-∙Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung}"
+ },
+ {
+  "text": "1.1○Einreichung∙von∙Anmeldungen∙durch∙unmittelbare∙Übergabe∙oder∙auf∙dem∙∙Postweg",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 10,
+  "name": "S15246",
+  "unit": "{1.1○Einreichung∙von∙Anmeldungen∙durch∙unmittelbare∙Übergabe∙oder∙auf∙dem∙∙Postweg}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_1_1:de:xml~1.1○Einreichung∙von∙Anmeldungen∙durch∙unmittelbare∙Übergabe∙oder∙auf∙dem∙∙Postweg}"
+ },
+ {
+  "text": "1.8.1○Anmeldungen,∙die∙vor∙dem∙1.◦Januar◦2002∙eingereicht∙wurden",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 18,
+  "name": "S15247",
+  "unit": "{1.8.1○Anmeldungen,∙die∙vor∙dem∙1.◦Januar◦2002∙eingereicht∙wurden}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_1_8_1:de:xml~1.8.1○Anmeldungen,∙die∙vor∙dem∙1.◦Januar◦2002∙eingereicht∙wurden}"
+ },
+ {
+  "text": "4.1.3.1○Bezugnahme∙auf∙eine∙früher∙eingereichte∙Anmeldung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 29,
+  "name": "S15248",
+  "unit": "{4.1.3.1○Bezugnahme∙auf∙eine∙früher∙eingereichte∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_4_1_3_1:de:xml~4.1.3.1○Bezugnahme∙auf∙eine∙früher∙eingereichte∙Anmeldung}"
+ },
+ {
+  "text": "Kapitel∙III∙-∙Formalprüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 42,
+  "name": "S15249",
+  "unit": "{Kapitel∙III∙-∙Formalprüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIII:de:xml~Kapitel∙III∙-∙Formalprüfung}"
+ },
+ {
+  "text": "Kapitel∙IV∙-∙Sonderbestimmungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 126,
+  "name": "S15250",
+  "unit": "{Kapitel∙IV∙-∙Sonderbestimmungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIV:de:xml~Kapitel∙IV∙-∙Sonderbestimmungen}"
+ },
+ {
+  "text": "Kapitel∙V∙-∙Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙∙Anmeldung;∙Berichtigung∙von∙Mängeln",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 176,
+  "name": "S15251",
+  "unit": "{Kapitel∙V∙-∙Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙∙Anmeldung;∙Berichtigung∙von∙Mängeln}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CV:de:xml~Kapitel∙V∙-∙Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙∙Anmeldung;∙Berichtigung∙von∙Mängeln}"
+ },
+ {
+  "text": "Kapitel∙VI∙-∙Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙∙Akte∙an∙die∙Prüfungsabteilung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 182,
+  "name": "S15252",
+  "unit": "{Kapitel∙VI∙-∙Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙∙Akte∙an∙die∙Prüfungsabteilung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVI:de:xml~Kapitel∙VI∙-∙Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙∙Akte∙an∙die∙Prüfungsabteilung}"
+ },
+ {
+  "text": "Kapitel∙VII∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 197,
+  "name": "S15253",
+  "unit": "{Kapitel∙VII∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVII:de:xml~Kapitel∙VII∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt}"
+ },
+ {
+  "text": "Kapitel∙VIII∙-∙Sprachen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 225,
+  "name": "S15254",
+  "unit": "{Kapitel∙VIII∙-∙Sprachen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVIII:de:xml~Kapitel∙VIII∙-∙Sprachen}"
+ },
+ {
+  "text": "Kapitel∙IX∙-∙Gemeinsame∙Vorschriften",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 241,
+  "name": "S15255",
+  "unit": "{Kapitel∙IX∙-∙Gemeinsame∙Vorschriften}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIX:de:xml~Kapitel∙IX∙-∙Gemeinsame∙Vorschriften}"
+ },
+ {
+  "text": "Kapitel∙X∙-∙Zeichnungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 261,
+  "name": "S15256",
+  "unit": "{Kapitel∙X∙-∙Zeichnungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CX:de:xml~Kapitel∙X∙-∙Zeichnungen}"
+ },
+ {
+  "text": "Kapitel∙XI∙-∙Gebühren",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 300,
+  "name": "S15257",
+  "unit": "{Kapitel∙XI∙-∙Gebühren}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXI:de:xml~Kapitel∙XI∙-∙Gebühren}"
+ },
+ {
+  "text": "Kapitel∙XII∙-∙Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 371,
+  "name": "S15258",
+  "unit": "{Kapitel∙XII∙-∙Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXII:de:xml~Kapitel∙XII∙-∙Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften}"
+ },
+ {
+  "text": "Kapitel∙II∙-∙Allgemeines",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 8,
+  "name": "S15259",
+  "unit": "{Kapitel∙II∙-∙Allgemeines}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CII:de:xml~Kapitel∙II∙-∙Allgemeines}"
+ },
+ {
+  "text": "Kapitel∙III∙-∙Merkmale∙der∙Recherche",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 19,
+  "name": "S15260",
+  "unit": "{Kapitel∙III∙-∙Merkmale∙der∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CIII:de:xml~Kapitel∙III∙-∙Merkmale∙der∙Recherche}"
+ },
+ {
+  "text": "Kapitel∙IV∙-∙Recherchenverfahren∙und∙‑strategie",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 43,
+  "name": "S15261",
+  "unit": "{Kapitel∙IV∙-∙Recherchenverfahren∙und∙‑strategie}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CIV:de:xml~Kapitel∙IV∙-∙Recherchenverfahren∙und∙‑strategie}"
+ },
+ {
+  "text": "Kapitel∙V∙-∙Vorklassifizierung∙(Weiterleitung)∙und∙offizielle∙Klassifizierung∙europäischer∙Patentanmeldungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 60,
+  "name": "S15262",
+  "unit": "{Kapitel∙V∙-∙Vorklassifizierung∙(Weiterleitung)∙und∙offizielle∙Klassifizierung∙europäischer∙Patentanmeldungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CV:de:xml~Kapitel∙V∙-∙Vorklassifizierung∙(Weiterleitung)∙und∙offizielle∙Klassifizierung∙europäischer∙Patentanmeldungen}"
+ },
+ {
+  "text": "Kapitel∙VI∙-∙Stand∙der∙Technik",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 69,
+  "name": "S15263",
+  "unit": "{Kapitel∙VI∙-∙Stand∙der∙Technik}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CVI:de:xml~Kapitel∙VI∙-∙Stand∙der∙Technik}"
+ },
+ {
+  "text": "Kapitel∙VII∙-∙Einheitlichkeit∙der∙Erfindung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 85,
+  "name": "S15264",
+  "unit": "{Kapitel∙VII∙-∙Einheitlichkeit∙der∙Erfindung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CVII:de:xml~Kapitel∙VII∙-∙Einheitlichkeit∙der∙Erfindung}"
+ },
+ {
+  "text": "Kapitel∙VIII∙-∙Gegenstände,∙die∙von∙der∙Recherche∙auszuschließen∙sind",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 96,
+  "name": "S15265",
+  "unit": "{Kapitel∙VIII∙-∙Gegenstände,∙die∙von∙der∙Recherche∙auszuschließen∙sind}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CVIII:de:xml~Kapitel∙VIII∙-∙Gegenstände,∙die∙von∙der∙Recherche∙auszuschließen∙sind}"
+ },
+ {
+  "text": "Kapitel∙IX∙-∙Recherchendokumentation",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 112,
+  "name": "S15266",
+  "unit": "{Kapitel∙IX∙-∙Recherchendokumentation}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CIX:de:xml~Kapitel∙IX∙-∙Recherchendokumentation}"
+ },
+ {
+  "text": "Kapitel∙X∙-∙Recherchenbericht",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 136,
+  "name": "S15267",
+  "unit": "{Kapitel∙X∙-∙Recherchenbericht}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CX:de:xml~Kapitel∙X∙-∙Recherchenbericht}"
+ },
+ {
+  "text": "Kapitel∙XI∙-∙Zusammenfassung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 163,
+  "name": "S15268",
+  "unit": "{Kapitel∙XI∙-∙Zusammenfassung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CXI:de:xml~Kapitel∙XI∙-∙Zusammenfassung}"
+ },
+ {
+  "text": "Kapitel∙XII∙-∙Stellungnahme∙zur∙Recherche",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "relativeParagraph": 171,
+  "name": "S15269",
+  "unit": "{Kapitel∙XII∙-∙Stellungnahme∙zur∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CXII:de:xml~Kapitel∙XII∙-∙Stellungnahme∙zur∙Recherche}"
+ },
+ {
+  "text": "Kapitel∙II∙-∙Inhalt∙einer∙europäischen∙Patentanmeldung∙(ausgenommen∙Patentansprüche)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S15270",
+  "unit": "{Kapitel∙II∙-∙Inhalt∙einer∙europäischen∙Patentanmeldung∙(ausgenommen∙Patentansprüche)}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLC_CII:de:xml~Kapitel∙II∙-∙Inhalt∙einer∙europäischen∙Patentanmeldung∙(ausgenommen∙Patentansprüche)}"
+ },
+ {
+  "text": "Kapitel∙III∙-∙Patentansprüche",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 59,
+  "name": "S15271",
+  "unit": "{Kapitel∙III∙-∙Patentansprüche}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLC_CIII:de:xml~Kapitel∙III∙-∙Patentansprüche}"
+ },
+ {
+  "text": "Kapitel∙IV∙-∙Patentierbarkeit",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 132,
+  "name": "S15272",
+  "unit": "{Kapitel∙IV∙-∙Patentierbarkeit}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLC_CIV:de:xml~Kapitel∙IV∙-∙Patentierbarkeit}"
+ },
+ {
+  "text": "Kapitel∙V∙-∙Priorität",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 238,
+  "name": "S15273",
+  "unit": "{Kapitel∙V∙-∙Priorität}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLC_CV:de:xml~Kapitel∙V∙-∙Priorität}"
+ },
+ {
+  "text": "Kapitel∙VI∙-∙Prüfungsverfahren",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 262,
+  "name": "S15274",
+  "unit": "{Kapitel∙VI∙-∙Prüfungsverfahren}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLC_CVI:de:xml~Kapitel∙VI∙-∙Prüfungsverfahren}"
+ },
+ {
+  "text": "Kapitel∙II∙-∙Die∙Einspruchsabteilung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 12,
+  "name": "S15275",
+  "unit": "{Kapitel∙II∙-∙Die∙Einspruchsabteilung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CII:de:xml~Kapitel∙II∙-∙Die∙Einspruchsabteilung}"
+ },
+ {
+  "text": "Kapitel∙III∙-∙Der∙Einspruch",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 26,
+  "name": "S15276",
+  "unit": "{Kapitel∙III∙-∙Der∙Einspruch}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CIII:de:xml~Kapitel∙III∙-∙Der∙Einspruch}"
+ },
+ {
+  "text": "Kapitel∙IV∙-∙Verfahren∙bis∙zur∙materiellrechtlichen∙Prüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 36,
+  "name": "S15277",
+  "unit": "{Kapitel∙IV∙-∙Verfahren∙bis∙zur∙materiellrechtlichen∙Prüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CIV:de:xml~Kapitel∙IV∙-∙Verfahren∙bis∙zur∙materiellrechtlichen∙Prüfung}"
+ },
+ {
+  "text": "Kapitel∙V∙-∙Materiellrechtliche∙Prüfung∙beim∙Einspruch",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 63,
+  "name": "S15278",
+  "unit": "{Kapitel∙V∙-∙Materiellrechtliche∙Prüfung∙beim∙Einspruch}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CV:de:xml~Kapitel∙V∙-∙Materiellrechtliche∙Prüfung∙beim∙Einspruch}"
+ },
+ {
+  "text": "Kapitel∙VI∙-∙Verfahren∙bei∙der∙Prüfung∙des∙Einspruchs",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 98,
+  "name": "S15279",
+  "unit": "{Kapitel∙VI∙-∙Verfahren∙bei∙der∙Prüfung∙des∙Einspruchs}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CVI:de:xml~Kapitel∙VI∙-∙Verfahren∙bei∙der∙Prüfung∙des∙Einspruchs}"
+ },
+ {
+  "text": "Kapitel∙VII∙-∙Einzelheiten∙und∙Besonderheiten∙des∙Verfahrens",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 117,
+  "name": "S15280",
+  "unit": "{Kapitel∙VII∙-∙Einzelheiten∙und∙Besonderheiten∙des∙Verfahrens}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CVII:de:xml~Kapitel∙VII∙-∙Einzelheiten∙und∙Besonderheiten∙des∙Verfahrens}"
+ },
+ {
+  "text": "Kapitel∙VIII∙-∙Entscheidungen∙der∙Einspruchsabteilung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 141,
+  "name": "S15281",
+  "unit": "{Kapitel∙VIII∙-∙Entscheidungen∙der∙Einspruchsabteilung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CVIII:de:xml~Kapitel∙VIII∙-∙Entscheidungen∙der∙Einspruchsabteilung}"
+ },
+ {
+  "text": "Kapitel∙IX∙-∙Kosten",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 160,
+  "name": "S15282",
+  "unit": "{Kapitel∙IX∙-∙Kosten}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CIX:de:xml~Kapitel∙IX∙-∙Kosten}"
+ },
+ {
+  "text": "Kapitel∙X∙-∙Beschränkungs-∙und∙Widerrufsverfahren",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/D.eplegal.zip",
+  "relativeParagraph": 170,
+  "name": "S15283",
+  "unit": "{Kapitel∙X∙-∙Beschränkungs-∙und∙Widerrufsverfahren}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLD_CX:de:xml~Kapitel∙X∙-∙Beschränkungs-∙und∙Widerrufsverfahren}"
+ },
+ {
+  "text": "Einleitung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S15284",
+  "unit": "{Einleitung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_I:de:xml~Einleitung}"
+ },
+ {
+  "text": "Kapitel∙I∙-∙Bescheide∙und∙Mitteilungen∙sowie∙Zustellungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S15285",
+  "unit": "{Kapitel∙I∙-∙Bescheide∙und∙Mitteilungen∙sowie∙Zustellungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CI:de:xml~Kapitel∙I∙-∙Bescheide∙und∙Mitteilungen∙sowie∙Zustellungen}"
+ },
+ {
+  "text": "Kapitel∙II∙-∙Verfahren∙bei∙Änderung∙der∙Unterlagen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 15,
+  "name": "S15286",
+  "unit": "{Kapitel∙II∙-∙Verfahren∙bei∙Änderung∙der∙Unterlagen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CII:de:xml~Kapitel∙II∙-∙Verfahren∙bei∙Änderung∙der∙Unterlagen}"
+ },
+ {
+  "text": "Kapitel∙III∙-∙Mündliche∙Verhandlung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 19,
+  "name": "S15287",
+  "unit": "{Kapitel∙III∙-∙Mündliche∙Verhandlung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CIII:de:xml~Kapitel∙III∙-∙Mündliche∙Verhandlung}"
+ },
+ {
+  "text": "Kapitel∙IV∙-∙Beweisaufnahme∙und∙Beweissicherung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 41,
+  "name": "S15288",
+  "unit": "{Kapitel∙IV∙-∙Beweisaufnahme∙und∙Beweissicherung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CIV:de:xml~Kapitel∙IV∙-∙Beweisaufnahme∙und∙Beweissicherung}"
+ },
+ {
+  "text": "Kapitel∙V∙-∙Abweichung∙von∙der∙Verfahrenssprache∙bei∙mündlichen∙Verfahren",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 86,
+  "name": "S15289",
+  "unit": "{Kapitel∙V∙-∙Abweichung∙von∙der∙Verfahrenssprache∙bei∙mündlichen∙Verfahren}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CV:de:xml~Kapitel∙V∙-∙Abweichung∙von∙der∙Verfahrenssprache∙bei∙mündlichen∙Verfahren}"
+ },
+ {
+  "text": "Kapitel∙VI∙-∙Ermittlung∙von∙Amts∙wegen;∙verspätet∙vorgebrachte∙Tatsachen,∙Beweismittel∙oder∙Einspruchsgründe;∙Einwendungen∙Dritter",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 93,
+  "name": "S15290",
+  "unit": "{Kapitel∙VI∙-∙Ermittlung∙von∙Amts∙wegen;∙verspätet∙vorgebrachte∙Tatsachen,∙Beweismittel∙oder∙Einspruchsgründe;∙Einwendungen∙Dritter}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CVI:de:xml~Kapitel∙VI∙-∙Ermittlung∙von∙Amts∙wegen;∙verspätet∙vorgebrachte∙Tatsachen,∙Beweismittel∙oder∙Einspruchsgründe;∙Einwendungen∙Dritter}"
+ },
+ {
+  "text": "Kapitel∙VII∙-∙Unterbrechung∙und∙Aussetzung∙des∙Verfahrens",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 99,
+  "name": "S15291",
+  "unit": "{Kapitel∙VII∙-∙Unterbrechung∙und∙Aussetzung∙des∙Verfahrens}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CVII:de:xml~Kapitel∙VII∙-∙Unterbrechung∙und∙Aussetzung∙des∙Verfahrens}"
+ },
+ {
+  "text": "Kapitel∙VIII∙-∙Fristen,∙Rechtsverlust,∙Weiterbehandlung,∙beschleunigte∙∙Bearbeitung∙und∙Wiedereinsetzung∙in∙den∙vorigen∙Stand",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 107,
+  "name": "S15292",
+  "unit": "{Kapitel∙VIII∙-∙Fristen,∙Rechtsverlust,∙Weiterbehandlung,∙beschleunigte∙∙Bearbeitung∙und∙Wiedereinsetzung∙in∙den∙vorigen∙Stand}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CVIII:de:xml~Kapitel∙VIII∙-∙Fristen,∙Rechtsverlust,∙Weiterbehandlung,∙beschleunigte∙∙Bearbeitung∙und∙Wiedereinsetzung∙in∙den∙vorigen∙Stand}"
+ },
+ {
+  "text": "Kapitel∙IX∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 139,
+  "name": "S15293",
+  "unit": "{Kapitel∙IX∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CIX:de:xml~Kapitel∙IX∙-∙Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)}"
+ },
+ {
+  "text": "4a.○Erwiderung∙auf∙den∙WO-ISA,∙den∙IPER∙oder∙die∙Stellungnahme∙zur∙∙Recherche",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 148,
+  "name": "S15294",
+  "unit": "{4a.○Erwiderung∙auf∙den∙WO-ISA,∙den∙IPER∙oder∙die∙Stellungnahme∙zur∙∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CIX_4a:de:xml~4a.○Erwiderung∙auf∙den∙WO-ISA,∙den∙IPER∙oder∙die∙Stellungnahme∙zur∙∙Recherche}"
+ },
+ {
+  "text": "Kapitel∙X∙-∙Entscheidungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 166,
+  "name": "S15295",
+  "unit": "{Kapitel∙X∙-∙Entscheidungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CX:de:xml~Kapitel∙X∙-∙Entscheidungen}"
+ },
+ {
+  "text": "Kapitel∙XI∙-∙Beschwerde",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 183,
+  "name": "S15296",
+  "unit": "{Kapitel∙XI∙-∙Beschwerde}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CXI:de:xml~Kapitel∙XI∙-∙Beschwerde}"
+ },
+ {
+  "text": "Kapitel∙XII∙-∙Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 195,
+  "name": "S15297",
+  "unit": "{Kapitel∙XII∙-∙Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CXII:de:xml~Kapitel∙XII∙-∙Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent}"
+ },
+ {
+  "text": "Kapitel∙XIII∙-∙Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙∙Rechten∙usw.",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 209,
+  "name": "S15298",
+  "unit": "{Kapitel∙XIII∙-∙Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙∙Rechten∙usw.}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CXIII:de:xml~Kapitel∙XIII∙-∙Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙∙Rechten∙usw.}"
+ },
+ {
+  "text": "Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 16,
+  "name": "S15299",
+  "unit": "{Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA:de:xml~Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung}"
+ },
+ {
+  "text": "Kapitel∙I○Einleitung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 18,
+  "name": "S15300",
+  "unit": "{Kapitel∙I○Einleitung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CI:de:xml~Kapitel∙I○Einleitung}"
+ },
+ {
+  "text": "Kapitel∙II○Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 19,
+  "name": "S15301",
+  "unit": "{Kapitel∙II○Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII:de:xml~Kapitel∙II○Einreichung∙von∙Anmeldungen∙und∙Eingangsprüfung}"
+ },
+ {
+  "text": "Kapitel∙III○Formalprüfung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 20,
+  "name": "S15302",
+  "unit": "{Kapitel∙III○Formalprüfung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIII:de:xml~Kapitel∙III○Formalprüfung}"
+ },
+ {
+  "text": "Kapitel∙IV○Sonderbestimmungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 21,
+  "name": "S15303",
+  "unit": "{Kapitel∙IV○Sonderbestimmungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIV:de:xml~Kapitel∙IV○Sonderbestimmungen}"
+ },
+ {
+  "text": "Kapitel∙V○Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 22,
+  "name": "S15304",
+  "unit": "{Kapitel∙V○Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CV:de:xml~Kapitel∙V○Erlass∙des∙Bescheids∙über∙die∙Formalprüfung;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln}"
+ },
+ {
+  "text": "Kapitel∙VI○Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙Akte∙an∙die∙Prüfungsabteilung",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 23,
+  "name": "S15305",
+  "unit": "{Kapitel∙VI○Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙Akte∙an∙die∙Prüfungsabteilung}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVI:de:xml~Kapitel∙VI○Veröffentlichung∙der∙Anmeldung;∙Prüfungsantrag;∙Weiterleitung∙der∙Akte∙an∙die∙Prüfungsabteilung}"
+ },
+ {
+  "text": "Kapitel∙VII○Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 24,
+  "name": "S15306",
+  "unit": "{Kapitel∙VII○Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVII:de:xml~Kapitel∙VII○Anmeldungen∙im∙Rahmen∙des∙Vertrags∙über∙die∙internationale∙Zusammenarbeit∙auf∙dem∙Gebiet∙des∙Patentwesens∙(PCT)∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙als∙ausgewähltem∙Amt}"
+ },
+ {
+  "text": "Kapitel∙VIII○Sprachen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 25,
+  "name": "S15307",
+  "unit": "{Kapitel∙VIII○Sprachen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVIII:de:xml~Kapitel∙VIII○Sprachen}"
+ },
+ {
+  "text": "Kapitel∙IX○Gemeinsame∙Vorschriften",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 26,
+  "name": "S15308",
+  "unit": "{Kapitel∙IX○Gemeinsame∙Vorschriften}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIX:de:xml~Kapitel∙IX○Gemeinsame∙Vorschriften}"
+ },
+ {
+  "text": "Kapitel∙X○Zeichnungen",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 27,
+  "name": "S15309",
+  "unit": "{Kapitel∙X○Zeichnungen}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CX:de:xml~Kapitel∙X○Zeichnungen}"
+ },
+ {
+  "text": "Kapitel∙XI○Gebühren",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 28,
+  "name": "S15310",
+  "unit": "{Kapitel∙XI○Gebühren}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXI:de:xml~Kapitel∙XI○Gebühren}"
+ },
+ {
+  "text": "Kapitel∙XII○Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 29,
+  "name": "S15311",
+  "unit": "{Kapitel∙XII○Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXII:de:xml~Kapitel∙XII○Akteneinsicht;∙Auskunft∙aus∙den∙Akten;∙Einsichtnahme∙in∙das∙Europäische∙Patentregister;∙Ausstellung∙beglaubigter∙Abschriften}"
+ },
+ {
+  "text": "–∙Anlage○Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe∙XI,∙5)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 43,
+  "name": "S15312",
+  "unit": "{–∙Anlage○Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe∙XI,∙5)}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CXIA:de:xml~–∙Anlage○Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe∙XI,∙5)}"
+ },
+ {
+  "text": "Kapitel∙XIII○Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙Rechten∙usw.",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "relativeParagraph": 82,
+  "name": "S15313",
+  "unit": "{Kapitel∙XIII○Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙Rechten∙usw.}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CXIII:de:xml~Kapitel∙XIII○Eintragung∙von∙Rechtsübergängen,∙Lizenzen,∙anderen∙Rechten∙usw.}"
+ },
+ {
+  "text": "Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F-II,◦2.5)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "referringId": "guiex:GLF",
+  "relativeParagraph": 45,
+  "name": "S15314",
+  "unit": "{Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F-II,◦2.5)}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIIA1:de:xml#GLF_CIIA1~Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F-II,◦2.5)}"
+ },
+ {
+  "text": "Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(11)◦(siehe∙F-II,◦4.13)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "referringId": "guiex:GLF",
+  "relativeParagraph": 46,
+  "name": "S15315",
+  "unit": "{Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(11)◦(siehe∙F-II,◦4.13)}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIIA2:de:xml#GLF_CIIA2~Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(11)◦(siehe∙F-II,◦4.13)}"
+ },
+ {
+  "text": "Anlage→xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "referringId": "guiex:GLF",
+  "relativeParagraph": 123,
+  "name": "S15316",
+  "unit": "{Anlage→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIVA:de:xml#GLF_CIVA~Anlage→xxx}"
+ },
+ {
+  "text": "Teil∙F∙-∙Die∙europäische∙Patentanmeldung",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 80,
+  "name": "S15319",
+  "unit": "{Teil∙F∙-∙Die∙europäische∙Patentanmeldung}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF:de:xml#GLF~Teil∙F∙-∙Die∙europäische∙Patentanmeldung}"
+ },
+ {
+  "text": "Anlage∙1→xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 84,
+  "name": "S15320",
+  "unit": "{Anlage∙1→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIIA1:de:xml#GLF_CIIA1~Anlage∙1→xxx}"
+ },
+ {
+  "text": "Teil∙H∙-∙Änderungen∙und∙Berichtigungen",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 101,
+  "name": "S15323",
+  "unit": "{Teil∙H∙-∙Änderungen∙und∙Berichtigungen}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLH:de:xml#GLH~Teil∙H∙-∙Änderungen∙und∙Berichtigungen}"
+ },
+ {
+  "text": "Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(10)∙(siehe∙F-II,◦4.13)",
+  "file": "/EP/organization/guiex/2013/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "relativeParagraph": 46,
+  "name": "S15324",
+  "unit": "{Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(10)∙(siehe∙F-II,◦4.13)}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLF_CIIA2:de:xml#GLF_CIIA2~Anlage∙2∙In∙der∙internationalen∙Praxis∙anerkannte∙Einheiten∙gemäß∙Regel◦49◦(10)∙(siehe∙F-II,◦4.13)}"
+ },
+ {
+  "text": "Kapitel∙V∙–Mitteilungen∙bezüglich∙formaler∙Mängel;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "relativeParagraph": 188,
+  "name": "S15325",
+  "unit": "{Kapitel∙V∙–Mitteilungen∙bezüglich∙formaler∙Mängel;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLA_CV:de:xml#GLA_CV~Kapitel∙V∙–Mitteilungen∙bezüglich∙formaler∙Mängel;∙Änderung∙einer∙Anmeldung;∙Berichtigung∙von∙Mängeln}"
+ },
+ {
+  "text": "Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F­II,◦2.5)",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "relativeParagraph": 45,
+  "name": "S15326",
+  "unit": "{Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F­II,◦2.5)}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLF_CIIA1:de:xml#GLF_CIIA1~Anlage∙1∙Kontrollliste∙für∙die∙Prüfung∙der∙Zusammenfassung∙(siehe◦F­II,◦2.5)}"
+ },
+ {
+  "text": "Kapitel∙XI∙–Beschwerde",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 263,
+  "name": "S15327",
+  "unit": "{Kapitel∙XI∙–Beschwerde}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLE_CXI:de:xml#GLE_CXI~Kapitel∙XI∙–Beschwerde}"
+ },
+ {
+  "text": "Kapitel∙XII∙–Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 282,
+  "name": "S15328",
+  "unit": "{Kapitel∙XII∙–Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLE_CXII:de:xml#GLE_CXII~Kapitel∙XII∙–Ersuchen∙eines∙nationalen∙Gerichts∙um∙Erstattung∙eines∙technischen∙Gutachtens∙über∙ein∙europäisches∙Patent}"
+ },
+ {
+  "text": "Kapitel∙XIII∙–Eintragung∙von∙Namensänderungen,∙Rechtsübergängen,∙Lizenzen∙und∙anderen∙Rechten",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "relativeParagraph": 296,
+  "name": "S15329",
+  "unit": "{Kapitel∙XIII∙–Eintragung∙von∙Namensänderungen,∙Rechtsübergängen,∙Lizenzen∙und∙anderen∙Rechten}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLE_CXIII:de:xml#GLE_CXIII~Kapitel∙XIII∙–Eintragung∙von∙Namensänderungen,∙Rechtsübergängen,∙Lizenzen∙und∙anderen∙Rechten}"
+ },
+ {
+  "text": "Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/de/H.eplegal.zip",
+  "relativeParagraph": 85,
+  "name": "S15330",
+  "unit": "{Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLH_CIV:de:xml#GLH_CIV~Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)}"
+ },
+ {
+  "text": "Kapitel∙XIV→xxx",
+  "file": "/EP/organization/guiex/2017/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "relativeParagraph": 80,
+  "name": "S15331",
+  "unit": "{Kapitel∙XIV→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2017:1:1.0:electronicproofer:GLE_CXIV:de:xml#GLE_CXIV~Kapitel∙XIV→xxx}"
+ }
+]

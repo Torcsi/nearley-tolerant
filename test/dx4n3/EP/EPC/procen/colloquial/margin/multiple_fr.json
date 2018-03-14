@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Prot.∙Centr.∙I(1),∙Prot.∙Centr.∙I(3),∙Prot.∙Centr.∙IV(2),∙Prot.∙Centr.∙V",
+  "unit": "{Prot.∙Centr.∙I(1)},∙{Prot.∙Centr.∙I(3)},∙{Prot.∙Centr.∙IV(2)},∙{Prot.∙Centr.∙V}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:CI_1:fr:docx:procen::CI#CI_1~Prot.∙Centr.∙I(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CI_3:fr:docx:procen::CI#CI_3~Prot.∙Centr.∙I(3)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CIV_2:fr:docx:procen::CIV#CIV_2~Prot.∙Centr.∙IV(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CV:fr:docx:procen::#CV~Prot.∙Centr.∙V}",
+  "name": "M28520",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/fr/B.eplegal.zip",
+  "referringId": "GLB_CI_5",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Prot.∙Centr.∙I(1),∙I(3),∙IV(2),∙V",
+  "unit": "{Prot.∙Centr.∙I(1)},∙{I(3)},∙{IV(2)},∙{V}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:CI_1:fr:docx:procen::CI#CI_1~Prot.∙Centr.∙I(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CI_3:fr:docx:procen::CI#CI_3~I(3)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CIV_2:fr:docx:procen::CIV#CIV_2~IV(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CV:fr:docx:procen::#CV~V}",
+  "name": "M28522",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/fr/B.eplegal.zip",
+  "referringId": "GLB_CI_5",
+  "relativeParagraph": 2
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "text": "l'article◦83∙et∙l'article◦84∙CBE",
+  "unit": "{l'article◦83}∙et∙{l'article◦84∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A83:fr:xml#A83~l'article◦83}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A84:fr:xml#A84~l'article◦84∙CBE}",
+  "name": "M39419",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/fr/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 68
+ },
+ {
+  "text": "l'article◦123(3)∙CBE∙et∙l'article∙69∙CBE",
+  "unit": "{l'article◦123(3)∙CBE}∙et∙{l'article∙69∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A123_3:fr:xml#A123_3~l'article◦123(3)∙CBE}∙et∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A69:fr:xml#A69~l'article∙69∙CBE}",
+  "name": "M39425",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/fr/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 89
+ },
+ {
+  "text": "l'article∙83∙et∙l'article∙84∙CBE",
+  "unit": "{l'article∙83}∙et∙{l'article∙84∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A83:fr:xml#A83~l'article∙83}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A84:fr:xml#A84~l'article∙84∙CBE}",
+  "name": "M39427",
+  "file": "/EP/organization/OJ/2015/se4/issue/electronicproofer/fr/OJ_2015_se4_0.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se4_0",
+  "relativeParagraph": 151
+ },
+ {
+  "text": "l'article◦123(2)∙CBE∙et∙l'article◦123(3)∙CBE",
+  "unit": "{l'article◦123(2)∙CBE}∙et∙{l'article◦123(3)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_2:fr:xml#A123_2~l'article◦123(2)∙CBE}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_3:fr:xml#A123_3~l'article◦123(3)∙CBE}",
+  "name": "M39429",
+  "file": "/EP/organization/OJ/2015/se4/issue/electronicproofer/fr/OJ_2015_se4_0.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se4_0",
+  "relativeParagraph": 183
+ },
+ {
+  "text": "l'article∙123(2)∙et∙(3)∙CBE",
+  "unit": "{l'article∙123(2)}∙et∙{(3)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_2:fr:xml#A123_2~l'article∙123(2)}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_3:fr:xml#A123_3~(3)∙CBE}",
+  "name": "M39431",
+  "file": "/EP/organization/OJ/2015/se5/issue/electronicproofer/fr/OJ_2015_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se5_toc",
+  "relativeParagraph": 35
+ },
+ {
+"bad":true,
+  "text": "l'article∙123(2)∙et∙(3)∙CBE◦",
+  "unit": "{l'article∙123(2)}∙et∙{(3)∙CBE◦}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_2:fr:xml#A123_2~l'article∙123(2)}∙et∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_3:fr:xml#A123_3~(3)∙CBE◦}",
+  "name": "M39433",
+  "file": "/EP/organization/OJ/2015/se5/issue/electronicproofer/fr/OJ_2015_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se5_toc",
+  "relativeParagraph": 38
+ }
+]

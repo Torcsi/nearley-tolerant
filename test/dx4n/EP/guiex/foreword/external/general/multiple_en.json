@@ -1,0 +1,166 @@
+[
+ {
+  "text": "G-IV,∙5.1∙and∙G-VII,∙2",
+  "unit": "{G-IV,∙5.1}∙and∙{G-VII,∙2}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CIV_5_1:en:xml#GLG_CIV_5_1~G-IV,∙5.1}∙and∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CVII_2:en:xml#GLG_CVII_2~G-VII,∙2}",
+  "name": "M04242",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-IV,◦5.1◦and◦5.1.1",
+  "unit": "{G-IV,◦5.1}◦and◦{5.1.1}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CIV_5_1:en:xml#GLG_CIV_5_1~G-IV,◦5.1}◦and◦{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CIV_5_1_1:en:xml#GLG_CIV_5_1_1~5.1.1}",
+  "name": "M06442",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "G-IV,◦7.1◦to◦7.4",
+  "unit": "{G-IV,◦7.1}◦to◦{7.4}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CIV_7_1:en:xml#GLG_CIV_7_1~G-IV,◦7.1}◦to◦{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CIV_7_4:en:xml#GLG_CIV_7_4~7.4}",
+  "name": "M06444",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-II∙and◦G-III",
+  "unit": "{G-II}∙and◦{G-III}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CII:en:xml#GLG_CII~G-II}∙and◦{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CIII:en:xml#GLG_CIII~G-III}",
+  "name": "M06450",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "G-I◦to◦VII",
+  "unit": "{G-I}◦to◦{VII}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CI:en:xml#GLG_CI~G-I}◦to◦{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CVII:en:xml#GLG_CVII~VII}",
+  "name": "M06524",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-V,◦1(i)∙and∙(ii)",
+  "unit": "{G-V,◦1(i)}∙and∙{(ii)}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CV_1_i:en:xml#GLG_CV_1_i~G-V,◦1(i)}∙and∙{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CV_1_ii:en:xml#GLG_CV_1_ii~(ii)}",
+  "name": "M06620",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:GLG_CV_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-II,◦5.4,∙G-II,◦5.4.2",
+  "unit": "{G-II,◦5.4},∙{G-II,◦5.4.2}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_5_4:en:xml#GLG_CII_5_4~G-II,◦5.4},∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_5_4_2:en:xml#GLG_CII_5_4_2~G-II,◦5.4.2}",
+  "name": "M06704",
+  "file": "/EP/organization/guiex/2013/1/1.0/electronicproofer/en/K.eplegal.zip",
+  "referringId": "guiex:GLK_A",
+  "relativeParagraph": 244
+ },
+ {
+  "text": "G-II,◦4.2,∙G-II,◦4.2.1,∙G-II,◦4.2.1.3",
+  "unit": "{G-II,◦4.2},∙{G-II,◦4.2.1},∙{G-II,◦4.2.1.3}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_4_2:en:xml#GLG_CII_4_2~G-II,◦4.2},∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_4_2_1:en:xml#GLG_CII_4_2_1~G-II,◦4.2.1},∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CII_4_2_1_3:en:xml#GLG_CII_4_2_1_3~G-II,◦4.2.1.3}",
+  "name": "M06754",
+  "file": "/EP/organization/guiex/2013/1/1.0/electronicproofer/en/K.eplegal.zip",
+  "referringId": "guiex:GLK_D",
+  "relativeParagraph": 239
+ },
+ {
+  "text": "G-II,∙1∙and∙2",
+  "unit": "{G-II,∙1}∙and∙{2}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_1:en:xml#GLG_CII_1~G-II,∙1}∙and∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_2:en:xml#GLG_CII_2~2}",
+  "name": "M06974",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-II,◦3.1-3.7",
+  "unit": "{G-II,◦3.1}-{3.7}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_3_1:en:xml#GLG_CII_3_1~G-II,◦3.1}-{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_3_7:en:xml#GLG_CII_3_7~3.7}",
+  "name": "M06976",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "G-II,∙5.4,∙G-II,∙5.4.2",
+  "unit": "{G-II,∙5.4},∙{G-II,∙5.4.2}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_5_4:en:xml#GLG_CII_5_4~G-II,∙5.4},∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_5_4_2:en:xml#GLG_CII_5_4_2~G-II,∙5.4.2}",
+  "name": "M07000",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/K.eplegal.zip",
+  "relativeParagraph": 260
+ },
+ {
+  "text": "G-II,∙4.2,∙G-II,∙4.2.1,∙G-II,∙4.2.1.3",
+  "unit": "{G-II,∙4.2},∙{G-II,∙4.2.1},∙{G-II,∙4.2.1.3}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_4_2:en:xml#GLG_CII_4_2~G-II,∙4.2},∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_4_2_1:en:xml#GLG_CII_4_2_1~G-II,∙4.2.1},∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_4_2_1_3:en:xml#GLG_CII_4_2_1_3~G-II,∙4.2.1.3}",
+  "name": "M07040",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/K.eplegal.zip",
+  "relativeParagraph": 252
+ },
+ {
+  "text": "G-VII,∙5.4∙to∙5.4.1",
+  "unit": "{G-VII,∙5.4}∙to∙{5.4.1}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CVII_5_4:en:xml#GLG_CVII_5_4~G-VII,∙5.4}∙to∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CVII_5_4_1:en:xml#GLG_CVII_5_4_1~5.4.1}",
+  "name": "M07144",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "relativeParagraph": 115
+ },
+ {
+  "text": "G-II,∙5.4.2∙to∙5.4.2.1",
+  "unit": "{G-II,∙5.4.2}∙to∙{5.4.2.1}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_5_4_2:en:xml#GLG_CII_5_4_2~G-II,∙5.4.2}∙to∙{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLG_CII_5_4_2_1:en:xml#GLG_CII_5_4_2_1~5.4.2.1}",
+  "name": "M07154",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "relativeParagraph": 283
+ },
+ {
+  "text": "G-VI,◦7.1.2,◦G-VI,◦7.1.3∙and∙G-VI,◦7.1.4",
+  "unit": "{G-VI,◦7.1.2},◦{G-VI,◦7.1.3}∙and∙{G-VI,◦7.1.4}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVI_7_1_2:en:xml#GLG_CVI_7_1_2~G-VI,◦7.1.2},◦{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVI_7_1_3:en:xml#GLG_CVI_7_1_3~G-VI,◦7.1.3}∙and∙{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVI_7_1_4:en:xml#GLG_CVI_7_1_4~G-VI,◦7.1.4}",
+  "name": "M07164",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "G-VII,◦5.4.2.1∙to∙5.4.2.4",
+  "unit": "{G-VII,◦5.4.2.1}∙to∙{5.4.2.4}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVII_5_4_2_1:en:xml#GLG_CVII_5_4_2_1~G-VII,◦5.4.2.1}∙to∙{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVII_5_4_2_4:en:xml#GLG_CVII_5_4_2_4~5.4.2.4}",
+  "name": "M07188",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "G-II,∙4.2,∙G-VII,∙Annex",
+  "unit": "{G-II,∙4.2},∙{G-VII,∙Annex}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CII_4_2:en:xml#GLG_CII_4_2~G-II,∙4.2},∙{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVIIA:en:xml#GLG_CVIIA~G-VII,∙Annex}",
+  "name": "M07782",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/en/annex-v.eplegal.zip",
+  "relativeParagraph": 6
+ },
+ {
+  "text": "G-VI,∙7.1.2-7.1.5",
+  "unit": "{G-VI,∙7.1.2}-{7.1.5}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVI_7_1_2:en:xml#GLG_CVI_7_1_2~G-VI,∙7.1.2}-{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVI_7_1_5:en:xml#GLG_CVI_7_1_5~7.1.5}",
+  "name": "M07794",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "G-VII,◦5.4.2.1-5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO",
+  "unit": "{G-VII,◦5.4.2.1}-{5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVII_5_4_2_1:en:xml#GLG_CVII_5_4_2_1~G-VII,◦5.4.2.1}-{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLG_CVII_5_4_2_4:en:xml#GLG_CVII_5_4_2_4~5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO}",
+  "name": "M10026",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "PCTEPOGL:PGG_CVII_5_4_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-VII,◦5.4.2.1∙to∙G-VII,◦5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO",
+  "unit": "{G-VII,◦5.4.2.1}∙to∙{G-VII,◦5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO}",
+  "value": "{ep-legal:countries:EP::guiex:2017:1:1.0:electronicproofer:GLG_CVII_5_4_2_1:en:xml#GLG_CVII_5_4_2_1~G-VII,◦5.4.2.1}∙to∙{ep-legal:countries:EP::guiex:2017:1:1.0:electronicproofer:GLG_CVII_5_4_2_4:en:xml#GLG_CVII_5_4_2_4~G-VII,◦5.4.2.4,∙in∙the∙Guidelines∙for∙Examination∙in∙the∙EPO}",
+  "name": "M10110",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

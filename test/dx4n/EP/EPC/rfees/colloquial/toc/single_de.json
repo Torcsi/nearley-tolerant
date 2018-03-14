@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Gebührenordnung",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 11,
+  "name": "S14874",
+  "unit": "{Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:FEE:de:xml~Gebührenordnung}"
+ },
+ {
+  "text": "Artikels◦14◦(1)∙der∙Gebührenordnung",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/de/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 12,
+  "name": "S15348",
+  "unit": "{Artikels◦14◦(1)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:14_1:de:xml#14_1~Artikels◦14◦(1)∙der∙Gebührenordnung}"
+ },
+ {
+  "text": "Artikels◦2∙der∙Gebührenordnung",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/de/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 14,
+  "name": "S15349",
+  "unit": "{Artikels◦2∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:de:xml#2~Artikels◦2∙der∙Gebührenordnung}"
+ },
+ {
+  "text": "Artikel◦9◦(2)∙der∙Gebührenordnung",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 178,
+  "name": "S15392",
+  "unit": "{Artikel◦9◦(2)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:9_2:de:xml#9_2~Artikel◦9◦(2)∙der∙Gebührenordnung}"
+ },
+ {
+  "text": "Artikel◦12∙der∙Gebührenordnung",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 180,
+  "name": "S15393",
+  "unit": "{Artikel◦12∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:12:de:xml#12~Artikel◦12∙der∙Gebührenordnung}"
+ },
+ {
+  "text": "Artikel∙9∙(2)∙der∙Gebührenordnung",
+  "file": "/EP/organization/OJ/2017/11/issue/electronicproofer/de/OJ_2017_i11_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2017_i11_toc",
+  "relativeParagraph": 5,
+  "name": "S15395",
+  "unit": "{Artikel∙9∙(2)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:9_2:de:xml#9_2~Artikel∙9∙(2)∙der∙Gebührenordnung}"
+ }
+]

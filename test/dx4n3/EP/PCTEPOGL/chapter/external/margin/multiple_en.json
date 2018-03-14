@@ -1,0 +1,38 @@
+[
+ {
+  "text": "GL/PCT-EPO∙B-II,∙2,∙GL/PCT-EPO∙B-III,∙1",
+  "unit": "{GL/PCT-EPO∙B-II,∙2},∙{GL/PCT-EPO∙B-III,∙1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CII_2:en:docx:B::PGB#PGB_CII_2~GL/PCT-EPO∙B-II,∙2},∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CIII_1:en:docx:B::PGB#PGB_CIII_1~GL/PCT-EPO∙B-III,∙1}",
+  "name": "M83656",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_218",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "GL/PCT-EPO∙B-II,∙2,∙B-III,∙1",
+  "unit": "{GL/PCT-EPO∙B-II,∙2},∙{B-III,∙1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CII_2:en:docx:B::PGB#PGB_CII_2~GL/PCT-EPO∙B-II,∙2},∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CIII_1:en:docx:B::PGB#PGB_CIII_1~B-III,∙1}",
+  "name": "M83658",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_218",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "GL/PCT-EPO∙B-VIII,∙1∙-∙GL/PCT-EPO∙B-VIII,∙3",
+  "unit": "{GL/PCT-EPO∙B-VIII,∙1}∙-∙{GL/PCT-EPO∙B-VIII,∙3}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVIII_1:en:docx:B::PGB#PGB_CVIII_1~GL/PCT-EPO∙B-VIII,∙1}∙-∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVIII_3:en:docx:B::PGB#PGB_CVIII_3~GL/PCT-EPO∙B-VIII,∙3}",
+  "name": "M83662",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_254",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "GL/PCT-EPO∙B-VIII,∙1∙-∙3",
+  "unit": "{GL/PCT-EPO∙B-VIII,∙1}∙-∙{3}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVIII_1:en:docx:B::PGB#PGB_CVIII_1~GL/PCT-EPO∙B-VIII,∙1}∙-∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGB_CVIII_3:en:docx:B::PGB#PGB_CVIII_3~3}",
+  "name": "M83664",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2016/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_254",
+  "relativeParagraph": 3
+ }
+]

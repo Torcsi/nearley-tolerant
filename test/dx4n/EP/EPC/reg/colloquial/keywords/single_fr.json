@@ -1,0 +1,74 @@
+[
+ {
+  "text": "R◦66",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 2,
+  "name": "S28031",
+  "unit": "{R◦66}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R66:fr:xml~R◦66}"
+ },
+ {
+  "text": "R◦68(1)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 5,
+  "name": "S28032",
+  "unit": "{R◦68(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R68_1:fr:xml~R◦68(1)}"
+ },
+ {
+  "text": "150",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 55,
+  "name": "S28041",
+  "unit": "{150}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R150:fr:xml~150}"
+ },
+ {
+  "text": "(2)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_B",
+  "relativeParagraph": 6,
+  "name": "S28044",
+  "unit": "{(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R48_2:fr:xml~(2)}"
+ },
+ {
+  "text": "R◦70ter",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_I",
+  "relativeParagraph": 64,
+  "name": "S28057",
+  "unit": "{R◦70ter}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70b:fr:xml~R◦70ter}"
+ },
+ {
+  "text": "R◦24◦(b)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_L",
+  "relativeParagraph": 31,
+  "name": "S28058",
+  "unit": "{R◦24◦(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R24_b:fr:xml~R◦24◦(b)}"
+ },
+ {
+  "text": "R◦24(a)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_L",
+  "relativeParagraph": 33,
+  "name": "S28059",
+  "unit": "{R◦24(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R24_a:fr:xml~R◦24(a)}"
+ },
+ {
+  "text": "R◦143(1)v)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_R",
+  "relativeParagraph": 117,
+  "name": "S28075",
+  "unit": "{R◦143(1)v)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R143_1_v:fr:xml~R◦143(1)v)}"
+ }
+]

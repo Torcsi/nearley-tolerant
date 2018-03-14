@@ -1,0 +1,29 @@
+[
+ {
+  "text": "règles◦51(2)∙et◦162(2)∙CBE",
+  "unit": "{règles◦51(2)}∙et◦{162(2)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R51_2:fr:xml#R51_2~règles◦51(2)}∙et◦{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R162_2:fr:xml#R162_2~162(2)∙CBE}",
+  "name": "M39435",
+  "file": "/EP/organization/OJ/2016/12/issue/electronicproofer/fr/OJ_2016_i12_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_i12_toc",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "règles◦36,∙38∙et∙135∙CBE",
+  "unit": "{règles◦36},∙{38}∙et∙{135∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R36:fr:xml#R36~règles◦36},∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R38:fr:xml#R38~38}∙et∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R135:fr:xml#R135~135∙CBE}",
+  "name": "M39437",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "règle∙12∙à∙règle∙13∙CBE",
+  "unit": "{règle∙12}∙à∙{règle∙13∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R12:fr:xml#R12~règle∙12}∙à∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R13:fr:xml#R13~règle∙13∙CBE}",
+  "name": "M39451",
+  "file": "/EP/organization/OJ/2018/se1/issue/electronicproofer/fr/OJ_2018_se1_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2018_se1_toc",
+  "relativeParagraph": 49
+ }
+]

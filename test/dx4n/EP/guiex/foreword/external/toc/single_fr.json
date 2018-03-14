@@ -1,0 +1,42 @@
+[
+ {
+  "text": "Partie∙générale",
+"bad":true,
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 6,
+  "name": "S28520",
+  "unit": "{Partie∙générale}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLG_INDEX:fr:xml~Partie∙générale}"
+ },
+ {
+  "text": "1.◦◦Remarque∙liminaire",
+"bad":true,
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 7,
+  "name": "S28606",
+  "unit": "{1.◦◦Remarque∙liminaire}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_1:fr:xml#GLI_1~1.◦◦Remarque∙liminaire}"
+ },
+ {
+  "text": "2.1◦◦Vue∙d'ensemble",
+"bad":true,
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 9,
+  "name": "S28607",
+  "unit": "{2.1◦◦Vue∙d'ensemble}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_2_1:fr:xml#GLI_2_1~2.1◦◦Vue∙d'ensemble}"
+ },
+ {
+  "text": "Partie∙G–∙Brevetabilité",
+"bad":true,
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 91,
+  "name": "S28611",
+  "unit": "{Partie∙G–∙Brevetabilité}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG:fr:xml#GLG~Partie∙G–∙Brevetabilité}"
+ }
+]

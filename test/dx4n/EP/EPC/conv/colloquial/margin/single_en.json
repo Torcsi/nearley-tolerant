@@ -1,0 +1,185 @@
+[
+ {
+  "text": "Art.∙105b",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R91",
+  "relativeParagraph": 1,
+  "name": "S02688",
+  "unit": "{Art.∙105b}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A105b:en:xml~Art.∙105b}"
+ },
+ {
+  "text": "Art.∙53(c)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_30",
+  "relativeParagraph": 1,
+  "name": "S02700",
+  "unit": "{Art.∙53(c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A53_c:en:xml~Art.∙53(c)}"
+ },
+ {
+  "text": "Art.∙153∙(5)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_34",
+  "relativeParagraph": 3,
+  "name": "S02702",
+  "unit": "{Art.∙153∙(5)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A153_5:en:xml~Art.∙153∙(5)}"
+ },
+ {
+  "text": "Art.◦14(2)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_C_I_9",
+  "relativeParagraph": 1,
+  "name": "S02707",
+  "unit": "{Art.◦14(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A14_2:en:xml~Art.◦14(2)}"
+ },
+ {
+  "text": "Art.∙101(3)(a)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_185",
+  "relativeParagraph": 1,
+  "name": "S02720",
+  "unit": "{Art.∙101(3)(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A101_3_a:en:xml~Art.∙101(3)(a)}"
+ },
+ {
+  "text": "Art.∙105a(2)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_189",
+  "relativeParagraph": 1,
+  "name": "S02721",
+  "unit": "{Art.∙105a(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105a_2:en:xml~Art.∙105a(2)}"
+ },
+ {
+  "text": "Art.∙105b(2)",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_192",
+  "relativeParagraph": 1,
+  "name": "S02722",
+  "unit": "{Art.∙105b(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105b_2:en:xml~Art.∙105b(2)}"
+ },
+ {
+  "text": "Art.∙105c",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_195",
+  "relativeParagraph": 2,
+  "name": "S02723",
+  "unit": "{Art.∙105c}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105c:en:xml~Art.∙105c}"
+ },
+ {
+  "text": "Art.◦77",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA_CII_1_7",
+  "relativeParagraph": 2,
+  "name": "S02827",
+  "unit": "{Art.◦77}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A77_1:en:xml~Art.◦77}"
+ },
+ {
+  "text": "Art.◦135(1)(a)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA_CII_1_7",
+  "relativeParagraph": 5,
+  "name": "S02828",
+  "unit": "{Art.◦135(1)(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A135_1_a:en:xml~Art.◦135(1)(a)}"
+ },
+ {
+  "text": "Art.◦53(a)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA_CIII_8_1",
+  "relativeParagraph": 2,
+  "name": "S02830",
+  "unit": "{Art.◦53(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A53_a:en:xml~Art.◦53(a)}"
+ },
+ {
+  "bad":true,
+  "text": "Art.2",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA_CVII_1_2",
+  "relativeParagraph": 5,
+  "name": "S02833",
+  "unit": "{Art.2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A2:en:xml~Art.2}"
+ },
+ {
+ "bad":true
+   "text": "(b)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB_CVI_5_5",
+  "relativeParagraph": 2,
+  "name": "S02843",
+  "unit": "{(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A55_1_b:en:xml~(b)}"
+ },
+ {
+  "bad":true,
+  "text": "Art.",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB_CVIII_2",
+  "relativeParagraph": 2,
+  "name": "S02844",
+  "unit": "{Art.}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A53_c:en:xml~Art.}"
+ },
+ {
+  "text": "Article∙105(1)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "referringId": "guiex:GLD_CVII_7_i",
+  "relativeParagraph": 1,
+  "name": "S02848",
+  "unit": "{Article∙105(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105_1:en:xml~Article∙105(1)}"
+ },
+ {
+  "text": "Art.◦105a",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "referringId": "guiex:GLD_CX_2_1",
+  "relativeParagraph": 2,
+  "name": "S02849",
+  "unit": "{Art.◦105a}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105a:en:xml~Art.◦105a}"
+ },
+ {
+  "text": "Art.◦105b(2)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "referringId": "guiex:GLD_CX_3",
+  "relativeParagraph": 2,
+  "name": "S02850",
+  "unit": "{Art.◦105b(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:A105b_2:en:xml~Art.◦105b(2)}"
+ },
+ {
+  "text": "Article◦105(1)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "referringId": "guiex:D4N_GLD_CVII_7_i",
+  "relativeParagraph": 1,
+  "name": "S02862",
+  "unit": "{Article◦105(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A105_1:en:xml#A105_1~Article◦105(1)}"
+ },
+ {
+  "text": "Art.◦105c",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/D.eplegal.zip",
+  "referringId": "guiex:D4N_GLD_CX_5",
+  "relativeParagraph": 9,
+  "name": "S02863",
+  "unit": "{Art.◦105c}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A105c:en:xml#A105c~Art.◦105c}"
+ },
+ {
+  "text": "Art.◦112a(4)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "referringId": "guiex:D4N_GLE_CVIII_2_2_3",
+  "relativeParagraph": 7,
+  "name": "S02864",
+  "unit": "{Art.◦112a(4)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_4:en:xml#A112a_4~Art.◦112a(4)}"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Artikel◦7∙Absatz◦6∙und∙Artikel◦16",
+  "unit": "{Artikel◦7∙Absatz◦6}∙und∙{Artikel◦16}",
+  "value": "{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:REE:de:docx:I:AP_I_A134_8_1994_7:#REE~Artikel◦7∙Absatz◦6}∙und∙{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:REE:de:docx:I:AP_I_A134_8_1994_7:#REE~Artikel◦16}",
+  "name": "M34598",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/de/I.eplegal.zip",
+  "referringId": "OJ_1998_364",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Artikel◦13∙und∙15∙(1)∙und∙(2)",
+  "unit": "{Artikel◦13}∙und∙{15∙(1)}∙und∙{(2)}",
+  "value": "{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:REE:de:docx:I:AP_I_A134_8_1994_7:#REE~Artikel◦13}∙und∙{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:REE:de:docx:I:AP_I_A134_8_1994_7:#REE~15∙(1)}∙und∙{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:REE:de:docx:I:AP_I_A134_8_1994_7:#REE~(2)}",
+  "name": "M34604",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/de/I.eplegal.zip",
+  "referringId": "OJ_2000_95",
+  "relativeParagraph": 1
+ }
+]

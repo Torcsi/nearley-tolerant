@@ -1,0 +1,29 @@
+[
+ {
+  "text": "II/OEB∙IB-X,∙12.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-ib.eplegal.zip",
+  "referringId": "IPB_X_7_1",
+  "relativeParagraph": 7,
+  "name": "S04028",
+  "unit": "{II/OEB∙IB-X,∙12.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1::internet:IB_X_12_1:fr:docx:part-ib::IB#IB_X_12_1~II/OEB∙IB-X,∙12.1}"
+ },
+ {
+  "text": "II/OEB∙IC-III,◦1.2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-ih.eplegal.zip",
+  "referringId": "IPH_II_2_3_2_2",
+  "relativeParagraph": 26,
+  "name": "S04045",
+  "unit": "{II/OEB∙IC-III,◦1.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1::internet:IC_III_1_2:fr:docx:part-ic::IC#IC_III_1_2~II/OEB∙IC-III,◦1.2}"
+ },
+ {
+  "text": "II/OEB∙IB-X,◦12.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/fr/part-ib.eplegal.zip",
+  "referringId": "IPB_X_7_1",
+  "relativeParagraph": 7,
+  "name": "S04051",
+  "unit": "{II/OEB∙IB-X,◦12.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2016:1::internet:IB_X_12_1:fr:docx:part-ib::IB#IB_X_12_1~II/OEB∙IB-X,◦12.1}"
+ }
+]

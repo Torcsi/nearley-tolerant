@@ -1,0 +1,65 @@
+[
+ {
+  "text": "Artikels◦76∙oder∙der∙Regel◦15∙des∙Übereinkommens",
+  "unit": "{Artikels◦76}∙oder∙der∙{Regel◦15∙des∙Übereinkommens}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:A76:de:docx:conv:AIII_I:#A76~Artikels◦76}∙oder∙der∙{ep-legal:countries:EP::EPC:2006:1::internet:R15:de:docx:reg:RII_I:#R15~Regel◦15∙des∙Übereinkommens}",
+  "name": "M35956",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/de/III.eplegal.zip",
+  "referringId": "OJ_2006_8",
+  "relativeParagraph": 159
+ },
+ {
+  "text": "Artikeln◦9◦(1)∙und∙Artikeln◦11∙b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{Artikeln◦11∙b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:A9_1:de:docx:conv:AI_II:A9#A9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:de:docx:rfees::11#11_b~Artikeln◦11∙b)∙Gebührenordnung}",
+  "name": "M42530",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2013/1/internet/de/rfees.eplegal.zip",
+  "referringId": "9_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikeln◦9◦(1)∙und∙11∙b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{11∙b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:A9_1:de:docx:conv:AI_II:A9#A9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:de:docx:rfees::11#11_b~11∙b)∙Gebührenordnung}",
+  "name": "M42532",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2013/1/internet/de/rfees.eplegal.zip",
+  "referringId": "9_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.◦53◦a)∙und∙Regel◦28◦c)",
+  "unit": "{Art.◦53◦a)}∙und∙{Regel◦28◦c)}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:A53_a:de:docx:conv:AII_I:A53#A53_a~Art.◦53◦a)}∙und∙{ep-legal:countries:EP::EPC:2012:1::internet:R28_c:de:docx:reg:RII_V:R28#R28_c~Regel◦28◦c)}",
+  "name": "M45274",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2012/1/internet/de/G.eplegal.zip",
+  "referringId": "GLG_CII_5_3_iii",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Regel◦28◦c)∙und∙Art.◦53◦a)",
+  "unit": "{Regel◦28◦c)}∙und∙{Art.◦53◦a)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:R28_c:de:docx:reg:RII_V:R28#R28_c~Regel◦28◦c)}∙und∙{ep-legal:countries:EP::EPC:2015:1::internet:A53_a:de:docx:conv:AII_I:A53#A53_a~Art.◦53◦a)}",
+  "name": "M46678",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2015/1/internet/de/part-ig.eplegal.zip",
+  "referringId": "IG_II_5_3",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Regel∙28∙c)∙und∙Art.∙53∙a)",
+  "unit": "{Regel∙28∙c)}∙und∙{Art.∙53∙a)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R28_c:de:docx:reg:RII_V:R28#R28_c~Regel∙28∙c)}∙und∙{ep-legal:countries:EP::EPC:2016:3.0::internet:A53_a:de:docx:conv:AII_I:A53#A53_a~Art.∙53∙a)}",
+  "name": "M46780",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2016/1/internet/de/part-ig.eplegal.zip",
+  "referringId": "IG_II_5_3",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikels◦76∙des∙Übereinkommens∙oder∙der∙Regel◦15∙des∙Übereinkommens",
+  "unit": "{Artikels◦76∙des∙Übereinkommens}∙oder∙der∙{Regel◦15∙des∙Übereinkommens}",
+  "value": "{ep-legal:countries:EP::EPC:2005:1::internet:A76:de:docx:conv:AIII_I:#A76~Artikels◦76∙des∙Übereinkommens}∙oder∙der∙{ep-legal:countries:EP::EPC:2005:1::internet:R15:de:docx:reg:RII_I:#R15~Regel◦15∙des∙Übereinkommens}",
+  "name": "M48828",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2005/01/internet/de/OJ_2005_5.eplegal.zip",
+  "referringId": "OJ_2005_5",
+  "relativeParagraph": 30
+ }
+]

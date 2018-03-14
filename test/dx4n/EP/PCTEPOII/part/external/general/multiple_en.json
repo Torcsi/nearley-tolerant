@@ -1,0 +1,51 @@
+[
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XI,∙4.2∙and∙4.3",
+  "unit": "{II/PCT-EPO∙IB-XI,∙4.2}∙and∙{4.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XI_4_2:en:xml#IPB_XI_4_2~II/PCT-EPO∙IB-XI,∙4.2}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XI_4_3:en:xml#IPB_XI_4_3~4.3}",
+  "name": "M10130",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XI_1_1",
+  "relativeParagraph": 2
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-VIII,∙2.2-2.3",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙2.2}-{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_VIII_2_2:en:xml#IPC_VIII_2_2~II/PCT-EPO∙IC-VIII,∙2.2}-{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_VIII_2_3:en:xml#IPC_VIII_2_3~2.3}",
+  "name": "M10138",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_III_4",
+  "relativeParagraph": 11
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-VIII,∙2.3∙and∙2.5",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{2.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_VIII_2_3:en:xml#IPC_VIII_2_3~II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_VIII_2_5:en:xml#IPC_VIII_2_5~2.5}",
+  "name": "M10142",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_IV_2_6",
+  "relativeParagraph": 3
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-VIII,∙2.1∙and∙II/PCT-EPO∙IB-XI,∙6.2",
+  "unit": "{II/PCT-EPO∙IB-VIII,∙2.1}∙and∙{II/PCT-EPO∙IB-XI,∙6.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_VIII_2_1:en:xml#IPB_VIII_2_1~II/PCT-EPO∙IB-VIII,∙2.1}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XI_6_2:en:xml#IPB_XI_6_2~II/PCT-EPO∙IB-XI,∙6.2}",
+  "name": "M10144",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_VIII_2",
+  "relativeParagraph": 4
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-VIII,◦2.2-2.3",
+  "unit": "{II/PCT-EPO∙IC-VIII,◦2.2}-{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPC_VIII_2_2:en:xml#IPC_VIII_2_2~II/PCT-EPO∙IC-VIII,◦2.2}-{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPC_VIII_2_3:en:xml#IPC_VIII_2_3~2.3}",
+  "name": "M10168",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/en/part-ih.eplegal.zip",
+  "relativeParagraph": 2
+ }
+]

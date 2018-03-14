@@ -1,0 +1,62 @@
+[
+ {
+  "text": "Article◦1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2000/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 6,
+  "style": "TOC2",
+  "name": "S05974",
+  "unit": "{Article◦1}",
+  "value": "{ep-legal:countries:WO::PCT:2000:1::internet:1:fr:docx:treaty:TITLE:#1~Article◦1}"
+ },
+ {
+  "text": "Chapitre∙I",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2000/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 8,
+  "style": "TOC1",
+  "name": "S05975",
+  "unit": "{Chapitre∙I}",
+  "value": "{ep-legal:countries:WO::PCT:2000:1::internet:CI:fr:docx:treaty:TITLE:3#CI~Chapitre∙I}"
+ },
+ {
+  "text": "Dispositions∙introductives",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 6,
+  "style": "TOC1",
+  "name": "S05976",
+  "unit": "{Dispositions∙introductives}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:INTRO:fr:docx:treaty:TITLE:1#INTRO~Dispositions∙introductives}"
+ },
+ {
+  "text": "Article∙1er→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 8,
+  "style": "TOC3",
+  "name": "S06337",
+  "unit": "{Article∙1er→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:1:fr:docx:treaty:INTRO:#1~Article∙1er→xxx}"
+ },
+ {
+  "text": "Article∙2→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 9,
+  "style": "TOC3",
+  "name": "S06338",
+  "unit": "{Article∙2→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:2:fr:docx:treaty:INTRO:#2~Article∙2→xxx}"
+ },
+ {
+  "text": "Chapitre∙I:→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 10,
+  "style": "TOC1",
+  "name": "S06339",
+  "unit": "{Chapitre∙I:→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:CI:fr:docx:treaty:INTRO:3#CI~Chapitre∙I:→xxx}"
+ }
+]

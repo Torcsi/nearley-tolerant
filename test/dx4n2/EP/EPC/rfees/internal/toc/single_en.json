@@ -1,0 +1,82 @@
+[
+ {
+  "text": "Art.∙1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S61312",
+  "unit": "{Art.∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:1:en:docx:rfees::#1~Art.∙1}"
+ },
+ {
+  "text": "Art.∙10a",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 15,
+  "style": "TOC3",
+  "name": "S61313",
+  "unit": "{Art.∙10a}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10a:en:docx:rfees::#10a~Art.∙10a}"
+ },
+ {
+  "text": "Art.∙10b",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 16,
+  "style": "TOC3",
+  "name": "S61314",
+  "unit": "{Art.∙10b}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10b:en:docx:rfees::#10b~Art.∙10b}"
+ },
+ {
+  "text": "Art.∙10c",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 17,
+  "style": "TOC3",
+  "name": "S61315",
+  "unit": "{Art.∙10c}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10c:en:docx:rfees::#10c~Art.∙10c}"
+ },
+ {
+  "text": "Art.∙10d",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 17,
+  "style": "TOC3",
+  "name": "S61321",
+  "unit": "{Art.∙10d}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:10d:en:docx:rfees::#10d~Art.∙10d}"
+ },
+ {
+  "text": "Article∙2∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/01/internet/en/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ_2014_i01_toc",
+  "relativeParagraph": 14,
+  "style": "EPOTOCP1",
+  "name": "S61710",
+  "unit": "{Article∙2∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:2:en:docx:rfees::#2~Article∙2∙of∙the∙Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Article◦2∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 171,
+  "style": "EPOTOCP1",
+  "name": "S61753",
+  "unit": "{Article◦2∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:2:en:docx:rfees::#2~Article◦2∙of∙the∙Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 178,
+  "style": "EPOTOCP1",
+  "name": "S61755",
+  "unit": "{Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:9_2:en:docx:rfees::9#9_2~Article◦9(2)∙of∙the∙Rules∙relating∙to∙Fees}"
+ }
+]

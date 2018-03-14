@@ -1,0 +1,83 @@
+[
+ {
+  "text": "Article∙4∙or∙Article∙5",
+  "unit": "{Article∙4}∙or∙{Article∙5}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I4:en:docx:proprimm::#I4~Article∙4}∙or∙{ep-legal:countries:EP::EPC:2001:1::internet:I5:en:docx:proprimm::#I5~Article∙5}",
+  "name": "M69116",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I7_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article∙12,∙Article∙13,∙Article∙14,∙sub-paragraphs∙(b)",
+  "unit": "{Article∙12},∙{Article∙13},∙{Article∙14,∙sub-paragraphs∙(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I12:en:docx:proprimm::#I12~Article∙12},∙{ep-legal:countries:EP::EPC:2001:1::internet:I13:en:docx:proprimm::#I13~Article∙13},∙{ep-legal:countries:EP::EPC:2001:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article∙14,∙sub-paragraphs∙(b)}",
+  "name": "M69118",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article∙12,∙Article∙13,∙Article∙14,∙sub-paragraphs∙(b),∙Article∙14,∙sub-paragraphs∙(e)∙and∙Article∙14,∙sub-paragraphs∙(g)",
+  "unit": "{Article∙12},∙{Article∙13},∙{Article∙14,∙sub-paragraphs∙(b)},∙{Article∙14,∙sub-paragraphs∙(e)}∙and∙{Article∙14,∙sub-paragraphs∙(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:I12:en:docx:proprimm::#I12~Article∙12},∙{ep-legal:countries:EP::EPC:2006:1::internet:I13:en:docx:proprimm::#I13~Article∙13},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article∙14,∙sub-paragraphs∙(b)},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_e:en:docx:proprimm::I14#I14_e~Article∙14,∙sub-paragraphs∙(e)}∙and∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_g:en:docx:proprimm::I14#I14_g~Article∙14,∙sub-paragraphs∙(g)}",
+  "name": "M69440",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article∙12,∙Article∙13,∙Article∙14,∙sub-paragraphs∙(b),∙(e)∙and∙(g)",
+  "unit": "{Article∙12},∙{Article∙13},∙{Article∙14,∙sub-paragraphs∙(b)},∙{(e)}∙and∙{(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:I12:en:docx:proprimm::#I12~Article∙12},∙{ep-legal:countries:EP::EPC:2006:1::internet:I13:en:docx:proprimm::#I13~Article∙13},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article∙14,∙sub-paragraphs∙(b)},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_e:en:docx:proprimm::I14#I14_e~(e)}∙and∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_g:en:docx:proprimm::I14#I14_g~(g)}",
+  "name": "M69442",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article∙12,∙Article∙13,∙Article∙14,∙sub-paragraphs∙(b),Article∙14,∙sub-paragraphs∙(e)∙and∙Article∙14,∙sub-paragraphs∙(g)",
+  "unit": "{Article∙12},∙{Article∙13},∙{Article∙14,∙sub-paragraphs∙(b)},{Article∙14,∙sub-paragraphs∙(e)}∙and∙{Article∙14,∙sub-paragraphs∙(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:I12:en:docx:proprimm::#I12~Article∙12},∙{ep-legal:countries:EP::EPC:2007:1::internet:I13:en:docx:proprimm::#I13~Article∙13},∙{ep-legal:countries:EP::EPC:2007:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article∙14,∙sub-paragraphs∙(b)},{ep-legal:countries:EP::EPC:2007:1::internet:I14_e:en:docx:proprimm::I14#I14_e~Article∙14,∙sub-paragraphs∙(e)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:I14_g:en:docx:proprimm::I14#I14_g~Article∙14,∙sub-paragraphs∙(g)}",
+  "name": "M69714",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article∙12,∙Article∙13,∙Article∙14,∙sub-paragraphs∙(b),(e)∙and∙(g)",
+  "unit": "{Article∙12},∙{Article∙13},∙{Article∙14,∙sub-paragraphs∙(b)},{(e)}∙and∙{(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:I12:en:docx:proprimm::#I12~Article∙12},∙{ep-legal:countries:EP::EPC:2007:1::internet:I13:en:docx:proprimm::#I13~Article∙13},∙{ep-legal:countries:EP::EPC:2007:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article∙14,∙sub-paragraphs∙(b)},{ep-legal:countries:EP::EPC:2007:1::internet:I14_e:en:docx:proprimm::I14#I14_e~(e)}∙and∙{ep-legal:countries:EP::EPC:2007:1::internet:I14_g:en:docx:proprimm::I14#I14_g~(g)}",
+  "name": "M69716",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article◦4∙or∙Article∙5",
+  "unit": "{Article◦4}∙or∙{Article∙5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:I4:en:docx:proprimm::#I4~Article◦4}∙or∙{ep-legal:countries:EP::EPC:2010:1::internet:I5:en:docx:proprimm::#I5~Article∙5}",
+  "name": "M70070",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I7_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦12,∙Article◦13,∙Article◦14,∙sub-paragraphs◦(b),∙Article◦14,∙sub-paragraphs◦(e)∙and∙Article◦14,∙sub-paragraphs◦(g)",
+  "unit": "{Article◦12},∙{Article◦13},∙{Article◦14,∙sub-paragraphs◦(b)},∙{Article◦14,∙sub-paragraphs◦(e)}∙and∙{Article◦14,∙sub-paragraphs◦(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:I12:en:docx:proprimm::#I12~Article◦12},∙{ep-legal:countries:EP::EPC:2010:1::internet:I13:en:docx:proprimm::#I13~Article◦13},∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article◦14,∙sub-paragraphs◦(b)},∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_e:en:docx:proprimm::I14#I14_e~Article◦14,∙sub-paragraphs◦(e)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_g:en:docx:proprimm::I14#I14_g~Article◦14,∙sub-paragraphs◦(g)}",
+  "name": "M70072",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article◦12,∙Article◦13,∙Article◦14,∙sub-paragraphs◦(b),∙(e)∙and∙(g)",
+  "unit": "{Article◦12},∙{Article◦13},∙{Article◦14,∙sub-paragraphs◦(b)},∙{(e)}∙and∙{(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:I12:en:docx:proprimm::#I12~Article◦12},∙{ep-legal:countries:EP::EPC:2010:1::internet:I13:en:docx:proprimm::#I13~Article◦13},∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_b:en:docx:proprimm::I14#I14_b~Article◦14,∙sub-paragraphs◦(b)},∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_e:en:docx:proprimm::I14#I14_e~(e)}∙and∙{ep-legal:countries:EP::EPC:2010:1::internet:I14_g:en:docx:proprimm::I14#I14_g~(g)}",
+  "name": "M70074",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/en/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ }
+]

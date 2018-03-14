@@ -1,0 +1,7 @@
+Measure test cases: sequence
+1/1: 
+     Input: "Recipe: 1 kg flour, 2 l milk, mix well; add 1 g salt, 1 l vinegar, mix again"
+  Expected: ["1 kg flour","1 g salt, 1 l vinegar"]
+  Received: ["1 kg flour, 2 l milk","1 g salt, 1 l vinegar"]
+Difference: [0] common: "1 kg flour"', expected:"", received:", 2 l milk"
+1/2: completed

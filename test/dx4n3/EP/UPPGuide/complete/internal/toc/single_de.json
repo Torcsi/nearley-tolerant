@@ -1,0 +1,227 @@
+[
+ {
+  "text": "Vorwort",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 5,
+  "name": "S15431",
+  "unit": "{Vorwort}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_FOREWORD:de:xml#UPPG_FOREWORD~Vorwort}"
+ },
+ {
+  "text": "A.→xxx",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 6,
+  "name": "S15432",
+  "unit": "{A.→xxx}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A:de:xml#UPPG_A~A.→xxx}"
+ },
+ {
+  "text": "I.→xxx",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 7,
+  "name": "S15433",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_I:de:xml#UPPG_A_I~I.→xxx}"
+ },
+ {
+  "text": "Die∙Architektur∙des∙Einheitspatents",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 9,
+  "name": "S15434",
+  "unit": "{Die∙Architektur∙des∙Einheitspatents}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_II_1:de:xml#UPPG_A_II_1~Die∙Architektur∙des∙Einheitspatents}"
+ },
+ {
+  "text": "Einheitlicher∙Schutz∙und∙gleiche∙Wirkung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 10,
+  "name": "S15435",
+  "unit": "{Einheitlicher∙Schutz∙und∙gleiche∙Wirkung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_II_2:de:xml#UPPG_A_II_2~Einheitlicher∙Schutz∙und∙gleiche∙Wirkung}"
+ },
+ {
+  "text": "Übergangsregelung:∙für∙welche∙europäischen∙Patente∙kann∙ein∙Einheitspatent∙beantragt∙werden?",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 11,
+  "name": "S15436",
+  "unit": "{Übergangsregelung:∙für∙welche∙europäischen∙Patente∙kann∙ein∙Einheitspatent∙beantragt∙werden?}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_II_3:de:xml#UPPG_A_II_3~Übergangsregelung:∙für∙welche∙europäischen∙Patente∙kann∙ein∙Einheitspatent∙beantragt∙werden?}"
+ },
+ {
+  "text": "Der∙territoriale∙Geltungsbereich∙des∙Einheitspatents",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 12,
+  "name": "S15437",
+  "unit": "{Der∙territoriale∙Geltungsbereich∙des∙Einheitspatents}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_II_4:de:xml#UPPG_A_II_4~Der∙territoriale∙Geltungsbereich∙des∙Einheitspatents}"
+ },
+ {
+  "text": "Die∙zwei∙im∙Rahmen∙der∙Verstärkten∙Zusammenarbeit∙verabschiedeten∙Verordnungen",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 16,
+  "name": "S15438",
+  "unit": "{Die∙zwei∙im∙Rahmen∙der∙Verstärkten∙Zusammenarbeit∙verabschiedeten∙Verordnungen}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_V_1:de:xml#UPPG_A_V_1~Die∙zwei∙im∙Rahmen∙der∙Verstärkten∙Zusammenarbeit∙verabschiedeten∙Verordnungen}"
+ },
+ {
+  "text": "Die∙teilnehmenden∙Mitgliedstaaten",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 17,
+  "name": "S15439",
+  "unit": "{Die∙teilnehmenden∙Mitgliedstaaten}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_V_2:de:xml#UPPG_A_V_2~Die∙teilnehmenden∙Mitgliedstaaten}"
+ },
+ {
+  "text": "Das∙Übereinkommen∙über∙ein∙Einheitliches∙Patentgericht∙(EPGÜ)",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 18,
+  "name": "S15440",
+  "unit": "{Das∙Übereinkommen∙über∙ein∙Einheitliches∙Patentgericht∙(EPGÜ)}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_V_3:de:xml#UPPG_A_V_3~Das∙Übereinkommen∙über∙ein∙Einheitliches∙Patentgericht∙(EPGÜ)}"
+ },
+ {
+  "text": "Durchführungsordnung∙zum∙einheitlichen∙Patentschutz∙(DOEPS)",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 20,
+  "name": "S15441",
+  "unit": "{Durchführungsordnung∙zum∙einheitlichen∙Patentschutz∙(DOEPS)}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_VI_1:de:xml#UPPG_A_VI_1~Durchführungsordnung∙zum∙einheitlichen∙Patentschutz∙(DOEPS)}"
+ },
+ {
+  "text": "Einführung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 23,
+  "name": "S15443",
+  "unit": "{Einführung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_VII_1:de:xml#UPPG_A_VII_1~Einführung}"
+ },
+ {
+  "text": "Entscheidungen∙der∙Abteilung∙für∙einheitliche∙Patente",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 24,
+  "name": "S15444",
+  "unit": "{Entscheidungen∙der∙Abteilung∙für∙einheitliche∙Patente}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_A_VII_2:de:xml#UPPG_A_VII_2~Entscheidungen∙der∙Abteilung∙für∙einheitliche∙Patente}"
+ },
+ {
+  "text": "B.→xxx",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 25,
+  "name": "S15445",
+  "unit": "{B.→xxx}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B:de:xml#UPPG_B~B.→xxx}"
+ },
+ {
+  "text": "Form∙und∙Frist",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 28,
+  "name": "S15446",
+  "unit": "{Form∙und∙Frist}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_II_1:de:xml#UPPG_B_II_1~Form∙und∙Frist}"
+ },
+ {
+  "text": "Im∙Antrag∙auf∙einheitliche∙Wirkung∙erforderliche∙Angaben",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 29,
+  "name": "S15447",
+  "unit": "{Im∙Antrag∙auf∙einheitliche∙Wirkung∙erforderliche∙Angaben}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_II_2:de:xml#UPPG_B_II_2~Im∙Antrag∙auf∙einheitliche∙Wirkung∙erforderliche∙Angaben}"
+ },
+ {
+  "text": "Übersetzung∙des∙europäischen∙Patents",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 30,
+  "name": "S15448",
+  "unit": "{Übersetzung∙des∙europäischen∙Patents}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_II_3:de:xml#UPPG_B_II_3~Übersetzung∙des∙europäischen∙Patents}"
+ },
+ {
+  "text": "Sprache∙des∙Antrags∙auf∙einheitliche∙Wirkung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 32,
+  "name": "S15449",
+  "unit": "{Sprache∙des∙Antrags∙auf∙einheitliche∙Wirkung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_III_1:de:xml#UPPG_B_III_1~Sprache∙des∙Antrags∙auf∙einheitliche∙Wirkung}"
+ },
+ {
+  "text": "Wie∙und∙wo∙ist∙der∙Antrag∙auf∙einheitliche∙Wirkung∙einzureichen",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 33,
+  "name": "S15450",
+  "unit": "{Wie∙und∙wo∙ist∙der∙Antrag∙auf∙einheitliche∙Wirkung∙einzureichen}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_III_2:de:xml#UPPG_B_III_2~Wie∙und∙wo∙ist∙der∙Antrag∙auf∙einheitliche∙Wirkung∙einzureichen}"
+ },
+ {
+  "text": "Empfangsbescheinigung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 34,
+  "name": "S15451",
+  "unit": "{Empfangsbescheinigung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_III_3:de:xml#UPPG_B_III_3~Empfangsbescheinigung}"
+ },
+ {
+  "text": "Wiedereinsetzung∙in∙die∙Einmonatsfrist∙für∙den∙Antrag∙auf∙einheitliche∙Wirkung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 35,
+  "name": "S15452",
+  "unit": "{Wiedereinsetzung∙in∙die∙Einmonatsfrist∙für∙den∙Antrag∙auf∙einheitliche∙Wirkung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_III_4:de:xml#UPPG_B_III_4~Wiedereinsetzung∙in∙die∙Einmonatsfrist∙für∙den∙Antrag∙auf∙einheitliche∙Wirkung}"
+ },
+ {
+  "text": "Zurücknahme∙des∙Antrags∙auf∙einheitliche∙Wirkung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 36,
+  "name": "S15453",
+  "unit": "{Zurücknahme∙des∙Antrags∙auf∙einheitliche∙Wirkung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_III_5:de:xml#UPPG_B_III_5~Zurücknahme∙des∙Antrags∙auf∙einheitliche∙Wirkung}"
+ },
+ {
+  "text": "Empfangsbestätigung",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 39,
+  "name": "S15454",
+  "unit": "{Empfangsbestätigung}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_B_V_1:de:xml#UPPG_B_V_1~Empfangsbestätigung}"
+ },
+ {
+  "text": "Dreimonatige∙Sicherheitsfrist∙nach∙Regel◦13◦(4)∙DOEPS",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 47,
+  "name": "S15455",
+  "unit": "{Dreimonatige∙Sicherheitsfrist∙nach∙Regel◦13◦(4)∙DOEPS}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_D_III_1:de:xml#UPPG_D_III_1~Dreimonatige∙Sicherheitsfrist∙nach∙Regel◦13◦(4)∙DOEPS}"
+ },
+ {
+  "text": "Fälligkeit∙von∙Jahresgebühren∙zwischen∙der∙Erteilung∙des∙europäischen∙Patents∙und∙der∙Eintragung∙der∙einheitlichen∙Wirkung∙(Regel◦13◦(5)∙DOEPS)",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/de/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_INDEX",
+  "relativeParagraph": 48,
+  "name": "S15456",
+  "unit": "{Fälligkeit∙von∙Jahresgebühren∙zwischen∙der∙Erteilung∙des∙europäischen∙Patents∙und∙der∙Eintragung∙der∙einheitlichen∙Wirkung∙(Regel◦13◦(5)∙DOEPS)}",
+  "value": "{ep-legal:countries:EP::UPPGuide:2017:1:1.0:electronicproofer:UPPG_D_III_2:de:xml#UPPG_D_III_2~Fälligkeit∙von∙Jahresgebühren∙zwischen∙der∙Erteilung∙des∙europäischen∙Patents∙und∙der∙Eintragung∙der∙einheitlichen∙Wirkung∙(Regel◦13◦(5)∙DOEPS)}"
+ }
+]

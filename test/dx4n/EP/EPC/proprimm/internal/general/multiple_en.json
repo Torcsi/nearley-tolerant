@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Article◦4∙or∙Article∙5",
+  "unit": "{Article◦4}∙or∙{Article∙5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I4:en:xml#I4~Article◦4}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I5:en:xml#I5~Article∙5}",
+  "name": "M05378",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/proprimm.eplegal.zip",
+  "referringId": "EPC:I7_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦12,∙Article◦13,∙Article◦14,∙sub-paragraphs◦(b),∙(e)∙and∙(g)",
+  "unit": "{Article◦12},∙{Article◦13},∙{Article◦14,∙sub-paragraphs◦(b)},∙{(e)}∙and∙{(g)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I12:en:xml#I12~Article◦12},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I13:en:xml#I13~Article◦13},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_b:en:xml#I14_b~Article◦14,∙sub-paragraphs◦(b)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_e:en:xml#I14_e~(e)}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_g:en:xml#I14_g~(g)}",
+  "name": "M05380",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/proprimm.eplegal.zip",
+  "referringId": "EPC:I22",
+  "relativeParagraph": 1
+ }
+]

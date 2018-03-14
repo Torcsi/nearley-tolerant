@@ -1,0 +1,11 @@
+[
+ {
+  "text": "Artikeln◦12,∙13,∙14∙Buchstaben◦b,∙e∙und∙g",
+  "unit": "{Artikeln◦12},∙{13},∙{14∙Buchstaben◦b},∙{e}∙und∙{g}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I12:de:xml~Artikeln◦12},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I13:de:xml~13},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_b:de:xml~14∙Buchstaben◦b},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_e:de:xml~e}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_g:de:xml~g}",
+  "name": "M18063",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/proprimm.eplegal.zip",
+  "referringId": "EPC:I22",
+  "relativeParagraph": 1
+ }
+]

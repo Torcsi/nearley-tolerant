@@ -1,0 +1,72 @@
+[
+ {
+  "text": "AVERTISSEMENT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 4,
+  "style": "ITOC1",
+  "name": "S00325",
+  "unit": "{AVERTISSEMENT}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_GUIDE:fr:docx:guide::#CLR_GUIDE~AVERTISSEMENT}"
+ },
+ {
+  "text": "QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 5,
+  "style": "ITOC1",
+  "name": "S00326",
+  "unit": "{QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_HEADWORDS:fr:docx:headnotes::#CLR_HEADWORDS~QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}"
+ },
+ {
+  "text": "TABLE∙DES∙MATIÈRES∙DÉTAILLÉE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 6,
+  "style": "ITOC1",
+  "name": "S00327",
+  "unit": "{TABLE∙DES∙MATIÈRES∙DÉTAILLÉE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_TOC:fr:docx:toc::#CLR_TOC~TABLE∙DES∙MATIÈRES∙DÉTAILLÉE}"
+ },
+ {
+  "text": "I.◦BREVETABILITE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 7,
+  "style": "ITOC1",
+  "name": "S00328",
+  "unit": "{I.◦BREVETABILITE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_I:fr:docx:I::#CLR_I~I.◦BREVETABILITE}"
+ },
+ {
+  "text": "INDEX∙DES∙DÉCISIONS∙CITÉES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 17,
+  "style": "ITOC1",
+  "name": "S00329",
+  "unit": "{INDEX∙DES∙DÉCISIONS∙CITÉES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_DECISIONS:fr:docx:tableofcases::#CLR_DECISIONS~INDEX∙DES∙DÉCISIONS∙CITÉES}"
+ },
+ {
+  "text": "LISTE∙DES∙DISPOSITIONS∙CITÉES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 18,
+  "style": "ITOC1",
+  "name": "S00330",
+  "unit": "{LISTE∙DES∙DISPOSITIONS∙CITÉES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_CITATIONS:fr:docx:indexofcitedprovisions::#CLR_CITATIONS~LISTE∙DES∙DISPOSITIONS∙CITÉES}"
+ },
+ {
+  "text": "INDEX∙ALPHABÉTIQUE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 19,
+  "style": "ITOC1",
+  "name": "S00331",
+  "unit": "{INDEX∙ALPHABÉTIQUE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_GLO:fr:docx:keywordindex::#CLR_GLO~INDEX∙ALPHABÉTIQUE}"
+ }
+]

@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Rules◦51(2)∙and◦162(2)∙EPC",
+  "unit": "{Rules◦51(2)}∙and◦{162(2)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R51_2:en:xml#R51_2~Rules◦51(2)}∙and◦{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R162_2:en:xml#R162_2~162(2)∙EPC}",
+  "name": "M12876",
+  "file": "/EP/organization/OJ/2016/12/issue/electronicproofer/en/OJ_2016_i12_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_i12_toc",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "Rule∙12∙to∙Rule∙13∙EPC",
+  "unit": "{Rule∙12}∙to∙{Rule∙13∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R12:en:xml#R12~Rule∙12}∙to∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R13:en:xml#R13~Rule∙13∙EPC}",
+  "name": "M12898",
+  "file": "/EP/organization/OJ/2018/se1/issue/electronicproofer/en/OJ_2018_se1_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2018_se1_toc",
+  "relativeParagraph": 49
+ }
+]

@@ -1,0 +1,54 @@
+[
+ {
+  "text": "Annex◦VIb,◦4.1-4.3∙and∙IB-XI,◦6.3",
+  "unit": "{Annex◦VIb,◦4.1}-{4.3}∙and∙{IB-XI,◦6.3}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb_4_1:en:xml#ANNEX_VIb_4_1~Annex◦VIb,◦4.1}-{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb_4_3:en:xml#ANNEX_VIb_4_3~4.3}∙and∙{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_XI_6_3:en:xml#IB_XI_6_3~IB-XI,◦6.3}",
+  "name": "M07510",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 3
+ },
+ {
+  "bad":true,
+ "text": "IB-XI,◦6.4∙and∙Annex◦VIb",
+  "unit": "{IB-XI,◦6.4}∙and∙{Annex◦VIb}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_XI_6_4:en:xml#IB_XI_6_4~IB-XI,◦6.4}∙and∙{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb:en:xml#ANNEX_VIb~Annex◦VIb}",
+  "name": "M07514",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "bad":true,
+ "text": "ID-II,∙6∙and∙Annex◦III",
+  "unit": "{ID-II,∙6}∙and∙{Annex◦III}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ID_II_6:en:xml#ID_II_6~ID-II,∙6}∙and∙{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_III:en:xml#ANNEX_III~Annex◦III}",
+  "name": "M07560",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-id.eplegal.zip",
+  "relativeParagraph": 3
+ },
+ {
+  "bad":true,
+ "text": "ID-II,◦6∙and∙Annex◦III",
+  "unit": "{ID-II,◦6}∙and∙{Annex◦III}",
+  "value": "{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:ID_II_6:en:xml#ID_II_6~ID-II,◦6}∙and∙{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:ANNEX_III:en:xml#ANNEX_III~Annex◦III}",
+  "name": "M07798",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/en/part-id.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Annex◦VI,◦4.1-4.3∙and∙IB-XI,◦6.3",
+  "unit": "{Annex◦VI,◦4.1}-{4.3}∙and∙{IB-XI,◦6.3}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI_4_1:en:xml#ANNEX_VI_4_1~Annex◦VI,◦4.1}-{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI_4_3:en:xml#ANNEX_VI_4_3~4.3}∙and∙{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IB_XI_6_3:en:xml#IB_XI_6_3~IB-XI,◦6.3}",
+  "name": "M07810",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 3
+ },
+ {
+  "bad":true,
+ "text": "IB-XI,◦6.4∙and∙Annex◦VI",
+  "unit": "{IB-XI,◦6.4}∙and∙{Annex◦VI}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IB_XI_6_4:en:xml#IB_XI_6_4~IB-XI,◦6.4}∙and∙{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI:en:xml#ANNEX_VI~Annex◦VI}",
+  "name": "M07812",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

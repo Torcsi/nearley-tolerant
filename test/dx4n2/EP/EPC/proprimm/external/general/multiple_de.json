@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Artikeln∙12,∙13,∙14∙Buchstaben∙b",
+  "unit": "{Artikeln∙12},∙{13},∙{14∙Buchstaben∙b}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I12:de:docx:proprimm::#I12~Artikeln∙12},∙{ep-legal:countries:EP::EPC:2001:1::internet:I13:de:docx:proprimm::#I13~13},∙{ep-legal:countries:EP::EPC:2001:1::internet:I14_b:de:docx:proprimm::I14#I14_b~14∙Buchstaben∙b}",
+  "name": "M41070",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/de/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikeln◦12,∙13,∙14∙Buchstaben◦b,∙e∙und∙g",
+  "unit": "{Artikeln◦12},∙{13},∙{14∙Buchstaben◦b},∙{e}∙und∙{g}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:I12:de:docx:proprimm::#I12~Artikeln◦12},∙{ep-legal:countries:EP::EPC:2006:1::internet:I13:de:docx:proprimm::#I13~13},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_b:de:docx:proprimm::I14#I14_b~14∙Buchstaben◦b},∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_e:de:docx:proprimm::I14#I14_e~e}∙und∙{ep-legal:countries:EP::EPC:2006:1::internet:I14_g:de:docx:proprimm::I14#I14_g~g}",
+  "name": "M41528",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/de/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1
+ }
+]

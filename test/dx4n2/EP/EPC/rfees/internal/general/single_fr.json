@@ -1,0 +1,102 @@
+[
+ {
+  "text": "l’article",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "3_1",
+  "relativeParagraph": 0,
+  "name": "S02057",
+  "unit": "{l’article}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2:fr:docx:rfees::#2~l’article}",
+  "bad": true
+ },
+ {
+  "text": "FEE∙l’article∙10quinquies",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "12_2",
+  "relativeParagraph": 0,
+  "name": "S02105",
+  "unit": "{FEE∙l’article∙10quinquies}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:10d:fr:docx:rfees::#10d~FEE∙l’article∙10quinquies}"
+ },
+ {
+  "text": "FEE∙l’article∙2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "3_1",
+  "relativeParagraph": 0,
+  "name": "S02121",
+  "unit": "{FEE∙l’article∙2}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:2:fr:docx:rfees::#2~FEE∙l’article∙2}"
+ },
+ {
+  "text": "FEE∙l’article◦2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "3_3",
+  "relativeParagraph": 0,
+  "name": "S02122",
+  "unit": "{FEE∙l’article◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:2:fr:docx:rfees::#2~FEE∙l’article◦2}"
+ },
+ {
+  "text": "l’article∙10quinquies∙FEE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "12_2",
+  "relativeParagraph": 0,
+  "name": "S02123",
+  "unit": "{l’article∙10quinquies∙FEE}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:10d:fr:docx:rfees::#10d~l’article∙10quinquies∙FEE}"
+ },
+ {
+  "text": "FEE∙l'article◦3,∙paragraphe◦1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "1_a",
+  "relativeParagraph": 0,
+  "name": "S02181",
+  "unit": "{FEE∙l'article◦3,∙paragraphe◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:3_1:fr:docx:rfees::3#3_1~FEE∙l'article◦3,∙paragraphe◦1}"
+ },
+ {
+  "text": "FEE∙l'article∙premier",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "2",
+  "relativeParagraph": 1,
+  "name": "S02182",
+  "unit": "{FEE∙l'article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:1:fr:docx:rfees::#1~FEE∙l'article∙premier}"
+ },
+ {
+  "text": "FEE∙l'article◦2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "3_1",
+  "relativeParagraph": 0,
+  "name": "S02189",
+  "unit": "{FEE∙l'article◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:2:fr:docx:rfees::#2~FEE∙l'article◦2}"
+ },
+ {
+  "text": "FEE∙l'article◦7∙paragraphe◦3,∙lettre◦a)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "7_3_b",
+  "relativeParagraph": 0,
+  "name": "S02191",
+  "unit": "{FEE∙l'article◦7∙paragraphe◦3,∙lettre◦a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:7_3_a:fr:docx:rfees::7#7_3_a~FEE∙l'article◦7∙paragraphe◦3,∙lettre◦a)}"
+ },
+ {
+  "text": "article◦1,∙point◦2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "5",
+  "relativeParagraph": 1,
+  "name": "S02256",
+  "unit": "{article◦1,∙point◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:1:fr:docx:rfees::#1~article◦1,∙point◦2}"
+ },
+ {
+  "text": "article∙premier",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2016/1.8/internet/fr/rfees.eplegal.zip",
+  "referringId": "2_1",
+  "relativeParagraph": 0,
+  "name": "S02295",
+  "unit": "{article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1.8::internet:1:fr:docx:rfees::#1~article∙premier}"
+ }
+]

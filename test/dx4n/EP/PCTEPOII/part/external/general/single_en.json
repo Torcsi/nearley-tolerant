@@ -1,0 +1,156 @@
+[
+ {
+  "bad":true,
+ "text": "II/PCT-EPO,∙IB-X,∙5",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_II_5",
+  "relativeParagraph": 2,
+  "name": "S01548",
+  "unit": "{II/PCT-EPO,∙IB-X,∙5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_X_5:en:xml#IPB_X_5~II/PCT-EPO,∙IB-X,∙5}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-VII,∙6.3",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_VII_7_2",
+  "relativeParagraph": 8,
+  "name": "S01551",
+  "unit": "{II/PCT-EPO∙IB-VII,∙6.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_VII_6_3:en:xml#IPB_VII_6_3~II/PCT-EPO∙IB-VII,∙6.3}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XI,∙3.2.2",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_VIII_4",
+  "relativeParagraph": 1,
+  "name": "S01553",
+  "unit": "{II/PCT-EPO∙IB-XI,∙3.2.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XI_3_2_2:en:xml#IPB_XI_3_2_2~II/PCT-EPO∙IB-XI,∙3.2.2}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO,∙IB-X,∙7.1",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_X_5",
+  "relativeParagraph": 1,
+  "name": "S01554",
+  "unit": "{II/PCT-EPO,∙IB-X,∙7.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_X_7_1:en:xml#IPB_X_7_1~II/PCT-EPO,∙IB-X,∙7.1}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IH-II,∙2.3.2.2",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XI_2_1",
+  "relativeParagraph": 1,
+  "name": "S01556",
+  "unit": "{II/PCT-EPO∙IH-II,∙2.3.2.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPH_II_2_3_2_2:en:xml#IPH_II_2_3_2_2~II/PCT-EPO∙IH-II,∙2.3.2.2}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-VIII,∙3",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XI_3_4",
+  "relativeParagraph": 5,
+  "name": "S01557",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_VIII_3:en:xml#IPC_VIII_3~II/PCT-EPO∙IC-VIII,∙3}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XII,∙10",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XII_5",
+  "relativeParagraph": 2,
+  "name": "S01559",
+  "unit": "{II/PCT-EPO∙IB-XII,∙10}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XII_10:en:xml#IPB_XII_10~II/PCT-EPO∙IB-XII,∙10}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-IV,∙5.3",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_I_2",
+  "relativeParagraph": 2,
+  "name": "S01561",
+  "unit": "{II/PCT-EPO∙IC-IV,∙5.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_IV_5_3:en:xml#IPC_IV_5_3~II/PCT-EPO∙IC-IV,∙5.3}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO,∙IC-IV,∙5.3",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_IV_5_4",
+  "relativeParagraph": 8,
+  "name": "S01562",
+  "unit": "{II/PCT-EPO,∙IC-IV,∙5.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_IV_5_3:en:xml#IPC_IV_5_3~II/PCT-EPO,∙IC-IV,∙5.3}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XI",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_VIII_2",
+  "relativeParagraph": 8,
+  "name": "S01563",
+  "unit": "{II/PCT-EPO∙IB-XI}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPB_XI:en:xml#IPB_XI~II/PCT-EPO∙IB-XI}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XI,◦4.1.1",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S01571",
+  "unit": "{II/PCT-EPO∙IB-XI,◦4.1.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPB_XI_4_1_1:en:xml#IPB_XI_4_1_1~II/PCT-EPO∙IB-XI,◦4.1.1}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-IV,◦2.6",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01573",
+  "unit": "{II/PCT-EPO∙IC-IV,◦2.6}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPC_IV_2_6:en:xml#IPC_IV_2_6~II/PCT-EPO∙IC-IV,◦2.6}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IC-III,◦4",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/en/part-ic.eplegal.zip",
+  "relativeParagraph": 18,
+  "name": "S01574",
+  "unit": "{II/PCT-EPO∙IC-III,◦4}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPC_III_4:en:xml#IPC_III_4~II/PCT-EPO∙IC-III,◦4}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IH-III,◦7",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S01575",
+  "unit": "{II/PCT-EPO∙IH-III,◦7}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPH_III_7:en:xml#IPH_III_7~II/PCT-EPO∙IH-III,◦7}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IB-XI,◦4.1",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 13,
+  "name": "S01576",
+  "unit": "{II/PCT-EPO∙IB-XI,◦4.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPB_XI_4_1:en:xml#IPB_XI_4_1~II/PCT-EPO∙IB-XI,◦4.1}"
+ },
+ {
+  "bad":true,
+ "text": "II/PCT-EPO∙IH-II,◦2.2.2.3",
+  "file": "/EP/organization/PCTEPOII/2017/1/1.0/electronicproofer/en/part-ih.eplegal.zip",
+  "relativeParagraph": 25,
+  "name": "S01578",
+  "unit": "{II/PCT-EPO∙IH-II,◦2.2.2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2017:1:1.0:electronicproofer:IPH_II_2_2_2_3:en:xml#IPH_II_2_2_2_3~II/PCT-EPO∙IH-II,◦2.2.2.3}"
+ }
+]

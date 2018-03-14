@@ -1,0 +1,46 @@
+[
+ {
+  "text": "T◦931/95",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_A_1",
+  "relativeParagraph": 2,
+  "name": "S00016",
+  "unit": "{T◦931/95}",
+  "value": "{ep-legal:countries:EP::decisions:1995:1:1.0:electronicproofer:T_1995_0931:en:pdf~T◦931/95}"
+ },
+ {
+  "text": "T◦1173/97",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_A_1",
+  "relativeParagraph": 4,
+  "name": "S00018",
+  "unit": "{T◦1173/97}",
+  "value": "{ep-legal:countries:EP::decisions:1997:1:1.0:electronicproofer:T_1997_1173:en:pdf~T◦1173/97}"
+ },
+ {
+  "text": "G∙2/06",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_B_2",
+  "relativeParagraph": 22,
+  "name": "S00033",
+  "unit": "{G∙2/06}",
+  "value": "{ep-legal:countries:EP::decisions:2006:1:1.0:electronicproofer:G_2006_0002:languageVersion1:html~G∙2/06}"
+ },
+ {
+  "text": "T∙1543/06",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S00132",
+  "unit": "{T∙1543/06}",
+  "value": "{ep-legal:countries:EP::decisions:2006:1:1.0:electronicproofer:T_2006_1543:en:pdf~T∙1543/06}"
+ },
+ {
+  "text": "R∙2/2010",
+  "file": "/EP/organization/OJ/2011/08-09/issue/electronicproofer/en/OJ_2011_452.eplegal.zip",
+  "referringId": "OJ:2011_452",
+  "relativeParagraph": 34,
+  "name": "S01320",
+  "unit": "{R∙2/2010}",
+  "value": "{ep-legal:countries:EP::decisions:2010:1:1.0:electronicproofer:R_2010_0002:de:html#R_2010_0002~R∙2/2010}"
+ }
+]

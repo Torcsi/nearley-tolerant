@@ -1,0 +1,74 @@
+[
+ {
+  "text": "C-II∙to∙C-IX",
+  "unit": "{C-II}∙to∙{C-IX}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGC_CII:en:docx:C::PGC#PGC_CII~C-II}∙to∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGC_CIX:en:docx:C::PGC#PGC_CIX~C-IX}",
+  "name": "M78070",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "C-II∙to∙IX",
+  "unit": "{C-II}∙to∙{IX}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGC_CII:en:docx:C::PGC#PGC_CII~C-II}∙to∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGC_CIX:en:docx:C::PGC#PGC_CIX~IX}",
+  "name": "M78072",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Parts∙G∙and∙Part∙H",
+  "unit": "{Parts∙G}∙and∙{Part∙H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG:en:docx:G::#PGG~Parts∙G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH:en:docx:H::#PGH~Part∙H}",
+  "name": "M78074",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Parts∙G∙and∙H",
+  "unit": "{Parts∙G}∙and∙{H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG:en:docx:G::#PGG~Parts∙G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH:en:docx:H::#PGH~H}",
+  "name": "M78076",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "H-II∙and∙H-III",
+  "unit": "{H-II}∙and∙{H-III}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH_CII:en:docx:H::PGH#PGH_CII~H-II}∙and∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH_CIII:en:docx:H::PGH#PGH_CIII~H-III}",
+  "name": "M78124",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/H.eplegal.zip",
+  "referringId": "PGH_CI_1_ii",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Parts∙G∙and∙Parts∙H",
+  "unit": "{Parts∙G}∙and∙{Parts∙H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG:en:docx:G::#PGG~Parts∙G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH:en:docx:H::#PGH~Parts∙H}",
+  "name": "M78128",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/I.eplegal.zip",
+  "referringId": "PGI_2_1",
+  "relativeParagraph": 15
+ },
+ {
+  "text": "Parts∙F,∙Part∙G∙and∙Part∙H",
+  "unit": "{Parts∙F},∙{Part∙G}∙and∙{Part∙H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGF:en:docx:F::#PGF~Parts∙F},∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGG:en:docx:G::#PGG~Part∙G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGH:en:docx:H::#PGH~Part∙H}",
+  "name": "M78190",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Parts∙F,∙G∙and∙H",
+  "unit": "{Parts∙F},∙{G}∙and∙{H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGF:en:docx:F::#PGF~Parts∙F},∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGG:en:docx:G::#PGG~G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGH:en:docx:H::#PGH~H}",
+  "name": "M78192",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/C.eplegal.zip",
+  "referringId": "PGC_CI_1",
+  "relativeParagraph": 2
+ }
+]

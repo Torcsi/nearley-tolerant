@@ -1,0 +1,42 @@
+[
+ {
+  "text": "C-II∙to∙IX",
+  "unit": "{C-II}∙to∙{IX}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGC_CII:en:xml#PGC_CII~C-II}∙to∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGC_CIX:en:xml#PGC_CIX~IX}",
+  "name": "M09986",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Parts∙F,∙G∙and∙H",
+  "unit": "{Parts∙F},∙{G}∙and∙{H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF:en:xml#PGF~Parts∙F},∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGG:en:xml#PGG~G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH:en:xml#PGH~H}",
+  "name": "M09988",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "H-II∙and∙H-III",
+  "unit": "{H-II}∙and∙{H-III}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CII:en:xml#PGH_CII~H-II}∙and∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CIII:en:xml#PGH_CIII~H-III}",
+  "name": "M10028",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/H.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "C-II∙to∙C-IX",
+  "unit": "{C-II}∙to∙{C-IX}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGC_CII:en:xml#PGC_CII~C-II}∙to∙{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGC_CIX:en:xml#PGC_CIX~C-IX}",
+  "name": "M10056",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Parts◦F,∙Part◦G∙and∙Part◦H",
+  "unit": "{Parts◦F},∙{Part◦G}∙and∙{Part◦H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGF:en:xml#PGF~Parts◦F},∙{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGG:en:xml#PGG~Part◦G}∙and∙{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGH:en:xml#PGH~Part◦H}",
+  "name": "M10058",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 2
+ }
+]

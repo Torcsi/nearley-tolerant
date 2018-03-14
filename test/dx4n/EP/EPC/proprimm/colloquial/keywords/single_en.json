@@ -1,0 +1,20 @@
+[
+ {
+  "text": "PPI◦20",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 17,
+  "name": "S01651",
+  "unit": "{PPI◦20}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I20:en:xml~PPI◦20}"
+ },
+ {
+  "text": "PPI◦23(3)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 54,
+  "name": "S01666",
+  "unit": "{PPI◦23(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I23_3:en:xml~PPI◦23(3)}"
+ }
+]

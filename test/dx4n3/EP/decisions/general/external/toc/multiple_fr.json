@@ -1,0 +1,32 @@
+[
+ {
+  "text": "G◦1/03,∙G∙2/03∙et∙G∙2/10",
+  "unit": "{G◦1/03},∙{G∙2/03}∙et∙{G∙2/10}",
+  "value": "{ep-legal:countries:EP::decisions:2003:1::external:G_2003_0001:fr::G_2003_0001::#G_2003_0001~G◦1/03},∙{ep-legal:countries:EP::decisions:2003:1::external:G_2003_0002:fr::G_2003_0002::#G_2003_0002~G∙2/03}∙et∙{ep-legal:countries:EP::decisions:2010:1::external:G_2010_0002:fr::G_2010_0002::#G_2010_0002~G∙2/10}",
+  "name": "M26434",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se5/internet/fr/OJ_2014_se5_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_se5_toc",
+  "relativeParagraph": 82
+ },
+ {
+  "text": "G∙1/03,∙G◦2/03∙et∙G∙2/10",
+  "unit": "{G∙1/03},∙{G◦2/03}∙et∙{G∙2/10}",
+  "value": "{ep-legal:countries:EP::decisions:2003:1::external:G_2003_0001:fr::G_2003_0001::#G_2003_0001~G∙1/03},∙{ep-legal:countries:EP::decisions:2003:1::external:G_2003_0002:fr::G_2003_0002::#G_2003_0002~G◦2/03}∙et∙{ep-legal:countries:EP::decisions:2010:1::external:G_2010_0002:fr::G_2010_0002::#G_2010_0002~G∙2/10}",
+  "name": "M26436",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se5/internet/fr/OJ_2014_se5_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_se5_toc",
+  "relativeParagraph": 83
+ },
+ {
+  "text": "J◦25/10∙et∙J◦9/10",
+  "unit": "{J◦25/10}∙et∙{J◦9/10}",
+  "value": "{ep-legal:countries:EP::decisions:2010:1::external:J_2010_0025:fr::J_2010_0025::#J_2010_0025~J◦25/10}∙et∙{ep-legal:countries:EP::decisions:2010:1::external:J_2010_0009:fr::J_2010_0009::#J_2010_0009~J◦9/10}",
+  "name": "M26456",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/fr/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 177
+ }
+]

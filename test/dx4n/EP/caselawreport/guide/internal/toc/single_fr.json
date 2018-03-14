@@ -1,0 +1,19 @@
+[
+ {
+  "text": "Avertissement",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 2,
+  "name": "S28084",
+  "unit": "{Avertissement}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_GUIDE:fr:xml~Avertissement}"
+ },
+ {
+  "text": "AVERTISSEMENT",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S28096",
+  "unit": "{AVERTISSEMENT}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_GUIDE:fr:xml~AVERTISSEMENT}"
+ }
+]

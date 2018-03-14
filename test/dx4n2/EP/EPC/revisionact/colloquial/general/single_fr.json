@@ -1,0 +1,83 @@
+[
+ {
+  "text": "l'art.∙3∙(1)∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_B",
+  "relativeParagraph": 3,
+  "name": "S01394",
+  "unit": "{l'art.∙3∙(1)∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV3_1:fr:docx:revisionact::REV3#REV3_1~l'art.∙3∙(1)∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article∙7∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/VII.eplegal.zip",
+  "referringId": "CLR_VII_E_7_1",
+  "relativeParagraph": 3,
+  "name": "S01624",
+  "unit": "{l'article∙7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV7:fr:docx:revisionact::#REV7~l'article∙7∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'art.◦7∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/VII.eplegal.zip",
+  "referringId": "CLR_VII_E_15_2",
+  "relativeParagraph": 1,
+  "name": "S01642",
+  "unit": "{l'art.◦7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV7:fr:docx:revisionact::#REV7~l'art.◦7∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'art.◦7◦REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2016/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_C_7_2_2",
+  "relativeParagraph": 1,
+  "name": "S01835",
+  "unit": "{l'art.◦7◦REV}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:REV7:fr:docx:revisionact::#REV7~l'art.◦7◦REV}"
+ },
+ {
+  "text": "l'article∙3(1)∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/foreword.eplegal.zip",
+  "referringId": "PRE",
+  "relativeParagraph": 12,
+  "name": "S02164",
+  "unit": "{l'article∙3(1)∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV3_1:fr:docx:revisionact::REV3#REV3_1~l'article∙3(1)∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article◦7∙REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/transition.eplegal.zip",
+  "referringId": "DEC",
+  "relativeParagraph": 1,
+  "name": "S02198",
+  "unit": "{l'article◦7∙REV}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV7:fr:docx:revisionact::#REV7~l'article◦7∙REV}"
+ },
+ {
+  "text": "l'article◦7,∙paragraphe◦2∙REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/transition.eplegal.zip",
+  "referringId": "DEC",
+  "relativeParagraph": 4,
+  "name": "S02199",
+  "unit": "{l'article◦7,∙paragraphe◦2∙REV}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV7_2:fr:docx:revisionact::REV7#REV7_2~l'article◦7,∙paragraphe◦2∙REV}"
+ },
+ {
+  "text": "l'article◦7∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/foreword.eplegal.zip",
+  "referringId": "PRE",
+  "relativeParagraph": 4,
+  "name": "S02233",
+  "unit": "{l'article◦7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV7:fr:docx:revisionact::#REV7~l'article◦7∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article◦3(1)∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/foreword.eplegal.zip",
+  "referringId": "PRE",
+  "relativeParagraph": 14,
+  "name": "S02234",
+  "unit": "{l'article◦3(1)∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV3_1:fr:docx:revisionact::REV3#REV3_1~l'article◦3(1)∙de∙l'acte∙de∙révision}"
+ }
+]

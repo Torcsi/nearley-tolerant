@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Allgemeiner∙Teil",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 6,
+  "name": "S15239",
+  "unit": "{Allgemeiner∙Teil}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLG_INDEX:de:xml~Allgemeiner∙Teil}"
+ },
+ {
+  "text": "1.◦◦Vorbemerkung",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 7,
+  "name": "S15317",
+  "unit": "{1.◦◦Vorbemerkung}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_1:de:xml#GLI_1~1.◦◦Vorbemerkung}"
+ },
+ {
+  "text": "2.1◦◦Überblick",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 9,
+  "name": "S15318",
+  "unit": "{2.1◦◦Überblick}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_2_1:de:xml#GLI_2_1~2.1◦◦Überblick}"
+ },
+ {
+  "text": "Teil∙G∙-∙Patentierbarkeit",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 91,
+  "name": "S15321",
+  "unit": "{Teil∙G∙-∙Patentierbarkeit}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG:de:xml#GLG~Teil∙G∙-∙Patentierbarkeit}"
+ },
+ {
+  "text": "Anlage∙→xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "guiex:GLI_INDEX",
+  "relativeParagraph": 100,
+  "name": "S15322",
+  "unit": "{Anlage∙→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLG_CVIIA:de:xml#GLG_CVIIA~Anlage∙→xxx}"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "text": "l'art.◦7∙de∙l'Acte∙de∙révision∙de∙la∙CBE",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_C_6_2_1",
+  "relativeParagraph": 8,
+  "name": "S25936",
+  "unit": "{l'art.◦7∙de∙l'Acte∙de∙révision∙de∙la∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:fr:xml#REV7~l'art.◦7∙de∙l'Acte∙de∙révision∙de∙la∙CBE}"
+ },
+ {
+  "text": "l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la∙CBE∙1973",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/IV.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S26010",
+  "unit": "{l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la∙CBE∙1973}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV6:fr:xml#REV6~l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la∙CBE∙1973}"
+ },
+ {
+  "text": "l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la◦CBE◦1973",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/IV.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S26198",
+  "unit": "{l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la◦CBE◦1973}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:REV6:fr:xml#REV6~l'art.◦6∙de∙l'Acte∙portant∙révision∙de∙la◦CBE◦1973}"
+ }
+]

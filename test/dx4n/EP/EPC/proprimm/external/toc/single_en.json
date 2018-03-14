@@ -1,0 +1,28 @@
+[
+ {
+  "text": "Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation(Protocol∙on∙Privileges∙and∙Immunities)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 7,
+  "name": "S01727",
+  "unit": "{Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation(Protocol∙on∙Privileges∙and∙Immunities)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:IMM:en:xml~Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation(Protocol∙on∙Privileges∙and∙Immunities)}"
+ },
+ {
+  "text": "Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 9,
+  "name": "S01769",
+  "unit": "{Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:IMM:en:xml#IMM~Protocol∙on∙Privileges∙and∙Immunities∙of∙the∙European∙Patent∙Organisation↲xxx}"
+ },
+ {
+  "text": "Article◦15∙of∙the∙Protocol∙on∙Privileges∙and∙Immunities",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 103,
+  "name": "S02179",
+  "unit": "{Article◦15∙of∙the∙Protocol∙on∙Privileges∙and∙Immunities}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:I15:en:xml#I15~Article◦15∙of∙the∙Protocol∙on∙Privileges∙and∙Immunities}"
+ }
+]

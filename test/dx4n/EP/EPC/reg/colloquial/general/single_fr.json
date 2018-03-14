@@ -1,0 +1,602 @@
+[
+ {
+  "text": "R.∙10",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/concordance.eplegal.zip",
+  "referringId": "caselawreport:CLR_CONCORDANCE",
+  "relativeParagraph": 12,
+  "name": "S25442",
+  "unit": "{R.∙10}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R10:fr:xml~R.∙10}"
+ },
+ {
+  "text": "R.∙100(2)",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/concordance.eplegal.zip",
+  "referringId": "caselawreport:CLR_CONCORDANCE",
+  "relativeParagraph": 40,
+  "name": "S25448",
+  "unit": "{R.∙100(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R100_2:fr:xml~R.∙100(2)}"
+ },
+ {
+  "bad":true,
+ "text": "41",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/concordance.eplegal.zip",
+  "referringId": "caselawreport:CLR_CONCORDANCE",
+  "relativeParagraph": 295,
+  "name": "S25449",
+  "unit": "{41}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R41:fr:xml~41}"
+ },
+ {
+  "text": "règles∙51(3)",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_C_1_8_3",
+  "relativeParagraph": 1,
+  "name": "S25504",
+  "unit": "{règles∙51(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R51_3:fr:xml~règles∙51(3)}"
+ },
+ {
+  "text": "règle∙29",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/II.eplegal.zip",
+  "referringId": "caselawreport:CLR_II_B_3_2",
+  "relativeParagraph": 4,
+  "name": "S25533",
+  "unit": "{règle∙29}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R29:fr:xml~règle∙29}"
+ },
+ {
+  "text": "Règle∙88",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_D",
+  "relativeParagraph": 0,
+  "name": "S25567",
+  "unit": "{Règle∙88}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R88:fr:xml~Règle∙88}"
+ },
+ {
+  "text": "règles◦104",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/IX.eplegal.zip",
+  "referringId": "caselawreport:CLR_IX_A_1",
+  "relativeParagraph": 2,
+  "name": "S25576",
+  "unit": "{règles◦104}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R104:fr:xml~règles◦104}"
+ },
+ {
+  "text": "règle∙71bis(1)",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_C_4_4_1",
+  "relativeParagraph": 8,
+  "name": "S25607",
+  "unit": "{règle∙71bis(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:R71a_1:fr:xml~règle∙71bis(1)}"
+ },
+ {
+  "text": "règles∙72",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_K_1",
+  "relativeParagraph": 4,
+  "name": "S25626",
+  "unit": "{règles∙72}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R72:fr:xml~règles∙72}"
+ },
+ {
+  "text": "règle∙11,∙paragraphe∙2",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_RPEBA",
+  "relativeParagraph": 6,
+  "name": "S25664",
+  "unit": "{règle∙11,∙paragraphe∙2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R11_2:fr:xml~règle∙11,∙paragraphe∙2}"
+ },
+ {
+  "text": "règle∙13∙du∙règlement∙d'exécution∙de∙la∙C",
+"bad":true,
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 19,
+  "name": "S26081",
+  "unit": "{règle∙13∙du∙règlement∙d'exécution∙de∙la∙C}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:R13:fr:xml#R13~règle∙13∙du∙règlement∙d'exécution∙de∙la∙C}"
+ },
+ {
+  "text": "règle◦76(2)a)",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/IV.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26213",
+  "unit": "{règle◦76(2)a)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:R76_2_a:fr:xml#R76_2_a~règle◦76(2)a)}"
+ },
+ {
+  "bad":true,
+ "text": "71bis∙(1)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/annex1.eplegal.zip",
+  "referringId": "EPC:AN1",
+  "relativeParagraph": 240,
+  "name": "S26245",
+  "unit": "{71bis∙(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:R71a_1:fr:xml~71bis∙(1)}"
+ },
+ {
+  "text": "règle◦71,∙paragraphe∙3",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/rfees.eplegal.zip",
+  "referringId": "EPC:2_2_7",
+  "relativeParagraph": 1,
+  "name": "S26313",
+  "unit": "{règle◦71,∙paragraphe∙3}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71_3:fr:xml~règle◦71,∙paragraphe∙3}"
+ },
+ {
+  "text": "règle◦17∙de∙la∙convention",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/rfees.eplegal.zip",
+  "referringId": "EPC:9_2",
+  "relativeParagraph": 0,
+  "name": "S26314",
+  "unit": "{règle◦17∙de∙la∙convention}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R17:fr:xml~règle◦17∙de∙la∙convention}"
+ },
+ {
+  "text": "règle∙36∙(1)",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/foreword.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S26321",
+  "unit": "{règle∙36∙(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R36_1:fr:xml#R36_1~règle∙36∙(1)}"
+ },
+ {
+  "text": "règle◦82◦(2)",
+  "file": "/EP/organization/EPC/2016/1/1.8/electronicproofer/fr/foreword.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S26341",
+  "unit": "{règle◦82◦(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R82_2:fr:xml#R82_2~règle◦82◦(2)}"
+ },
+ {
+  "text": "règle◦71,∙paragraphe◦3∙de∙la∙convention",
+  "file": "/EP/organization/EPC/2016/1/1.8/electronicproofer/fr/rfees.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S26344",
+  "unit": "{règle◦71,∙paragraphe◦3∙de∙la∙convention}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:R71_3:fr:xml#R71_3~règle◦71,∙paragraphe◦3∙de∙la∙convention}"
+ },
+ {
+  "text": "Règle∙115(2)",
+  "file": "/EP/organization/EPC/2018/1/1.0/electronicproofer/fr/annex1.eplegal.zip",
+  "relativeParagraph": 579,
+  "name": "S26362",
+  "unit": "{Règle∙115(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R115_2:fr:xml#R115_2~Règle∙115(2)}"
+ },
+ {
+  "text": "règle∙57c)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CII_4_1_3_1_iv_f",
+  "relativeParagraph": 7,
+  "name": "S26468",
+  "unit": "{règle∙57c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R57_c:fr:xml~règle∙57c)}"
+ },
+ {
+  "text": "règle◦144c)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CIII_5_2",
+  "relativeParagraph": 1,
+  "name": "S26472",
+  "unit": "{règle◦144c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R144_c:fr:xml~règle◦144c)}"
+ },
+ {
+  "text": "règle∙57j)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "referringId": "guiex:GLA_CIV_5_1",
+  "relativeParagraph": 1,
+  "name": "S26483",
+  "unit": "{règle∙57j)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R57_j:fr:xml~règle∙57j)}"
+ },
+ {
+  "text": "règle◦46(2)i)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CII_4_8",
+  "relativeParagraph": 1,
+  "name": "S26522",
+  "unit": "{règle◦46(2)i)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R46_2_i:fr:xml~règle◦46(2)i)}"
+ },
+ {
+  "text": "règle◦42(1)◦a)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CIII_8_4",
+  "relativeParagraph": 6,
+  "name": "S26530",
+  "unit": "{règle◦42(1)◦a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R42_1_a:fr:xml~règle◦42(1)◦a)}"
+ },
+ {
+  "text": "règle◦48(1)∙a)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CIV_4_3",
+  "relativeParagraph": 1,
+  "name": "S26532",
+  "unit": "{règle◦48(1)∙a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R48_1_a:fr:xml~règle◦48(1)∙a)}"
+ },
+ {
+  "text": "règle◦27◦c)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CIV_4_7_1",
+  "relativeParagraph": 6,
+  "name": "S26537",
+  "unit": "{règle◦27◦c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R27_c:fr:xml~règle◦27◦c)}"
+ },
+ {
+  "text": "règle∙159(1)∙c)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CIV_7_2",
+  "relativeParagraph": 1,
+  "name": "S26540",
+  "unit": "{règle∙159(1)∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R159_1_c:fr:xml~règle∙159(1)∙c)}"
+ },
+ {
+  "text": "Règle◦58",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S26592",
+  "unit": "{Règle◦58}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R58:fr:xml~Règle◦58}"
+ },
+ {
+  "text": "règle◦57j)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/A.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26597",
+  "unit": "{règle◦57j)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R57_j:fr:xml~règle◦57j)}"
+ },
+ {
+  "text": "règles◦62bis(1)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/B.eplegal.zip",
+  "referringId": "guiex:GLB_CVIII_5",
+  "relativeParagraph": 3,
+  "name": "S26611",
+  "unit": "{règles◦62bis(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62a_1:fr:xml~règles◦62bis(1)}"
+ },
+ {
+  "text": "règle◦48◦(1)◦c)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26616",
+  "unit": "{règle◦48◦(1)◦c)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R48_1_c:fr:xml~règle◦48◦(1)◦c)}"
+ },
+ {
+  "text": "règle∙62bis∙(1)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26618",
+  "unit": "{règle∙62bis∙(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62a_1:fr:xml~règle∙62bis∙(1)}"
+ },
+ {
+  "text": "règle◦62bis∙(1)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S26619",
+  "unit": "{règle◦62bis∙(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62a_1:fr:xml~règle◦62bis∙(1)}"
+ },
+ {
+  "bad":true,
+ "text": "◦b)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S26673",
+  "unit": "{◦b)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R36_1_b:fr:xml#R36_1_b~◦b)}"
+ },
+ {
+  "text": "règle◦70ter(1)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26674",
+  "unit": "{règle◦70ter(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R70b_1:fr:xml#R70b_1~règle◦70ter(1)}"
+ },
+ {
+  "text": "règle◦62bis◦(1)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/F.eplegal.zip",
+  "referringId": "guiex:GLF_CIV_3_3",
+  "relativeParagraph": 1,
+  "name": "S26697",
+  "unit": "{règle◦62bis◦(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R62a_1:fr:xml#R62a_1~règle◦62bis◦(1)}"
+ },
+ {
+  "text": "règle◦144d)",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/fr/H.eplegal.zip",
+  "referringId": "guiex:GLH_CV_2_3",
+  "relativeParagraph": 1,
+  "name": "S26708",
+  "unit": "{règle◦144d)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R144_d:fr:xml#R144_d~règle◦144d)}"
+ },
+ {
+  "bad":true,
+ "text": "◦95(3)",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/fr/H.eplegal.zip",
+  "referringId": "guiex:GLH_CVI_3_1",
+  "relativeParagraph": 5,
+  "name": "S26774",
+  "unit": "{◦95(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:R95_3:fr:xml#R95_3~◦95(3)}"
+ },
+ {
+  "text": "règle∙42(1)(a)",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/fr/M.eplegal.zip",
+  "relativeParagraph": 273,
+  "name": "S26780",
+  "unit": "{règle∙42(1)(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:R42_1_a:fr:xml#R42_1_a~règle∙42(1)(a)}"
+ },
+ {
+  "text": "Règle◦164(2)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I_1_1_3",
+  "relativeParagraph": 20,
+  "name": "S26809",
+  "unit": "{Règle◦164(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R164_2:fr:xml#R164_2~Règle◦164(2)}"
+ },
+ {
+"bad":true,
+  "text": "règles164(1)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I_1_3",
+  "relativeParagraph": 1,
+  "name": "S26813",
+  "unit": "{règles164(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R164_1:fr:xml#R164_1~règles164(1)}"
+ },
+ {
+  "text": "Règle∙43◦(1)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-v.eplegal.zip",
+  "referringId": "IntInst:ANNEX_V_CP124",
+  "relativeParagraph": 15,
+  "name": "S26827",
+  "unit": "{Règle∙43◦(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R43_1:fr:xml#R43_1~Règle∙43◦(1)}"
+ },
+ {
+  "bad":true,
+ "text": "62bis(1)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-vib.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VIb_5_5",
+  "relativeParagraph": 15,
+  "name": "S26847",
+  "unit": "{62bis(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R62a_1:fr:xml#R62a_1~62bis(1)}"
+ },
+ {
+  "bad":true,
+ "text": "46(2)i)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-vii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VII_5_8",
+  "relativeParagraph": 81,
+  "name": "S26899",
+  "unit": "{46(2)i)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R46_2_i:fr:xml#R46_2_i~46(2)i)}"
+ },
+ {
+  "text": "règle◦57b)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "referringId": "IntInst:IB_IV_1_2_5_1",
+  "relativeParagraph": 0,
+  "name": "S26915",
+  "unit": "{règle◦57b)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R57_b:fr:xml#R57_b~règle◦57b)}"
+ },
+ {
+  "text": "règle◦57a)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "referringId": "IntInst:IB_IV_1_2_7",
+  "relativeParagraph": 0,
+  "name": "S26917",
+  "unit": "{règle◦57a)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R57_a:fr:xml#R57_a~règle◦57a)}"
+ },
+ {
+  "text": "règle∙28∙c)",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/fr/part-ig.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S27008",
+  "unit": "{règle∙28∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:R28_c:fr:xml#R28_c~règle∙28∙c)}"
+ },
+ {
+  "text": "règle∙31∙de∙la∙Convention",
+  "file": "/EP/organization/OJ/1978/01/issue/electronicproofer/fr/OJ_1978_12.eplegal.zip",
+  "referringId": "OJ:1978_12",
+  "relativeParagraph": 103,
+  "name": "S27024",
+  "unit": "{règle∙31∙de∙la∙Convention}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1:1.0:electronicproofer:R31:fr:xml#R31~règle∙31∙de∙la∙Convention}"
+ },
+ {
+  "text": "règle∙17,∙paragraphe∙1∙de∙la∙Convention",
+  "file": "/EP/organization/OJ/1978/01/issue/electronicproofer/fr/OJ_1978_12.eplegal.zip",
+  "referringId": "OJ:1978_12",
+  "relativeParagraph": 104,
+  "name": "S27025",
+  "unit": "{règle∙17,∙paragraphe∙1∙de∙la∙Convention}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1:1.0:electronicproofer:R17_1:fr:xml#R17_1~règle∙17,∙paragraphe∙1∙de∙la∙Convention}"
+ },
+ {
+  "text": "règle◦26∙de∙la∙Convention∙sur∙le∙brevet∙européen",
+  "file": "/EP/organization/OJ/1981/09/issue/electronicproofer/fr/OJ_1981_358.eplegal.zip",
+  "referringId": "OJ:1981_358",
+  "relativeParagraph": 2,
+  "name": "S27047",
+  "unit": "{règle◦26∙de∙la∙Convention∙sur∙le∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1:1.0:electronicproofer:R26:fr:xml#R26~règle◦26∙de∙la∙Convention∙sur∙le∙brevet∙européen}"
+ },
+ {
+  "text": "règle∙55∙de∙la∙Convention∙sur∙le∙brevet∙européen",
+  "file": "/EP/organization/OJ/1994/04/issue/electronicproofer/fr/OJ_1994_249.eplegal.zip",
+  "referringId": "OJ:1994_249",
+  "relativeParagraph": 68,
+  "name": "S27136",
+  "unit": "{règle∙55∙de∙la∙Convention∙sur∙le∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1:1.0:electronicproofer:R55:fr:xml#R55~règle∙55∙de∙la∙Convention∙sur∙le∙brevet∙européen}"
+ },
+ {
+  "text": "règle◦15∙de∙la∙Convention",
+  "file": "/EP/organization/OJ/2002/01/issue/electronicproofer/fr/OJ_2002_1.eplegal.zip",
+  "referringId": "OJ:2002_1",
+  "relativeParagraph": 12,
+  "name": "S27359",
+  "unit": "{règle◦15∙de∙la∙Convention}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1:1.0:electronicproofer:R15:fr:xml#R15~règle◦15∙de∙la∙Convention}"
+ },
+ {
+"bad":true,
+  "text": "règle◦10,∙paragraphe◦4∙du∙règlement∙d'exécution∙de∙la∙C",
+  "file": "/EP/organization/OJ/2008/01/sup/electronicproofer/fr/OJ_2008_i01_sup_9.eplegal.zip",
+  "referringId": "OJ:2008_i01_sup_9",
+  "relativeParagraph": 2,
+  "name": "S27467",
+  "unit": "{règle◦10,∙paragraphe◦4∙du∙règlement∙d'exécution∙de∙la∙C}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R10_4:fr:xml#R10_4~règle◦10,∙paragraphe◦4∙du∙règlement∙d'exécution∙de∙la∙C}"
+ },
+ {
+  "text": "règle◦56(3)∙du∙règlement∙d'exécution",
+  "file": "/EP/organization/OJ/2008/12/issue/electronicproofer/fr/OJ_2008_567.eplegal.zip",
+  "referringId": "OJ:2008_567",
+  "relativeParagraph": 46,
+  "name": "S27475",
+  "unit": "{règle◦56(3)∙du∙règlement∙d'exécution}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R56_3:fr:xml#R56_3~règle◦56(3)∙du∙règlement∙d'exécution}"
+ },
+ {
+  "text": "règle∙57a)",
+  "file": "/EP/organization/OJ/2009/05/issue/electronicproofer/fr/OJ_2009_296.eplegal.zip",
+  "referringId": "OJ:2009_296",
+  "relativeParagraph": 14,
+  "name": "S27491",
+  "unit": "{règle∙57a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R57_a:fr:xml#R57_a~règle∙57a)}"
+ },
+ {
+  "text": "règle◦16,∙paragraphe∙1∙a)",
+  "file": "/EP/organization/OJ/2009/05/issue/electronicproofer/fr/OJ_2009_296.eplegal.zip",
+  "referringId": "OJ:2009_296",
+  "relativeParagraph": 17,
+  "name": "S27492",
+  "unit": "{règle◦16,∙paragraphe∙1∙a)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R16_1_a:fr:xml#R16_1_a~règle◦16,∙paragraphe∙1∙a)}"
+ },
+ {
+  "text": "règle∙31,∙paragraphe◦2",
+  "file": "/EP/organization/OJ/2009/05/issue/electronicproofer/fr/OJ_2009_296.eplegal.zip",
+  "referringId": "OJ:2009_296",
+  "relativeParagraph": 17,
+  "name": "S27493",
+  "unit": "{règle∙31,∙paragraphe◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:R31_2:fr:xml#R31_2~règle∙31,∙paragraphe◦2}"
+ },
+ {
+"bad":true,
+  "text": "règle◦28c",
+  "file": "/EP/organization/OJ/2011/se1/issue/electronicproofer/fr/OJ_2011_se1_85.eplegal.zip",
+  "referringId": "OJ:2011_se1_85",
+  "relativeParagraph": 19,
+  "name": "S27554",
+  "unit": "{règle◦28c}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R28_c:fr:xml#R28_c~règle◦28c}"
+ },
+ {
+  "text": "règle◦12∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen",
+  "file": "/EP/organization/OJ/2012/01/sup/electronicproofer/fr/OJ_2012_i01_sup_1.eplegal.zip",
+  "referringId": "OJ:2012_i01_sup_1",
+  "relativeParagraph": 1,
+  "name": "S27559",
+  "unit": "{règle◦12∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R12:fr:xml#R12~règle◦12∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}"
+ },
+ {
+  "text": "règle◦12,∙paragraphe◦4∙du∙règlement∙d'exécution",
+  "file": "/EP/organization/OJ/2012/01/sup/electronicproofer/fr/OJ_2012_i01_sup_10.eplegal.zip",
+  "referringId": "OJ:2012_i01_sup_10",
+  "relativeParagraph": 2,
+  "name": "S27560",
+  "unit": "{règle◦12,∙paragraphe◦4∙du∙règlement∙d'exécution}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:R12_4:fr:xml#R12_4~règle◦12,∙paragraphe◦4∙du∙règlement∙d'exécution}"
+ },
+ {
+  "text": "règle◦45(2),∙deuxième∙phrase,",
+  "file": "/EP/organization/OJ/2014/se4/issue/electronicproofer/fr/OJ_2014_se4_13.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se4_13",
+  "relativeParagraph": 126,
+  "name": "S27655",
+  "unit": "{règle◦45(2),∙deuxième∙phrase,}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:R45_2:fr:xml#R45_2~règle◦45(2),∙deuxième∙phrase,}"
+ },
+ {
+  "bad":true,
+ "text": "64◦(2)",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/fr/OJ_2014_se5_175.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_175",
+  "relativeParagraph": 17,
+  "name": "S27659",
+  "unit": "{64◦(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:R64_2:fr:xml#R64_2~64◦(2)}"
+ },
+ {
+  "text": "règle◦32(2),∙troisième∙phrase",
+  "file": "/EP/organization/OJ/2017/07/issue/electronicproofer/fr/OJ_2017_A60.eplegal.zip",
+  "referringId": "OJ:OJ_2017_A60",
+  "relativeParagraph": 11,
+  "name": "S27737",
+  "unit": "{règle◦32(2),∙troisième∙phrase}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:R32_2:fr:xml#R32_2~règle◦32(2),∙troisième∙phrase}"
+ },
+ {
+"bad":true,
+  "text": "règle◦13∙du∙règlement∙d'exécution∙de∙la∙C",
+  "file": "/EP/organization/OJ/2017/se1/issue/electronicproofer/fr/OJ_2017_se1_30.eplegal.zip",
+  "referringId": "OJ:OJ_2017_se1_30",
+  "relativeParagraph": 17,
+  "name": "S27743",
+  "unit": "{règle◦13∙du∙règlement∙d'exécution∙de∙la∙C}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R13:fr:xml#R13~règle◦13∙du∙règlement∙d'exécution∙de∙la∙C}"
+ },
+ {
+  "text": "règle◦159,∙paragraphe◦1a)",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/fr/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 14,
+  "name": "S27757",
+  "unit": "{règle◦159,∙paragraphe◦1a)}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R159_1_a:fr:xml#R159_1_a~règle◦159,∙paragraphe◦1a)}"
+ },
+ {
+  "text": "règle◦159,∙paragraphe◦1b)",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/fr/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 14,
+  "name": "S27758",
+  "unit": "{règle◦159,∙paragraphe◦1b)}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R159_1_b:fr:xml#R159_1_b~règle◦159,∙paragraphe◦1b)}"
+ },
+ {
+  "text": "règle◦13∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevets∙européens",
+  "file": "/EP/organization/OJ/2018/se1/issue/electronicproofer/fr/OJ_2018_se1_30.eplegal.zip",
+  "referringId": "OJ:OJ_2018_se1_30",
+  "relativeParagraph": 16,
+  "name": "S27771",
+  "unit": "{règle◦13∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevets∙européens}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:R13:fr:xml#R13~règle◦13∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevets∙européens}"
+ }
+]

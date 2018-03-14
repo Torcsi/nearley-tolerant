@@ -1,0 +1,38 @@
+[
+ {
+  "text": "l'art.◦7∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_E_2_1",
+  "relativeParagraph": 3,
+  "name": "S26044",
+  "unit": "{l'art.◦7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:fr:xml#REV7~l'art.◦7∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article◦7∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 4,
+  "name": "S26277",
+  "unit": "{l'article◦7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV7:fr:xml~l'article◦7∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article◦3(1)∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/foreword.eplegal.zip",
+  "referringId": "EPC:PRE",
+  "relativeParagraph": 14,
+  "name": "S26278",
+  "unit": "{l'article◦3(1)∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV3_1:fr:xml~l'article◦3(1)∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "l'article∙7∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/transition.eplegal.zip",
+  "referringId": "EPC:DEC",
+  "relativeParagraph": 0,
+  "name": "S26316",
+  "unit": "{l'article∙7∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV7:fr:xml~l'article∙7∙de∙l'acte∙de∙révision}"
+ }
+]

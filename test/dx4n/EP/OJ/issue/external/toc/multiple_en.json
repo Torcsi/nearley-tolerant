@@ -1,0 +1,38 @@
+[
+ {
+  "text": "OJ◦EPO∙2002,∙429,∙OJ◦EPO∙2004,∙361∙and∙OJ◦EPO∙2007,∙12",
+  "unit": "{OJ◦EPO∙2002,∙429},∙{OJ◦EPO∙2004,∙361}∙and∙{OJ◦EPO∙2007,∙12}",
+  "value": "{ep-legal:countries:EP::OJ:2002:08-09:issue:electronicproofer:2002_429:en:xml#2002_429~OJ◦EPO∙2002,∙429},∙{ep-legal:countries:EP::OJ:2004:07:issue:electronicproofer:2004_361:en:xml#2004_361~OJ◦EPO∙2004,∙361}∙and∙{ep-legal:countries:EP::OJ:2007:01:issue:electronicproofer:2007_12:en:xml#2007_12~OJ◦EPO∙2007,∙12}",
+  "name": "M12882",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 101
+ },
+ {
+  "text": "OJ◦EPO∙2007,∙552,∙553",
+  "unit": "{OJ◦EPO∙2007,∙552},∙{553}",
+  "value": "{ep-legal:countries:EP::OJ:2007:11:issue:electronicproofer:2007_552:en:xml#2007_552~OJ◦EPO∙2007,∙552},∙{ep-legal:countries:EP::OJ:2007:11:issue:electronicproofer:2007_552:en:xml#2007_553~553}",
+  "name": "M12884",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 117
+ },
+ {
+  "text": "OJ∙EPO∙2007,∙552,∙555",
+  "unit": "{OJ∙EPO∙2007,∙552},∙{555}",
+  "value": "{ep-legal:countries:EP::OJ:2007:11:issue:electronicproofer:2007_552:en:xml#2007_552~OJ∙EPO∙2007,∙552},∙{ep-legal:countries:EP::OJ:2007:11:issue:electronicproofer:2007_552:en:xml#2007_555~555}",
+  "name": "M12886",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 118
+ },
+ {
+  "text": "OJ◦EPO∙2014,∙A117∙and∙OJ◦EPO∙2016,∙A30",
+  "unit": "{OJ◦EPO∙2014,∙A117}∙and∙{OJ◦EPO∙2016,∙A30}",
+  "value": "{ep-legal:countries:EP::OJ:2014:11:issue:electronicproofer:OJ_2014_A117:en:xml#OJ_2014_A117~OJ◦EPO∙2014,∙A117}∙and∙{ep-legal:countries:EP::OJ:2016:03:issue:electronicproofer:OJ_2016_A30:en:xml#OJ_2016_A30~OJ◦EPO∙2016,∙A30}",
+  "name": "M12888",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 136
+ }
+]

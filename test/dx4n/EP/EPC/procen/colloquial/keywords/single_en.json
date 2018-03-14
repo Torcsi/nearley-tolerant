@@ -1,0 +1,38 @@
+[
+ {
+  "text": "PCen◦VIII",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 43,
+  "name": "S01653",
+  "unit": "{PCen◦VIII}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CVIII:en:xml~PCen◦VIII}"
+ },
+ {
+  "text": "PCen◦I(1)(a)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 50,
+  "name": "S01654",
+  "unit": "{PCen◦I(1)(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_a:en:xml~PCen◦I(1)(a)}"
+ },
+ {
+  "text": "PCen◦III(2)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 4,
+  "name": "S01662",
+  "unit": "{PCen◦III(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII_2:en:xml~PCen◦III(2)}"
+ },
+ {
+  "text": "PCen∙I(2)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 9,
+  "name": "S01663",
+  "unit": "{PCen∙I(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_2:en:xml~PCen∙I(2)}"
+ }
+]

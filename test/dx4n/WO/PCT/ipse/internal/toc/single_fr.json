@@ -1,0 +1,3815 @@
+[
+ {
+  "text": "Chapitre∙1↲xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 10,
+  "name": "S28761",
+  "unit": "{Chapitre∙1↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1:fr:xml#PCTIPSE_1~Chapitre∙1↲xxx}"
+ },
+ {
+  "text": "Objectif∙et∙statut∙des∙présentes∙directives",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 12,
+  "name": "S28762",
+  "unit": "{Objectif∙et∙statut∙des∙présentes∙directives}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1_A:fr:xml#PCTIPSE_1_A~Objectif∙et∙statut∙des∙présentes∙directives}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Plan∙et∙terminologie∙des∙directives",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 14,
+  "name": "S28763",
+  "unit": "{Plan∙et∙terminologie∙des∙directives}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1_B:fr:xml#PCTIPSE_1_B~Plan∙et∙terminologie∙des∙directives}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙phase∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 18,
+  "name": "S28765",
+  "unit": "{La∙phase∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1_C_1:fr:xml#PCTIPSE_1_C_1~La∙phase∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙phase∙nationale∙(ou∙régionale)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 20,
+  "name": "S28766",
+  "unit": "{La∙phase∙nationale∙(ou∙régionale)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1_C_2:fr:xml#PCTIPSE_1_C_2~La∙phase∙nationale∙(ou∙régionale)}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Les∙administrations∙internationales",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 22,
+  "name": "S28767",
+  "unit": "{Les∙administrations∙internationales}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_1_D:fr:xml#PCTIPSE_1_D~Les∙administrations∙internationales}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objectifs",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 26,
+  "name": "S28768",
+  "unit": "{Objectifs}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_A:fr:xml#PCTIPSE_2_A~Objectifs}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Questions∙préliminaires",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 28,
+  "name": "S28769",
+  "unit": "{Questions∙préliminaires}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_B:fr:xml#PCTIPSE_2_B~Questions∙préliminaires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réception∙de∙la∙copie∙de∙recherche∙de∙l’office∙récepteur",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 30,
+  "name": "S28770",
+  "unit": "{Réception∙de∙la∙copie∙de∙recherche∙de∙l’office∙récepteur}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_B_1:fr:xml#PCTIPSE_2_B_1~Réception∙de∙la∙copie∙de∙recherche∙de∙l’office∙récepteur}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Envoi∙de∙l’accusé∙de∙réception∙et∙attribution∙de∙la∙recherche∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 32,
+  "name": "S28771",
+  "unit": "{Envoi∙de∙l’accusé∙de∙réception∙et∙attribution∙de∙la∙recherche∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_B_2:fr:xml#PCTIPSE_2_B_2~Envoi∙de∙l’accusé∙de∙réception∙et∙attribution∙de∙la∙recherche∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙procédure∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 34,
+  "name": "S28772",
+  "unit": "{La∙procédure∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_C:fr:xml#PCTIPSE_2_C~La∙procédure∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Délai∙pour∙l’établissement∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 36,
+  "name": "S28773",
+  "unit": "{Délai∙pour∙l’établissement∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_D:fr:xml#PCTIPSE_2_D~Délai∙pour∙l’établissement∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙du∙rapport∙de∙recherche∙internationale,∙de∙l’opinion∙écrite,∙etc.",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 38,
+  "name": "S28774",
+  "unit": "{Transmission∙du∙rapport∙de∙recherche∙internationale,∙de∙l’opinion∙écrite,∙etc.}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_E:fr:xml#PCTIPSE_2_E~Transmission∙du∙rapport∙de∙recherche∙internationale,∙de∙l’opinion∙écrite,∙etc.}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Options∙offertes∙au∙déposant",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 40,
+  "name": "S28775",
+  "unit": "{Options∙offertes∙au∙déposant}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_F:fr:xml#PCTIPSE_2_F~Options∙offertes∙au∙déposant}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Traitement∙ultérieur∙du∙rapport∙de∙recherche∙et∙de∙l’opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 42,
+  "name": "S28776",
+  "unit": "{Traitement∙ultérieur∙du∙rapport∙de∙recherche∙et∙de∙l’opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_G:fr:xml#PCTIPSE_2_G~Traitement∙ultérieur∙du∙rapport∙de∙recherche∙et∙de∙l’opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Traitement∙confidentiel",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 44,
+  "name": "S28777",
+  "unit": "{Traitement∙confidentiel}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_G_1:fr:xml#PCTIPSE_2_G_1~Traitement∙confidentiel}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Publication∙du∙rapport∙de∙recherche∙et∙mise∙à∙la∙disposition∙du∙public∙de∙l’opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 46,
+  "name": "S28778",
+  "unit": "{Publication∙du∙rapport∙de∙recherche∙et∙mise∙à∙la∙disposition∙du∙public∙de∙l’opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_G_2:fr:xml#PCTIPSE_2_G_2~Publication∙du∙rapport∙de∙recherche∙et∙mise∙à∙la∙disposition∙du∙public∙de∙l’opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙et∙mise∙à∙disposition∙du∙rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 48,
+  "name": "S28779",
+  "unit": "{Transmission∙et∙mise∙à∙disposition∙du∙rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_G_3:fr:xml#PCTIPSE_2_G_3~Transmission∙et∙mise∙à∙disposition∙du∙rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Autres∙responsabilités∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 50,
+  "name": "S28780",
+  "unit": "{Autres∙responsabilités∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_H:fr:xml#PCTIPSE_2_H~Autres∙responsabilités∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherches∙de∙type∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 52,
+  "name": "S28781",
+  "unit": "{Recherches∙de∙type∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_2_I:fr:xml#PCTIPSE_2_I~Recherches∙de∙type∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Introduction",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 56,
+  "name": "S28782",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_A:fr:xml#PCTIPSE_3_A~Introduction}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Vérification∙de∙la∙demande∙d’examen∙préliminaire∙international∙et∙notification∙de∙réception",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 62,
+  "name": "S28784",
+  "unit": "{Vérification∙de∙la∙demande∙d’examen∙préliminaire∙international∙et∙notification∙de∙réception}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_B_2:fr:xml#PCTIPSE_3_B_2~Vérification∙de∙la∙demande∙d’examen∙préliminaire∙international∙et∙notification∙de∙réception}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Commencement∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 64,
+  "name": "S28785",
+  "unit": "{Commencement∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_B_3:fr:xml#PCTIPSE_3_B_3~Commencement∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙procédure∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 66,
+  "name": "S28786",
+  "unit": "{La∙procédure∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_C:fr:xml#PCTIPSE_3_C~La∙procédure∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙de∙l’opinion∙écrite∙ou∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 68,
+  "name": "S28787",
+  "unit": "{Base∙de∙l’opinion∙écrite∙ou∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_C_1:fr:xml#PCTIPSE_3_C_1~Base∙de∙l’opinion∙écrite∙ou∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Autres∙considérations",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 70,
+  "name": "S28788",
+  "unit": "{Autres∙considérations}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_C_2:fr:xml#PCTIPSE_3_C_2~Autres∙considérations}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Nature∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 72,
+  "name": "S28789",
+  "unit": "{Nature∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_D:fr:xml#PCTIPSE_3_D~Nature∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Délai∙pour∙l’établissement∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 74,
+  "name": "S28790",
+  "unit": "{Délai∙pour∙l’établissement∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_E:fr:xml#PCTIPSE_3_E~Délai∙pour∙l’établissement∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 76,
+  "name": "S28791",
+  "unit": "{Transmission∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_F:fr:xml#PCTIPSE_3_F~Transmission∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Traitement∙ultérieur∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 78,
+  "name": "S28792",
+  "unit": "{Traitement∙ultérieur∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_G:fr:xml#PCTIPSE_3_G~Traitement∙ultérieur∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Mise∙à∙disposition∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 82,
+  "name": "S28793",
+  "unit": "{Mise∙à∙disposition∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_G_2:fr:xml#PCTIPSE_3_G_2~Mise∙à∙disposition∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙du∙rapport∙d’examen∙préliminaire∙international∙aux∙offices∙élus",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 84,
+  "name": "S28794",
+  "unit": "{Transmission∙du∙rapport∙d’examen∙préliminaire∙international∙aux∙offices∙élus}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_G_3:fr:xml#PCTIPSE_3_G_3~Transmission∙du∙rapport∙d’examen∙préliminaire∙international∙aux∙offices∙élus}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Traduction∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 86,
+  "name": "S28795",
+  "unit": "{Traduction∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_G_4:fr:xml#PCTIPSE_3_G_4~Traduction∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Autres∙responsabilités∙de∙l’administration∙chargée∙de∙l’examen∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 88,
+  "name": "S28796",
+  "unit": "{Autres∙responsabilités∙de∙l’administration∙chargée∙de∙l’examen∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_3_H:fr:xml#PCTIPSE_3_H~Autres∙responsabilités∙de∙l’administration∙chargée∙de∙l’examen∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Généralités",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 93,
+  "name": "S28797",
+  "unit": "{Généralités}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_A:fr:xml#PCTIPSE_4_A~Généralités}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙description",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 95,
+  "name": "S28798",
+  "unit": "{La∙description}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B:fr:xml#PCTIPSE_4_B~La∙description}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Domaine∙technique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 97,
+  "name": "S28799",
+  "unit": "{Domaine∙technique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_1:fr:xml#PCTIPSE_4_B_1~Domaine∙technique}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Technique∙antérieure",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 99,
+  "name": "S28800",
+  "unit": "{Technique∙antérieure}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_2:fr:xml#PCTIPSE_4_B_2~Technique∙antérieure}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 101,
+  "name": "S28801",
+  "unit": "{Divulgation∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_3:fr:xml#PCTIPSE_4_B_3~Divulgation∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Description∙sommaire∙des∙dessins",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 103,
+  "name": "S28802",
+  "unit": "{Description∙sommaire∙des∙dessins}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_4:fr:xml#PCTIPSE_4_B_4~Description∙sommaire∙des∙dessins}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Meilleure∙manière∙de∙réaliser∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 105,
+  "name": "S28803",
+  "unit": "{Meilleure∙manière∙de∙réaliser∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_5:fr:xml#PCTIPSE_4_B_5~Meilleure∙manière∙de∙réaliser∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Structure∙et∙fonction",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 107,
+  "name": "S28804",
+  "unit": "{Structure∙et∙fonction}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_6:fr:xml#PCTIPSE_4_B_6~Structure∙et∙fonction}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙suffisante",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 109,
+  "name": "S28805",
+  "unit": "{Divulgation∙suffisante}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_7:fr:xml#PCTIPSE_4_B_7~Divulgation∙suffisante}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Possibilité∙d’application∙industrielle",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 111,
+  "name": "S28806",
+  "unit": "{Possibilité∙d’application∙industrielle}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_8:fr:xml#PCTIPSE_4_B_8~Possibilité∙d’application∙industrielle}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Listage∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 113,
+  "name": "S28807",
+  "unit": "{Listage∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_9:fr:xml#PCTIPSE_4_B_9~Listage∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Dépôt∙de∙matériel∙biologique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 115,
+  "name": "S28808",
+  "unit": "{Dépôt∙de∙matériel∙biologique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_10:fr:xml#PCTIPSE_4_B_10~Dépôt∙de∙matériel∙biologique}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Références∙à∙des∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés,∙en∙tant∙que∙partie∙de∙la∙description",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 117,
+  "name": "S28809",
+  "unit": "{Références∙à∙des∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés,∙en∙tant∙que∙partie∙de∙la∙description}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_11:fr:xml#PCTIPSE_4_B_11~Références∙à∙des∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés,∙en∙tant∙que∙partie∙de∙la∙description}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exigences∙concernant∙la∙langue∙dans∙laquelle∙sont∙rédigées∙les∙feuilles∙contenant∙les∙références∙aux∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 119,
+  "name": "S28810",
+  "unit": "{Exigences∙concernant∙la∙langue∙dans∙laquelle∙sont∙rédigées∙les∙feuilles∙contenant∙les∙références∙aux∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_B_12:fr:xml#PCTIPSE_4_B_12~Exigences∙concernant∙la∙langue∙dans∙laquelle∙sont∙rédigées∙les∙feuilles∙contenant∙les∙références∙aux∙micro-organismes∙ou∙autre∙matériel∙biologique∙déposés}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Dessins",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 123,
+  "name": "S28811",
+  "unit": "{Dessins}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_C:fr:xml#PCTIPSE_4_C~Dessins}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Expressions,∙etc.,∙à∙ne∙pas∙utiliser",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 125,
+  "name": "S28812",
+  "unit": "{Expressions,∙etc.,∙à∙ne∙pas∙utiliser}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_4_D:fr:xml#PCTIPSE_4_D~Expressions,∙etc.,∙à∙ne∙pas∙utiliser}"
+ },
+ {
+  "text": "Annexe∙du∙chapitre∙4↲xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 127,
+  "name": "S28813",
+  "unit": "{Annexe∙du∙chapitre∙4↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A4:fr:xml#PCTIPSE_A4~Annexe∙du∙chapitre∙4↲xxx}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Forme∙et∙contenu∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 133,
+  "name": "S28814",
+  "unit": "{Forme∙et∙contenu∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_B:fr:xml#PCTIPSE_5_B~Forme∙et∙contenu∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Différents∙types∙de∙revendication",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 135,
+  "name": "S28815",
+  "unit": "{Différents∙types∙de∙revendication}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_C:fr:xml#PCTIPSE_5_C~Différents∙types∙de∙revendication}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Catégories",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 137,
+  "name": "S28816",
+  "unit": "{Catégories}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_C_1:fr:xml#PCTIPSE_5_C_1~Catégories}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙indépendantes∙et∙dépendantes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 139,
+  "name": "S28817",
+  "unit": "{Revendications∙indépendantes∙et∙dépendantes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_C_2:fr:xml#PCTIPSE_5_C_2~Revendications∙indépendantes∙et∙dépendantes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Interprétation∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 141,
+  "name": "S28818",
+  "unit": "{Interprétation∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D:fr:xml#PCTIPSE_5_D~Interprétation∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙portant∙sur∙une∙“utilisation”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 143,
+  "name": "S28819",
+  "unit": "{Revendications∙portant∙sur∙une∙“utilisation”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D_1:fr:xml#PCTIPSE_5_D_1~Revendications∙portant∙sur∙une∙“utilisation”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙de∙type∙ouvert∙et∙fermé",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 147,
+  "name": "S28821",
+  "unit": "{Revendications∙de∙type∙ouvert∙et∙fermé}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D_3:fr:xml#PCTIPSE_5_D_3~Revendications∙de∙type∙ouvert∙et∙fermé}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙du∙type∙“moyens∙plus∙fonction”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 149,
+  "name": "S28822",
+  "unit": "{Revendications∙du∙type∙“moyens∙plus∙fonction”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D_4:fr:xml#PCTIPSE_5_D_4~Revendications∙du∙type∙“moyens∙plus∙fonction”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙du∙type∙produit∙défini∙en∙fonction∙d’un∙procédé",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 151,
+  "name": "S28823",
+  "unit": "{Revendications∙du∙type∙produit∙défini∙en∙fonction∙d’un∙procédé}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D_5:fr:xml#PCTIPSE_5_D_5~Revendications∙du∙type∙produit∙défini∙en∙fonction∙d’un∙procédé}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙de∙procédé∙se∙référant∙à∙des∙appareils∙et∙à∙des∙produits∙comportant∙des∙limitations",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 153,
+  "name": "S28824",
+  "unit": "{Revendications∙de∙procédé∙se∙référant∙à∙des∙appareils∙et∙à∙des∙produits∙comportant∙des∙limitations}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_D_6:fr:xml#PCTIPSE_5_D_6~Revendications∙de∙procédé∙se∙référant∙à∙des∙appareils∙et∙à∙des∙produits∙comportant∙des∙limitations}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Discordance∙entre∙les∙revendications∙et∙la∙description",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 155,
+  "name": "S28825",
+  "unit": "{Discordance∙entre∙les∙revendications∙et∙la∙description}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_E:fr:xml#PCTIPSE_5_E~Discordance∙entre∙les∙revendications∙et∙la∙description}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Clarté",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 157,
+  "name": "S28826",
+  "unit": "{Clarté}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_F:fr:xml#PCTIPSE_5_F~Clarté}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Clarté∙des∙termes∙ayant∙un∙sens∙relatif",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 159,
+  "name": "S28827",
+  "unit": "{Clarté∙des∙termes∙ayant∙un∙sens∙relatif}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_F_1:fr:xml#PCTIPSE_5_F_1~Clarté∙des∙termes∙ayant∙un∙sens∙relatif}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Clarté∙d’autres∙types∙de∙termes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 161,
+  "name": "S28828",
+  "unit": "{Clarté∙d’autres∙types∙de∙termes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_F_2:fr:xml#PCTIPSE_5_F_2~Clarté∙d’autres∙types∙de∙termes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Concision,∙nombre∙de∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 163,
+  "name": "S28829",
+  "unit": "{Concision,∙nombre∙de∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_G:fr:xml#PCTIPSE_5_G~Concision,∙nombre∙de∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙description,∙fondement∙de∙la∙revendication",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 165,
+  "name": "S28830",
+  "unit": "{La∙description,∙fondement∙de∙la∙revendication}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_H:fr:xml#PCTIPSE_5_H~La∙description,∙fondement∙de∙la∙revendication}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙claire∙et∙complète∙de∙l’invention∙revendiquée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 167,
+  "name": "S28831",
+  "unit": "{Divulgation∙claire∙et∙complète∙de∙l’invention∙revendiquée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_I:fr:xml#PCTIPSE_5_I~Divulgation∙claire∙et∙complète∙de∙l’invention∙revendiquée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙suffisante∙par∙rapport∙aux∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 169,
+  "name": "S28832",
+  "unit": "{Divulgation∙suffisante∙par∙rapport∙aux∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_I_1:fr:xml#PCTIPSE_5_I_1~Divulgation∙suffisante∙par∙rapport∙aux∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Lien∙entre∙les∙revendications∙et∙la∙divulgation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 171,
+  "name": "S28833",
+  "unit": "{Lien∙entre∙les∙revendications∙et∙la∙divulgation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_5_I_2:fr:xml#PCTIPSE_5_I_2~Lien∙entre∙les∙revendications∙et∙la∙divulgation}"
+ },
+ {
+  "text": "Annexe∙du∙chapitre∙5",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 173,
+  "name": "S28834",
+  "unit": "{Annexe∙du∙chapitre∙5}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A5:fr:xml#PCTIPSE_A5~Annexe∙du∙chapitre∙5}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙dépendantes∙multiples",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 175,
+  "name": "S28835",
+  "unit": "{Revendications∙dépendantes∙multiples}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A5_A:fr:xml#PCTIPSE_A5_A~Revendications∙dépendantes∙multiples}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙d’utilisation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 179,
+  "name": "S28836",
+  "unit": "{Revendications∙d’utilisation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A5_B_1:fr:xml#PCTIPSE_A5_B_1~Revendications∙d’utilisation}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Concision",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 183,
+  "name": "S28837",
+  "unit": "{Concision}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A5_D:fr:xml#PCTIPSE_A5_D~Concision}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Droit∙de∙priorité",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 187,
+  "name": "S28838",
+  "unit": "{Droit∙de∙priorité}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_6_A:fr:xml#PCTIPSE_6_A~Droit∙de∙priorité}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Détermination∙des∙dates∙de∙priorité",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 189,
+  "name": "S28839",
+  "unit": "{Détermination∙des∙dates∙de∙priorité}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_6_B:fr:xml#PCTIPSE_6_B~Détermination∙des∙dates∙de∙priorité}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendication∙de∙priorité",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 191,
+  "name": "S28840",
+  "unit": "{Revendication∙de∙priorité}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_6_C:fr:xml#PCTIPSE_6_C~Revendication∙de∙priorité}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Définition",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 195,
+  "name": "S28841",
+  "unit": "{Définition}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_A:fr:xml#PCTIPSE_7_A~Définition}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙définitif∙de∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 197,
+  "name": "S28842",
+  "unit": "{Classement∙définitif∙de∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_B:fr:xml#PCTIPSE_7_B~Classement∙définitif∙de∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classements∙multiples",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 199,
+  "name": "S28843",
+  "unit": "{Classements∙multiples}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_B_1:fr:xml#PCTIPSE_7_B_1~Classements∙multiples}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙portant∙sur∙la∙divulgation∙figurant∙dans∙la∙demande∙telle∙que∙déposée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 201,
+  "name": "S28844",
+  "unit": "{Classement∙portant∙sur∙la∙divulgation∙figurant∙dans∙la∙demande∙telle∙que∙déposée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_B_2:fr:xml#PCTIPSE_7_B_2~Classement∙portant∙sur∙la∙divulgation∙figurant∙dans∙la∙demande∙telle∙que∙déposée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙modifié∙dans∙le∙cas∙où∙le∙rapport∙de∙recherche∙internationale∙est∙publié∙ultérieurement",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 203,
+  "name": "S28845",
+  "unit": "{Classement∙modifié∙dans∙le∙cas∙où∙le∙rapport∙de∙recherche∙internationale∙est∙publié∙ultérieurement}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_C:fr:xml#PCTIPSE_7_C~Classement∙modifié∙dans∙le∙cas∙où∙le∙rapport∙de∙recherche∙internationale∙est∙publié∙ultérieurement}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙lorsque∙le∙champ∙d’application∙de∙l’invention∙n’est∙pas∙clair",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 205,
+  "name": "S28846",
+  "unit": "{Classement∙lorsque∙le∙champ∙d’application∙de∙l’invention∙n’est∙pas∙clair}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_D:fr:xml#PCTIPSE_7_D~Classement∙lorsque∙le∙champ∙d’application∙de∙l’invention∙n’est∙pas∙clair}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Absence∙d’unité∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 207,
+  "name": "S28847",
+  "unit": "{Absence∙d’unité∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_E:fr:xml#PCTIPSE_7_E~Absence∙d’unité∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙des∙demandes∙internationales∙auxquelles∙ne∙s’étend∙pas∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 209,
+  "name": "S28848",
+  "unit": "{Classement∙des∙demandes∙internationales∙auxquelles∙ne∙s’étend∙pas∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_7_F:fr:xml#PCTIPSE_7_F~Classement∙des∙demandes∙internationales∙auxquelles∙ne∙s’étend∙pas∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙d’une∙requête∙en∙rectification∙à∙une∙autre∙administration",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 213,
+  "name": "S28849",
+  "unit": "{Transmission∙d’une∙requête∙en∙rectification∙à∙une∙autre∙administration}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_8_A:fr:xml#PCTIPSE_8_A~Transmission∙d’une∙requête∙en∙rectification∙à∙une∙autre∙administration}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Invitation∙au∙déposant∙à∙présenter∙une∙requête∙en∙rectification",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 215,
+  "name": "S28850",
+  "unit": "{Invitation∙au∙déposant∙à∙présenter∙une∙requête∙en∙rectification}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_8_B:fr:xml#PCTIPSE_8_B~Invitation∙au∙déposant∙à∙présenter∙une∙requête∙en∙rectification}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 217,
+  "name": "S28851",
+  "unit": "{Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_8_C:fr:xml#PCTIPSE_8_C~Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 219,
+  "name": "S28852",
+  "unit": "{Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_8_D:fr:xml#PCTIPSE_8_D~Requête∙en∙rectification∙soumise∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objets∙exclus",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 226,
+  "name": "S28853",
+  "unit": "{Objets∙exclus}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B:fr:xml#PCTIPSE_9_B~Objets∙exclus}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Théories∙scientifiques∙et∙mathématiques",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 228,
+  "name": "S28854",
+  "unit": "{Théories∙scientifiques∙et∙mathématiques}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B_1:fr:xml#PCTIPSE_9_B_1~Théories∙scientifiques∙et∙mathématiques}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Variétés∙végétales,∙races∙animales∙ou∙procédés∙essentiellement∙biologiques∙d’obtention∙de∙végétaux∙ou∙d’animaux,∙autres∙que∙les∙procédés∙microbiologiques",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 230,
+  "name": "S28855",
+  "unit": "{Variétés∙végétales,∙races∙animales∙ou∙procédés∙essentiellement∙biologiques∙d’obtention∙de∙végétaux∙ou∙d’animaux,∙autres∙que∙les∙procédés∙microbiologiques}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B_2:fr:xml#PCTIPSE_9_B_2~Variétés∙végétales,∙races∙animales∙ou∙procédés∙essentiellement∙biologiques∙d’obtention∙de∙végétaux∙ou∙d’animaux,∙autres∙que∙les∙procédés∙microbiologiques}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 232,
+  "name": "S28856",
+  "unit": "{Plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B_3:fr:xml#PCTIPSE_9_B_3~Plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Méthodes∙de∙traitement∙du∙corps∙humain∙ou∙animal∙par∙la∙chirurgie∙ou∙la∙thérapie;∙méthodes∙de∙diagnostic∙appliquées∙au∙corps∙humain∙ou∙animal",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 234,
+  "name": "S28857",
+  "unit": "{Méthodes∙de∙traitement∙du∙corps∙humain∙ou∙animal∙par∙la∙chirurgie∙ou∙la∙thérapie;∙méthodes∙de∙diagnostic∙appliquées∙au∙corps∙humain∙ou∙animal}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B_4:fr:xml#PCTIPSE_9_B_4~Méthodes∙de∙traitement∙du∙corps∙humain∙ou∙animal∙par∙la∙chirurgie∙ou∙la∙thérapie;∙méthodes∙de∙diagnostic∙appliquées∙au∙corps∙humain∙ou∙animal}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Simples∙présentations∙d’informations",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 236,
+  "name": "S28858",
+  "unit": "{Simples∙présentations∙d’informations}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_B_5:fr:xml#PCTIPSE_9_B_5~Simples∙présentations∙d’informations}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Considérations∙d’ordre∙général∙relatives∙à∙l’appréciation∙de∙la∙nature∙d’un∙objet",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 240,
+  "name": "S28860",
+  "unit": "{Considérations∙d’ordre∙général∙relatives∙à∙l’appréciation∙de∙la∙nature∙d’un∙objet}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_C:fr:xml#PCTIPSE_9_C~Considérations∙d’ordre∙général∙relatives∙à∙l’appréciation∙de∙la∙nature∙d’un∙objet}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Forme∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 242,
+  "name": "S28861",
+  "unit": "{Forme∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_C_1:fr:xml#PCTIPSE_9_C_1~Forme∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objets∙exclus∙ne∙figurant∙que∙dans∙certaines∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 244,
+  "name": "S28862",
+  "unit": "{Objets∙exclus∙ne∙figurant∙que∙dans∙certaines∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_C_2:fr:xml#PCTIPSE_9_C_2~Objets∙exclus∙ne∙figurant∙que∙dans∙certaines∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙incertains",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 246,
+  "name": "S28863",
+  "unit": "{Cas∙incertains}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_C_3:fr:xml#PCTIPSE_9_C_3~Cas∙incertains}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Étendue∙de∙la∙recherche∙et∙de∙l’examen∙préliminaire∙dans∙certaines∙situations",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 248,
+  "name": "S28864",
+  "unit": "{Étendue∙de∙la∙recherche∙et∙de∙l’examen∙préliminaire∙dans∙certaines∙situations}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D:fr:xml#PCTIPSE_9_D~Étendue∙de∙la∙recherche∙et∙de∙l’examen∙préliminaire∙dans∙certaines∙situations}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exemples∙de∙cas∙où∙la∙recherche∙ou∙l’examen∙préliminaire∙peuvent∙être∙effectués,∙et∙l’opinion∙écrite∙comporte∙une∙indication∙appropriée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 250,
+  "name": "S28865",
+  "unit": "{Exemples∙de∙cas∙où∙la∙recherche∙ou∙l’examen∙préliminaire∙peuvent∙être∙effectués,∙et∙l’opinion∙écrite∙comporte∙une∙indication∙appropriée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_1:fr:xml#PCTIPSE_9_D_1~Exemples∙de∙cas∙où∙la∙recherche∙ou∙l’examen∙préliminaire∙peuvent∙être∙effectués,∙et∙l’opinion∙écrite∙comporte∙une∙indication∙appropriée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exemples∙de∙situations∙exceptionnelles∙dans∙lesquelles∙il∙est∙impossible∙de∙procéder∙à∙une∙recherche∙à∙l’égard∙de∙certaines∙ou∙de∙la∙totalité∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 252,
+  "name": "S28866",
+  "unit": "{Exemples∙de∙situations∙exceptionnelles∙dans∙lesquelles∙il∙est∙impossible∙de∙procéder∙à∙une∙recherche∙à∙l’égard∙de∙certaines∙ou∙de∙la∙totalité∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_2:fr:xml#PCTIPSE_9_D_2~Exemples∙de∙situations∙exceptionnelles∙dans∙lesquelles∙il∙est∙impossible∙de∙procéder∙à∙une∙recherche∙à∙l’égard∙de∙certaines∙ou∙de∙la∙totalité∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Questions∙non∙liées∙à∙l’état∙de∙la∙technique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 254,
+  "name": "S28867",
+  "unit": "{Questions∙non∙liées∙à∙l’état∙de∙la∙technique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_3:fr:xml#PCTIPSE_9_D_3~Questions∙non∙liées∙à∙l’état∙de∙la∙technique}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Application∙industrielle",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 256,
+  "name": "S28868",
+  "unit": "{Application∙industrielle}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_4:fr:xml#PCTIPSE_9_D_4~Application∙industrielle}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Éclaircissement∙à∙titre∙officieux",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 258,
+  "name": "S28869",
+  "unit": "{Éclaircissement∙à∙titre∙officieux}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_5:fr:xml#PCTIPSE_9_D_5~Éclaircissement∙à∙titre∙officieux}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙obscures",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 260,
+  "name": "S28870",
+  "unit": "{Revendications∙obscures}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_6:fr:xml#PCTIPSE_9_D_6~Revendications∙obscures}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Mouvement∙perpétuel",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 262,
+  "name": "S28871",
+  "unit": "{Mouvement∙perpétuel}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_7:fr:xml#PCTIPSE_9_D_7~Mouvement∙perpétuel}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Listages∙des∙séquences",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 264,
+  "name": "S28872",
+  "unit": "{Listages∙des∙séquences}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_D_8:fr:xml#PCTIPSE_9_D_8~Listages∙des∙séquences}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Déclaration∙de∙non-établissement∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 266,
+  "name": "S28873",
+  "unit": "{Déclaration∙de∙non-établissement∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_9_E:fr:xml#PCTIPSE_9_E~Déclaration∙de∙non-établissement∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objets∙exclus∙se∙rapportant∙à∙des∙plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 272,
+  "name": "S28874",
+  "unit": "{Objets∙exclus∙se∙rapportant∙à∙des∙plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A9_A:fr:xml#PCTIPSE_A9_A~Objets∙exclus∙se∙rapportant∙à∙des∙plans,∙principes∙ou∙méthodes∙en∙vue∙de∙faire∙des∙affaires,∙de∙réaliser∙des∙actions∙purement∙intellectuelles∙ou∙de∙jouer}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objets∙exclus∙se∙rapportant∙à∙des∙programmes∙d’ordinateur",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 274,
+  "name": "S28875",
+  "unit": "{Objets∙exclus∙se∙rapportant∙à∙des∙programmes∙d’ordinateur}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A9_B:fr:xml#PCTIPSE_A9_B~Objets∙exclus∙se∙rapportant∙à∙des∙programmes∙d’ordinateur}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Appréciation∙de∙l’unité∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 278,
+  "name": "S28876",
+  "unit": "{Appréciation∙de∙l’unité∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_A:fr:xml#PCTIPSE_10_A~Appréciation∙de∙l’unité∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙particuliers∙d’application",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 280,
+  "name": "S28877",
+  "unit": "{Cas∙particuliers∙d’application}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_B:fr:xml#PCTIPSE_10_B~Cas∙particuliers∙d’application}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Combinaisons∙de∙différentes∙catégories∙de∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 282,
+  "name": "S28878",
+  "unit": "{Combinaisons∙de∙différentes∙catégories∙de∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_B_1:fr:xml#PCTIPSE_10_B_1~Combinaisons∙de∙différentes∙catégories∙de∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "“Doctrine∙Markush”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 284,
+  "name": "S28879",
+  "unit": "{“Doctrine∙Markush”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_B_2:fr:xml#PCTIPSE_10_B_2~“Doctrine∙Markush”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exemples∙illustrant∙l’unité∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 288,
+  "name": "S28881",
+  "unit": "{Exemples∙illustrant∙l’unité∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_C:fr:xml#PCTIPSE_10_C~Exemples∙illustrant∙l’unité∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙de∙catégories∙différentes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 290,
+  "name": "S28882",
+  "unit": "{Revendications∙de∙catégories∙différentes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_C_1:fr:xml#PCTIPSE_10_C_1~Revendications∙de∙catégories∙différentes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙d’une∙même∙catégorie",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 292,
+  "name": "S28883",
+  "unit": "{Revendications∙d’une∙même∙catégorie}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_C_2:fr:xml#PCTIPSE_10_C_2~Revendications∙d’une∙même∙catégorie}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Doctrine∙Markush",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 294,
+  "name": "S28884",
+  "unit": "{Doctrine∙Markush}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_C_3:fr:xml#PCTIPSE_10_C_3~Doctrine∙Markush}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Inventions∙biotechnologiques",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 298,
+  "name": "S28886",
+  "unit": "{Inventions∙biotechnologiques}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_C_5:fr:xml#PCTIPSE_10_C_5~Inventions∙biotechnologiques}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Invitation∙à∙payer∙des∙taxes∙additionnelles",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 302,
+  "name": "S28888",
+  "unit": "{Invitation∙à∙payer∙des∙taxes∙additionnelles}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_D_1:fr:xml#PCTIPSE_10_D_1~Invitation∙à∙payer∙des∙taxes∙additionnelles}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherche∙portant∙sur∙des∙inventions∙supplémentaires∙sans∙que∙les∙taxes∙soient∙acquittées",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 304,
+  "name": "S28889",
+  "unit": "{Recherche∙portant∙sur∙des∙inventions∙supplémentaires∙sans∙que∙les∙taxes∙soient∙acquittées}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_10_D_2:fr:xml#PCTIPSE_10_D_2~Recherche∙portant∙sur∙des∙inventions∙supplémentaires∙sans∙que∙les∙taxes∙soient∙acquittées}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "L’état∙de∙la∙technique∙en∙général",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 314,
+  "name": "S28892",
+  "unit": "{L’état∙de∙la∙technique∙en∙général}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_A:fr:xml#PCTIPSE_11_A~L’état∙de∙la∙technique∙en∙général}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙de∙la∙divulgation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 316,
+  "name": "S28893",
+  "unit": "{Date∙de∙la∙divulgation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_B:fr:xml#PCTIPSE_11_B~Date∙de∙la∙divulgation}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 318,
+  "name": "S28894",
+  "unit": "{La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_B_1:fr:xml#PCTIPSE_11_B_1~La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙de∙l’opinion∙écrite∙et∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 320,
+  "name": "S28895",
+  "unit": "{La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙de∙l’opinion∙écrite∙et∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_B_2:fr:xml#PCTIPSE_11_B_2~La∙date∙pertinente∙à∙prendre∙en∙considération∙aux∙fins∙de∙l’opinion∙écrite∙et∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙remettant∙en∙cause∙la∙revendication∙de∙priorité∙faite∙dans∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 322,
+  "name": "S28896",
+  "unit": "{Documents∙remettant∙en∙cause∙la∙revendication∙de∙priorité∙faite∙dans∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_C:fr:xml#PCTIPSE_11_C~Documents∙remettant∙en∙cause∙la∙revendication∙de∙priorité∙faite∙dans∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙ne∙faisant∙pas∙partie∙de∙l’état∙de∙la∙technique,∙mais∙qui∙pourraient∙être∙pertinents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 324,
+  "name": "S28897",
+  "unit": "{Documents∙ne∙faisant∙pas∙partie∙de∙l’état∙de∙la∙technique,∙mais∙qui∙pourraient∙être∙pertinents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_D:fr:xml#PCTIPSE_11_D~Documents∙ne∙faisant∙pas∙partie∙de∙l’état∙de∙la∙technique,∙mais∙qui∙pourraient∙être∙pertinents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙du∙rapport∙de∙recherche∙internationale)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 326,
+  "name": "S28898",
+  "unit": "{Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙du∙rapport∙de∙recherche∙internationale)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_D_1:fr:xml#PCTIPSE_11_D_1~Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙du∙rapport∙de∙recherche∙internationale)}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙de∙l’examen∙préliminaire∙international)",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 328,
+  "name": "S28899",
+  "unit": "{Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙de∙l’examen∙préliminaire∙international)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_D_2:fr:xml#PCTIPSE_11_D_2~Demandes∙de∙brevet∙publiées∙ultérieurement∙(aux∙fins∙de∙l’examen∙préliminaire∙international)}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Demandes∙simultanément∙en∙cours∙d’instruction,∙y∙compris∙celles∙déposées∙à∙la∙même∙date",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 330,
+  "name": "S28900",
+  "unit": "{Demandes∙simultanément∙en∙cours∙d’instruction,∙y∙compris∙celles∙déposées∙à∙la∙même∙date}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_D_3:fr:xml#PCTIPSE_11_D_3~Demandes∙simultanément∙en∙cours∙d’instruction,∙y∙compris∙celles∙déposées∙à∙la∙même∙date}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙facilitant∙la∙compréhension∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 332,
+  "name": "S28901",
+  "unit": "{Documents∙facilitant∙la∙compréhension∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_D_4:fr:xml#PCTIPSE_11_D_4~Documents∙facilitant∙la∙compréhension∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Forme∙de∙la∙divulgation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 334,
+  "name": "S28902",
+  "unit": "{Forme∙de∙la∙divulgation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_E:fr:xml#PCTIPSE_11_E~Forme∙de∙la∙divulgation}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Accessibilité∙des∙divulgations∙écrites∙au∙public",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 336,
+  "name": "S28903",
+  "unit": "{Accessibilité∙des∙divulgations∙écrites∙au∙public}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_E_1:fr:xml#PCTIPSE_11_E_1~Accessibilité∙des∙divulgations∙écrites∙au∙public}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙par∙Internet",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 338,
+  "name": "S28904",
+  "unit": "{Divulgation∙par∙Internet}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_E_2:fr:xml#PCTIPSE_11_E_2~Divulgation∙par∙Internet}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Différences∙entre∙les∙citations∙de∙documents∙de∙brevet∙et∙les∙citations∙d’autres∙types∙de∙documents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 340,
+  "name": "S28905",
+  "unit": "{Différences∙entre∙les∙citations∙de∙documents∙de∙brevet∙et∙les∙citations∙d’autres∙types∙de∙documents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_E_3:fr:xml#PCTIPSE_11_E_3~Différences∙entre∙les∙citations∙de∙documents∙de∙brevet∙et∙les∙citations∙d’autres∙types∙de∙documents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙reproduisant∙une∙description∙orale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 342,
+  "name": "S28906",
+  "unit": "{Documents∙reproduisant∙une∙description∙orale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_E_4:fr:xml#PCTIPSE_11_E_4~Documents∙reproduisant∙une∙description∙orale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Document∙pour∙lequel∙il∙est∙difficile∙d’établir∙la∙date∙de∙publication",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 344,
+  "name": "S28907",
+  "unit": "{Document∙pour∙lequel∙il∙est∙difficile∙d’établir∙la∙date∙de∙publication}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_F:fr:xml#PCTIPSE_11_F~Document∙pour∙lequel∙il∙est∙difficile∙d’établir∙la∙date∙de∙publication}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙pertinente∙par∙rapport∙à∙des∙revendications∙prises∙individuellement∙ou∙à∙des∙parties∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 346,
+  "name": "S28908",
+  "unit": "{Date∙pertinente∙par∙rapport∙à∙des∙revendications∙prises∙individuellement∙ou∙à∙des∙parties∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_11_G:fr:xml#PCTIPSE_11_G~Date∙pertinente∙par∙rapport∙à∙des∙revendications∙prises∙individuellement∙ou∙à∙des∙parties∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Signification∙du∙terme∙“nouveauté”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 350,
+  "name": "S28909",
+  "unit": "{Signification∙du∙terme∙“nouveauté”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_A:fr:xml#PCTIPSE_12_A~Signification∙du∙terme∙“nouveauté”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Considérations∙intervenant∙dans∙l’appréciation∙de∙la∙nouveauté",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 352,
+  "name": "S28910",
+  "unit": "{Considérations∙intervenant∙dans∙l’appréciation∙de∙la∙nouveauté}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B:fr:xml#PCTIPSE_12_B~Considérations∙intervenant∙dans∙l’appréciation∙de∙la∙nouveauté}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Méthodologie",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 354,
+  "name": "S28911",
+  "unit": "{Méthodologie}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_1:fr:xml#PCTIPSE_12_B_1~Méthodologie}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙intrinsèque∙ou∙implicite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 356,
+  "name": "S28912",
+  "unit": "{Divulgation∙intrinsèque∙ou∙implicite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_2:fr:xml#PCTIPSE_12_B_2~Divulgation∙intrinsèque∙ou∙implicite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Combinaison∙de∙documents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 360,
+  "name": "S28913",
+  "unit": "{Combinaison∙de∙documents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_4:fr:xml#PCTIPSE_12_B_4~Combinaison∙de∙documents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Variantes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 362,
+  "name": "S28914",
+  "unit": "{Variantes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_5:fr:xml#PCTIPSE_12_B_5~Variantes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgations∙génériques∙et∙divulgations∙particulières",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 364,
+  "name": "S28915",
+  "unit": "{Divulgations∙génériques∙et∙divulgations∙particulières}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_6:fr:xml#PCTIPSE_12_B_6~Divulgations∙génériques∙et∙divulgations∙particulières}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Intervalles",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 366,
+  "name": "S28916",
+  "unit": "{Intervalles}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_12_B_7:fr:xml#PCTIPSE_12_B_7~Intervalles}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Signification∙du∙terme∙“activité∙inventive”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 372,
+  "name": "S28917",
+  "unit": "{Signification∙du∙terme∙“activité∙inventive”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_A:fr:xml#PCTIPSE_13_A~Signification∙du∙terme∙“activité∙inventive”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Considérations∙intervenant∙dans∙l’appréciation∙de∙l’activité∙inventive",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 374,
+  "name": "S28918",
+  "unit": "{Considérations∙intervenant∙dans∙l’appréciation∙de∙l’activité∙inventive}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B:fr:xml#PCTIPSE_13_B~Considérations∙intervenant∙dans∙l’appréciation∙de∙l’activité∙inventive}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Que∙considère-t-on∙comme∙étant∙“évident”?",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 376,
+  "name": "S28919",
+  "unit": "{Que∙considère-t-on∙comme∙étant∙“évident”?}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_1:fr:xml#PCTIPSE_13_B_1~Que∙considère-t-on∙comme∙étant∙“évident”?}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Connaissances∙acquises∙ultérieurement",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 378,
+  "name": "S28920",
+  "unit": "{Connaissances∙acquises∙ultérieurement}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_2:fr:xml#PCTIPSE_13_B_2~Connaissances∙acquises∙ultérieurement}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "L’invention∙considérée∙comme∙un∙tout;∙la∙combinaison∙d’éléments∙connus∙ou∙évidents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 380,
+  "name": "S28921",
+  "unit": "{L’invention∙considérée∙comme∙un∙tout;∙la∙combinaison∙d’éléments∙connus∙ou∙évidents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_3:fr:xml#PCTIPSE_13_B_3~L’invention∙considérée∙comme∙un∙tout;∙la∙combinaison∙d’éléments∙connus∙ou∙évidents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Appréciation∙de∙la∙contribution∙par∙rapport∙à∙l’état∙de∙la∙technique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 382,
+  "name": "S28922",
+  "unit": "{Appréciation∙de∙la∙contribution∙par∙rapport∙à∙l’état∙de∙la∙technique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_4:fr:xml#PCTIPSE_13_B_4~Appréciation∙de∙la∙contribution∙par∙rapport∙à∙l’état∙de∙la∙technique}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "L’“homme∙du∙métier”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 384,
+  "name": "S28923",
+  "unit": "{L’“homme∙du∙métier”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_5:fr:xml#PCTIPSE_13_B_5~L’“homme∙du∙métier”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Combinaison∙des∙enseignements",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 386,
+  "name": "S28924",
+  "unit": "{Combinaison∙des∙enseignements}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_B_6:fr:xml#PCTIPSE_13_B_6~Combinaison∙des∙enseignements}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exemples",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 388,
+  "name": "S28925",
+  "unit": "{Exemples}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_C:fr:xml#PCTIPSE_13_C~Exemples}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Analyse∙a∙posteriori",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 392,
+  "name": "S28926",
+  "unit": "{Analyse∙a∙posteriori}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_D_1:fr:xml#PCTIPSE_13_D_1~Analyse∙a∙posteriori}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Valeur∙technique,∙besoins∙ressentis∙depuis∙longtemps",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 394,
+  "name": "S28927",
+  "unit": "{Valeur∙technique,∙besoins∙ressentis∙depuis∙longtemps}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_D_2:fr:xml#PCTIPSE_13_D_2~Valeur∙technique,∙besoins∙ressentis∙depuis∙longtemps}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Succès∙commercial",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 396,
+  "name": "S28928",
+  "unit": "{Succès∙commercial}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_D_3:fr:xml#PCTIPSE_13_D_3~Succès∙commercial}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙dépendantes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 398,
+  "name": "S28929",
+  "unit": "{Revendications∙dépendantes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_13_D_4:fr:xml#PCTIPSE_13_D_4~Revendications∙dépendantes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "L’approche∙problème-solution",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 402,
+  "name": "S28930",
+  "unit": "{L’approche∙problème-solution}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A13_A:fr:xml#PCTIPSE_A13_A~L’approche∙problème-solution}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exemples∙où∙un∙document∙à∙lui∙seul∙remet∙en∙question∙l’activité∙inventive",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 404,
+  "name": "S28931",
+  "unit": "{Exemples∙où∙un∙document∙à∙lui∙seul∙remet∙en∙question∙l’activité∙inventive}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A13_B:fr:xml#PCTIPSE_A13_B~Exemples∙où∙un∙document∙à∙lui∙seul∙remet∙en∙question∙l’activité∙inventive}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Signification∙du∙terme∙“application∙industrielle”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 408,
+  "name": "S28932",
+  "unit": "{Signification∙du∙terme∙“application∙industrielle”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_14_A:fr:xml#PCTIPSE_14_A~Signification∙du∙terme∙“application∙industrielle”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Utilité",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 414,
+  "name": "S28933",
+  "unit": "{Utilité}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A14_A:fr:xml#PCTIPSE_A14_A~Utilité}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objectif∙particulier",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 424,
+  "name": "S28934",
+  "unit": "{Objectif∙particulier}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A14_C:fr:xml#PCTIPSE_A14_C~Objectif∙particulier}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙claire∙et∙complète",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 426,
+  "name": "S28935",
+  "unit": "{Divulgation∙claire∙et∙complète}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A14_D:fr:xml#PCTIPSE_A14_D~Divulgation∙claire∙et∙complète}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Possibilité∙de∙réalisation∙de∙l’objectif∙particulier",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 428,
+  "name": "S28936",
+  "unit": "{Possibilité∙de∙réalisation∙de∙l’objectif∙particulier}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A14_E:fr:xml#PCTIPSE_A14_E~Possibilité∙de∙réalisation∙de∙l’objectif∙particulier}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙à∙laquelle∙les∙exigences∙doivent∙être∙remplies",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 430,
+  "name": "S28937",
+  "unit": "{Date∙à∙laquelle∙les∙exigences∙doivent∙être∙remplies}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A14_F:fr:xml#PCTIPSE_A14_F~Date∙à∙laquelle∙les∙exigences∙doivent∙être∙remplies}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "But∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 435,
+  "name": "S28938",
+  "unit": "{But∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_A:fr:xml#PCTIPSE_15_A~But∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgations∙non∙écrites",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 437,
+  "name": "S28939",
+  "unit": "{Divulgations∙non∙écrites}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_A_1:fr:xml#PCTIPSE_15_A_1~Divulgations∙non∙écrites}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Lieu,∙langue,∙ancienneté∙et∙modalités∙de∙la∙divulgation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 439,
+  "name": "S28940",
+  "unit": "{Lieu,∙langue,∙ancienneté∙et∙modalités∙de∙la∙divulgation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_A_2:fr:xml#PCTIPSE_15_A_2~Lieu,∙langue,∙ancienneté∙et∙modalités∙de∙la∙divulgation}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "L’examinateur",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 441,
+  "name": "S28941",
+  "unit": "{L’examinateur}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_B:fr:xml#PCTIPSE_15_B~L’examinateur}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 443,
+  "name": "S28942",
+  "unit": "{Base∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_C:fr:xml#PCTIPSE_15_C~Base∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Portée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 445,
+  "name": "S28943",
+  "unit": "{Portée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_D:fr:xml#PCTIPSE_15_D~Portée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Orientation∙et∙objet∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 447,
+  "name": "S28944",
+  "unit": "{Orientation∙et∙objet∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_E:fr:xml#PCTIPSE_15_E~Orientation∙et∙objet∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Analyse∙des∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 449,
+  "name": "S28945",
+  "unit": "{Analyse∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_E_1:fr:xml#PCTIPSE_15_E_1~Analyse∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Inventions∙pour∙lesquelles∙les∙taxes∙n’ont∙pas∙été∙payées",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 451,
+  "name": "S28946",
+  "unit": "{Inventions∙pour∙lesquelles∙les∙taxes∙n’ont∙pas∙été∙payées}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_E_2:fr:xml#PCTIPSE_15_E_2~Inventions∙pour∙lesquelles∙les∙taxes∙n’ont∙pas∙été∙payées}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Couverture∙de∙la∙totalité∙des∙éléments∙impliqués",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 453,
+  "name": "S28947",
+  "unit": "{Couverture∙de∙la∙totalité∙des∙éléments∙impliqués}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_E_3:fr:xml#PCTIPSE_15_E_3~Couverture∙de∙la∙totalité∙des∙éléments∙impliqués}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙à∙caractère∙spéculatif",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 455,
+  "name": "S28948",
+  "unit": "{Revendications∙à∙caractère∙spéculatif}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_E_4:fr:xml#PCTIPSE_15_E_4~Revendications∙à∙caractère∙spéculatif}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherche∙portant∙sur∙des∙types∙et∙des∙caractéristiques∙de∙revendication∙particulière",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 459,
+  "name": "S28949",
+  "unit": "{Recherche∙portant∙sur∙des∙types∙et∙des∙caractéristiques∙de∙revendication∙particulière}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_F:fr:xml#PCTIPSE_15_F~Recherche∙portant∙sur∙des∙types∙et∙des∙caractéristiques∙de∙revendication∙particulière}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Combinaison∙d’éléments",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 461,
+  "name": "S28950",
+  "unit": "{Combinaison∙d’éléments}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_F_1:fr:xml#PCTIPSE_15_F_1~Combinaison∙d’éléments}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Différentes∙catégories∙de∙revendication",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 463,
+  "name": "S28951",
+  "unit": "{Différentes∙catégories∙de∙revendication}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_F_2:fr:xml#PCTIPSE_15_F_2~Différentes∙catégories∙de∙revendication}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙où∙aucune∙recherche∙significative∙n’est∙possible",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 465,
+  "name": "S28952",
+  "unit": "{Cas∙où∙aucune∙recherche∙significative∙n’est∙possible}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_G:fr:xml#PCTIPSE_15_G~Cas∙où∙aucune∙recherche∙significative∙n’est∙possible}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Erreurs∙évidentes∙et∙éléments∙contraires∙à∙l’ordre∙public",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 467,
+  "name": "S28953",
+  "unit": "{Erreurs∙évidentes∙et∙éléments∙contraires∙à∙l’ordre∙public}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_G_1:fr:xml#PCTIPSE_15_G_1~Erreurs∙évidentes∙et∙éléments∙contraires∙à∙l’ordre∙public}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Stratégie∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 469,
+  "name": "S28954",
+  "unit": "{Stratégie∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H:fr:xml#PCTIPSE_15_H~Stratégie∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Étapes∙préliminaires",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 471,
+  "name": "S28955",
+  "unit": "{Étapes∙préliminaires}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H_1:fr:xml#PCTIPSE_15_H_1~Étapes∙préliminaires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Abrégé∙et∙titre",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 473,
+  "name": "S28956",
+  "unit": "{Abrégé∙et∙titre}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H_2:fr:xml#PCTIPSE_15_H_2~Abrégé∙et∙titre}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 475,
+  "name": "S28957",
+  "unit": "{Classement}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H_3:fr:xml#PCTIPSE_15_H_3~Classement}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Publication∙avant∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 477,
+  "name": "S28958",
+  "unit": "{Publication∙avant∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H_4:fr:xml#PCTIPSE_15_H_4~Publication∙avant∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Déclaration∙relative∙à∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 479,
+  "name": "S28959",
+  "unit": "{Déclaration∙relative∙à∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_H_5:fr:xml#PCTIPSE_15_H_5~Déclaration∙relative∙à∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Champ∙de∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 481,
+  "name": "S28960",
+  "unit": "{Champ∙de∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_I:fr:xml#PCTIPSE_15_I~Champ∙de∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Domaines∙analogues",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 483,
+  "name": "S28961",
+  "unit": "{Domaines∙analogues}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_I_1:fr:xml#PCTIPSE_15_I_1~Domaines∙analogues}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réalisation∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 485,
+  "name": "S28962",
+  "unit": "{Réalisation∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_J:fr:xml#PCTIPSE_15_J~Réalisation∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Sécurité∙de∙la∙recherche∙sur∙Internet",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 487,
+  "name": "S28963",
+  "unit": "{Sécurité∙de∙la∙recherche∙sur∙Internet}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_J_1:fr:xml#PCTIPSE_15_J_1~Sécurité∙de∙la∙recherche∙sur∙Internet}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙où∙aucun∙document∙n’a∙été∙trouvé",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 489,
+  "name": "S28964",
+  "unit": "{Cas∙où∙aucun∙document∙n’a∙été∙trouvé}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_J_2:fr:xml#PCTIPSE_15_J_2~Cas∙où∙aucun∙document∙n’a∙été∙trouvé}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Arrêt∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 491,
+  "name": "S28965",
+  "unit": "{Arrêt∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_J_3:fr:xml#PCTIPSE_15_J_3~Arrêt∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Archivage∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 493,
+  "name": "S28966",
+  "unit": "{Archivage∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_J_4:fr:xml#PCTIPSE_15_J_4~Archivage∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Évaluation∙de∙l’état∙de∙la∙technique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 495,
+  "name": "S28967",
+  "unit": "{Évaluation∙de∙l’état∙de∙la∙technique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_K:fr:xml#PCTIPSE_15_K~Évaluation∙de∙l’état∙de∙la∙technique}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Facteurs∙d’incertitude∙dans∙l’état∙de∙la∙technique∙pertinent",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 497,
+  "name": "S28968",
+  "unit": "{Facteurs∙d’incertitude∙dans∙l’état∙de∙la∙technique∙pertinent}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_K_1:fr:xml#PCTIPSE_15_K_1~Facteurs∙d’incertitude∙dans∙l’état∙de∙la∙technique∙pertinent}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objet∙exclu",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 499,
+  "name": "S28969",
+  "unit": "{Objet∙exclu}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_K_2:fr:xml#PCTIPSE_15_K_2~Objet∙exclu}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Sélection∙des∙citations∙et∙identification∙des∙parties∙les∙plus∙pertinentes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 501,
+  "name": "S28970",
+  "unit": "{Sélection∙des∙citations∙et∙identification∙des∙parties∙les∙plus∙pertinentes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_K_3:fr:xml#PCTIPSE_15_K_3~Sélection∙des∙citations∙et∙identification∙des∙parties∙les∙plus∙pertinentes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Établissement∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 505,
+  "name": "S28972",
+  "unit": "{Établissement∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_L_1:fr:xml#PCTIPSE_15_L_1~Établissement∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rapports∙de∙recherche∙internationale∙modifiés",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 507,
+  "name": "S28973",
+  "unit": "{Rapports∙de∙recherche∙internationale∙modifiés}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_L_2:fr:xml#PCTIPSE_15_L_2~Rapports∙de∙recherche∙internationale∙modifiés}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réception∙par∙erreur∙de∙modifications∙selon∙l’article∙19",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 509,
+  "name": "S28974",
+  "unit": "{Réception∙par∙erreur∙de∙modifications∙selon∙l’article∙19}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_15_L_3:fr:xml#PCTIPSE_15_L_3~Réception∙par∙erreur∙de∙modifications∙selon∙l’article∙19}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 517,
+  "name": "S28975",
+  "unit": "{Rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_C:fr:xml#PCTIPSE_16_C~Rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Éléments∙non∙requis∙par∙le∙formulaire",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 519,
+  "name": "S28976",
+  "unit": "{Éléments∙non∙requis∙par∙le∙formulaire}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_C_1:fr:xml#PCTIPSE_16_C_1~Éléments∙non∙requis∙par∙le∙formulaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Différents∙types∙de∙rapports∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 521,
+  "name": "S28977",
+  "unit": "{Différents∙types∙de∙rapports∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_D:fr:xml#PCTIPSE_16_D~Différents∙types∙de∙rapports∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Formulaire∙et∙langue∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 523,
+  "name": "S28978",
+  "unit": "{Formulaire∙et∙langue∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_E:fr:xml#PCTIPSE_16_E~Formulaire∙et∙langue∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Formulaire∙de∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 525,
+  "name": "S28979",
+  "unit": "{Formulaire∙de∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_E_1:fr:xml#PCTIPSE_16_E_1~Formulaire∙de∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Langue∙du∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 527,
+  "name": "S28980",
+  "unit": "{Langue∙du∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_E_2:fr:xml#PCTIPSE_16_E_2~Langue∙du∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Feuilles∙incluses∙dans∙la∙brochure",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 529,
+  "name": "S28981",
+  "unit": "{Feuilles∙incluses∙dans∙la∙brochure}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_E_3:fr:xml#PCTIPSE_16_E_3~Feuilles∙incluses∙dans∙la∙brochure}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherche∙de∙type∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 531,
+  "name": "S28982",
+  "unit": "{Recherche∙de∙type∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_F:fr:xml#PCTIPSE_16_F~Recherche∙de∙type∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Adresse∙de∙correspondance",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 535,
+  "name": "S28984",
+  "unit": "{Adresse∙de∙correspondance}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_1:fr:xml#PCTIPSE_16_G_1~Adresse∙de∙correspondance}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Référence∙du∙dossier∙du∙déposant∙ou∙du∙mandataire",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 537,
+  "name": "S28985",
+  "unit": "{Référence∙du∙dossier∙du∙déposant∙ou∙du∙mandataire}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_2:fr:xml#PCTIPSE_16_G_2~Référence∙du∙dossier∙du∙déposant∙ou∙du∙mandataire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Numéro∙de∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 539,
+  "name": "S28986",
+  "unit": "{Numéro∙de∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_3:fr:xml#PCTIPSE_16_G_3~Numéro∙de∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙de∙dépôt∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 541,
+  "name": "S28987",
+  "unit": "{Date∙de∙dépôt∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_4:fr:xml#PCTIPSE_16_G_4~Date∙de∙dépôt∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Déposant",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 543,
+  "name": "S28988",
+  "unit": "{Déposant}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_5:fr:xml#PCTIPSE_16_G_5~Déposant}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙où∙aucun∙rapport∙de∙recherche∙ou∙un∙rapport∙de∙recherche∙limité∙est∙établi",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 545,
+  "name": "S28989",
+  "unit": "{Cas∙où∙aucun∙rapport∙de∙recherche∙ou∙un∙rapport∙de∙recherche∙limité∙est∙établi}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_G_6:fr:xml#PCTIPSE_16_G_6~Cas∙où∙aucun∙rapport∙de∙recherche∙ou∙un∙rapport∙de∙recherche∙limité∙est∙établi}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙de∙priorité∙la∙plus∙ancienne",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 549,
+  "name": "S28991",
+  "unit": "{Date∙de∙priorité∙la∙plus∙ancienne}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_1:fr:xml#PCTIPSE_16_H_1~Date∙de∙priorité∙la∙plus∙ancienne}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Nombre∙total∙de∙feuilles",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 551,
+  "name": "S28992",
+  "unit": "{Nombre∙total∙de∙feuilles}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_2:fr:xml#PCTIPSE_16_H_2~Nombre∙total∙de∙feuilles}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙“il∙est∙accompagné∙d’une∙copie∙de∙chaque∙document∙de∙l’état∙de∙la∙technique∙cité∙dans∙le∙présent∙rapport”",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 553,
+  "name": "S28993",
+  "unit": "{Cadre∙“il∙est∙accompagné∙d’une∙copie∙de∙chaque∙document∙de∙l’état∙de∙la∙technique∙cité∙dans∙le∙présent∙rapport”}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_3:fr:xml#PCTIPSE_16_H_3~Cadre∙“il∙est∙accompagné∙d’une∙copie∙de∙chaque∙document∙de∙l’état∙de∙la∙technique∙cité∙dans∙le∙présent∙rapport”}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙du∙rapport",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 555,
+  "name": "S28994",
+  "unit": "{Base∙du∙rapport}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_4:fr:xml#PCTIPSE_16_H_4~Base∙du∙rapport}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés∙et∙tableaux∙y∙afférents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 557,
+  "name": "S28995",
+  "unit": "{Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés∙et∙tableaux∙y∙afférents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_5:fr:xml#PCTIPSE_16_H_5~Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés∙et∙tableaux∙y∙afférents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Limitation∙de∙l’objet∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 559,
+  "name": "S28996",
+  "unit": "{Limitation∙de∙l’objet∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_6:fr:xml#PCTIPSE_16_H_6~Limitation∙de∙l’objet∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Abrégé,∙titre∙et∙figure",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 561,
+  "name": "S28997",
+  "unit": "{Abrégé,∙titre∙et∙figure}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_7:fr:xml#PCTIPSE_16_H_7~Abrégé,∙titre∙et∙figure}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Classement∙de∙l’objet∙de∙la∙demande",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 563,
+  "name": "S28998",
+  "unit": "{Classement∙de∙l’objet∙de∙la∙demande}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_8:fr:xml#PCTIPSE_16_H_8~Classement∙de∙l’objet∙de∙la∙demande}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Domaines∙sur∙lesquels∙la∙recherche∙a∙porté",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 565,
+  "name": "S28999",
+  "unit": "{Domaines∙sur∙lesquels∙la∙recherche∙a∙porté}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_9:fr:xml#PCTIPSE_16_H_9~Domaines∙sur∙lesquels∙la∙recherche∙a∙porté}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documentation∙minimale∙consultée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 567,
+  "name": "S29000",
+  "unit": "{Documentation∙minimale∙consultée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_10:fr:xml#PCTIPSE_16_H_10~Documentation∙minimale∙consultée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documentation∙consultée∙autre∙que∙la∙documentation∙minimale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 569,
+  "name": "S29001",
+  "unit": "{Documentation∙consultée∙autre∙que∙la∙documentation∙minimale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_11:fr:xml#PCTIPSE_16_H_11~Documentation∙consultée∙autre∙que∙la∙documentation∙minimale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙de∙données∙électronique∙consultée",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 571,
+  "name": "S29002",
+  "unit": "{Base∙de∙données∙électronique∙consultée}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_12:fr:xml#PCTIPSE_16_H_12~Base∙de∙données∙électronique∙consultée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherche∙antérieure",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 573,
+  "name": "S29003",
+  "unit": "{Recherche∙antérieure}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_13:fr:xml#PCTIPSE_16_H_13~Recherche∙antérieure}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙considérés∙comme∙pertinents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 575,
+  "name": "S29004",
+  "unit": "{Documents∙considérés∙comme∙pertinents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_14:fr:xml#PCTIPSE_16_H_14~Documents∙considérés∙comme∙pertinents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Catégorie∙des∙documents∙cités",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 577,
+  "name": "S29005",
+  "unit": "{Catégorie∙des∙documents∙cités}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_15:fr:xml#PCTIPSE_16_H_15~Catégorie∙des∙documents∙cités}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rapport∙entre∙les∙documents∙et∙les∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 579,
+  "name": "S29006",
+  "unit": "{Rapport∙entre∙les∙documents∙et∙les∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_16:fr:xml#PCTIPSE_16_H_16~Rapport∙entre∙les∙documents∙et∙les∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Citation∙des∙documents",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 581,
+  "name": "S29007",
+  "unit": "{Citation∙des∙documents}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_17:fr:xml#PCTIPSE_16_H_17~Citation∙des∙documents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rédaction∙définitive∙du∙rapport",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 583,
+  "name": "S29008",
+  "unit": "{Rédaction∙définitive∙du∙rapport}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_H_18:fr:xml#PCTIPSE_16_H_18~Rédaction∙définitive∙du∙rapport}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 585,
+  "name": "S29009",
+  "unit": "{Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_16_I:fr:xml#PCTIPSE_16_I~Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Différents∙types∙d’opinion∙et∙de∙rapport",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 592,
+  "name": "S29010",
+  "unit": "{Différents∙types∙d’opinion∙et∙de∙rapport}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_B:fr:xml#PCTIPSE_17_B~Différents∙types∙d’opinion∙et∙de∙rapport}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 594,
+  "name": "S29011",
+  "unit": "{Opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_B_1:fr:xml#PCTIPSE_17_B_1~Opinion∙écrite∙de∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Opinion(s)∙écrite(s)∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 596,
+  "name": "S29012",
+  "unit": "{Opinion(s)∙écrite(s)∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_B_2:fr:xml#PCTIPSE_17_B_2~Opinion(s)∙écrite(s)∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 598,
+  "name": "S29013",
+  "unit": "{Rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_B_3:fr:xml#PCTIPSE_17_B_3~Rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Contenu∙de∙l’opinion∙ou∙du∙rapport",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 600,
+  "name": "S29014",
+  "unit": "{Contenu∙de∙l’opinion∙ou∙du∙rapport}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C:fr:xml#PCTIPSE_17_C~Contenu∙de∙l’opinion∙ou∙du∙rapport}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Exposé∙du∙contenu",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 602,
+  "name": "S29015",
+  "unit": "{Exposé∙du∙contenu}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_1:fr:xml#PCTIPSE_17_C_1~Exposé∙du∙contenu}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Formulaire∙de∙l’opinion∙ou∙du∙rapport",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 604,
+  "name": "S29016",
+  "unit": "{Formulaire∙de∙l’opinion∙ou∙du∙rapport}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_2:fr:xml#PCTIPSE_17_C_2~Formulaire∙de∙l’opinion∙ou∙du∙rapport}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Indications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 606,
+  "name": "S29017",
+  "unit": "{Indications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_3:fr:xml#PCTIPSE_17_C_3~Indications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙I∙:∙base∙de∙l’opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 608,
+  "name": "S29018",
+  "unit": "{Cadre∙no∙I∙:∙base∙de∙l’opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_4:fr:xml#PCTIPSE_17_C_4~Cadre∙no∙I∙:∙base∙de∙l’opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙III∙:∙absence∙de∙formulation∙d’opinion∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 612,
+  "name": "S29020",
+  "unit": "{Cadre∙no∙III∙:∙absence∙de∙formulation∙d’opinion∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_6:fr:xml#PCTIPSE_17_C_6~Cadre∙no∙III∙:∙absence∙de∙formulation∙d’opinion∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙IV∙:∙absence∙d’unité∙de∙l’invention",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 614,
+  "name": "S29021",
+  "unit": "{Cadre∙no∙IV∙:∙absence∙d’unité∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_7:fr:xml#PCTIPSE_17_C_7~Cadre∙no∙IV∙:∙absence∙d’unité∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙V∙:∙déclaration∙motivée∙selon∙la∙règle∙66.2.a)ii)∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle;∙citations∙et∙explications∙à∙l’appui∙de∙cette∙déclaration",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 616,
+  "name": "S29022",
+  "unit": "{Cadre∙no∙V∙:∙déclaration∙motivée∙selon∙la∙règle∙66.2.a)ii)∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle;∙citations∙et∙explications∙à∙l’appui∙de∙cette∙déclaration}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_8:fr:xml#PCTIPSE_17_C_8~Cadre∙no∙V∙:∙déclaration∙motivée∙selon∙la∙règle∙66.2.a)ii)∙quant∙à∙la∙nouveauté,∙l’activité∙inventive∙et∙la∙possibilité∙d’application∙industrielle;∙citations∙et∙explications∙à∙l’appui∙de∙cette∙déclaration}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙VI∙:∙certains∙documents∙cités",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 618,
+  "name": "S29023",
+  "unit": "{Cadre∙no∙VI∙:∙certains∙documents∙cités}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_9:fr:xml#PCTIPSE_17_C_9~Cadre∙no∙VI∙:∙certains∙documents∙cités}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙VII∙:∙irrégularités∙dans∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 620,
+  "name": "S29024",
+  "unit": "{Cadre∙no∙VII∙:∙irrégularités∙dans∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_10:fr:xml#PCTIPSE_17_C_10~Cadre∙no∙VII∙:∙irrégularités∙dans∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cadre∙no∙VIII∙:∙observations∙relatives∙à∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 622,
+  "name": "S29025",
+  "unit": "{Cadre∙no∙VIII∙:∙observations∙relatives∙à∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_11:fr:xml#PCTIPSE_17_C_11~Cadre∙no∙VIII∙:∙observations∙relatives∙à∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Langue∙de∙l’opinion∙écrite∙et∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 626,
+  "name": "S29026",
+  "unit": "{Langue∙de∙l’opinion∙écrite∙et∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_13:fr:xml#PCTIPSE_17_C_13~Langue∙de∙l’opinion∙écrite∙et∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Forme∙des∙objections",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 628,
+  "name": "S29027",
+  "unit": "{Forme∙des∙objections}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_14:fr:xml#PCTIPSE_17_C_14~Forme∙des∙objections}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "S’assurer∙que∙le∙rapport∙est∙d’une∙utilité∙maximale∙pour∙les∙étapes∙ultérieures",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 630,
+  "name": "S29028",
+  "unit": "{S’assurer∙que∙le∙rapport∙est∙d’une∙utilité∙maximale∙pour∙les∙étapes∙ultérieures}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_C_15:fr:xml#PCTIPSE_17_C_15~S’assurer∙que∙le∙rapport∙est∙d’une∙utilité∙maximale∙pour∙les∙étapes∙ultérieures}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Invitation∙à∙corriger∙ou∙à∙modifier",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 632,
+  "name": "S29029",
+  "unit": "{Invitation∙à∙corriger∙ou∙à∙modifier}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_D:fr:xml#PCTIPSE_17_D~Invitation∙à∙corriger∙ou∙à∙modifier}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Cas∙d’établissement∙d’une∙opinion∙écrite∙partielle∙ou∙de∙non-établissement∙d’une∙opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 634,
+  "name": "S29030",
+  "unit": "{Cas∙d’établissement∙d’une∙opinion∙écrite∙partielle∙ou∙de∙non-établissement∙d’une∙opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_E:fr:xml#PCTIPSE_17_E~Cas∙d’établissement∙d’une∙opinion∙écrite∙partielle∙ou∙de∙non-établissement∙d’une∙opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Résoudre∙d’abord∙les∙objections∙majeures",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 640,
+  "name": "S29031",
+  "unit": "{Résoudre∙d’abord∙les∙objections∙majeures}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_E_3:fr:xml#PCTIPSE_17_E_3~Résoudre∙d’abord∙les∙objections∙majeures}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Citation∙de∙certains∙documents∙dans∙le∙rapport∙de∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 644,
+  "name": "S29032",
+  "unit": "{Citation∙de∙certains∙documents∙dans∙le∙rapport∙de∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_F_1:fr:xml#PCTIPSE_17_F_1~Citation∙de∙certains∙documents∙dans∙le∙rapport∙de∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙additionnels∙pris∙en∙considération∙dans∙certains∙cas",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 646,
+  "name": "S29033",
+  "unit": "{Documents∙additionnels∙pris∙en∙considération∙dans∙certains∙cas}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_F_2:fr:xml#PCTIPSE_17_F_2~Documents∙additionnels∙pris∙en∙considération∙dans∙certains∙cas}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Incohérences∙entre∙la∙description∙et∙les∙revendications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 648,
+  "name": "S29034",
+  "unit": "{Incohérences∙entre∙la∙description∙et∙les∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_F_3:fr:xml#PCTIPSE_17_F_3~Incohérences∙entre∙la∙description∙et∙les∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recommandation∙de∙modifications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 650,
+  "name": "S29035",
+  "unit": "{Recommandation∙de∙modifications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_F_4:fr:xml#PCTIPSE_17_F_4~Recommandation∙de∙modifications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Étude∙des∙réponses∙à∙l’opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 652,
+  "name": "S29036",
+  "unit": "{Étude∙des∙réponses∙à∙l’opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_17_F_5:fr:xml#PCTIPSE_17_F_5~Étude∙des∙réponses∙à∙l’opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Utilisation∙de∙télécopieurs,∙télégraphes,∙téléimprimeurs,∙etc.",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 657,
+  "name": "S29037",
+  "unit": "{Utilisation∙de∙télécopieurs,∙télégraphes,∙téléimprimeurs,∙etc.}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_A:fr:xml#PCTIPSE_18_A~Utilisation∙de∙télécopieurs,∙télégraphes,∙téléimprimeurs,∙etc.}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 659,
+  "name": "S29038",
+  "unit": "{Base∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_B:fr:xml#PCTIPSE_18_B~Base∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Déclaration∙concernant∙les∙modifications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 661,
+  "name": "S29039",
+  "unit": "{Déclaration∙concernant∙les∙modifications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_B_1:fr:xml#PCTIPSE_18_B_1~Déclaration∙concernant∙les∙modifications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Langue∙aux∙fins∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 663,
+  "name": "S29040",
+  "unit": "{Langue∙aux∙fins∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_B_2:fr:xml#PCTIPSE_18_B_2~Langue∙aux∙fins∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents,∙etc.,∙à∙fournir∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 665,
+  "name": "S29041",
+  "unit": "{Documents,∙etc.,∙à∙fournir∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_C:fr:xml#PCTIPSE_18_C~Documents,∙etc.,∙à∙fournir∙à∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Langue∙de∙la∙demande∙internationale∙et∙de∙la∙demande∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 667,
+  "name": "S29042",
+  "unit": "{Langue∙de∙la∙demande∙internationale∙et∙de∙la∙demande∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_C_1:fr:xml#PCTIPSE_18_C_1~Langue∙de∙la∙demande∙internationale∙et∙de∙la∙demande∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Document∙de∙priorité∙et∙traduction",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 669,
+  "name": "S29043",
+  "unit": "{Document∙de∙priorité∙et∙traduction}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_18_C_2:fr:xml#PCTIPSE_18_C_2~Document∙de∙priorité∙et∙traduction}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Examen∙préliminaire∙international∙–∙commencement∙et∙délai∙applicable",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 677,
+  "name": "S29044",
+  "unit": "{Examen∙préliminaire∙international∙–∙commencement∙et∙délai∙applicable}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_B:fr:xml#PCTIPSE_19_B~Examen∙préliminaire∙international∙–∙commencement∙et∙délai∙applicable}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Commencement∙de∙l’examen",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 679,
+  "name": "S29045",
+  "unit": "{Commencement∙de∙l’examen}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_B_1:fr:xml#PCTIPSE_19_B_1~Commencement∙de∙l’examen}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Délai∙applicable∙à∙l’achèvement∙de∙l’examen",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 681,
+  "name": "S29046",
+  "unit": "{Délai∙applicable∙à∙l’achèvement∙de∙l’examen}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_B_2:fr:xml#PCTIPSE_19_B_2~Délai∙applicable∙à∙l’achèvement∙de∙l’examen}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherches∙complémentaires",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 687,
+  "name": "S29048",
+  "unit": "{Recherches∙complémentaires}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_C_2:fr:xml#PCTIPSE_19_C_2~Recherches∙complémentaires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Situations∙où∙il∙n’y∙a∙pas∙lieu∙d’établir∙une∙opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 689,
+  "name": "S29049",
+  "unit": "{Situations∙où∙il∙n’y∙a∙pas∙lieu∙d’établir∙une∙opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_C_3:fr:xml#PCTIPSE_19_C_3~Situations∙où∙il∙n’y∙a∙pas∙lieu∙d’établir∙une∙opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Situations∙où∙une∙autre∙opinion∙écrite∙peut∙être∙établie",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 691,
+  "name": "S29050",
+  "unit": "{Situations∙où∙une∙autre∙opinion∙écrite∙peut∙être∙établie}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_C_4:fr:xml#PCTIPSE_19_C_4~Situations∙où∙une∙autre∙opinion∙écrite∙peut∙être∙établie}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙à∙l’égard∙desquelles∙il∙n’a∙pas∙été∙établi∙de∙rapport∙de∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 693,
+  "name": "S29051",
+  "unit": "{Revendications∙à∙l’égard∙desquelles∙il∙n’a∙pas∙été∙établi∙de∙rapport∙de∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_C_5:fr:xml#PCTIPSE_19_C_5~Revendications∙à∙l’égard∙desquelles∙il∙n’a∙pas∙été∙établi∙de∙rapport∙de∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Étape∙suivante∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 695,
+  "name": "S29052",
+  "unit": "{Étape∙suivante∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_D:fr:xml#PCTIPSE_19_D~Étape∙suivante∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Correction∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 697,
+  "name": "S29053",
+  "unit": "{Correction∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_E:fr:xml#PCTIPSE_19_E~Correction∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Remarques∙valables∙en∙général∙aux∙différentes∙étapes∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 699,
+  "name": "S29054",
+  "unit": "{Remarques∙valables∙en∙général∙aux∙différentes∙étapes∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_F:fr:xml#PCTIPSE_19_F~Remarques∙valables∙en∙général∙aux∙différentes∙étapes∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Apport∙de∙modifications∙:∙Considérations∙d’ordre∙général",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 701,
+  "name": "S29055",
+  "unit": "{Apport∙de∙modifications∙:∙Considérations∙d’ordre∙général}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_F_1:fr:xml#PCTIPSE_19_F_1~Apport∙de∙modifications∙:∙Considérations∙d’ordre∙général}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rectification∙d’erreurs∙évidentes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 703,
+  "name": "S29056",
+  "unit": "{Rectification∙d’erreurs∙évidentes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_F_2:fr:xml#PCTIPSE_19_F_2~Rectification∙d’erreurs∙évidentes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Communications∙officieuses∙avec∙le∙déposant",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 705,
+  "name": "S29057",
+  "unit": "{Communications∙officieuses∙avec∙le∙déposant}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_F_3:fr:xml#PCTIPSE_19_F_3~Communications∙officieuses∙avec∙le∙déposant}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Établissement∙du∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 707,
+  "name": "S29058",
+  "unit": "{Établissement∙du∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_G:fr:xml#PCTIPSE_19_G~Établissement∙du∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Détermination∙des∙délais",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 711,
+  "name": "S29059",
+  "unit": "{Détermination∙des∙délais}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_H:fr:xml#PCTIPSE_19_H~Détermination∙des∙délais}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Absence∙de∙réponse∙du∙déposant∙dans∙le∙délai∙prescrit",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 713,
+  "name": "S29060",
+  "unit": "{Absence∙de∙réponse∙du∙déposant∙dans∙le∙délai∙prescrit}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_H_1:fr:xml#PCTIPSE_19_H_1~Absence∙de∙réponse∙du∙déposant∙dans∙le∙délai∙prescrit}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Retrait∙de∙la∙demande∙d’examen∙préliminaire∙international∙ou∙de∙la∙totalité∙des∙élections",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 715,
+  "name": "S29061",
+  "unit": "{Retrait∙de∙la∙demande∙d’examen∙préliminaire∙international∙ou∙de∙la∙totalité∙des∙élections}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_19_I:fr:xml#PCTIPSE_19_I~Retrait∙de∙la∙demande∙d’examen∙préliminaire∙international∙ou∙de∙la∙totalité∙des∙élections}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 719,
+  "name": "S29062",
+  "unit": "{Modifications∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_A:fr:xml#PCTIPSE_20_A~Modifications∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙apportées∙aux∙revendications∙en∙vertu∙de∙l’article∙19",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 721,
+  "name": "S29063",
+  "unit": "{Modifications∙apportées∙aux∙revendications∙en∙vertu∙de∙l’article∙19}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_A_1:fr:xml#PCTIPSE_20_A_1~Modifications∙apportées∙aux∙revendications∙en∙vertu∙de∙l’article∙19}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modification∙effectuée∙en∙vertu∙de∙l’article∙34",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 723,
+  "name": "S29064",
+  "unit": "{Modification∙effectuée∙en∙vertu∙de∙l’article∙34}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_A_2:fr:xml#PCTIPSE_20_A_2~Modification∙effectuée∙en∙vertu∙de∙l’article∙34}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Examen∙des∙modifications",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 727,
+  "name": "S29065",
+  "unit": "{Examen∙des∙modifications}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_C:fr:xml#PCTIPSE_20_C~Examen∙des∙modifications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objet∙supplémentaire",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 729,
+  "name": "S29066",
+  "unit": "{Objet∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_D:fr:xml#PCTIPSE_20_D~Objet∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Insuffisance∙de∙fondement",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 731,
+  "name": "S29067",
+  "unit": "{Insuffisance∙de∙fondement}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_E:fr:xml#PCTIPSE_20_E~Insuffisance∙de∙fondement}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙apportées∙aux∙demandes∙traduites",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 733,
+  "name": "S29068",
+  "unit": "{Modifications∙apportées∙aux∙demandes∙traduites}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_20_F:fr:xml#PCTIPSE_20_F~Modifications∙apportées∙aux∙demandes∙traduites}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Éléments∙nouveaux",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 737,
+  "name": "S29069",
+  "unit": "{Éléments∙nouveaux}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_A20_A:fr:xml#PCTIPSE_A20_A~Éléments∙nouveaux}"
+ },
+ {
+  "text": "1.∙Encadrement∙et∙politique",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 744,
+  "name": "S29070",
+  "unit": "{1.∙Encadrement∙et∙politique}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_B:fr:xml#PCTIPSE_21_B~1.∙Encadrement∙et∙politique}"
+ },
+ {
+  "text": "2.∙Ressources",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 746,
+  "name": "S29071",
+  "unit": "{2.∙Ressources}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_C:fr:xml#PCTIPSE_21_C~2.∙Ressources}"
+ },
+ {
+  "text": "3.∙Gestion∙de∙la∙charge∙de∙travail∙administratif",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 748,
+  "name": "S29072",
+  "unit": "{3.∙Gestion∙de∙la∙charge∙de∙travail∙administratif}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_D:fr:xml#PCTIPSE_21_D~3.∙Gestion∙de∙la∙charge∙de∙travail∙administratif}"
+ },
+ {
+  "text": "4.∙Assurance∙de∙la∙qualité",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 750,
+  "name": "S29073",
+  "unit": "{4.∙Assurance∙de∙la∙qualité}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_E:fr:xml#PCTIPSE_21_E~4.∙Assurance∙de∙la∙qualité}"
+ },
+ {
+  "text": "5.∙Communication",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 752,
+  "name": "S29074",
+  "unit": "{5.∙Communication}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_F:fr:xml#PCTIPSE_21_F~5.∙Communication}"
+ },
+ {
+  "text": "6.∙Documentation",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 754,
+  "name": "S29075",
+  "unit": "{6.∙Documentation}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_G:fr:xml#PCTIPSE_21_G~6.∙Documentation}"
+ },
+ {
+  "text": "7.∙Description∙de∙la∙procédure∙de∙recherche",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 756,
+  "name": "S29076",
+  "unit": "{7.∙Description∙de∙la∙procédure∙de∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_H:fr:xml#PCTIPSE_21_H~7.∙Description∙de∙la∙procédure∙de∙recherche}"
+ },
+ {
+  "text": "8.∙Système∙d’évaluation∙interne",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 758,
+  "name": "S29077",
+  "unit": "{8.∙Système∙d’évaluation∙interne}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_I:fr:xml#PCTIPSE_21_I~8.∙Système∙d’évaluation∙interne}"
+ },
+ {
+  "text": "9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙Réunion∙des∙administrations∙internationales",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 760,
+  "name": "S29078",
+  "unit": "{9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙Réunion∙des∙administrations∙internationales}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_J:fr:xml#PCTIPSE_21_J~9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙Réunion∙des∙administrations∙internationales}"
+ },
+ {
+  "text": "10.∙Évolution∙future",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 762,
+  "name": "S29079",
+  "unit": "{10.∙Évolution∙future}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_21_K:fr:xml#PCTIPSE_21_K~10.∙Évolution∙future}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réception∙de∙la∙demande",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 767,
+  "name": "S29080",
+  "unit": "{Réception∙de∙la∙demande}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_A:fr:xml#PCTIPSE_22_A~Réception∙de∙la∙demande}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Détermination∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙compétente∙et∙annotation∙de∙la∙demande∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 769,
+  "name": "S29081",
+  "unit": "{Détermination∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙compétente∙et∙annotation∙de∙la∙demande∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_B:fr:xml#PCTIPSE_22_B~Détermination∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙compétente∙et∙annotation∙de∙la∙demande∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Identification∙de∙la∙demande∙internationale",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 771,
+  "name": "S29082",
+  "unit": "{Identification∙de∙la∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_C:fr:xml#PCTIPSE_22_C~Identification∙de∙la∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Déposant∙autorisé∙à∙présenter∙une∙demande∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 773,
+  "name": "S29083",
+  "unit": "{Déposant∙autorisé∙à∙présenter∙une∙demande∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_D:fr:xml#PCTIPSE_22_D~Déposant∙autorisé∙à∙présenter∙une∙demande∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Changement∙de∙déposant",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 775,
+  "name": "S29084",
+  "unit": "{Changement∙de∙déposant}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_D_1:fr:xml#PCTIPSE_22_D_1~Changement∙de∙déposant}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Élection∙d’États",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 777,
+  "name": "S29085",
+  "unit": "{Élection∙d’États}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_E:fr:xml#PCTIPSE_22_E~Élection∙d’États}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Vérification∙d’éléments∙ayant∙une∙incidence∙sur∙la∙date∙de∙réception",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 779,
+  "name": "S29086",
+  "unit": "{Vérification∙d’éléments∙ayant∙une∙incidence∙sur∙la∙date∙de∙réception}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_F:fr:xml#PCTIPSE_22_F~Vérification∙d’éléments∙ayant∙une∙incidence∙sur∙la∙date∙de∙réception}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Vérification∙visant∙à∙déterminer∙si∙la∙demande∙d’examen∙préliminaire∙international∙est∙présentée∙en∙temps∙voulu",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 781,
+  "name": "S29087",
+  "unit": "{Vérification∙visant∙à∙déterminer∙si∙la∙demande∙d’examen∙préliminaire∙international∙est∙présentée∙en∙temps∙voulu}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_G:fr:xml#PCTIPSE_22_G~Vérification∙visant∙à∙déterminer∙si∙la∙demande∙d’examen∙préliminaire∙international∙est∙présentée∙en∙temps∙voulu}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Constitution∙du∙dossier∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 783,
+  "name": "S29088",
+  "unit": "{Constitution∙du∙dossier∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_H:fr:xml#PCTIPSE_22_H~Constitution∙du∙dossier∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transmission∙de∙la∙demande∙d’examen∙préliminaire∙international∙au∙Bureau∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 785,
+  "name": "S29089",
+  "unit": "{Transmission∙de∙la∙demande∙d’examen∙préliminaire∙international∙au∙Bureau∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_I:fr:xml#PCTIPSE_22_I~Transmission∙de∙la∙demande∙d’examen∙préliminaire∙international∙au∙Bureau∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Certaines∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 787,
+  "name": "S29090",
+  "unit": "{Certaines∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_J:fr:xml#PCTIPSE_22_J~Certaines∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Langue",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 789,
+  "name": "S29091",
+  "unit": "{Langue}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_K:fr:xml#PCTIPSE_22_K~Langue}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Signature",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 791,
+  "name": "S29092",
+  "unit": "{Signature}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_L:fr:xml#PCTIPSE_22_L~Signature}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Indications∙concernant∙le∙déposant",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 793,
+  "name": "S29093",
+  "unit": "{Indications∙concernant∙le∙déposant}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_M:fr:xml#PCTIPSE_22_M~Indications∙concernant∙le∙déposant}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Indications∙concernant∙le∙mandataire",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 795,
+  "name": "S29094",
+  "unit": "{Indications∙concernant∙le∙mandataire}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_N:fr:xml#PCTIPSE_22_N~Indications∙concernant∙le∙mandataire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Invitation∙à∙corriger∙des∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 797,
+  "name": "S29095",
+  "unit": "{Invitation∙à∙corriger∙des∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_O:fr:xml#PCTIPSE_22_O~Invitation∙à∙corriger∙des∙irrégularités∙dans∙la∙demande∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Paiement∙et∙remboursement∙des∙taxes",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 799,
+  "name": "S29096",
+  "unit": "{Paiement∙et∙remboursement∙des∙taxes}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_P:fr:xml#PCTIPSE_22_P~Paiement∙et∙remboursement∙des∙taxes}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Transfert∙des∙taxes∙de∙traitement∙au∙Bureau∙international",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 801,
+  "name": "S29097",
+  "unit": "{Transfert∙des∙taxes∙de∙traitement∙au∙Bureau∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_Q:fr:xml#PCTIPSE_22_Q~Transfert∙des∙taxes∙de∙traitement∙au∙Bureau∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Perturbations∙dans∙le∙service∙postal",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 805,
+  "name": "S29098",
+  "unit": "{Perturbations∙dans∙le∙service∙postal}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_S:fr:xml#PCTIPSE_22_S~Perturbations∙dans∙le∙service∙postal}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Calcul∙des∙délais",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 807,
+  "name": "S29099",
+  "unit": "{Calcul∙des∙délais}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_T:fr:xml#PCTIPSE_22_T~Calcul∙des∙délais}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙effectuées∙en∙vertu∙de∙l’article∙19",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 809,
+  "name": "S29100",
+  "unit": "{Modifications∙effectuées∙en∙vertu∙de∙l’article∙19}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_U:fr:xml#PCTIPSE_22_U~Modifications∙effectuées∙en∙vertu∙de∙l’article∙19}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réponse∙à∙l’opinion∙écrite",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "referringId": "PCT:PCTIPSE",
+  "relativeParagraph": 811,
+  "name": "S29101",
+  "unit": "{Réponse∙à∙l’opinion∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PCTIPSE_22_V:fr:xml#PCTIPSE_22_V~Réponse∙à∙l’opinion∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Diagramme∙de∙traitement∙type∙d’une∙demande∙internationale",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 24,
+  "name": "S29122",
+  "unit": "{Diagramme∙de∙traitement∙type∙d’une∙demande∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_1_E:fr:xml#PCTIPSE_1_E~Diagramme∙de∙traitement∙type∙d’une∙demande∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 50,
+  "name": "S29123",
+  "unit": "{Rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_2_H_1:fr:xml#PCTIPSE_2_H_1~Rapport∙préliminaire∙international∙sur∙la∙brevetabilité∙si∙aucune∙demande∙d’examen∙préliminaire∙international∙n’est∙présentée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 52,
+  "name": "S29124",
+  "unit": "{Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_2_I:fr:xml#PCTIPSE_2_I~Copies∙des∙documents∙cités∙dans∙le∙rapport∙de∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherches∙internationales∙supplémentaires",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 54,
+  "name": "S29125",
+  "unit": "{Recherches∙internationales∙supplémentaires}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_2_J:fr:xml#PCTIPSE_2_J~Recherches∙internationales∙supplémentaires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Copies∙des∙documents∙cités∙dans∙le∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 92,
+  "name": "S29126",
+  "unit": "{Copies∙des∙documents∙cités∙dans∙le∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_3_H:fr:xml#PCTIPSE_3_H~Copies∙des∙documents∙cités∙dans∙le∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Erreurs∙non∙rectifiables∙en∙vertu∙de∙la∙règle∙91",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 217,
+  "name": "S29127",
+  "unit": "{Erreurs∙non∙rectifiables∙en∙vertu∙de∙la∙règle∙91}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_A:fr:xml#PCTIPSE_8_A~Erreurs∙non∙rectifiables∙en∙vertu∙de∙la∙règle∙91}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Feuilles∙ou∙éléments∙manquants",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 219,
+  "name": "S29128",
+  "unit": "{Feuilles∙ou∙éléments∙manquants}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_A_1:fr:xml#PCTIPSE_8_A_1~Feuilles∙ou∙éléments∙manquants}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Correction∙des∙revendications∙de∙priorité",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 221,
+  "name": "S29129",
+  "unit": "{Correction∙des∙revendications∙de∙priorité}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_A_2:fr:xml#PCTIPSE_8_A_2~Correction∙des∙revendications∙de∙priorité}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Soumission∙et∙traitement∙d’une∙requête∙en∙rectification",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 227,
+  "name": "S29130",
+  "unit": "{Soumission∙et∙traitement∙d’une∙requête∙en∙rectification}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_D:fr:xml#PCTIPSE_8_D~Soumission∙et∙traitement∙d’une∙requête∙en∙rectification}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Autorisation∙et∙effet∙des∙rectifications",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 229,
+  "name": "S29131",
+  "unit": "{Autorisation∙et∙effet∙des∙rectifications}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_E:fr:xml#PCTIPSE_8_E~Autorisation∙et∙effet∙des∙rectifications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Date∙effective∙de∙la∙rectification",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 231,
+  "name": "S29132",
+  "unit": "{Date∙effective∙de∙la∙rectification}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_8_F:fr:xml#PCTIPSE_8_F~Date∙effective∙de∙la∙rectification}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 282,
+  "name": "S29133",
+  "unit": "{Recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_9_G:fr:xml#PCTIPSE_9_G~Recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réexamen∙de∙l’opinion",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 328,
+  "name": "S29135",
+  "unit": "{Réexamen∙de∙l’opinion}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_10_F_1:fr:xml#PCTIPSE_10_F_1~Réexamen∙de∙l’opinion}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙faite∙par∙le∙biais∙de∙sites∙Internet∙d’éditeurs∙de∙confiance",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 358,
+  "name": "S29136",
+  "unit": "{Divulgation∙faite∙par∙le∙biais∙de∙sites∙Internet∙d’éditeurs∙de∙confiance}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_11_E_3:fr:xml#PCTIPSE_11_E_3~Divulgation∙faite∙par∙le∙biais∙de∙sites∙Internet∙d’éditeurs∙de∙confiance}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgation∙faite∙sur∙des∙sites∙Internet∙dont∙la∙fiabilité∙n’est∙pas∙établie",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 360,
+  "name": "S29137",
+  "unit": "{Divulgation∙faite∙sur∙des∙sites∙Internet∙dont∙la∙fiabilité∙n’est∙pas∙établie}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_11_E_4:fr:xml#PCTIPSE_11_E_4~Divulgation∙faite∙sur∙des∙sites∙Internet∙dont∙la∙fiabilité∙n’est∙pas∙établie}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "But∙de∙la∙recherche∙internationale∙et∙de∙la∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 451,
+  "name": "S29138",
+  "unit": "{But∙de∙la∙recherche∙internationale∙et∙de∙la∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_A:fr:xml#PCTIPSE_15_A~But∙de∙la∙recherche∙internationale∙et∙de∙la∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Erreurs∙évidentes,∙expressions,∙etc.∙à∙ne∙pas∙utiliser∙(règle◦9)",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 483,
+  "name": "S29139",
+  "unit": "{Erreurs∙évidentes,∙expressions,∙etc.∙à∙ne∙pas∙utiliser∙(règle◦9)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_G_1:fr:xml#PCTIPSE_15_G_1~Erreurs∙évidentes,∙expressions,∙etc.∙à∙ne∙pas∙utiliser∙(règle◦9)}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Renseignements∙qui∙satisfont∙les∙critères∙de∙la∙règle∙48.2.l)",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 485,
+  "name": "S29140",
+  "unit": "{Renseignements∙qui∙satisfont∙les∙critères∙de∙la∙règle∙48.2.l)}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_H:fr:xml#PCTIPSE_15_H~Renseignements∙qui∙satisfont∙les∙critères∙de∙la∙règle∙48.2.l)}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Accès∙au∙dossier∙détenu∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 487,
+  "name": "S29141",
+  "unit": "{Accès∙au∙dossier∙détenu∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_I:fr:xml#PCTIPSE_15_I~Accès∙au∙dossier∙détenu∙par∙l’administration∙chargée∙de∙la∙recherche∙internationale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Demande∙de∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 533,
+  "name": "S29142",
+  "unit": "{Demande∙de∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_1:fr:xml#PCTIPSE_15_O_1~Demande∙de∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Réception∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire∙par∙l’administration",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 535,
+  "name": "S29143",
+  "unit": "{Réception∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire∙par∙l’administration}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_2:fr:xml#PCTIPSE_15_O_2~Réception∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire∙par∙l’administration}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Commencement∙de∙la∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 537,
+  "name": "S29144",
+  "unit": "{Commencement∙de∙la∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_3:fr:xml#PCTIPSE_15_O_3~Commencement∙de∙la∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Retrait∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 539,
+  "name": "S29145",
+  "unit": "{Retrait∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_4:fr:xml#PCTIPSE_15_O_4~Retrait∙de∙la∙demande∙de∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Base∙de∙la∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 541,
+  "name": "S29146",
+  "unit": "{Base∙de∙la∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_5:fr:xml#PCTIPSE_15_O_5~Base∙de∙la∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Revendications∙exclues∙de∙la∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 543,
+  "name": "S29147",
+  "unit": "{Revendications∙exclues∙de∙la∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_O_6:fr:xml#PCTIPSE_15_O_6~Revendications∙exclues∙de∙la∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Accès∙au∙dossier∙détenu∙par∙l’administration∙indiquée∙pour∙la∙recherche∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 549,
+  "name": "S29148",
+  "unit": "{Accès∙au∙dossier∙détenu∙par∙l’administration∙indiquée∙pour∙la∙recherche∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_Q:fr:xml#PCTIPSE_15_Q~Accès∙au∙dossier∙détenu∙par∙l’administration∙indiquée∙pour∙la∙recherche∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Unité∙de∙l’invention",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 551,
+  "name": "S29149",
+  "unit": "{Unité∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_Q_1:fr:xml#PCTIPSE_15_Q_1~Unité∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Étendue∙de∙la∙recherche",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 553,
+  "name": "S29150",
+  "unit": "{Étendue∙de∙la∙recherche}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_Q_2:fr:xml#PCTIPSE_15_Q_2~Étendue∙de∙la∙recherche}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Établissement∙du∙rapport∙de∙recherche∙internationale∙supplémentaire",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 555,
+  "name": "S29151",
+  "unit": "{Établissement∙du∙rapport∙de∙recherche∙internationale∙supplémentaire}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_Q_3:fr:xml#PCTIPSE_15_Q_3~Établissement∙du∙rapport∙de∙recherche∙internationale∙supplémentaire}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Copies∙de∙documents",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 557,
+  "name": "S29152",
+  "unit": "{Copies∙de∙documents}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_15_Q_4:fr:xml#PCTIPSE_15_Q_4~Copies∙de∙documents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Feuilles∙incluses∙dans∙la∙publication",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 579,
+  "name": "S29153",
+  "unit": "{Feuilles∙incluses∙dans∙la∙publication}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_D_3:fr:xml#PCTIPSE_16_D_3~Feuilles∙incluses∙dans∙la∙publication}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Référence∙au∙rapport∙de∙recherche∙internationale∙principale",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 607,
+  "name": "S29155",
+  "unit": "{Référence∙au∙rapport∙de∙recherche∙internationale∙principale}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_6:fr:xml#PCTIPSE_16_F_6~Référence∙au∙rapport∙de∙recherche∙internationale∙principale}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Abrégé",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 613,
+  "name": "S29156",
+  "unit": "{Abrégé}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_9:fr:xml#PCTIPSE_16_F_9~Abrégé}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Titre",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 615,
+  "name": "S29157",
+  "unit": "{Titre}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_10:fr:xml#PCTIPSE_16_F_10~Titre}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Dessins∙à∙publier",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 617,
+  "name": "S29158",
+  "unit": "{Dessins∙à∙publier}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_11:fr:xml#PCTIPSE_16_F_11~Dessins∙à∙publier}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙particulièrement∙pertinents",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 635,
+  "name": "S29159",
+  "unit": "{Documents∙particulièrement∙pertinents}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_20:fr:xml#PCTIPSE_16_F_20~Documents∙particulièrement∙pertinents}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙définissant∙l’état∙de∙la∙technique∙sans∙nuire∙à∙la∙nouveauté∙ou∙à∙l’activité∙inventive",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 637,
+  "name": "S29160",
+  "unit": "{Documents∙définissant∙l’état∙de∙la∙technique∙sans∙nuire∙à∙la∙nouveauté∙ou∙à∙l’activité∙inventive}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_21:fr:xml#PCTIPSE_16_F_21~Documents∙définissant∙l’état∙de∙la∙technique∙sans∙nuire∙à∙la∙nouveauté∙ou∙à∙l’activité∙inventive}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙se∙référant∙à∙une∙divulgation∙non∙écrite",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 639,
+  "name": "S29161",
+  "unit": "{Documents∙se∙référant∙à∙une∙divulgation∙non∙écrite}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_22:fr:xml#PCTIPSE_16_F_22~Documents∙se∙référant∙à∙une∙divulgation∙non∙écrite}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙intermédiaires",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 641,
+  "name": "S29162",
+  "unit": "{Documents∙intermédiaires}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_23:fr:xml#PCTIPSE_16_F_23~Documents∙intermédiaires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙ayant∙trait∙à∙la∙théorie∙ou∙au∙principe∙constituant∙la∙base∙même∙de∙l’invention",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 643,
+  "name": "S29163",
+  "unit": "{Documents∙ayant∙trait∙à∙la∙théorie∙ou∙au∙principe∙constituant∙la∙base∙même∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_24:fr:xml#PCTIPSE_16_F_24~Documents∙ayant∙trait∙à∙la∙théorie∙ou∙au∙principe∙constituant∙la∙base∙même∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙de∙brevet∙éventuellement∙contradictoires",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 645,
+  "name": "S29164",
+  "unit": "{Documents∙de∙brevet∙éventuellement∙contradictoires}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_25:fr:xml#PCTIPSE_16_F_25~Documents∙de∙brevet∙éventuellement∙contradictoires}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙cités∙dans∙la∙demande",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 647,
+  "name": "S29165",
+  "unit": "{Documents∙cités∙dans∙la∙demande}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_26:fr:xml#PCTIPSE_16_F_26~Documents∙cités∙dans∙la∙demande}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Documents∙cités∙pour∙d’autres∙raisons",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 649,
+  "name": "S29166",
+  "unit": "{Documents∙cités∙pour∙d’autres∙raisons}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_27:fr:xml#PCTIPSE_16_F_27~Documents∙cités∙pour∙d’autres∙raisons}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Divulgations∙non∙opposables",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 651,
+  "name": "S29167",
+  "unit": "{Divulgations∙non∙opposables}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_16_F_28:fr:xml#PCTIPSE_16_F_28~Divulgations∙non∙opposables}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Considérations∙linguistiques",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 684,
+  "name": "S29168",
+  "unit": "{Considérations∙linguistiques}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_5:fr:xml#PCTIPSE_17_C_5~Considérations∙linguistiques}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Feuilles∙de∙remplacement∙réputées∙faire∙partie∙de∙la∙demande∙telle∙qu’elle∙a∙été∙initialement∙déposée",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 686,
+  "name": "S29169",
+  "unit": "{Feuilles∙de∙remplacement∙réputées∙faire∙partie∙de∙la∙demande∙telle∙qu’elle∙a∙été∙initialement∙déposée}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_6:fr:xml#PCTIPSE_17_C_6~Feuilles∙de∙remplacement∙réputées∙faire∙partie∙de∙la∙demande∙telle∙qu’elle∙a∙été∙initialement∙déposée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Examen∙sur∙la∙base∙d’une∙demande∙internationale∙modifiée",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 688,
+  "name": "S29170",
+  "unit": "{Examen∙sur∙la∙base∙d’une∙demande∙internationale∙modifiée}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_7:fr:xml#PCTIPSE_17_C_7~Examen∙sur∙la∙base∙d’une∙demande∙internationale∙modifiée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 690,
+  "name": "S29171",
+  "unit": "{Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_8:fr:xml#PCTIPSE_17_C_8~Listages∙des∙séquences∙de∙nucléotides∙et/ou∙d’acides∙aminés}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙entraînant∙des∙décalages∙de∙numérotation",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 692,
+  "name": "S29172",
+  "unit": "{Modifications∙entraînant∙des∙décalages∙de∙numérotation}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_9:fr:xml#PCTIPSE_17_C_9~Modifications∙entraînant∙des∙décalages∙de∙numérotation}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙s’étendant∙au-delà∙de∙l’exposé∙initial∙de∙l’invention",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 694,
+  "name": "S29173",
+  "unit": "{Modifications∙s’étendant∙au-delà∙de∙l’exposé∙initial∙de∙l’invention}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_10:fr:xml#PCTIPSE_17_C_10~Modifications∙s’étendant∙au-delà∙de∙l’exposé∙initial∙de∙l’invention}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modifications∙non∙accompagnées∙d’une∙lettre∙indiquant∙la∙base∙des∙modifications∙dans∙la∙demande∙telle∙qu’elle∙a∙été∙déposée",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 698,
+  "name": "S29174",
+  "unit": "{Modifications∙non∙accompagnées∙d’une∙lettre∙indiquant∙la∙base∙des∙modifications∙dans∙la∙demande∙telle∙qu’elle∙a∙été∙déposée}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_12:fr:xml#PCTIPSE_17_C_12~Modifications∙non∙accompagnées∙d’une∙lettre∙indiquant∙la∙base∙des∙modifications∙dans∙la∙demande∙telle∙qu’elle∙a∙été∙déposée}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Objet∙exclu∙en∙vertu∙de∙la∙règle∙67.1",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 706,
+  "name": "S29175",
+  "unit": "{Objet∙exclu∙en∙vertu∙de∙la∙règle∙67.1}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_16:fr:xml#PCTIPSE_17_C_16~Objet∙exclu∙en∙vertu∙de∙la∙règle∙67.1}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Clarté∙ou∙fondement",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 708,
+  "name": "S29176",
+  "unit": "{Clarté∙ou∙fondement}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_17:fr:xml#PCTIPSE_17_C_17~Clarté∙ou∙fondement}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Aucune∙recherche∙internationale∙effectuée∙pour∙tout∙ou∙partie∙des∙revendications",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 710,
+  "name": "S29177",
+  "unit": "{Aucune∙recherche∙internationale∙effectuée∙pour∙tout∙ou∙partie∙des∙revendications}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_18:fr:xml#PCTIPSE_17_C_18~Aucune∙recherche∙internationale∙effectuée∙pour∙tout∙ou∙partie∙des∙revendications}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Taxes∙additionnelles∙acquittées∙sous∙réserve",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 716,
+  "name": "S29178",
+  "unit": "{Taxes∙additionnelles∙acquittées∙sous∙réserve}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_C_21:fr:xml#PCTIPSE_17_C_21~Taxes∙additionnelles∙acquittées∙sous∙réserve}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Opinion∙écrite∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙ou∙rapport∙d’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 744,
+  "name": "S29179",
+  "unit": "{Opinion∙écrite∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙ou∙rapport∙d’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_17_E_4:fr:xml#PCTIPSE_17_E_4~Opinion∙écrite∙de∙l’administration∙chargée∙de∙l’examen∙préliminaire∙international∙ou∙rapport∙d’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Modification∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 825,
+  "name": "S29180",
+  "unit": "{Modification∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_20_A:fr:xml#PCTIPSE_20_A~Modification∙avant∙le∙commencement∙de∙l’examen∙préliminaire∙international}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Communication∙entre∙administrations",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 860,
+  "name": "S29181",
+  "unit": "{Communication∙entre∙administrations}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_21_F_1:fr:xml#PCTIPSE_21_F_1~Communication∙entre∙administrations}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Communications∙avec∙les∙utilisateurs∙et∙conseils∙aux∙utilisateurs",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 862,
+  "name": "S29182",
+  "unit": "{Communications∙avec∙les∙utilisateurs∙et∙conseils∙aux∙utilisateurs}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_21_F_2:fr:xml#PCTIPSE_21_F_2~Communications∙avec∙les∙utilisateurs∙et∙conseils∙aux∙utilisateurs}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Communications∙avec∙l’OMPI∙et∙avec∙les∙offices∙désignés∙ou∙élus",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 864,
+  "name": "S29183",
+  "unit": "{Communications∙avec∙l’OMPI∙et∙avec∙les∙offices∙désignés∙ou∙élus}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_21_F_3:fr:xml#PCTIPSE_21_F_3~Communications∙avec∙l’OMPI∙et∙avec∙les∙offices∙désignés∙ou∙élus}"
+ },
+ {
+  "text": "9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙réunion∙des∙administrations∙internationales",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 872,
+  "name": "S29184",
+  "unit": "{9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙réunion∙des∙administrations∙internationales}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_21_J:fr:xml#PCTIPSE_21_J~9.∙Dispositions∙prises∙par∙les∙administrations∙pour∙faire∙rapport∙à∙la∙réunion∙des∙administrations∙internationales}"
+ },
+ {
+  "bad":true, "comment":"duplicated",
+"text": "Excuse∙dans∙l’observation∙des∙délais",
+  "file": "/WO/organization/PCT/2016/1/1.0/electronicproofer/fr/ipse.eplegal.zip",
+  "relativeParagraph": 919,
+  "name": "S29185",
+  "unit": "{Excuse∙dans∙l’observation∙des∙délais}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1:1.0:electronicproofer:PCTIPSE_22_T:fr:xml#PCTIPSE_22_T~Excuse∙dans∙l’observation∙des∙délais}"
+ }
+]

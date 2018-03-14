@@ -1,0 +1,10 @@
+let {atom,regexp,Lexer,use,equivalences} = require('../../../../../../../lib/lexer-tolerant.js');
+let tihyLexer = new Lexer("tihyLexer");
+use(tihyLexer);
+
+
+atom("GuiAppAnnexTOC",regexp("^Annexes?[ \xa0][IVX]+.*$"));
+atom("GuiAppChapterTOC",regexp("^[A-Z]\\.[\xa0\t].*$"));
+atom("GuiAppSubchapterTOC",regexp("^[IVX]+\\.[ \xa0\t].*$"));
+atom("GuiAppNonNamedChapterTOC",regexp("^([A-ZÉ][a-zéù]|L'[A-Za-z]|\"[A-Z][a-z]).*$")).context({style:"TOC3"});
+module.exports = tihyLexer;

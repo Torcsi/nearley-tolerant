@@ -1,0 +1,66 @@
+[
+ {
+  "text": "L'article∙premier∙REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV6",
+  "relativeParagraph": 1,
+  "name": "S02177",
+  "unit": "{L'article∙premier∙REV}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV1:fr:docx:revisionact::#REV1~L'article∙premier∙REV}"
+ },
+ {
+  "text": "l'article∙2∙REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV6",
+  "relativeParagraph": 1,
+  "name": "S02178",
+  "unit": "{l'article∙2∙REV}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV2:fr:docx:revisionact::#REV2~l'article∙2∙REV}"
+ },
+ {
+  "text": "L'article∙premier",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV6",
+  "relativeParagraph": 1,
+  "name": "S02179",
+  "unit": "{L'article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:REV1:fr:docx:revisionact::#REV1~L'article∙premier}"
+ },
+ {
+  "text": "l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV",
+  "relativeParagraph": 3,
+  "name": "S02248",
+  "unit": "{l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV8_1:fr:docx:revisionact::REV8#REV8_1~l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision}"
+ },
+ {
+  "text": "L'article∙1∙REV",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV6",
+  "relativeParagraph": 1,
+  "name": "S02249",
+  "unit": "{L'article∙1∙REV}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV1:fr:docx:revisionact::#REV1~L'article∙1∙REV}"
+ },
+ {
+  "text": "L'article",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV6",
+  "relativeParagraph": 1,
+  "name": "S02250",
+  "unit": "{L'article}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV1:fr:docx:revisionact::#REV1~L'article}",
+  "bad": true
+ },
+ {
+  "text": "l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/revisionact.eplegal.zip",
+  "referringId": "REV8",
+  "relativeParagraph": 1,
+  "name": "S02251",
+  "unit": "{l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:REV8_1:fr:docx:revisionact::REV8#REV8_1~l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision}"
+ }
+]

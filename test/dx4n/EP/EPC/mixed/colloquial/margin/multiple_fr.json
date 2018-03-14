@@ -1,0 +1,55 @@
+[
+ {
+  "text": "Art.∙81,∙R.∙60",
+  "unit": "{Art.∙81},∙{R.∙60}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A81:fr:xml#A81~Art.∙81},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R60:fr:xml#R60~R.∙60}",
+  "name": "M38135",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_51",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.∙78(2),∙R.∙38",
+  "unit": "{Art.∙78(2)},∙{R.∙38}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A78_2:fr:xml#A78_2~Art.∙78(2)},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R38:fr:xml#R38~R.∙38}",
+  "name": "M38179",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_115",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.∙2,∙5,∙7◦RRT",
+  "unit": "{Art.∙2},∙{5},∙{7◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A2:fr:xml#A2~Art.∙2},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A5:fr:xml#A5~5},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:7:fr:xml#7~7◦RRT}",
+  "name": "M38189",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_121",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.∙80,∙R.◦55",
+  "unit": "{Art.∙80},∙{R.◦55}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A80:fr:xml#A80~Art.∙80},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R55:fr:xml#R55~R.◦55}",
+  "name": "M38197",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_138",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙62(2),∙Art.∙128",
+  "unit": "{R.∙62(2)},∙{Art.∙128}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R62_2:fr:xml#R62_2~R.∙62(2)},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A128:fr:xml#A128~Art.∙128}",
+  "name": "M38201",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_144",
+  "relativeParagraph": 14
+ },
+ {
+  "text": "Art.∙128,∙R.∙62(2)",
+  "unit": "{Art.∙128},∙{R.∙62(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A128:fr:xml#A128~Art.∙128},∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:R62_2:fr:xml#R62_2~R.∙62(2)}",
+  "name": "M38243",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 15
+ }
+]

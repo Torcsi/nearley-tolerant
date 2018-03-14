@@ -1,0 +1,83 @@
+[
+ {
+  "text": "RFees◦3(1),(3)",
+  "unit": "{RFees◦3(1)},{(3)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:3_1:en:xml~RFees◦3(1)},{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:3_3:en:xml~(3)}",
+  "name": "M11082",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 45
+ },
+ {
+  "text": "RFees◦2(1).6,∙RFees◦11",
+  "unit": "{RFees◦2(1).6},∙{RFees◦11}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_6:en:xml~RFees◦2(1).6},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:11:en:xml~RFees◦11}",
+  "name": "M11232",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 294
+ },
+ {
+  "text": "RFees◦1(a),∙RFees◦2",
+  "unit": "{RFees◦1(a)},∙{RFees◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:1_a:en:xml~RFees◦1(a)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2:en:xml~RFees◦2}",
+  "name": "M11246",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_F",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "RFees◦9-∙12",
+  "unit": "{RFees◦9}-∙{12}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:9:en:xml~RFees◦9}-∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:12:en:xml~12}",
+  "name": "M11250",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_F",
+  "relativeParagraph": 17
+ },
+ {
+  "text": "RFees◦2(1).11a,∙RFees◦14",
+  "unit": "{RFees◦2(1).11a},∙{RFees◦14}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_11a:en:xml~RFees◦2(1).11a},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:14:en:xml~RFees◦14}",
+  "name": "M11300",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_P",
+  "relativeParagraph": 32
+ },
+ {
+  "bad":true,
+ "text": "(2),∙RFees◦4(2),∙RFees◦5(2),∙RFees◦9(2),∙RFees◦12",
+  "unit": "{(2)},∙{RFees◦4(2)},∙{RFees◦5(2)},∙{RFees◦9(2)},∙{RFees◦12}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:3_2:en:xml~(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:4_2:en:xml~RFees◦4(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:5_2:en:xml~RFees◦5(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:9_2:en:xml~RFees◦9(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:12:en:xml~RFees◦12}",
+  "name": "M11308",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_P",
+  "relativeParagraph": 55
+ },
+ {
+  "text": "RFees◦2(1).2,∙2(1).22",
+  "unit": "{RFees◦2(1).2},∙{2(1).22}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_2:en:xml~RFees◦2(1).2},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_22:en:xml~2(1).22}",
+  "name": "M11340",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_S",
+  "relativeParagraph": 56
+ },
+ {
+  "text": "RFees◦7(3)(b),∙7(4)",
+  "unit": "{RFees◦7(3)(b)},∙{7(4)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3_b:en:xml~RFees◦7(3)(b)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:en:xml~7(4)}",
+  "name": "M11342",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_S",
+  "relativeParagraph": 57
+ },
+ {
+  "text": "RFees◦2(1).1a,∙RFees◦2(1).1",
+  "unit": "{RFees◦2(1).1a},∙{RFees◦2(1).1}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:2_1_1a:en:xml#2_1_1a~RFees◦2(1).1a},∙{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:2_1_1:en:xml#2_1_1~RFees◦2(1).1}",
+  "name": "M11446",
+  "file": "/EP/organization/EPC/2016/1/2.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "relativeParagraph": 30
+ }
+]

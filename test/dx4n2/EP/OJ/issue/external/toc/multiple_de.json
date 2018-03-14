@@ -1,0 +1,32 @@
+[
+ {
+  "text": "ABl.◦EPA∙2002,∙429,∙ABl.◦EPA∙2004,∙361∙und∙ABl.◦EPA∙2007,∙12",
+  "unit": "{ABl.◦EPA∙2002,∙429},∙{ABl.◦EPA∙2004,∙361}∙und∙{ABl.◦EPA∙2007,∙12}",
+  "value": "{ep-legal:countries:EP::OJ:2002:08-09::internet:OJ_2002_429:de:docx:OJ_2002_429::#OJ_2002_429~ABl.◦EPA∙2002,∙429},∙{ep-legal:countries:EP::OJ:2004:07::internet:OJ_2004_361:de:docx:OJ_2004_361::#OJ_2004_361~ABl.◦EPA∙2004,∙361}∙und∙{ep-legal:countries:EP::OJ:2007:01::internet:OJ_2007_12:de:docx:OJ_2007_12::#OJ_2007_12~ABl.◦EPA∙2007,∙12}",
+  "name": "M54886",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/de/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 101
+ },
+ {
+  "text": "ABl.◦EPA∙2007,∙552,∙553",
+  "unit": "{ABl.◦EPA∙2007,∙552},∙{553}",
+  "value": "{ep-legal:countries:EP::OJ:2007:11::internet:OJ_2007_552:de:docx:OJ_2007_552::#OJ_2007_552~ABl.◦EPA∙2007,∙552},∙{ep-legal:countries:EP::OJ:2007:11::internet:OJ_2007_552:de:docx:OJ_2007_552::#OJ_2007_552~553}",
+  "name": "M54888",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/de/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 117
+ },
+ {
+  "text": "ABl.◦EPA∙2014,∙A117∙und∙ABl.◦EPA∙2016,∙A30",
+  "unit": "{ABl.◦EPA∙2014,∙A117}∙und∙{ABl.◦EPA∙2016,∙A30}",
+  "value": "{ep-legal:countries:EP::OJ:2014:11::internet:OJ_2014_A117:de:docx:OJ_2014_A117::#OJ_2014_A117~ABl.◦EPA∙2014,∙A117}∙und∙{ep-legal:countries:EP::OJ:2016:03::internet:OJ_2016_A30:de:docx:OJ_2016_A30::#OJ_2016_A30~ABl.◦EPA∙2016,∙A30}",
+  "name": "M54890",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/de/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 136
+ }
+]

@@ -1,0 +1,152 @@
+[
+ {
+  "text": "I.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 13,
+  "style": "ITOC1",
+  "name": "S04626",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_I:fr:docx:I::#CLR_I~I.→xxx}"
+ },
+ {
+  "text": "AVERTISSEMENT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 4,
+  "style": "ITOC1",
+  "name": "S05331",
+  "unit": "{AVERTISSEMENT}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_GUIDE:fr:docx:guide::#CLR_GUIDE~AVERTISSEMENT}"
+ },
+ {
+  "text": "QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 5,
+  "style": "ITOC1",
+  "name": "S05332",
+  "unit": "{QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_HEADWORDS:fr:docx:headnotes::#CLR_HEADWORDS~QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}"
+ },
+ {
+  "text": "TABLE∙DES∙MATIÈRES∙DÉTAILLÉE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 6,
+  "style": "ITOC1",
+  "name": "S05333",
+  "unit": "{TABLE∙DES∙MATIÈRES∙DÉTAILLÉE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_TOC:fr:docx:toc::#CLR_TOC~TABLE∙DES∙MATIÈRES∙DÉTAILLÉE}"
+ },
+ {
+  "text": "I.◦BREVETABILITE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 7,
+  "style": "ITOC1",
+  "name": "S05334",
+  "unit": "{I.◦BREVETABILITE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_I:fr:docx:I::#CLR_I~I.◦BREVETABILITE}"
+ },
+ {
+  "text": "INDEX∙DES∙DÉCISIONS∙CITÉES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 17,
+  "style": "ITOC1",
+  "name": "S05335",
+  "unit": "{INDEX∙DES∙DÉCISIONS∙CITÉES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_DECISIONS:fr:docx:tableofcases::#CLR_DECISIONS~INDEX∙DES∙DÉCISIONS∙CITÉES}"
+ },
+ {
+  "text": "LISTE∙DES∙DISPOSITIONS∙CITÉES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 18,
+  "style": "ITOC1",
+  "name": "S05336",
+  "unit": "{LISTE∙DES∙DISPOSITIONS∙CITÉES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_CITATIONS:fr:docx:indexofcitedprovisions::#CLR_CITATIONS~LISTE∙DES∙DISPOSITIONS∙CITÉES}"
+ },
+ {
+  "text": "INDEX∙ALPHABÉTIQUE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 19,
+  "style": "ITOC1",
+  "name": "S05337",
+  "unit": "{INDEX∙ALPHABÉTIQUE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1::internet:CLR_GLO:fr:docx:keywordindex::#CLR_GLO~INDEX∙ALPHABÉTIQUE}"
+ },
+ {
+  "text": "AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 5,
+  "style": "TOC1",
+  "name": "S05371",
+  "unit": "{AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1::internet:CLR_FOREWORD:fr:docx:foreword::#CLR_FOREWORD~AVANT-PROPOS∙DE∙LA∙SIXIÈME∙ÉDITION}"
+ },
+ {
+  "text": "SOMMAIRE∙DE∙L'AVIS∙G◦3/08",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 7,
+  "style": "TOC1",
+  "name": "S05372",
+  "unit": "{SOMMAIRE∙DE∙L'AVIS∙G◦3/08}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1::internet:CLR_HEADWORDS:fr:docx:headnotes::#CLR_HEADWORDS~SOMMAIRE∙DE∙L'AVIS∙G◦3/08}"
+ },
+ {
+  "text": "ANNEXES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2010/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 20,
+  "style": "TOC1",
+  "name": "S05373",
+  "unit": "{ANNEXES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1::internet:CLR_ANNEXES:fr:docx:annexes::CLR_RPEBA#CLR_ANNEXES~ANNEXES}"
+ },
+ {
+  "text": "Table∙des∙matières∙détaillée",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2013/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 5,
+  "style": "TOC1",
+  "name": "S05393",
+  "unit": "{Table∙des∙matières∙détaillée}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1::internet:CLR_TOC:fr:docx:toc::#CLR_TOC~Table∙des∙matières∙détaillée}"
+ },
+ {
+  "text": "Avant-propos∙de∙la∙septième∙édition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2013/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 6,
+  "style": "TOC1",
+  "name": "S05394",
+  "unit": "{Avant-propos∙de∙la∙septième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1::internet:CLR_FOREWORD:fr:docx:foreword::#CLR_FOREWORD~Avant-propos∙de∙la∙septième∙édition}"
+ },
+ {
+  "text": "Annexes",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2013/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 17,
+  "style": "TOC1",
+  "name": "S05395",
+  "unit": "{Annexes}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1::internet:CLR_ANNEXES:fr:docx:annexes::CLR_RPEBA#CLR_ANNEXES~Annexes}"
+ },
+ {
+  "text": "Avant-propos∙de∙la∙huitième∙édition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2016/1/internet/fr/index.eplegal.zip",
+  "referringId": "CLR_INDEX",
+  "relativeParagraph": 6,
+  "style": "TOC1",
+  "name": "S05412",
+  "unit": "{Avant-propos∙de∙la∙huitième∙édition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1::internet:CLR_FOREWORD:fr:docx:foreword::#CLR_FOREWORD~Avant-propos∙de∙la∙huitième∙édition}"
+ }
+]

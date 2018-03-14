@@ -1,0 +1,83 @@
+[
+ {
+  "text": "Abschnitts∙III",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CI_2",
+  "relativeParagraph": 0,
+  "name": "S13522",
+  "unit": "{Abschnitts∙III}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:de:xml~Abschnitts∙III}"
+ },
+ {
+  "text": "Buchstabens◦a",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CIV_1_b",
+  "relativeParagraph": 0,
+  "name": "S13523",
+  "unit": "{Buchstabens◦a}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_a:de:xml~Buchstabens◦a}"
+ },
+ {
+  "text": "Buchstabens∙b",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CIV_1_c",
+  "relativeParagraph": 0,
+  "name": "S13524",
+  "unit": "{Buchstabens∙b}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_b:de:xml~Buchstabens∙b}"
+ },
+ {
+  "text": "Abschnitt◦I∙Nummer◦2",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CIV_2_a",
+  "relativeParagraph": 0,
+  "name": "S13525",
+  "unit": "{Abschnitt◦I∙Nummer◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_2:de:xml~Abschnitt◦I∙Nummer◦2}"
+ },
+ {
+  "text": "Nummer◦1∙Buchstabe◦b",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CIV_2_c",
+  "relativeParagraph": 0,
+  "name": "S13526",
+  "unit": "{Nummer◦1∙Buchstabe◦b}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_b:de:xml~Nummer◦1∙Buchstabe◦b}"
+ },
+ {
+  "text": "Abschnitt◦I∙Nummer◦1∙Buchstabe◦c",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CV_1",
+  "relativeParagraph": 0,
+  "name": "S13527",
+  "unit": "{Abschnitt◦I∙Nummer◦1∙Buchstabe◦c}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_c:de:xml~Abschnitt◦I∙Nummer◦1∙Buchstabe◦c}"
+ },
+ {
+  "text": "Nummer◦1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CV_2",
+  "relativeParagraph": 0,
+  "name": "S13528",
+  "unit": "{Nummer◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV_1:de:xml~Nummer◦1}"
+ },
+ {
+  "text": "Abschnitt◦VI",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CV_2",
+  "relativeParagraph": 0,
+  "name": "S13530",
+  "unit": "{Abschnitt◦VI}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CVI:de:xml~Abschnitt◦VI}"
+ },
+ {
+  "text": "Zentr.◦Prot.◦I◦(1)◦b)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I_1_1_3",
+  "relativeParagraph": 24,
+  "name": "S13944",
+  "unit": "{Zentr.◦Prot.◦I◦(1)◦b)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:CI_1_b:de:xml#CI_1_b~Zentr.◦Prot.◦I◦(1)◦b)}"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "bad":true,
+ "text": "IB-XI,◦3.9∙et∙IC-VIII,◦2.2",
+  "unit": "{IB-XI,◦3.9}∙et∙{IC-VIII,◦2.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IB_XI_3_9:fr:xml#IB_XI_3_9~IB-XI,◦3.9}∙et∙{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IC_VIII_2_2:fr:xml#IC_VIII_2_2~IC-VIII,◦2.2}",
+  "name": "M34059",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-ii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_II_4",
+  "relativeParagraph": 229
+ },
+ {
+  "bad":true,
+ "text": "IE-V,∙3.1∙à∙3.3",
+  "unit": "{IE-V,∙3.1}∙à∙{3.3}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IE_V_3_1:fr:xml#IE_V_3_1~IE-V,∙3.1}∙à∙{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IE_V_3_3:fr:xml#IE_V_3_3~3.3}",
+  "name": "M34129",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-vii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VII_2_1_5",
+  "relativeParagraph": 6
+ }
+]

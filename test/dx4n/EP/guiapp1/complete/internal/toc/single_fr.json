@@ -1,0 +1,598 @@
+[
+ {
+  "text": "Avant-propos",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 10,
+  "name": "S28200",
+  "unit": "{Avant-propos}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_FOREWORD:fr:xml#GA_FOREWORD~Avant-propos}"
+ },
+ {
+  "text": "A.→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 11,
+  "name": "S28201",
+  "unit": "{A.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_A:fr:xml#GA_A~A.→xxx}"
+ },
+ {
+  "text": "I.→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 12,
+  "name": "S28202",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_A_I:fr:xml#GA_A_I~I.→xxx}"
+ },
+ {
+  "text": "B.→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 17,
+  "name": "S28203",
+  "unit": "{B.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_B:fr:xml#GA_B~B.→xxx}"
+ },
+ {
+  "text": "Annexe∙I→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 37,
+  "name": "S28204",
+  "unit": "{Annexe∙I→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AI:fr:xml#GA_AI~Annexe∙I→xxx}"
+ },
+ {
+  "text": "Annexe∙II→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 38,
+  "name": "S28205",
+  "unit": "{Annexe∙II→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AII:fr:xml#GA_AII~Annexe∙II→xxx}"
+ },
+ {
+  "text": "Annexe∙III→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 39,
+  "name": "S28206",
+  "unit": "{Annexe∙III→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AIII:fr:xml#GA_AIII~Annexe∙III→xxx}"
+ },
+ {
+  "text": "Annexe◦IV→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 40,
+  "name": "S28207",
+  "unit": "{Annexe◦IV→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AIV:fr:xml#GA_AIV~Annexe◦IV→xxx}"
+ },
+ {
+  "text": "Annexe◦V→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 41,
+  "name": "S28208",
+  "unit": "{Annexe◦V→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AV:fr:xml#GA_AV~Annexe◦V→xxx}"
+ },
+ {
+  "text": "Annexe◦VI→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 42,
+  "name": "S28209",
+  "unit": "{Annexe◦VI→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AVI:fr:xml#GA_AVI~Annexe◦VI→xxx}"
+ },
+ {
+  "text": "Annexe◦VII→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 43,
+  "name": "S28210",
+  "unit": "{Annexe◦VII→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AVII:fr:xml#GA_AVII~Annexe◦VII→xxx}"
+ },
+ {
+  "text": "Annexe◦VIII→xxx",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_INDEX",
+  "relativeParagraph": 44,
+  "name": "S28211",
+  "unit": "{Annexe◦VIII→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_AVIII:fr:xml#GA_AVIII~Annexe◦VIII→xxx}"
+ },
+ {
+  "text": "A.◦Partie∙générale",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 8,
+  "name": "S28212",
+  "unit": "{A.◦Partie∙générale}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_A:fr:xml#GA_A~A.◦Partie∙générale}"
+ },
+ {
+  "text": "Facteurs∙de∙nature∙juridique",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 13,
+  "name": "S28213",
+  "unit": "{Facteurs∙de∙nature∙juridique}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_A_IV_1:fr:xml#GA_A_IV_1~Facteurs∙de∙nature∙juridique}"
+ },
+ {
+  "text": "Facteurs∙de∙nature∙économique",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 14,
+  "name": "S28214",
+  "unit": "{Facteurs∙de∙nature∙économique}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_A_IV_2:fr:xml#GA_A_IV_2~Facteurs∙de∙nature∙économique}"
+ },
+ {
+  "text": "B.◦Brevetabilité",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 16,
+  "name": "S28215",
+  "unit": "{B.◦Brevetabilité}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_B:fr:xml#GA_B~B.◦Brevetabilité}"
+ },
+ {
+  "text": "Droits∙antérieurs",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 20,
+  "name": "S28217",
+  "unit": "{Droits∙antérieurs}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_B_II_2:fr:xml#GA_B_II_2~Droits∙antérieurs}"
+ },
+ {
+  "text": "Qui∙peut∙déposer∙une∙demande∙de∙brevet∙européen◦?",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 24,
+  "name": "S28218",
+  "unit": "{Qui∙peut∙déposer∙une∙demande∙de∙brevet∙européen◦?}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_1:fr:xml#GA_C_I_1~Qui∙peut∙déposer∙une∙demande∙de∙brevet∙européen◦?}"
+ },
+ {
+  "text": "Pour∙quels∙États∙la∙demande∙de∙brevet∙européen∙peut-elle∙être∙déposée◦?",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 25,
+  "name": "S28219",
+  "unit": "{Pour∙quels∙États∙la∙demande∙de∙brevet∙européen∙peut-elle∙être∙déposée◦?}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_2:fr:xml#GA_C_I_2~Pour∙quels∙États∙la∙demande∙de∙brevet∙européen∙peut-elle∙être∙déposée◦?}"
+ },
+ {
+  "text": "Langue∙de∙la∙demande∙de∙brevet∙européen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 26,
+  "name": "S28220",
+  "unit": "{Langue∙de∙la∙demande∙de∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_3:fr:xml#GA_C_I_3~Langue∙de∙la∙demande∙de∙brevet∙européen}"
+ },
+ {
+  "text": "Facilités∙linguistiques∙pour∙les∙déposants∙de∙certains∙États∙contractants",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 27,
+  "name": "S28221",
+  "unit": "{Facilités∙linguistiques∙pour∙les∙déposants∙de∙certains∙États∙contractants}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_4:fr:xml#GA_C_I_4~Facilités∙linguistiques∙pour∙les∙déposants∙de∙certains∙États∙contractants}"
+ },
+ {
+  "text": "Éléments∙de∙la∙demande∙de∙brevet∙européen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 28,
+  "name": "S28222",
+  "unit": "{Éléments∙de∙la∙demande∙de∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_5:fr:xml#GA_C_I_5~Éléments∙de∙la∙demande∙de∙brevet∙européen}"
+ },
+ {
+  "text": "Requête∙en∙délivrance",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 29,
+  "name": "S28223",
+  "unit": "{Requête∙en∙délivrance}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_6:fr:xml#GA_C_I_6~Requête∙en∙délivrance}"
+ },
+ {
+  "text": "Désignation∙de∙l'inventeur",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 30,
+  "name": "S28224",
+  "unit": "{Désignation∙de∙l'inventeur}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_7:fr:xml#GA_C_I_7~Désignation∙de∙l'inventeur}"
+ },
+ {
+  "text": "Revendication∙de∙priorité",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 31,
+  "name": "S28225",
+  "unit": "{Revendication∙de∙priorité}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_8:fr:xml#GA_C_I_8~Revendication∙de∙priorité}"
+ },
+ {
+  "text": "Dépôt∙par∙renvoi∙à∙une∙demande∙déposée∙antérieurement",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 32,
+  "name": "S28226",
+  "unit": "{Dépôt∙par∙renvoi∙à∙une∙demande∙déposée∙antérieurement}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_9:fr:xml#GA_C_I_9~Dépôt∙par∙renvoi∙à∙une∙demande∙déposée∙antérieurement}"
+ },
+ {
+  "text": "Représentation",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 33,
+  "name": "S28227",
+  "unit": "{Représentation}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_10:fr:xml#GA_C_I_10~Représentation}"
+ },
+ {
+  "text": "Exposé∙de∙l'invention",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 35,
+  "name": "S28228",
+  "unit": "{Exposé∙de∙l'invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_1:fr:xml#GA_C_II_1~Exposé∙de∙l'invention}"
+ },
+ {
+  "text": "Unité∙d'invention",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 36,
+  "name": "S28229",
+  "unit": "{Unité∙d'invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_2:fr:xml#GA_C_II_2~Unité∙d'invention}"
+ },
+ {
+  "text": "Établissement∙des∙pièces∙techniques∙de∙la∙demande",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 37,
+  "name": "S28230",
+  "unit": "{Établissement∙des∙pièces∙techniques∙de∙la∙demande}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_3:fr:xml#GA_C_II_3~Établissement∙des∙pièces∙techniques∙de∙la∙demande}"
+ },
+ {
+  "text": "Description",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 38,
+  "name": "S28231",
+  "unit": "{Description}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_4:fr:xml#GA_C_II_4~Description}"
+ },
+ {
+  "text": "Demandes∙dans∙le∙domaine∙de∙la∙biotechnologie",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 39,
+  "name": "S28232",
+  "unit": "{Demandes∙dans∙le∙domaine∙de∙la∙biotechnologie}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_5:fr:xml#GA_C_II_5~Demandes∙dans∙le∙domaine∙de∙la∙biotechnologie}"
+ },
+ {
+  "text": "a)∙Séquences∙de∙nucléotides∙ou∙d'acides∙aminés",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 40,
+  "name": "S28233",
+  "unit": "{a)∙Séquences∙de∙nucléotides∙ou∙d'acides∙aminés}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_6:fr:xml#GA_C_II_6~a)∙Séquences∙de∙nucléotides∙ou∙d'acides∙aminés}"
+ },
+ {
+  "text": "b)∙Description∙complétée∙par∙le∙dépôt∙de∙matière∙biologique",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 41,
+  "name": "S28234",
+  "unit": "{b)∙Description∙complétée∙par∙le∙dépôt∙de∙matière∙biologique}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_7:fr:xml#GA_C_II_7~b)∙Description∙complétée∙par∙le∙dépôt∙de∙matière∙biologique}"
+ },
+ {
+  "text": "Revendications",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 42,
+  "name": "S28235",
+  "unit": "{Revendications}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_8:fr:xml#GA_C_II_8~Revendications}"
+ },
+ {
+  "text": "Revendications∙donnant∙lieu∙au∙paiement∙de∙taxes",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 43,
+  "name": "S28236",
+  "unit": "{Revendications∙donnant∙lieu∙au∙paiement∙de∙taxes}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_9:fr:xml#GA_C_II_9~Revendications∙donnant∙lieu∙au∙paiement∙de∙taxes}"
+ },
+ {
+  "text": "Dessins",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 44,
+  "name": "S28237",
+  "unit": "{Dessins}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_10:fr:xml#GA_C_II_10~Dessins}"
+ },
+ {
+  "text": "Abrégé",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 45,
+  "name": "S28238",
+  "unit": "{Abrégé}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_11:fr:xml#GA_C_II_11~Abrégé}"
+ },
+ {
+  "text": "Éléments∙prohibés",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 46,
+  "name": "S28239",
+  "unit": "{Éléments∙prohibés}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_12:fr:xml#GA_C_II_12~Éléments∙prohibés}"
+ },
+ {
+  "text": "Caractère∙unitaire∙de∙la∙demande∙de∙brevet∙ou∙du∙brevet∙européen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 47,
+  "name": "S28240",
+  "unit": "{Caractère∙unitaire∙de∙la∙demande∙de∙brevet∙ou∙du∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_13:fr:xml#GA_C_II_13~Caractère∙unitaire∙de∙la∙demande∙de∙brevet∙ou∙du∙brevet∙européen}"
+ },
+ {
+  "text": "Où∙déposer◦?",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 49,
+  "name": "S28241",
+  "unit": "{Où∙déposer◦?}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_1:fr:xml#GA_C_III_1~Où∙déposer◦?}"
+ },
+ {
+  "text": "Comment∙déposer◦?",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 50,
+  "name": "S28242",
+  "unit": "{Comment∙déposer◦?}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_2:fr:xml#GA_C_III_2~Comment∙déposer◦?}"
+ },
+ {
+  "text": "Confirmation∙sur∙papier",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 51,
+  "name": "S28243",
+  "unit": "{Confirmation∙sur∙papier}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_3:fr:xml#GA_C_III_3~Confirmation∙sur∙papier}"
+ },
+ {
+  "text": "Date∙de∙réception",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 52,
+  "name": "S28244",
+  "unit": "{Date∙de∙réception}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_4:fr:xml#GA_C_III_4~Date∙de∙réception}"
+ },
+ {
+  "text": "Récépissé∙de∙documents",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 53,
+  "name": "S28245",
+  "unit": "{Récépissé∙de∙documents}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_5:fr:xml#GA_C_III_5~Récépissé∙de∙documents}"
+ },
+ {
+  "text": "Transmission∙à∙l'OEB,∙en∙cas∙de∙dépôt∙auprès∙d'une∙administration∙nationale",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 54,
+  "name": "S28246",
+  "unit": "{Transmission∙à∙l'OEB,∙en∙cas∙de∙dépôt∙auprès∙d'une∙administration∙nationale}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_6:fr:xml#GA_C_III_6~Transmission∙à∙l'OEB,∙en∙cas∙de∙dépôt∙auprès∙d'une∙administration∙nationale}"
+ },
+ {
+  "text": "Montant∙des∙taxes∙et∙modalités∙de∙paiement",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 56,
+  "name": "S28247",
+  "unit": "{Montant∙des∙taxes∙et∙modalités∙de∙paiement}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_8:fr:xml#GA_C_III_8~Montant∙des∙taxes∙et∙modalités∙de∙paiement}"
+ },
+ {
+  "text": "Remboursement∙des∙taxes",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 57,
+  "name": "S28248",
+  "unit": "{Remboursement∙des∙taxes}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_III_9:fr:xml#GA_C_III_9~Remboursement∙des∙taxes}"
+ },
+ {
+  "text": "Où∙et∙comment∙déposer◦?",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 59,
+  "name": "S28249",
+  "unit": "{Où∙et∙comment∙déposer◦?}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_IV_1:fr:xml#GA_C_IV_1~Où∙et∙comment∙déposer◦?}"
+ },
+ {
+  "text": "Signature",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 60,
+  "name": "S28250",
+  "unit": "{Signature}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_IV_2:fr:xml#GA_C_IV_2~Signature}"
+ },
+ {
+  "text": "Examen∙lors∙du∙dépôt",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 67,
+  "name": "S28251",
+  "unit": "{Examen∙lors∙du∙dépôt}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_II_1:fr:xml#GA_D_II_1~Examen∙lors∙du∙dépôt}"
+ },
+ {
+  "text": "Examen∙quant∙à∙certaines∙irrégularités",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 68,
+  "name": "S28252",
+  "unit": "{Examen∙quant∙à∙certaines∙irrégularités}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_II_2:fr:xml#GA_D_II_2~Examen∙quant∙à∙certaines∙irrégularités}"
+ },
+ {
+  "text": "Établissement∙du∙rapport∙de∙recherche∙européenne",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 69,
+  "name": "S28253",
+  "unit": "{Établissement∙du∙rapport∙de∙recherche∙européenne}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_II_3:fr:xml#GA_D_II_3~Établissement∙du∙rapport∙de∙recherche∙européenne}"
+ },
+ {
+  "text": "Requête∙en∙examen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 72,
+  "name": "S28254",
+  "unit": "{Requête∙en∙examen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_1:fr:xml#GA_D_IV_1~Requête∙en∙examen}"
+ },
+ {
+  "text": "Déroulement∙de∙la∙procédure",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 73,
+  "name": "S28255",
+  "unit": "{Déroulement∙de∙la∙procédure}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_2:fr:xml#GA_D_IV_2~Déroulement∙de∙la∙procédure}"
+ },
+ {
+  "text": "Modifications∙de∙la∙demande∙avant∙et∙pendant∙la∙procédure∙d'examen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 74,
+  "name": "S28256",
+  "unit": "{Modifications∙de∙la∙demande∙avant∙et∙pendant∙la∙procédure∙d'examen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_3:fr:xml#GA_D_IV_3~Modifications∙de∙la∙demande∙avant∙et∙pendant∙la∙procédure∙d'examen}"
+ },
+ {
+  "text": "Exigences∙des∙législations∙nationales∙relatives∙à∙la∙traduction∙du∙brevet∙européen",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 75,
+  "name": "S28257",
+  "unit": "{Exigences∙des∙législations∙nationales∙relatives∙à∙la∙traduction∙du∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_4:fr:xml#GA_D_IV_4~Exigences∙des∙législations∙nationales∙relatives∙à∙la∙traduction∙du∙brevet∙européen}"
+ },
+ {
+  "text": "Délai∙d'opposition",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 77,
+  "name": "S28258",
+  "unit": "{Délai∙d'opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_1:fr:xml#GA_D_V_1~Délai∙d'opposition}"
+ },
+ {
+  "text": "Motifs∙d'opposition",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 78,
+  "name": "S28259",
+  "unit": "{Motifs∙d'opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_2:fr:xml#GA_D_V_2~Motifs∙d'opposition}"
+ },
+ {
+  "text": "Forme∙et∙contenu∙de∙l'acte∙d'opposition",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 79,
+  "name": "S28260",
+  "unit": "{Forme∙et∙contenu∙de∙l'acte∙d'opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_3:fr:xml#GA_D_V_3~Forme∙et∙contenu∙de∙l'acte∙d'opposition}"
+ },
+ {
+  "text": "Examen∙de∙l'opposition∙quant∙à∙la∙recevabilité",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 80,
+  "name": "S28261",
+  "unit": "{Examen∙de∙l'opposition∙quant∙à∙la∙recevabilité}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_4:fr:xml#GA_D_V_4~Examen∙de∙l'opposition∙quant∙à∙la∙recevabilité}"
+ },
+ {
+  "text": "Examen∙de∙l'opposition∙quant∙au∙fond",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 81,
+  "name": "S28262",
+  "unit": "{Examen∙de∙l'opposition∙quant∙au∙fond}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_5:fr:xml#GA_D_V_5~Examen∙de∙l'opposition∙quant∙au∙fond}"
+ },
+ {
+  "text": "Formation∙du∙recours",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 84,
+  "name": "S28263",
+  "unit": "{Formation∙du∙recours}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_VII_1:fr:xml#GA_D_VII_1~Formation∙du∙recours}"
+ },
+ {
+  "text": "Révision∙préjudicielle",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 85,
+  "name": "S28264",
+  "unit": "{Révision∙préjudicielle}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_VII_2:fr:xml#GA_D_VII_2~Révision∙préjudicielle}"
+ },
+ {
+  "text": "Déroulement∙de∙la∙procédure∙devant∙les∙chambres∙de∙recours",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 86,
+  "name": "S28265",
+  "unit": "{Déroulement∙de∙la∙procédure∙devant∙les∙chambres∙de∙recours}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_VII_3:fr:xml#GA_D_VII_3~Déroulement∙de∙la∙procédure∙devant∙les∙chambres∙de∙recours}"
+ },
+ {
+  "text": "Requête∙en∙révision",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 87,
+  "name": "S28266",
+  "unit": "{Requête∙en∙révision}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_VII_4:fr:xml#GA_D_VII_4~Requête∙en∙révision}"
+ },
+ {
+  "text": "Inobservation∙de∙délais",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 91,
+  "name": "S28267",
+  "unit": "{Inobservation∙de∙délais}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_X_1:fr:xml#GA_D_X_1~Inobservation∙de∙délais}"
+ },
+ {
+  "text": "Accomplissement∙d'un∙acte∙omis",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 92,
+  "name": "S28268",
+  "unit": "{Accomplissement∙d'un∙acte∙omis}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_X_2:fr:xml#GA_D_X_2~Accomplissement∙d'un∙acte∙omis}"
+ },
+ {
+  "text": "a)→xxx",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 40,
+  "name": "S28269",
+  "unit": "{a)→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1:1.0:electronicproofer:GA_C_II_6:fr:xml#GA_C_II_6~a)→xxx}"
+ },
+ {
+  "text": "Taxes",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 55,
+  "name": "S28270",
+  "unit": "{Taxes}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1:1.0:electronicproofer:GA_C_III_7:fr:xml#GA_C_III_7~Taxes}"
+ },
+ {
+  "text": "Date∙de∙dépôt",
+  "file": "/EP/organization/guiapp1/2017/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 52,
+  "name": "S28271",
+  "unit": "{Date∙de∙dépôt}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1:1.0:electronicproofer:GA_C_III_4:fr:xml#GA_C_III_4~Date∙de∙dépôt}"
+ },
+ {
+  "text": "Examen∙quant∙à∙la∙forme",
+  "file": "/EP/organization/guiapp1/2017/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 68,
+  "name": "S28272",
+  "unit": "{Examen∙quant∙à∙la∙forme}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1:1.0:electronicproofer:GA_D_II_2:fr:xml#GA_D_II_2~Examen∙quant∙à∙la∙forme}"
+ },
+ {
+  "text": "Absence∙d'unité∙d'invention",
+  "file": "/EP/organization/guiapp1/2017/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 69,
+  "name": "S28273",
+  "unit": "{Absence∙d'unité∙d'invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1:1.0:electronicproofer:GA_D_II_3:fr:xml#GA_D_II_3~Absence∙d'unité∙d'invention}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "text": "Chapter∙I∙–∙Introduction",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/A.eplegal.zip",
+  "referringId": "PGA",
+  "relativeParagraph": 3,
+  "style": "TOC1",
+  "name": "S61757",
+  "unit": "{Chapter∙I∙–∙Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGA_CI:en:docx:A::PGA#PGA_CI~Chapter∙I∙–∙Introduction}"
+ },
+ {
+  "text": "1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/A.eplegal.zip",
+  "referringId": "PGA",
+  "relativeParagraph": 5,
+  "style": "TOC2",
+  "name": "S61758",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGA_CII_1:en:docx:A::PGA#PGA_CII_1~1.→xxx}"
+ },
+ {
+  "text": "3.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/A.eplegal.zip",
+  "referringId": "PGA",
+  "relativeParagraph": 8,
+  "style": "TOC3",
+  "name": "S61759",
+  "unit": "{3.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGA_CII_3_1:en:docx:A::PGA#PGA_CII_3_1~3.1→xxx}"
+ },
+ {
+  "text": "2.2.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/B.eplegal.zip",
+  "referringId": "PGB",
+  "relativeParagraph": 23,
+  "style": "TOC4",
+  "name": "S61760",
+  "unit": "{2.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGB_CIII_2_2_1:en:docx:B::PGB#PGB_CIII_2_2_1~2.2.1→xxx}"
+ },
+ {
+  "text": "Introduction",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/E.eplegal.zip",
+  "referringId": "PGE",
+  "relativeParagraph": 3,
+  "style": "TOC1",
+  "name": "S61761",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGE_I:en:docx:E::PGE#PGE_I~Introduction}"
+ },
+ {
+  "text": "General∙disclaimer",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/G.eplegal.zip",
+  "referringId": "PGG",
+  "relativeParagraph": 3,
+  "style": "TOC1",
+  "name": "S61762",
+  "unit": "{General∙disclaimer}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGG_I:en:docx:G::PGG#PGG_I~General∙disclaimer}"
+ },
+ {
+  "text": "2.3.2.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/H.eplegal.zip",
+  "referringId": "PGH",
+  "relativeParagraph": 18,
+  "style": "TOC5",
+  "name": "S61763",
+  "unit": "{2.3.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGH_CII_2_3_2_1:en:docx:H::PGH#PGH_CII_2_3_2_1~2.3.2.1→xxx}"
+ },
+ {
+  "text": "Chapter∙I→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/en/I.eplegal.zip",
+  "referringId": "PGI_INDEX",
+  "relativeParagraph": 9,
+  "style": "TOC2C",
+  "name": "S61766",
+  "unit": "{Chapter∙I→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1::internet:PGA_CI:en:docx:A::PGA#PGA_CI~Chapter∙I→xxx}"
+ },
+ {
+  "text": "Annex◦1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/F.eplegal.zip",
+  "referringId": "PGF",
+  "relativeParagraph": 44,
+  "style": "TOC2",
+  "name": "S61767",
+  "unit": "{Annex◦1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGF_CIIA1:en:docx:F::PGF#PGF_CIIA1~Annex◦1→xxx}"
+ },
+ {
+  "text": "Annex→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/en/F.eplegal.zip",
+  "referringId": "PGF",
+  "relativeParagraph": 122,
+  "style": "TOC2",
+  "name": "S61768",
+  "unit": "{Annex→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1::internet:PGF_CIVA:en:docx:F::PGF#PGF_CIVA~Annex→xxx}"
+ }
+]

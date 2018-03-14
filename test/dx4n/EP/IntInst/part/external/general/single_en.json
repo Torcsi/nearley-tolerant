@@ -1,0 +1,22 @@
+[
+ {
+  "bad":true,
+ "text": "II/EPO∙IB-X,◦12.1",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_X_7_1",
+  "relativeParagraph": 7,
+  "name": "S01555",
+  "unit": "{II/EPO∙IB-X,◦12.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IB_X_12_1:en:xml#IB_X_12_1~II/EPO∙IB-X,◦12.1}"
+ },
+ {
+  "bad":true,
+ "text": "II/EPO∙IC-III,◦1.2",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ih.eplegal.zip",
+  "referringId": "PCTEPOII:IPH_II_2_3_2_2",
+  "relativeParagraph": 23,
+  "name": "S01565",
+  "unit": "{II/EPO∙IC-III,◦1.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IC_III_1_2:en:xml#IC_III_1_2~II/EPO∙IC-III,◦1.2}"
+ }
+]

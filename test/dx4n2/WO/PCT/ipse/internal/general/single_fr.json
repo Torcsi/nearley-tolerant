@@ -1,0 +1,155 @@
+[
+ {
+  "text": "A4.05",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/fr/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 5,
+  "name": "S04322",
+  "unit": "{A4.05}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_A4_05:fr:docx:ipse:PCTIPSE_A4:#PCTIPSE_A4_05~A4.05}"
+ },
+ {
+  "text": "14.01[02]",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/fr/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 40,
+  "name": "S04324",
+  "unit": "{14.01[02]}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_14_01:fr:docx:ipse:PCTIPSE_14_A:#PCTIPSE_14_01~14.01[02]}"
+ },
+ {
+  "text": "A4.05[1]",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/fr/F.eplegal.zip",
+  "referringId": "PGF_CII_4_3",
+  "relativeParagraph": 1,
+  "name": "S04346",
+  "unit": "{A4.05[1]}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A4_05_s1:fr::ipse:PCTIPSE_4:#PCTIPSE_A4_05_s1~A4.05[1]}"
+ },
+ {
+  "text": "A14.01[2].1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/fr/F.eplegal.zip",
+  "referringId": "PGF_CII_4_8",
+  "relativeParagraph": 1,
+  "name": "S04349",
+  "unit": "{A14.01[2].1}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A14_01_s2_1:fr::ipse:PCTIPSE_14:#PCTIPSE_A14_01_s2_1~A14.01[2].1}"
+ },
+ {
+  "text": "A13.08.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/fr/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 36,
+  "name": "S04367",
+  "unit": "{A13.08.1}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A13_08_1:fr::ipse:PCTIPSE_13:#PCTIPSE_A13_08_1~A13.08.1}"
+ },
+ {
+  "text": "Chapitre∙4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-gp.eplegal.zip",
+  "referringId": "IPGP_3_3",
+  "relativeParagraph": 3,
+  "name": "S04382",
+  "unit": "{Chapitre∙4}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_4:fr:docx:ipse:PCTIPSE_II:#PCTIPSE_4~Chapitre∙4}"
+ },
+ {
+  "text": "15.63.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-ib.eplegal.zip",
+  "referringId": "IPB_IV_1_3",
+  "relativeParagraph": 5,
+  "name": "S04385",
+  "unit": "{15.63.1}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_15_63_1:fr:docx:ipse:PCTIPSE_15_K_3:#PCTIPSE_15_63_1~15.63.1}"
+ },
+ {
+  "text": "PREMIÈRE∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 7,
+  "name": "S04440",
+  "unit": "{PREMIÈRE∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_I:fr:docx:ipse:PCTIPSE:#PCTIPSE_I~PREMIÈRE∙PARTIE↲xxx}"
+ },
+ {
+  "text": "DEUXIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 90,
+  "name": "S04441",
+  "unit": "{DEUXIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_II:fr:docx:ipse:PCTIPSE_3_H:#PCTIPSE_II~DEUXIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "TROISIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 221,
+  "name": "S04442",
+  "unit": "{TROISIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_III:fr:docx:ipse:PCTIPSE_8_D:#PCTIPSE_III~TROISIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "QUATRIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 432,
+  "name": "S04443",
+  "unit": "{QUATRIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_IV:fr:docx:ipse:PCTIPSE_A14_F:#PCTIPSE_IV~QUATRIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "CINQUIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 587,
+  "name": "S04444",
+  "unit": "{CINQUIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_V:fr:docx:ipse:PCTIPSE_16_I:#PCTIPSE_V~CINQUIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "SIXIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 654,
+  "name": "S04445",
+  "unit": "{SIXIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_VI:fr:docx:ipse:PCTIPSE_17_F_5:#PCTIPSE_VI~SIXIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "SEPTIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 739,
+  "name": "S04446",
+  "unit": "{SEPTIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_VII:fr:docx:ipse:PCTIPSE_A20_A:#PCTIPSE_VII~SEPTIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "HUITIÈME∙PARTIE↲xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE",
+  "relativeParagraph": 764,
+  "name": "S04447",
+  "unit": "{HUITIÈME∙PARTIE↲xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_VIII:fr:docx:ipse:PCTIPSE_21_K:#PCTIPSE_VIII~HUITIÈME∙PARTIE↲xxx}"
+ },
+ {
+  "text": "chapitre∙2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE_1_11_c",
+  "relativeParagraph": 0,
+  "name": "S04448",
+  "unit": "{chapitre∙2}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_2:fr:docx:ipse:PCTIPSE_1_D:#PCTIPSE_2~chapitre∙2}"
+ },
+ {
+  "text": "l’alinéa∙c)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE_5_24_a",
+  "relativeParagraph": 0,
+  "name": "S04455",
+  "unit": "{l’alinéa∙c)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_5_24_c:fr:docx:ipse:PCTIPSE_5_D_3:PCTIPSE_5_24#PCTIPSE_5_24_c~l’alinéa∙c)}"
+ }
+]

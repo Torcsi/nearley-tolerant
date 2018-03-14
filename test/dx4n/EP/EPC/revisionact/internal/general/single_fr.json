@@ -1,0 +1,30 @@
+[
+ {
+  "text": "l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/revisionact.eplegal.zip",
+  "referringId": "EPC:REV",
+  "relativeParagraph": 3,
+  "name": "S26302",
+  "unit": "{l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV8_1:fr:xml~l'article◦8,∙paragraphe◦1∙de∙l'acte∙de∙révision}"
+ },
+ {
+"bad":true,
+  "text": "L'article",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/revisionact.eplegal.zip",
+  "referringId": "EPC:REV6",
+  "relativeParagraph": 1,
+  "name": "S26303",
+  "unit": "{L'article}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV1:fr:xml~L'article}"
+ },
+ {
+  "text": "l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/revisionact.eplegal.zip",
+  "referringId": "EPC:REV8",
+  "relativeParagraph": 1,
+  "name": "S26304",
+  "unit": "{l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REV8_1:fr:xml~l'article∙8,∙paragraphe∙1∙de∙l'acte∙de∙révision}"
+ }
+]

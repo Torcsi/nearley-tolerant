@@ -1,0 +1,12 @@
+[
+ {
+  "bad":true,
+ "text": "II/EPO∙IB-XI,◦3.9∙and∙II/EPO∙IC-VIII,◦2.2",
+  "unit": "{II/EPO∙IB-XI,◦3.9}∙and∙{II/EPO∙IC-VIII,◦2.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IB_XI_3_9:en:xml#IB_XI_3_9~II/EPO∙IB-XI,◦3.9}∙and∙{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IC_VIII_2_2:en:xml#IC_VIII_2_2~II/EPO∙IC-VIII,◦2.2}",
+  "name": "M10132",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "referringId": "PCTEPOII:IPB_XI_3_4",
+  "relativeParagraph": 3
+ }
+]

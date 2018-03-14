@@ -1,0 +1,83 @@
+[
+ {
+  "text": "points◦270∙and∙396",
+  "unit": "{points◦270}∙and∙{396}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_270:en:xml#GA_270~points◦270}∙and∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_396:en:xml#GA_396~396}",
+  "name": "M05800",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_9",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "points◦231,∙369",
+  "unit": "{points◦231},∙{369}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_231:en:xml#GA_231~points◦231},∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_369:en:xml#GA_369~369}",
+  "name": "M05806",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_58",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "points◦49-51",
+  "unit": "{points◦49}-{51}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_49:en:xml#GA_49~points◦49}-{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_51:en:xml#GA_51~51}",
+  "name": "M05808",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_61",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Annex◦VI∙and∙VII",
+  "unit": "{Annex◦VI}∙and∙{VII}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_AVI:en:xml#GA_AVI~Annex◦VI}∙and∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_AVII:en:xml#GA_AVII~VII}",
+  "name": "M05810",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_93",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "points∙97-114",
+  "unit": "{points∙97}-{114}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_97:en:xml#GA_97~points∙97}-{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_114:en:xml#GA_114~114}",
+  "name": "M05812",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_96",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "points∙289∙and∙293",
+  "unit": "{points∙289}∙and∙{293}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_289:en:xml#GA_289~points∙289}∙and∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_293:en:xml#GA_293~293}",
+  "name": "M05816",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_285",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "points∙323,∙377",
+  "unit": "{points∙323},∙{377}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_323:en:xml#GA_323~points∙323},∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_377:en:xml#GA_377~377}",
+  "name": "M05818",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_377",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "point◦323,∙372",
+  "unit": "{point◦323},∙{372}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_323:en:xml#GA_323~point◦323},∙{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_372:en:xml#GA_372~372}",
+  "name": "M05820",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_378",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "points∙583-586∙and∙591",
+  "unit": "{points∙583}-{586}∙and∙{591}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_583:en:xml#GA_583~points∙583}-{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_586:en:xml#GA_586~586}∙and∙{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_591:en:xml#GA_591~591}",
+  "name": "M05830",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_582",
+  "relativeParagraph": 0
+ }
+]

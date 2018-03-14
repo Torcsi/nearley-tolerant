@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Zentr.∙Prot.∙I◦(1),∙Zentr.∙Prot.∙I◦(3),∙Zentr.∙Prot.∙IV◦(2),∙Zentr.∙Prot.∙V",
+  "unit": "{Zentr.∙Prot.∙I◦(1)},∙{Zentr.∙Prot.∙I◦(3)},∙{Zentr.∙Prot.∙IV◦(2)},∙{Zentr.∙Prot.∙V}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:CI_1:de:docx:procen::CI#CI_1~Zentr.∙Prot.∙I◦(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CI_3:de:docx:procen::CI#CI_3~Zentr.∙Prot.∙I◦(3)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CIV_2:de:docx:procen::CIV#CIV_2~Zentr.∙Prot.∙IV◦(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CV:de:docx:procen::#CV~Zentr.∙Prot.∙V}",
+  "name": "M57138",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/de/B.eplegal.zip",
+  "referringId": "GLB_CI_5",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Zentr.∙Prot.∙I◦(1),∙I◦(3),∙IV◦(2),∙V",
+  "unit": "{Zentr.∙Prot.∙I◦(1)},∙{I◦(3)},∙{IV◦(2)},∙{V}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:CI_1:de:docx:procen::CI#CI_1~Zentr.∙Prot.∙I◦(1)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CI_3:de:docx:procen::CI#CI_3~I◦(3)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CIV_2:de:docx:procen::CIV#CIV_2~IV◦(2)},∙{ep-legal:countries:EP::EPC:2003:1::internet:CV:de:docx:procen::#CV~V}",
+  "name": "M57140",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/de/B.eplegal.zip",
+  "referringId": "GLB_CI_5",
+  "relativeParagraph": 3
+ }
+]

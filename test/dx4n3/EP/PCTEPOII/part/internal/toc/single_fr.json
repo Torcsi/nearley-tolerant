@@ -1,0 +1,32 @@
+[
+ {
+  "text": "Partie∙B∙–∙Instructions∙internes∙relatives∙à∙la∙recherche",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-gp.eplegal.zip",
+  "referringId": "IPGP_INDEX",
+  "relativeParagraph": 8,
+  "style": "TOC1-N",
+  "name": "S05958",
+  "unit": "{Partie∙B∙–∙Instructions∙internes∙relatives∙à∙la∙recherche}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB:fr:docx:part-ib::#IPB~Partie∙B∙–∙Instructions∙internes∙relatives∙à∙la∙recherche}"
+ },
+ {
+  "text": "Chapitre∙I→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-gp.eplegal.zip",
+  "referringId": "IPGP_INDEX",
+  "relativeParagraph": 9,
+  "style": "TOC2C",
+  "name": "S05959",
+  "unit": "{Chapitre∙I→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_I:fr:docx:part-ib::IPB#IPB_I~Chapitre∙I→xxx}"
+ },
+ {
+  "text": "Chapitre∙I∙–∙Introduction",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-ib.eplegal.zip",
+  "referringId": "IPB",
+  "relativeParagraph": 3,
+  "style": "TOC1",
+  "name": "S05960",
+  "unit": "{Chapitre∙I∙–∙Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_I:fr:docx:part-ib::IPB#IPB_I~Chapitre∙I∙–∙Introduction}"
+ }
+]

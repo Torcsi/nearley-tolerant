@@ -1,0 +1,83 @@
+[
+ {
+  "text": "l'art.◦17◦PCT◦et∙la∙règle◦40◦PCT",
+  "unit": "{l'art.◦17◦PCT}◦et∙la∙{règle◦40◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:17:fr:docx:treaty:CI:#17~l'art.◦17◦PCT}◦et∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_40:fr:docx:regulations:DOCUMENT_B:#REG_40~règle◦40◦PCT}",
+  "name": "M00658",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_C_4_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "l'art.◦17◦et∙la∙règle◦40◦PCT",
+  "unit": "{l'art.◦17}◦et∙la∙{règle◦40◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:17:fr:docx:treaty:CI:#17~l'art.◦17}◦et∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_40:fr:docx:regulations:DOCUMENT_B:#REG_40~règle◦40◦PCT}",
+  "name": "M00660",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_C_4_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "l'art.◦17(3)a)◦PCT◦et∙la∙règle◦40◦PCT",
+  "unit": "{l'art.◦17(3)a)◦PCT}◦et∙la∙{règle◦40◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:17_3_a:fr::treaty:CI:17#17_3_a~l'art.◦17(3)a)◦PCT}◦et∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_40:fr:docx:regulations:DOCUMENT_B:#REG_40~règle◦40◦PCT}",
+  "name": "M00666",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_C_6_3",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "art.◦34◦PCT∙ensemble∙la∙règle◦60.1◦PCT",
+  "unit": "{art.◦34◦PCT}∙ensemble∙la∙{règle◦60.1◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:34:fr:docx:treaty:CII:#34~art.◦34◦PCT}∙ensemble∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_60_1:fr:docx:regulations:DOCUMENT_C:REG_60#REG_60_1~règle◦60.1◦PCT}",
+  "name": "M01072",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IX.eplegal.zip",
+  "referringId": "CLR_IX_B_2",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "art.◦17(3)a)◦PCT,∙règle◦40.1◦PCT",
+  "unit": "{art.◦17(3)a)◦PCT},∙{règle◦40.1◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:17_3_a:fr::treaty:CI:17#17_3_a~art.◦17(3)a)◦PCT},∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_40_1:fr:docx:regulations:DOCUMENT_B:REG_40#REG_40_1~règle◦40.1◦PCT}",
+  "name": "M01092",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IX.eplegal.zip",
+  "referringId": "CLR_IX_C_3",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "l'art.◦17(3)a)◦PCT∙et∙la∙règle◦40.1◦PCT",
+  "unit": "{l'art.◦17(3)a)◦PCT}∙et∙la∙{règle◦40.1◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:17_3_a:fr::treaty:CI:17#17_3_a~l'art.◦17(3)a)◦PCT}∙et∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_40_1:fr:docx:regulations:DOCUMENT_B:REG_40#REG_40_1~règle◦40.1◦PCT}",
+  "name": "M01094",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IX.eplegal.zip",
+  "referringId": "CLR_IX_C_3_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦34(3)a)◦PCT∙ensemble∙la∙règle◦68.2◦PCT",
+  "unit": "{l'art.◦34(3)a)◦PCT}∙ensemble∙la∙{règle◦68.2◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:34_3_a:fr::treaty:CII:34#34_3_a~l'art.◦34(3)a)◦PCT}∙ensemble∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_68_2:fr:docx:regulations:DOCUMENT_C:REG_68#REG_68_2~règle◦68.2◦PCT}",
+  "name": "M01102",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IX.eplegal.zip",
+  "referringId": "CLR_IX_C_4_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦34◦PCT∙et∙la∙règle◦68.2◦PCT",
+  "unit": "{l'art.◦34◦PCT}∙et∙la∙{règle◦68.2◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:34:fr:docx:treaty:CII:#34~l'art.◦34◦PCT}∙et∙la∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_68_2:fr:docx:regulations:DOCUMENT_C:REG_68#REG_68_2~règle◦68.2◦PCT}",
+  "name": "M01106",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IX.eplegal.zip",
+  "referringId": "CLR_IX_C_4_6",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "art.◦19◦PCT∙et∙règle◦46◦PCT",
+  "unit": "{art.◦19◦PCT}∙et∙{règle◦46◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:19:fr:docx:treaty:CI:#19~art.◦19◦PCT}∙et∙{ep-legal:countries:WO::PCT:2003:1::internet:REG_46:fr:docx:regulations:DOCUMENT_B:#REG_46~règle◦46◦PCT}",
+  "name": "M01266",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VII.eplegal.zip",
+  "referringId": "CLR_VII_B_2_2",
+  "relativeParagraph": 4
+ }
+]

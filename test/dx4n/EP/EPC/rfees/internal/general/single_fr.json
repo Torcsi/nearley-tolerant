@@ -1,0 +1,18 @@
+[
+ {
+  "text": "article◦1,∙point◦2",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/rfees.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26325",
+  "unit": "{article◦1,∙point◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:1:fr:xml#1~article◦1,∙point◦2}"
+ },
+ {
+  "text": "article∙premier",
+  "file": "/EP/organization/EPC/2016/1/1.8/electronicproofer/fr/rfees.eplegal.zip",
+  "relativeParagraph": 0,
+  "name": "S26343",
+  "unit": "{article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:1:fr:xml#1~article∙premier}"
+ }
+]

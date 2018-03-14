@@ -1,0 +1,64 @@
+[
+ {
+  "text": "sub-paragraph∙(a)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CI_1_b",
+  "relativeParagraph": 0,
+  "name": "S00478",
+  "unit": "{sub-paragraph∙(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_a:en:xml~sub-paragraph∙(a)}"
+ },
+ {
+  "text": "Section∙III",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CI_2",
+  "relativeParagraph": 0,
+  "name": "S00479",
+  "unit": "{Section∙III}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:en:xml~Section∙III}"
+ },
+ {
+  "text": "sub-paragraph◦(a)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CIV_1_b",
+  "relativeParagraph": 0,
+  "name": "S00480",
+  "unit": "{sub-paragraph◦(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_a:en:xml~sub-paragraph◦(a)}"
+ },
+ {
+  "text": "Section◦I,∙paragraph◦2",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CIV_2_a",
+  "relativeParagraph": 0,
+  "name": "S00481",
+  "unit": "{Section◦I,∙paragraph◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_2:en:xml~Section◦I,∙paragraph◦2}"
+ },
+ {
+  "text": "Section◦I,∙paragraph◦1(c)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CV_1",
+  "relativeParagraph": 0,
+  "name": "S00482",
+  "unit": "{Section◦I,∙paragraph◦1(c)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_c:en:xml~Section◦I,∙paragraph◦1(c)}"
+ },
+ {
+  "text": "Section◦VI",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/procen.eplegal.zip",
+  "referringId": "EPC:CV_2",
+  "relativeParagraph": 0,
+  "name": "S00483",
+  "unit": "{Section◦VI}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CVI:en:xml~Section◦VI}"
+ },
+ {
+  "text": "Prot.∙Centr.∙I(1)(b)",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-i.eplegal.zip",
+  "relativeParagraph": 20,
+  "name": "S00879",
+  "unit": "{Prot.∙Centr.∙I(1)(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:CI_1_b:en:xml#CI_1_b~Prot.∙Centr.∙I(1)(b)}"
+ }
+]

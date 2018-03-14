@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Art.◦7∙der∙Akte∙zur∙Revision∙des∙EPÜ",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_C_6_2_1",
+  "relativeParagraph": 8,
+  "name": "S13242",
+  "unit": "{Art.◦7∙der∙Akte∙zur∙Revision∙des∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:de:xml#REV7~Art.◦7∙der∙Akte∙zur∙Revision∙des∙EPÜ}"
+ },
+ {
+  "text": "Art.∙7∙der∙Akte∙zur∙Revision∙des∙EPÜ",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_C_6_2_2",
+  "relativeParagraph": 4,
+  "name": "S13243",
+  "unit": "{Art.∙7∙der∙Akte∙zur∙Revision∙des∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:REV7:de:xml#REV7~Art.∙7∙der∙Akte∙zur∙Revision∙des∙EPÜ}"
+ },
+ {
+  "text": "Art.◦7∙der∙Akte∙zur∙Revision∙des◦EPÜ",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "caselawreport:CLR_I_C_7_2_2",
+  "relativeParagraph": 1,
+  "name": "S13403",
+  "unit": "{Art.◦7∙der∙Akte∙zur∙Revision∙des◦EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:REV7:de:xml#REV7~Art.◦7∙der∙Akte∙zur∙Revision∙des◦EPÜ}"
+ }
+]

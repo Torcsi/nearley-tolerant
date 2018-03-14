@@ -1,0 +1,38 @@
+[
+ {
+  "text": "l’article∙23",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/proprimm.eplegal.zip",
+  "referringId": "I3_1_c",
+  "relativeParagraph": 0,
+  "name": "S02040",
+  "unit": "{l’article∙23}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I23:fr:docx:proprimm::#I23~l’article∙23}"
+ },
+ {
+  "text": "articles∙15∙lettre∙c)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1,
+  "name": "S02041",
+  "unit": "{articles∙15∙lettre∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I15_c:fr:docx:proprimm::I15#I15_c~articles∙15∙lettre∙c)}"
+ },
+ {
+  "text": "15∙lettre∙c)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1,
+  "name": "S02042",
+  "unit": "{15∙lettre∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:I15_c:fr:docx:proprimm::I15#I15_c~15∙lettre∙c)}"
+ },
+ {
+  "text": "article∙15∙lettre∙c)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/proprimm.eplegal.zip",
+  "referringId": "I22",
+  "relativeParagraph": 1,
+  "name": "S02116",
+  "unit": "{article∙15∙lettre∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:I15_c:fr:docx:proprimm::I15#I15_c~article∙15∙lettre∙c)}"
+ }
+]

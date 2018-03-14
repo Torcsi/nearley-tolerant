@@ -1,0 +1,65 @@
+[
+ {
+  "text": "PROTOCOL∙ON∙RECOGNITION",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 3,
+  "name": "S58992",
+  "unit": "{PROTOCOL∙ON∙RECOGNITION}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:REC:en:docx:prorecog::#REC~PROTOCOL∙ON∙RECOGNITION}"
+ },
+ {
+  "text": "PROTOCOL∙ON∙CENTRALISATION",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 4,
+  "name": "S58993",
+  "unit": "{PROTOCOL∙ON∙CENTRALISATION}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:CEN:en:docx:procen::#CEN~PROTOCOL∙ON∙CENTRALISATION}"
+ },
+ {
+  "text": "PROTOCOL∙ON∙PRIVILEGES∙AND∙IMMUNITIES",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 5,
+  "name": "S58994",
+  "unit": "{PROTOCOL∙ON∙PRIVILEGES∙AND∙IMMUNITIES}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:IMM:en:docx:proprimm::#IMM~PROTOCOL∙ON∙PRIVILEGES∙AND∙IMMUNITIES}"
+ },
+ {
+  "text": "Annex∙I∙–∙Index∙of∙published∙decisions/opinions∙of∙the∙Enlarged∙Board∙of∙Appeal",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S58995",
+  "unit": "{Annex∙I∙–∙Index∙of∙published∙decisions/opinions∙of∙the∙Enlarged∙Board∙of∙Appeal}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:AN1:en:docx:annex1::#AN1~Annex∙I∙–∙Index∙of∙published∙decisions/opinions∙of∙the∙Enlarged∙Board∙of∙Appeal}"
+ },
+ {
+  "text": "Alphabetical∙keyword∙index",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S58996",
+  "unit": "{Alphabetical∙keyword∙index}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:GLO:en:docx:keywordindex::#GLO~Alphabetical∙keyword∙index}"
+ },
+ {
+  "text": "PROTOCOL∙ON∙THE∙STAFF∙COMPLEMENT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S59001",
+  "unit": "{PROTOCOL∙ON∙THE∙STAFF∙COMPLEMENT}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:STA:en:docx:staffreg::#STA~PROTOCOL∙ON∙THE∙STAFF∙COMPLEMENT}"
+ },
+ {
+  "text": "ANNEX∙I∙–∙INDEX∙OF∙DECISIONS∙AND∙OPINIONS∙OF∙THE∙ENLARGED∙BOARD∙OF∙APPEAL∙PUBLISHED∙IN∙THE∙OFFICIAL∙JOURNAL∙OF∙THE∙EPO",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/en/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S59002",
+  "unit": "{ANNEX∙I∙–∙INDEX∙OF∙DECISIONS∙AND∙OPINIONS∙OF∙THE∙ENLARGED∙BOARD∙OF∙APPEAL∙PUBLISHED∙IN∙THE∙OFFICIAL∙JOURNAL∙OF∙THE∙EPO}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:AN1:en:docx:annex1::#AN1~ANNEX∙I∙–∙INDEX∙OF∙DECISIONS∙AND∙OPINIONS∙OF∙THE∙ENLARGED∙BOARD∙OF∙APPEAL∙PUBLISHED∙IN∙THE∙OFFICIAL∙JOURNAL∙OF∙THE∙EPO}"
+ }
+]

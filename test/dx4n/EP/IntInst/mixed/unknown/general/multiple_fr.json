@@ -1,0 +1,47 @@
+[
+ {
+  "bad":true,
+ "text": "IB-VIII∙et∙annexe◦VIb",
+  "unit": "{IB-VIII}∙et∙{annexe◦VIb}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IB_VIII:fr:xml#IB_VIII~IB-VIII}∙et∙{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_VIb:fr:xml#ANNEX_VIb~annexe◦VIb}",
+  "name": "M34217",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "referringId": "IntInst:IB_III_2",
+  "relativeParagraph": 1
+ },
+ {
+  "bad":true,
+ "text": "ID-II,◦6∙et∙Annexe◦III",
+  "unit": "{ID-II,◦6}∙et∙{Annexe◦III}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ID_II_6:fr:xml#ID_II_6~ID-II,◦6}∙et∙{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_III:fr:xml#ANNEX_III~Annexe◦III}",
+  "name": "M34325",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-id.eplegal.zip",
+  "referringId": "IntInst:ID_I_4",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "annexe◦VIb,∙4.1∙à◦4.3∙et∙IB-XI,∙6.3",
+  "unit": "{annexe◦VIb,∙4.1}∙à◦{4.3}∙et∙{IB-XI,∙6.3}",
+  "value": "{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:ANNEX_VIb_4_1:fr:xml#ANNEX_VIb_4_1~annexe◦VIb,∙4.1}∙à◦{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:ANNEX_VIb_4_3:fr:xml#ANNEX_VIb_4_3~4.3}∙et∙{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:IB_XI_6_3:fr:xml#IB_XI_6_3~IB-XI,∙6.3}",
+  "name": "M34477",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "relativeParagraph": 4
+ },
+ {
+  "bad":true,
+ "text": "IB-VIII∙et∙annexe◦VI",
+  "unit": "{IB-VIII}∙et∙{annexe◦VI}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IB_VIII:fr:xml#IB_VIII~IB-VIII}∙et∙{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI:fr:xml#ANNEX_VI~annexe◦VI}",
+  "name": "M34495",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "annexe◦VI,∙4.1∙à◦4.3∙et∙IB-XI,∙6.3",
+  "unit": "{annexe◦VI,∙4.1}∙à◦{4.3}∙et∙{IB-XI,∙6.3}",
+  "value": "{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI_4_1:fr:xml#ANNEX_VI_4_1~annexe◦VI,∙4.1}∙à◦{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:ANNEX_VI_4_3:fr:xml#ANNEX_VI_4_3~4.3}∙et∙{ep-legal:countries:EP::IntInst:2017:1:1.0:electronicproofer:IB_XI_6_3:fr:xml#IB_XI_6_3~IB-XI,∙6.3}",
+  "name": "M34501",
+  "file": "/EP/organization/IntInst/2017/1/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "relativeParagraph": 4
+ }
+]

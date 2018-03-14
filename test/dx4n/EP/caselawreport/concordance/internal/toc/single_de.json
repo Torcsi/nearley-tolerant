@@ -1,0 +1,12 @@
+[
+ {
+  "active":false, "comment":"should not be a link",
+  "text": "KONKORDANZLISTE∙EPÜ∙1973∙-∙EPÜ∙2000",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/de/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 912,
+  "name": "S14825",
+  "unit": "{KONKORDANZLISTE∙EPÜ∙1973∙-∙EPÜ∙2000}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_CONCORDANCE:de:xml~KONKORDANZLISTE∙EPÜ∙1973∙-∙EPÜ∙2000}"
+ }
+]

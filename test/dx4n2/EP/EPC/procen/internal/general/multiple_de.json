@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Abschnitte∙III∙und∙IV",
+  "unit": "{Abschnitte∙III}∙und∙{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:CIII:de:docx:procen::#CIII~Abschnitte∙III}∙und∙{ep-legal:countries:EP::EPC:2001:1::internet:CIV:de:docx:procen::#CIV~IV}",
+  "name": "M41068",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/de/procen.eplegal.zip",
+  "referringId": "CII",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Nummern◦1∙und∙Nummern◦2",
+  "unit": "{Nummern◦1}∙und∙{Nummern◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:CV_1:de:docx:procen::CV#CV_1~Nummern◦1}∙und∙{ep-legal:countries:EP::EPC:2007:1::internet:CV_2:de:docx:procen::CV#CV_2~Nummern◦2}",
+  "name": "M41922",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/de/procen.eplegal.zip",
+  "referringId": "CV_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Abschnitte◦III∙und∙IV",
+  "unit": "{Abschnitte◦III}∙und∙{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:CIII:de:docx:procen::#CIII~Abschnitte◦III}∙und∙{ep-legal:countries:EP::EPC:2010:1::internet:CIV:de:docx:procen::#CIV~IV}",
+  "name": "M42370",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/de/procen.eplegal.zip",
+  "referringId": "CII",
+  "relativeParagraph": 1
+ }
+]

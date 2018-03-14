@@ -1,0 +1,20 @@
+[
+ {
+  "text": "l'article∙premier",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/prorecog.eplegal.zip",
+  "referringId": "EPC:P7",
+  "relativeParagraph": 1,
+  "name": "S26289",
+  "unit": "{l'article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1:fr:xml~l'article∙premier}"
+ },
+ {
+  "text": "L'article∙9,∙paragraphe∙1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/prorecog.eplegal.zip",
+  "referringId": "EPC:P10",
+  "relativeParagraph": 1,
+  "name": "S26290",
+  "unit": "{L'article∙9,∙paragraphe∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9_1:fr:xml~L'article∙9,∙paragraphe∙1}"
+ }
+]

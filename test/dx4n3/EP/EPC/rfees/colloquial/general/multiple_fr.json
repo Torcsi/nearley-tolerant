@@ -1,0 +1,470 @@
+[
+ {
+  "text": "L’article◦2,∙points∙1∙RRT,∙l’article◦2,∙points∙2∙RRT,∙l’article◦2,∙points∙15∙RRT,∙l’article◦2,∙points∙19∙RRT∙et∙l’article◦2,∙points∙21∙RRT",
+  "unit": "{L’article◦2,∙points∙1∙RRT},∙{l’article◦2,∙points∙2∙RRT},∙{l’article◦2,∙points∙15∙RRT},∙{l’article◦2,∙points∙19∙RRT}∙et∙{l’article◦2,∙points∙21∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~L’article◦2,∙points∙1∙RRT},∙{ep-legal:countries:EP::EPC:2001:1::internet:2_2:fr:docx:rfees::2#2_2~l’article◦2,∙points∙2∙RRT},∙{ep-legal:countries:EP::EPC:2001:1::internet:2_15:fr:docx:rfees::2#2_15~l’article◦2,∙points∙15∙RRT},∙{ep-legal:countries:EP::EPC:2001:1::internet:2_19:fr:docx:rfees::2#2_19~l’article◦2,∙points∙19∙RRT}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:2_21:fr:docx:rfees::2#2_21~l’article◦2,∙points∙21∙RRT}",
+  "name": "M06896",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_1999_660",
+  "relativeParagraph": 67
+ },
+ {
+  "text": "art.∙2,∙points∙3∙RRT∙et∙art.∙2,∙points∙3bis∙RRT",
+  "unit": "{art.∙2,∙points∙3∙RRT}∙et∙{art.∙2,∙points∙3bis∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_3:fr:docx:rfees::2#2_3~art.∙2,∙points∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~art.∙2,∙points∙3bis∙RRT}",
+  "name": "M07072",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_1994_131",
+  "relativeParagraph": 43
+ },
+ {
+  "text": "art.∙2,∙points∙3∙et∙3bis∙RRT",
+  "unit": "{art.∙2,∙points∙3}∙et∙{3bis∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_3:fr:docx:rfees::2#2_3~art.∙2,∙points∙3}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~3bis∙RRT}",
+  "name": "M07074",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_1994_131",
+  "relativeParagraph": 43
+ },
+ {
+  "text": "l’article◦2,∙points∙2∙RRT∙et∙article◦2,∙points∙19∙RRT",
+  "unit": "{l’article◦2,∙points∙2∙RRT}∙et∙{article◦2,∙points∙19∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_2:fr:docx:rfees::2#2_2~l’article◦2,∙points∙2∙RRT}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:2_19:fr:docx:rfees::2#2_19~article◦2,∙points∙19∙RRT}",
+  "name": "M07178",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_2000_446",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "art.◦2,∙points∙1∙à∙3bis∙RRT",
+  "unit": "{art.◦2,∙points∙1}∙à∙{3bis∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~art.◦2,∙points∙1}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~3bis∙RRT}",
+  "name": "M07266",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1997_79",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "articles∙5(2)∙et∙8(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙5(2)}∙et∙{8(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:5_2:fr:docx:rfees::5#5_2~articles∙5(2)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:8_2:fr:docx:rfees::8#8_2~8(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07298",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "l’art.◦8(3)∙et∙(4)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’art.◦8(3)}∙et∙{(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:8_3:fr:docx:rfees::8#8_3~l’art.◦8(3)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:8_4:fr:docx:rfees::8#8_4~(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07302",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_3",
+  "relativeParagraph": 12
+ },
+ {
+  "text": "l’article◦8,∙paragraphes∙(1)∙et∙(3)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’article◦8,∙paragraphes∙(1)}∙et∙{(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:8_1:fr:docx:rfees::8#8_1~l’article◦8,∙paragraphes∙(1)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:8_3:fr:docx:rfees::8#8_3~(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07304",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_7",
+  "relativeParagraph": 29
+ },
+ {
+  "text": "l’article◦2,∙points∙2∙RRT∙et∙l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’article◦2,∙points∙2∙RRT}∙et∙{l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:2_2:fr:docx:rfees::2#2_2~l’article◦2,∙points∙2∙RRT}∙et∙{ep-legal:countries:EP::EPC:2002:1::internet:2_19:fr:docx:rfees::2#2_19~l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07580",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_2000_446",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "articles∙5◦RRT∙à∙article◦8◦RRT",
+  "unit": "{articles∙5◦RRT}∙à∙{article◦8◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:5:fr:docx:rfees::#5~articles∙5◦RRT}∙à∙{ep-legal:countries:EP::EPC:2002:1::internet:8:fr:docx:rfees::#8~article◦8◦RRT}",
+  "name": "M07688",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2001_613",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "articles∙2◦RRT∙et∙article◦8∙(3)b)∙RRT",
+  "unit": "{articles∙2◦RRT}∙et∙{article◦8∙(3)b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:2:fr:docx:rfees::#2~articles∙2◦RRT}∙et∙{ep-legal:countries:EP::EPC:2002:1::internet:8_3_b:fr:docx:rfees::8#8_3_b~article◦8∙(3)b)∙RRT}",
+  "name": "M07698",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_58",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "articles∙2∙et∙8∙(3)b)∙RRT",
+  "unit": "{articles∙2}∙et∙{8∙(3)b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:2:fr:docx:rfees::#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2002:1::internet:8_3_b:fr:docx:rfees::8#8_3_b~8∙(3)b)∙RRT}",
+  "name": "M07700",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_58",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "l’article◦8,∙paragraphes∙(1)◦RRT∙et∙l’article◦8,∙paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’article◦8,∙paragraphes∙(1)◦RRT}∙et∙{l’article◦8,∙paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:8_1:fr:docx:rfees::8#8_1~l’article◦8,∙paragraphes∙(1)◦RRT}∙et∙{ep-legal:countries:EP::EPC:2002:1::internet:8_3:fr:docx:rfees::8#8_3~l’article◦8,∙paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07712",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_7",
+  "relativeParagraph": 29
+ },
+ {
+  "text": "l’article◦8,∙paragraphes∙3∙RRT∙et∙l’article◦8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’article◦8,∙paragraphes∙3∙RRT}∙et∙{l’article◦8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:8_3:fr:docx:rfees::8#8_3~l’article◦8,∙paragraphes∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2002:1::internet:8_4:fr:docx:rfees::8#8_4~l’article◦8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07714",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2002/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_7",
+  "relativeParagraph": 46
+ },
+ {
+  "text": "l’article◦2,∙points∙2◦RRT∙et∙l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l’article◦2,∙points∙2◦RRT}∙et∙{l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:2_2:fr:docx:rfees::2#2_2~l’article◦2,∙points∙2◦RRT}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:2_19:fr:docx:rfees::2#2_19~l’article◦2,∙points∙19∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07858",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2003/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_2000_446",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "l'article∙2,∙points∙3ter∙RRT∙et∙l'article∙2,∙points∙3quater∙RRT",
+  "unit": "{l'article∙2,∙points∙3ter∙RRT}∙et∙{l'article∙2,∙points∙3quater∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:2_3b:fr:docx:rfees::2#2_3b~l'article∙2,∙points∙3ter∙RRT}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:2_3c:fr:docx:rfees::2#2_3c~l'article∙2,∙points∙3quater∙RRT}",
+  "name": "M07912",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2003/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_i02_sup_2",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "l'article∙2,∙points∙3ter∙et∙3quater∙RRT",
+  "unit": "{l'article∙2,∙points∙3ter}∙et∙{3quater∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:2_3b:fr:docx:rfees::2#2_3b~l'article∙2,∙points∙3ter}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:2_3c:fr:docx:rfees::2#2_3c~3quater∙RRT}",
+  "name": "M07916",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2003/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_i02_sup_2",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "l'article∙8,◦paragraphes∙(1)∙RRT,∙l'article∙8,◦paragraphes∙(3)∙RRT∙et∙l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙8,◦paragraphes∙(1)∙RRT},∙{l'article∙8,◦paragraphes∙(3)∙RRT}∙et∙{l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:8_1:fr:docx:rfees::8#8_1~l'article∙8,◦paragraphes∙(1)∙RRT},∙{ep-legal:countries:EP::EPC:2003:1::internet:8_3:fr:docx:rfees::8#8_3~l'article∙8,◦paragraphes∙(3)∙RRT}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:8_4:fr:docx:rfees::8#8_4~l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07918",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2003/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_i02_sup_3",
+  "relativeParagraph": 31
+ },
+ {
+  "text": "l'article∙8,◦paragraphes∙3∙RRT∙et∙l'article∙8,◦paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙8,◦paragraphes∙3∙RRT}∙et∙{l'article∙8,◦paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:8_3:fr:docx:rfees::8#8_3~l'article∙8,◦paragraphes∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:8_4:fr:docx:rfees::8#8_4~l'article∙8,◦paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M07922",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2003/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_i02_sup_3",
+  "relativeParagraph": 48
+ },
+ {
+  "text": "l'article∙8,◦paragraphes∙(1)∙du∙règlement∙relatif∙aux∙taxes,∙l'article∙8,◦paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes∙et∙l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙8,◦paragraphes∙(1)∙du∙règlement∙relatif∙aux∙taxes},∙{l'article∙8,◦paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes}∙et∙{l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:8_1:fr:docx:rfees::8#8_1~l'article∙8,◦paragraphes∙(1)∙du∙règlement∙relatif∙aux∙taxes},∙{ep-legal:countries:EP::EPC:2003:1::internet:8_3:fr:docx:rfees::8#8_3~l'article∙8,◦paragraphes∙(3)∙du∙règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:8_4:fr:docx:rfees::8#8_4~l'article∙8,◦paragraphes∙(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M08064",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2004/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2002_i02_sup_3",
+  "relativeParagraph": 31
+ },
+ {
+  "text": "articles∙5∙règlement∙relatif∙aux∙taxes∙et∙article∙8∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙5∙règlement∙relatif∙aux∙taxes}∙et∙{article∙8∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2005:1::internet:5:fr:docx:rfees::#5~articles∙5∙règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2005:1::internet:8:fr:docx:rfees::#8~article∙8∙règlement∙relatif∙aux∙taxes}",
+  "name": "M08082",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2005/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_2003_419",
+  "relativeParagraph": 27
+ },
+ {
+  "text": "articles◦3∙RRT∙et∙article∙6∙(4)∙RRT",
+  "unit": "{articles◦3∙RRT}∙et∙{article∙6∙(4)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:3:fr:docx:rfees::#3~articles◦3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:6:fr:docx:rfees::#6~article∙6∙(4)∙RRT}",
+  "name": "M08224",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/fr/I.eplegal.zip",
+  "referringId": "OJ_1999_300",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙a)∙et∙FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙b)",
+  "unit": "{FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙a)}∙et∙{FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙b)}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:5_1_a:fr:docx:rfees::5#5_1_a~FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙a)}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:5_1_b:fr:docx:rfees::5#5_1_b~FEE∙l’article∙5,∙paragraphe∙1,∙lettres∙b)}",
+  "name": "M08300",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2006_8",
+  "relativeParagraph": 139
+ },
+ {
+  "text": "articles∙5(2)∙du∙règlement∙relatif∙aux∙taxes∙et∙articles∙8(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙5(2)∙du∙règlement∙relatif∙aux∙taxes}∙et∙{articles∙8(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:5_2:fr:docx:rfees::5#5_2~articles∙5(2)∙du∙règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:8_2:fr:docx:rfees::8#8_2~articles∙8(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M08304",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2005_i01_sup_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article∙8,∙paragraphes∙1∙RRT,∙article∙8,∙paragraphes∙3∙RRT∙et∙article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙8,∙paragraphes∙1∙RRT},∙{article∙8,∙paragraphes∙3∙RRT}∙et∙{article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:8_1:fr:docx:rfees::8#8_1~l'article∙8,∙paragraphes∙1∙RRT},∙{ep-legal:countries:EP::EPC:2006:1::internet:8_3:fr:docx:rfees::8#8_3~article∙8,∙paragraphes∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:8_4:fr:docx:rfees::8#8_4~article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M08306",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2005_i01_sup_3",
+  "relativeParagraph": 33
+ },
+ {
+  "text": "l'article∙8,∙paragraphes∙3∙RRT∙et∙l'article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article∙8,∙paragraphes∙3∙RRT}∙et∙{l'article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:8_3:fr:docx:rfees::8#8_3~l'article∙8,∙paragraphes∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:8_4:fr:docx:rfees::8#8_4~l'article∙8,∙paragraphes∙4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M08310",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2006/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2005_i01_sup_3",
+  "relativeParagraph": 45
+ },
+ {
+  "text": "l'article∙8,∙paragraphes∙1∙RRT,∙article∙8,∙paragraphes∙3∙RRT∙et∙article∙8,∙paragraphes∙4∙RRT",
+  "unit": "{l'article∙8,∙paragraphes∙1∙RRT},∙{article∙8,∙paragraphes∙3∙RRT}∙et∙{article∙8,∙paragraphes∙4∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:8_1:fr:docx:rfees::8#8_1~l'article∙8,∙paragraphes∙1∙RRT},∙{ep-legal:countries:EP::EPC:2006:1::internet:8_3:fr:docx:rfees::8#8_3~article∙8,∙paragraphes∙3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2006:1::internet:8_4:fr:docx:rfees::8#8_4~article∙8,∙paragraphes∙4∙RRT}",
+  "name": "M08406",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2007/1/internet/fr/III.eplegal.zip",
+  "referringId": "OJ_2005_i01_sup_3",
+  "relativeParagraph": 33
+ },
+ {
+  "text": "l'art.◦2,∙no◦3ter∙RRT∙et∙art.◦2,∙no◦3quater∙RRT",
+  "unit": "{l'art.◦2,∙no◦3ter∙RRT}∙et∙{art.◦2,∙no◦3quater∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2003:1::internet:2_3b:fr:docx:rfees::2#2_3b~l'art.◦2,∙no◦3ter∙RRT}∙et∙{ep-legal:countries:EP::EPC:2003:1::internet:2_3c:fr:docx:rfees::2#2_3c~art.◦2,∙no◦3quater∙RRT}",
+  "name": "M15354",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CIII_13_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦2,∙no◦3ter∙RRT∙et∙art.◦2,∙no◦3quater∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'art.◦2,∙no◦3ter∙RRT}∙et∙{art.◦2,∙no◦3quater∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2005:1::internet:2_3b:fr:docx:rfees::2#2_3b~l'art.◦2,∙no◦3ter∙RRT}∙et∙{ep-legal:countries:EP::EPC:2005:1::internet:2_3c:fr:docx:rfees::2#2_3c~art.◦2,∙no◦3quater∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M15984",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2005/1.2/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CIII_13_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'art.◦7(3)∙a)∙RRT∙et∙l'art.◦7(3)∙b)∙RRT",
+  "unit": "{l'art.◦7(3)∙a)∙RRT}∙et∙{l'art.◦7(3)∙b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:7_3_a:fr:docx:rfees::7#7_3_a~l'art.◦7(3)∙a)∙RRT}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:7_3_b:fr:docx:rfees::7#7_3_b~l'art.◦7(3)∙b)∙RRT}",
+  "name": "M16440",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CXI_6_2_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "L'art.◦7(3)∙et∙(4)◦RRT",
+  "unit": "{L'art.◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:7_3:fr:docx:rfees::7#7_3~L'art.◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:7_4:fr:docx:rfees::7#7_4~(4)◦RRT}",
+  "name": "M16446",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2009/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CXI_6_2_5",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article◦7(3)◦a)∙RRT∙et∙article◦7(3)◦b)∙RRT",
+  "unit": "{l'article◦7(3)◦a)∙RRT}∙et∙{article◦7(3)◦b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:7_3_a:fr:docx:rfees::7#7_3_a~l'article◦7(3)◦a)∙RRT}∙et∙{ep-legal:countries:EP::EPC:2012:1::internet:7_3_b:fr:docx:rfees::7#7_3_b~article◦7(3)◦b)∙RRT}",
+  "name": "M16942",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2012/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CX_6_2_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "L'article◦7(3)∙et∙(4)◦RRT",
+  "unit": "{L'article◦7(3)}∙et∙{(4)◦RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:7_3:fr:docx:rfees::7#7_3~L'article◦7(3)}∙et∙{ep-legal:countries:EP::EPC:2012:1::internet:7_4:fr:docx:rfees::7#7_4~(4)◦RRT}",
+  "name": "M16948",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2012/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CX_6_2_5",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article◦7(3)◦a)∙RRT∙et∙l'article◦7(3)◦b)∙RRT",
+  "unit": "{l'article◦7(3)◦a)∙RRT}∙et∙{l'article◦7(3)◦b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:7_3_a:fr:docx:rfees::7#7_3_a~l'article◦7(3)◦a)∙RRT}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:7_3_b:fr:docx:rfees::7#7_3_b~l'article◦7(3)◦b)∙RRT}",
+  "name": "M17740",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2015/1/internet/fr/A.eplegal.zip",
+  "referringId": "GLA_CX_6_2_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "L'article∙2,∙points∙1∙à∙3bis∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{L'article∙2,∙points∙1}∙à∙{3bis∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~L'article∙2,∙points∙1}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~3bis∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M19760",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1997/01-02/internet/fr/OJ_1997_12.eplegal.zip",
+  "referringId": "OJ_1997_12",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "art.∙2,∙points∙1∙à∙3bis∙RRT",
+  "unit": "{art.∙2,∙points∙1}∙à∙{3bis∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~art.∙2,∙points∙1}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~3bis∙RRT}",
+  "name": "M19768",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1997/01-02/internet/fr/OJ_1997_79.eplegal.zip",
+  "referringId": "OJ_1997_79",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "L'article∙2,∙points∙1∙du∙règlement∙relatif∙aux∙taxes∙à∙L'article∙2,∙points∙3bis∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{L'article∙2,∙points∙1∙du∙règlement∙relatif∙aux∙taxes}∙à∙{L'article∙2,∙points∙3bis∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~L'article∙2,∙points∙1∙du∙règlement∙relatif∙aux∙taxes}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~L'article∙2,∙points∙3bis∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M19776",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1997/03/internet/fr/OJ_1997_107.eplegal.zip",
+  "referringId": "OJ_1997_107",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "L'article∙2,∙points∙1∙à∙3bis",
+  "unit": "{L'article∙2,∙points∙1}∙à∙{3bis}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:2_1:fr:docx:rfees::2#2_1~L'article∙2,∙points∙1}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:2_3a:fr:docx:rfees::2#2_3a~3bis}",
+  "name": "M19778",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1997/03/internet/fr/OJ_1997_107.eplegal.zip",
+  "referringId": "OJ_1997_107",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "l'art.◦8(3)∙et∙(4)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'art.◦8(3)}∙et∙{(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:8_3:fr:docx:rfees::8#8_3~l'art.◦8(3)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:8_4:fr:docx:rfees::8#8_4~(4)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M20000",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1999/02/internet/fr/OJ_1999_i02_sup_3.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_3",
+  "relativeParagraph": 12
+ },
+ {
+  "text": "l'article◦8,∙paragraphes∙(1)∙et∙(3)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article◦8,∙paragraphes∙(1)}∙et∙{(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:8_1:fr:docx:rfees::8#8_1~l'article◦8,∙paragraphes∙(1)}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:8_3:fr:docx:rfees::8#8_3~(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M20002",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/1999/02/internet/fr/OJ_1999_i02_sup_7.eplegal.zip",
+  "referringId": "OJ_1999_i02_sup_7",
+  "relativeParagraph": 30
+ },
+ {
+  "text": "L'article◦7,∙paragraphes◦1∙du∙règlement∙relatif∙aux∙taxes,∙article◦7,∙paragraphes◦3∙du∙règlement∙relatif∙aux∙taxes∙et∙article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{L'article◦7,∙paragraphes◦1∙du∙règlement∙relatif∙aux∙taxes},∙{article◦7,∙paragraphes◦3∙du∙règlement∙relatif∙aux∙taxes}∙et∙{article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:7_1:fr:docx:rfees::7#7_1~L'article◦7,∙paragraphes◦1∙du∙règlement∙relatif∙aux∙taxes},∙{ep-legal:countries:EP::EPC:2007:1::internet:7_3:fr:docx:rfees::7#7_3~article◦7,∙paragraphes◦3∙du∙règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:7_4:fr:docx:rfees::7#7_4~article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M20960",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2007/10/internet/fr/OJ_2007_i10_sup_5.eplegal.zip",
+  "referringId": "OJ_2007_i10_sup_5",
+  "relativeParagraph": 35
+ },
+ {
+  "text": "articles∙2∙et∙7(3)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙2}∙et∙{7(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2012:1::internet:2:fr:docx:rfees::#2~articles∙2}∙et∙{ep-legal:countries:EP::EPC:2012:1::internet:7_3:fr:docx:rfees::7#7_3~7(3)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M21724",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2012/03/internet/fr/OJ_2012_i03_sup_15.eplegal.zip",
+  "referringId": "OJ_2012_i03_sup_15",
+  "relativeParagraph": 10
+ },
+ {
+  "text": "articles∙9(1)∙du∙Règlement∙relatif∙aux∙taxes∙et∙article∙11b)∙du∙Règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙9(1)∙du∙Règlement∙relatif∙aux∙taxes}∙et∙{article∙11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:9_1:fr:docx:rfees::9#9_1~articles∙9(1)∙du∙Règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:fr:docx:rfees::11#11_b~article∙11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "name": "M21840",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2013/01/internet/fr/OJ_2013_2.eplegal.zip",
+  "referringId": "OJ_2013_2",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "articles∙9(1)∙et∙11b)∙du∙Règlement∙relatif∙aux∙taxes",
+  "unit": "{articles∙9(1)}∙et∙{11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:9_1:fr:docx:rfees::9#9_1~articles∙9(1)}∙et∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:fr:docx:rfees::11#11_b~11b)∙du∙Règlement∙relatif∙aux∙taxes}",
+  "name": "M21842",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2013/01/internet/fr/OJ_2013_2.eplegal.zip",
+  "referringId": "OJ_2013_2",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "articles∙9(1)∙RRT∙et∙article∙11b)∙RRT",
+  "unit": "{articles∙9(1)∙RRT}∙et∙{article∙11b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:9_1:fr:docx:rfees::9#9_1~articles∙9(1)∙RRT}∙et∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:fr:docx:rfees::11#11_b~article∙11b)∙RRT}",
+  "name": "M21872",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2013/03/internet/fr/OJ_2013_153.eplegal.zip",
+  "referringId": "OJ_2013_153",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles∙9(1)∙et∙11b)∙RRT",
+  "unit": "{articles∙9(1)}∙et∙{11b)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1::internet:9_1:fr:docx:rfees::9#9_1~articles∙9(1)}∙et∙{ep-legal:countries:EP::EPC:2013:1::internet:11_b:fr:docx:rfees::11#11_b~11b)∙RRT}",
+  "name": "M21874",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2013/03/internet/fr/OJ_2013_153.eplegal.zip",
+  "referringId": "OJ_2013_153",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "l'article∙2,∙point∙3,∙point∙3bis,∙point◦7∙et∙point∙15",
+  "unit": "{l'article∙2,∙point∙3},∙{point∙3bis},∙{point◦7}∙et∙{point∙15}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~l'article∙2,∙point∙3},∙{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~point∙3bis},∙{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~point◦7}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~point∙15}",
+  "name": "M21972",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/01/internet/fr/OJ_2014_A5.eplegal.zip",
+  "referringId": "OJ_2014_A5",
+  "relativeParagraph": 126
+ },
+ {
+  "text": "Articles∙2∙du∙règlement∙relatif∙aux∙taxes∙et∙Article∙11∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{Articles∙2∙du∙règlement∙relatif∙aux∙taxes}∙et∙{Article∙11∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~Articles∙2∙du∙règlement∙relatif∙aux∙taxes}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:11:fr:docx:rfees::#11~Article∙11∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M22086",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/08/internet/fr/OJ_2014_A84.eplegal.zip",
+  "referringId": "OJ_2014_A84",
+  "relativeParagraph": 15
+ },
+ {
+  "text": "l'article◦7,∙paragraphes◦3∙RRT∙et∙l'article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{l'article◦7,∙paragraphes◦3∙RRT}∙et∙{l'article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:7_3:fr:docx:rfees::7#7_3~l'article◦7,∙paragraphes◦3∙RRT}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:7_4:fr:docx:rfees::7#7_4~l'article◦7,∙paragraphes◦4∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M22184",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se4/internet/fr/OJ_2014_se4_5.eplegal.zip",
+  "referringId": "OJ_2014_se4_5",
+  "relativeParagraph": 57
+ },
+ {
+  "text": "art.◦9(1)∙et∙11◦b)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{art.◦9(1)}∙et∙{11◦b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:9_1:fr:docx:rfees::9#9_1~art.◦9(1)}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:11_b:fr:docx:rfees::11#11_b~11◦b)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M22202",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se5/internet/fr/OJ_2014_se5_25.eplegal.zip",
+  "referringId": "OJ_2014_se5_25",
+  "relativeParagraph": 337
+ },
+ {
+  "text": "l'article◦7(3)a)∙et∙b)",
+  "unit": "{l'article◦7(3)a)}∙et∙{b)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:7_3_a:fr:docx:rfees::7#7_3_a~l'article◦7(3)a)}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:7_3_b:fr:docx:rfees::7#7_3_b~b)}",
+  "name": "M22400",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2015/se3/internet/fr/OJ_2015_se3_8.eplegal.zip",
+  "referringId": "OJ_2015_se3_8",
+  "relativeParagraph": 30
+ },
+ {
+  "text": "point◦3bis,∙point◦7∙et∙point◦15∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{point◦3bis},∙{point◦7}∙et∙{point◦15∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:2:fr:docx:rfees::#2~point◦3bis},∙{ep-legal:countries:EP::EPC:2016:3.0::internet:2:fr:docx:rfees::#2~point◦7}∙et∙{ep-legal:countries:EP::EPC:2016:3.0::internet:2:fr:docx:rfees::#2~point◦15∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M22454",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/01/internet/fr/OJ_2016_A3.eplegal.zip",
+  "referringId": "OJ_2016_A3",
+  "relativeParagraph": 125
+ }
+]

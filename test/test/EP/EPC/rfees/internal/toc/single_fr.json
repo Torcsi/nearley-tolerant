@@ -1,0 +1,102 @@
+[
+ {
+  "text": "Art.∙1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S05061",
+  "unit": "{Art.∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:1:fr:docx:rfees::#1~Art.∙1}"
+ },
+ {
+  "text": "Art.∙10bis",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 15,
+  "style": "TOC3",
+  "name": "S05062",
+  "unit": "{Art.∙10bis}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10a:fr:docx:rfees::#10a~Art.∙10bis}"
+ },
+ {
+  "text": "Art.∙10ter",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 16,
+  "style": "TOC3",
+  "name": "S05063",
+  "unit": "{Art.∙10ter}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10b:fr:docx:rfees::#10b~Art.∙10ter}"
+ },
+ {
+  "text": "Art.∙10quater",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 17,
+  "style": "TOC3",
+  "name": "S05064",
+  "unit": "{Art.∙10quater}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10c:fr:docx:rfees::#10c~Art.∙10quater}"
+ },
+ {
+  "text": "Art.∙10quinquies",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 17,
+  "style": "TOC3",
+  "name": "S05071",
+  "unit": "{Art.∙10quinquies}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:10d:fr:docx:rfees::#10d~Art.∙10quinquies}"
+ },
+ {
+  "text": "Art.∙premier",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S05106",
+  "unit": "{Art.∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:1:fr:docx:rfees::#1~Art.∙premier}"
+ },
+ {
+  "text": "l'article∙2∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/01/internet/fr/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ_2014_i01_toc",
+  "relativeParagraph": 14,
+  "style": "EPOTOCP1",
+  "name": "S05511",
+  "unit": "{l'article∙2∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:2:fr:docx:rfees::#2~l'article∙2∙du∙règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article◦2(1)∙RRT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/fr/OJ_2014_i02_toc.eplegal.zip",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 8,
+  "style": "EPOTOCP1",
+  "name": "S05512",
+  "unit": "{l'article◦2(1)∙RRT}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:2_1:fr:docx:rfees::2#2_1~l'article◦2(1)∙RRT}"
+ },
+ {
+  "text": "l'article◦2∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 171,
+  "style": "EPOTOCP1",
+  "name": "S05566",
+  "unit": "{l'article◦2∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:2:fr:docx:rfees::#2~l'article◦2∙du∙règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 178,
+  "style": "EPOTOCP1",
+  "name": "S05568",
+  "unit": "{l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:9_2:fr:docx:rfees::9#9_2~l'article◦9(2)∙du∙règlement∙relatif∙aux∙taxes}"
+ }
+]

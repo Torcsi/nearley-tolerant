@@ -1,0 +1,96 @@
+[
+ {
+  "text": "I.◦Patentability",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 7,
+  "name": "S01686",
+  "unit": "{I.◦Patentability}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I:en:xml~I.◦Patentability}"
+ },
+ {
+  "text": "A.◦Patentable∙inventions",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 8,
+  "name": "S01687",
+  "unit": "{A.◦Patentable∙inventions}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A:en:xml~A.◦Patentable∙inventions}"
+ },
+ {
+  "text": "1.◦Technical∙nature∙of∙an∙invention",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 9,
+  "name": "S01688",
+  "unit": "{1.◦Technical∙nature∙of∙an∙invention}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1:en:xml~1.◦Technical∙nature∙of∙an∙invention}"
+ },
+ {
+  "text": "1.1.◦Computer-implemented∙inventions",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 10,
+  "name": "S01689",
+  "unit": "{1.1.◦Computer-implemented∙inventions}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1_1:en:xml~1.1.◦Computer-implemented∙inventions}"
+ },
+ {
+  "text": "1.4.1◦Methods∙for∙doing∙business",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 14,
+  "name": "S01690",
+  "unit": "{1.4.1◦Methods∙for∙doing∙business}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_A_1_4_1:en:xml~1.4.1◦Methods∙for∙doing∙business}"
+ },
+ {
+  "text": "B.◦Exceptions∙to∙patentability",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 33,
+  "name": "S01691",
+  "unit": "{B.◦Exceptions∙to∙patentability}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_I_B:en:xml~B.◦Exceptions∙to∙patentability}"
+ },
+ {
+  "text": "1.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01701",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1:en:xml#CLR_I_A_1~1.→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S01702",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_1:en:xml#CLR_I_A_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "1.4.1→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S01703",
+  "unit": "{1.4.1→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_4_1:en:xml#CLR_I_A_1_4_1~1.4.1→xxx}"
+ },
+ {
+  "text": "a)→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S01704",
+  "unit": "{a)→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A_1_4_1_a:en:xml#CLR_I_A_1_4_1_a~a)→xxx}"
+ },
+ {
+  "text": "i)→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 32,
+  "name": "S01705",
+  "unit": "{i)→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_C_1_9_8_i:en:xml#CLR_I_C_1_9_8_i~i)→xxx}"
+ }
+]

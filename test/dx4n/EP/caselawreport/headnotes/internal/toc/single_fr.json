@@ -1,0 +1,28 @@
+[
+ {
+  "text": "QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 6,
+  "name": "S28085",
+  "unit": "{QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_HEADWORDS:fr:xml~QUESTIONS∙SOUMISES∙À∙LA∙GRANDE∙CHAMBRE∙DE∙RECOURS}"
+ },
+ {
+  "text": "SOMMAIRE∙DE∙L'AVIS∙G◦3/08",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S28097",
+  "unit": "{SOMMAIRE∙DE∙L'AVIS∙G◦3/08}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_HEADWORDS:fr:xml~SOMMAIRE∙DE∙L'AVIS∙G◦3/08}"
+ },
+ {
+  "text": "Sommaire∙de∙l'avis∙G◦3/08",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/toc.eplegal.zip",
+  "referringId": "caselawreport:CLR_TOC",
+  "relativeParagraph": 6,
+  "name": "S28100",
+  "unit": "{Sommaire∙de∙l'avis∙G◦3/08}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_HEADWORDS:fr:xml~Sommaire∙de∙l'avis∙G◦3/08}"
+ }
+]

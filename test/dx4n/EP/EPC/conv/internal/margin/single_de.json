@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Art.∙4",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/conv.eplegal.zip",
+  "referringId": "EPC:A4a",
+  "relativeParagraph": 2,
+  "name": "S15475",
+  "unit": "{Art.∙4}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A4:de:xml~Art.∙4}"
+ },
+ {
+  "text": "Art.∙112a",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/conv.eplegal.zip",
+  "referringId": "EPC:A111",
+  "relativeParagraph": 2,
+  "name": "S15476",
+  "unit": "{Art.∙112a}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a:de:xml~Art.∙112a}"
+ }
+]

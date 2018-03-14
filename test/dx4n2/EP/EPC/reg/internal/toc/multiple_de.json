@@ -1,0 +1,35 @@
+[
+ {
+  "text": "Regeln◦36,∙38∙und∙135∙EPÜ",
+  "unit": "{Regeln◦36},∙{38}∙und∙{135∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R36:de:docx:reg:RIII_I:#R36~Regeln◦36},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R38:de:docx:reg:RIII_I:#R38~38}∙und∙{ep-legal:countries:EP::EPC:2014:sls::sls:R135:de:docx:reg:RVII_V:#R135~135∙EPÜ}",
+  "name": "M54864",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/de/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 8,
+  "bad": true
+ },
+ {
+  "text": "Regel◦6∙EPÜ∙und∙Artikel◦14◦(1)∙GebO",
+  "unit": "{Regel◦6∙EPÜ}∙und∙{Artikel◦14◦(1)∙GebO}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R6:de:docx:reg:RI_I:#R6~Regel◦6∙EPÜ}∙und∙{ep-legal:countries:EP::EPC:2014:sls::sls:14_1:de:docx:rfees::14#14_1~Artikel◦14◦(1)∙GebO}",
+  "name": "M54866",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/de/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 9,
+  "bad": true
+ },
+ {
+  "text": "Regeln◦51◦(2)∙und◦162◦(2)∙EPÜ",
+  "unit": "{Regeln◦51◦(2)}∙und◦{162◦(2)∙EPÜ}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R51_2:de:docx:reg:RIII_III:R51#R51_2~Regeln◦51◦(2)}∙und◦{ep-legal:countries:EP::EPC:2016:3.0::internet:R162_2:de:docx:reg:RIX:R162#R162_2~162◦(2)∙EPÜ}",
+  "name": "M54884",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/12/internet/de/OJ_2016_i12_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_i12_toc",
+  "relativeParagraph": 9,
+  "bad": true
+ }
+]

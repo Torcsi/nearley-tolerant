@@ -1,0 +1,54 @@
+[
+ {
+  "text": "Amendments∙under∙Article◦19∙PCT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp2/2011/1/internet/en/complete.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 88,
+  "style": "TOC4",
+  "cppt": "WO:PCT:treaty",
+  "name": "S61501",
+  "unit": "{Amendments∙under∙Article◦19∙PCT}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1::internet:GA_C_II_10:en:docx:complete:GA_C_II_9:GA_238#GA_C_II_10~Amendments∙under∙Article◦19∙PCT}",
+  "bad": true
+ },
+ {
+  "text": "Article◦1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 6,
+  "style": "TOC2",
+  "name": "S61779",
+  "unit": "{Article◦1}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:1:en:docx:treaty:TITLE:#1~Article◦1}"
+ },
+ {
+  "text": "Chapter∙I",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 8,
+  "style": "TOC1",
+  "name": "S61780",
+  "unit": "{Chapter∙I}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:CI:en:docx:treaty:TITLE:3#CI~Chapter∙I}"
+ },
+ {
+  "text": "Article∙1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 8,
+  "style": "TOC3",
+  "name": "S61808",
+  "unit": "{Article∙1→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:1:en:docx:treaty:INTRO:#1~Article∙1→xxx}"
+ },
+ {
+  "text": "Chapter∙I:→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 10,
+  "style": "TOC1",
+  "name": "S61809",
+  "unit": "{Chapter∙I:→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:CI:en:docx:treaty:INTRO:3#CI~Chapter∙I:→xxx}"
+ }
+]

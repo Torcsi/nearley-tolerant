@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Foreword∙to∙the∙fourth∙edition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 2,
+  "name": "S58407",
+  "unit": "{Foreword∙to∙the∙fourth∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_FOREWORD:en:docx:foreword::#CLR_FOREWORD~Foreword∙to∙the∙fourth∙edition}"
+ },
+ {
+  "text": "Reader's∙Guide",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 3,
+  "name": "S58408",
+  "unit": "{Reader's∙Guide}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_GUIDE:en:docx:guide::#CLR_GUIDE~Reader's∙Guide}"
+ },
+ {
+  "text": "Headnotes∙of∙decisions∙to∙be∙published",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 4,
+  "name": "S58409",
+  "unit": "{Headnotes∙of∙decisions∙to∙be∙published}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_HEADWORDS:en:docx:headnotes::#CLR_HEADWORDS~Headnotes∙of∙decisions∙to∙be∙published}"
+ },
+ {
+  "text": "Table∙of∙cases",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 5,
+  "name": "S58410",
+  "unit": "{Table∙of∙cases}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_DECISIONS:en:docx:tableofcases::#CLR_DECISIONS~Table∙of∙cases}"
+ },
+ {
+  "text": "Index∙of∙cited∙provisions",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/en/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 6,
+  "name": "S58411",
+  "unit": "{Index∙of∙cited∙provisions}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_CITATIONS:en:docx:indexofcitedprovisions::#CLR_CITATIONS~Index∙of∙cited∙provisions}"
+ }
+]

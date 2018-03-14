@@ -1,0 +1,37 @@
+[
+ {
+  "text": "Prot.∙Centr.∙IV(2)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB_CI_3",
+  "relativeParagraph": 3,
+  "name": "S02838",
+  "unit": "{Prot.∙Centr.∙IV(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:CIV_2:en:xml~Prot.∙Centr.∙IV(2)}"
+ },
+ {
+  "text": "Prot.∙Centr.∙V",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB_CI_3",
+  "relativeParagraph": 3,
+  "name": "S02839",
+  "unit": "{Prot.∙Centr.∙V}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:CV:en:xml~Prot.∙Centr.∙V}"
+ },
+ {
+  "text": "Prot.∙Centr.∙I(1)(b)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB_CII_4_6",
+  "relativeParagraph": 2,
+  "name": "S02840",
+  "unit": "{Prot.∙Centr.∙I(1)(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:CI_1_b:en:xml~Prot.∙Centr.∙I(1)(b)}"
+ },
+ {
+  "text": "Prot.◦Centr.◦I(1)(b)",
+  "file": "/EP/organization/guiex/2014/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02874",
+  "unit": "{Prot.◦Centr.◦I(1)(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:CI_1_b:en:xml#CI_1_b~Prot.◦Centr.◦I(1)(b)}"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "text": "Artikeln◦9◦(1)∙Gebührenordnung∙und∙Artikeln◦11◦b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)∙Gebührenordnung}∙und∙{Artikeln◦11◦b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:9_1:de:docx:rfees::9#9_1~Artikeln◦9◦(1)∙Gebührenordnung}∙und∙{ep-legal:countries:EP::EPC:2016:3.0::internet:11_b:de:docx:rfees::11#11_b~Artikeln◦11◦b)∙Gebührenordnung}",
+  "name": "M54894",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/de/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 177
+ },
+ {
+  "text": "Artikeln◦9◦(1)∙und∙11◦b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{11◦b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:9_1:de:docx:rfees::9#9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2016:3.0::internet:11_b:de:docx:rfees::11#11_b~11◦b)∙Gebührenordnung}",
+  "name": "M54898",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/de/OJ_2016_se4_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 177
+ }
+]

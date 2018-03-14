@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Abschnitte◦III∙und∙IV",
+  "unit": "{Abschnitte◦III}∙und∙{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:de:xml~Abschnitte◦III}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV:de:xml~IV}",
+  "name": "M18059",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CII",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Nummern◦1∙und∙2",
+  "unit": "{Nummern◦1}∙und∙{2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV_1:de:xml~Nummern◦1}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV_2:de:xml~2}",
+  "name": "M18061",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/procen.eplegal.zip",
+  "referringId": "EPC:CV_3",
+  "relativeParagraph": 0
+ }
+]

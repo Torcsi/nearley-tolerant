@@ -1,0 +1,20 @@
+[
+ {
+  "bad":true,
+  "text": "Annex∙IIndex∙of∙decisions∙and∙opinions∙of∙the∙Enlarged∙Board∙of∙Appeal∙published∙in∙the∙Official∙Journal∙of∙the∙EPO",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 12,
+  "name": "S01732",
+  "unit": "{Annex∙IIndex∙of∙decisions∙and∙opinions∙of∙the∙Enlarged∙Board∙of∙Appeal∙published∙in∙the∙Official∙Journal∙of∙the∙EPO}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:AN1:en:xml~Annex∙IIndex∙of∙decisions∙and∙opinions∙of∙the∙Enlarged∙Board∙of∙Appeal∙published∙in∙the∙Official∙Journal∙of∙the∙EPO}"
+ },
+ {
+  "text": "Annex∙I↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 14,
+  "name": "S01771",
+  "unit": "{Annex∙I↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:AN1:en:xml#AN1~Annex∙I↲xxx}"
+ }
+]

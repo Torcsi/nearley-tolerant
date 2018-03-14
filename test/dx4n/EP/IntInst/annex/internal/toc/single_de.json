@@ -1,0 +1,74 @@
+[
+ {
+  "text": "1.→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I",
+  "relativeParagraph": 3,
+  "name": "S15332",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_I_1:de:xml#ANNEX_I_1~1.→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I",
+  "relativeParagraph": 4,
+  "name": "S15333",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_I_1_1:de:xml#ANNEX_I_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "1.1.1→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I",
+  "relativeParagraph": 5,
+  "name": "S15334",
+  "unit": "{1.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_I_1_1_1:de:xml#ANNEX_I_1_1_1~1.1.1→xxx}"
+ },
+ {
+  "text": "1.1.2.1→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I",
+  "relativeParagraph": 7,
+  "name": "S15335",
+  "unit": "{1.1.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_I_1_1_2_1:de:xml#ANNEX_I_1_1_2_1~1.1.2.1→xxx}"
+ },
+ {
+  "text": "1.2→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I",
+  "relativeParagraph": 12,
+  "name": "S15336",
+  "unit": "{1.2→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_I_1_2:de:xml#ANNEX_I_1_2~1.2→xxx}"
+ },
+ {
+  "text": "CP-5:→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-v.eplegal.zip",
+  "referringId": "IntInst:ANNEX_V",
+  "relativeParagraph": 5,
+  "name": "S15337",
+  "unit": "{CP-5:→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_V_CP5:de:xml#ANNEX_V_CP5~CP-5:→xxx}"
+ },
+ {
+  "text": "4.1.2.→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-via.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VIa",
+  "relativeParagraph": 24,
+  "name": "S15338",
+  "unit": "{4.1.2.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_VIa_4_1_2:de:xml#ANNEX_VIa_4_1_2~4.1.2.→xxx}"
+ },
+ {
+  "text": "4.1.2.1.→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/annex-via.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VIa",
+  "relativeParagraph": 25,
+  "name": "S15339",
+  "unit": "{4.1.2.1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_VIa_4_1_2_1:de:xml#ANNEX_VIa_4_1_2_1~4.1.2.1.→xxx}"
+ }
+]

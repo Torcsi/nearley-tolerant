@@ -1,0 +1,20 @@
+[
+ {
+  "text": "l’article∙premier",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P7",
+  "relativeParagraph": 1,
+  "name": "S02044",
+  "unit": "{l’article∙premier}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:P1:fr:docx:prorecog::#P1~l’article∙premier}"
+ },
+ {
+  "text": "L’article∙9,∙paragraphe∙1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P10",
+  "relativeParagraph": 1,
+  "name": "S02045",
+  "unit": "{L’article∙9,∙paragraphe∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:P9_1:fr:docx:prorecog::P9#P9_1~L’article∙9,∙paragraphe∙1}"
+ }
+]

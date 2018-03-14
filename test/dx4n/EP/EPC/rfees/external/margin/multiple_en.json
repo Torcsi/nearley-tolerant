@@ -1,0 +1,26 @@
+[
+ {
+  "text": "Art.◦2(1).2,∙2(1).18∙RFees",
+  "unit": "{Art.◦2(1).2},∙{2(1).18∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_2:en:xml#2_1_2~Art.◦2(1).2},∙{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_18:en:xml#2_1_18~2(1).18∙RFees}",
+  "name": "M12032",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.∙2(1).3,∙2(1).12∙RFees",
+  "unit": "{Art.∙2(1).3},∙{2(1).12∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_3:en:xml#2_1_3~Art.∙2(1).3},∙{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:2_1_12:en:xml#2_1_12~2(1).12∙RFees}",
+  "name": "M12048",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Art.∙2(1)3,∙2(1)12∙RFees",
+  "unit": "{Art.∙2(1)3},∙{2(1)12∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:2_1_3:en:xml#2_1_3~Art.∙2(1)3},∙{ep-legal:countries:EP::EPC:2016:1:1.0:electronicproofer:2_1_12:en:xml#2_1_12~2(1)12∙RFees}",
+  "name": "M12120",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3
+ }
+]

@@ -1,0 +1,1700 @@
+[
+ {
+  "text": "II.C.2.2,∙II.C.3.1,∙II.C.3.2,∙II.C.3.3.1,∙II.C.3.3.2,∙II.C.4.2,∙II.C.5.1,∙II.C.5.3,∙II.C.6.2",
+  "unit": "{II.C.2.2},∙{II.C.3.1},∙{II.C.3.2},∙{II.C.3.3.1},∙{II.C.3.3.2},∙{II.C.4.2},∙{II.C.5.1},∙{II.C.5.3},∙{II.C.6.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_2:fr:xml~II.C.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_1:fr:xml~II.C.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_1:fr:xml~II.C.3.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_2:fr:xml~II.C.3.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6_2:fr:xml~II.C.6.2}",
+  "name": "M29551",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "II.C.3.1,∙II.C.5.1",
+  "unit": "{II.C.3.1},∙{II.C.5.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_1:fr:xml~II.C.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1}",
+  "name": "M29553",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "VII.C.1.3.2,∙VII.C.1.3.5,∙VII.C.1.5.2,∙VII.C.1.6",
+  "unit": "{VII.C.1.3.2},∙{VII.C.1.3.5},∙{VII.C.1.5.2},∙{VII.C.1.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_3_2:fr:xml~VII.C.1.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_3_5:fr:xml~VII.C.1.3.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_5_2:fr:xml~VII.C.1.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_6:fr:xml~VII.C.1.6}",
+  "name": "M29555",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 14
+ },
+ {
+  "text": "VII.E.16.4.3,∙VII.E.16.5.4,∙VII.E.16.6.3",
+  "unit": "{VII.E.16.4.3},∙{VII.E.16.5.4},∙{VII.E.16.6.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_16_4_3:fr:xml~VII.E.16.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_16_5_4:fr:xml~VII.E.16.5.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_16_6_3:fr:xml~VII.E.16.6.3}",
+  "name": "M29557",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 22
+ },
+ {
+  "text": "I.C.2.4,∙I.C.2.8,∙I.C.5.3.1",
+  "unit": "{I.C.2.4},∙{I.C.2.8},∙{I.C.5.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_4:fr:xml~I.C.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_8:fr:xml~I.C.2.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_3_1:fr:xml~I.C.5.3.1}",
+  "name": "M29561",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 37
+ },
+ {
+  "text": "I.C.1.8.4,∙I.C.1.8.5,∙I.C.1.8.9,∙I.C.1.9.2,∙I.C.4.1.4",
+  "unit": "{I.C.1.8.4},∙{I.C.1.8.5},∙{I.C.1.8.9},∙{I.C.1.9.2},∙{I.C.4.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_4:fr:xml~I.C.1.8.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_5:fr:xml~I.C.1.8.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_9:fr:xml~I.C.1.8.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_9_2:fr:xml~I.C.1.9.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4}",
+  "name": "M29563",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 39
+ },
+ {
+  "text": "I.C.1.5,∙I.C.1.8.1,∙I.C.2.8",
+  "unit": "{I.C.1.5},∙{I.C.1.8.1},∙{I.C.2.8}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_5:fr:xml~I.C.1.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_1:fr:xml~I.C.1.8.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_8:fr:xml~I.C.2.8}",
+  "name": "M29565",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 53
+ },
+ {
+  "text": "I.C.1.8.8,∙II.C.3.2,∙VI.A.4.1,∙VI.A.4.2",
+  "unit": "{I.C.1.8.8},∙{II.C.3.2},∙{VI.A.4.1},∙{VI.A.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_8:fr:xml~I.C.1.8.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_1:fr:xml~VI.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_2:fr:xml~VI.A.4.2}",
+  "name": "M29567",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 87
+ },
+ {
+  "text": "I.C.1.8.6,∙I.C.1.8.9,∙I.C.1.9.2,∙I.C.1.9.5,∙I.C.2.8,∙I.C.2.11",
+  "unit": "{I.C.1.8.6},∙{I.C.1.8.9},∙{I.C.1.9.2},∙{I.C.1.9.5},∙{I.C.2.8},∙{I.C.2.11}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_6:fr:xml~I.C.1.8.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_9:fr:xml~I.C.1.8.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_9_2:fr:xml~I.C.1.9.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_9_5:fr:xml~I.C.1.9.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_8:fr:xml~I.C.2.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_11:fr:xml~I.C.2.11}",
+  "name": "M29569",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 96
+ },
+ {
+  "text": "VI.F.2.1,∙VI.F.3,∙X.1",
+  "unit": "{VI.F.2.1},∙{VI.F.3},∙{X.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_F_2_1:fr:xml~VI.F.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_F_3:fr:xml~VI.F.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_1:fr:xml~X.1}",
+  "name": "M29571",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 101
+ },
+ {
+  "text": "VII.D.2.1.6,∙VII.D.2.2.1,∙VII.D.2.2.5,∙VII.D.2.3.2,∙VII.D.2.3.4,∙VII.D.2.4,∙VII.D.3.2.1",
+  "unit": "{VII.D.2.1.6},∙{VII.D.2.2.1},∙{VII.D.2.2.5},∙{VII.D.2.3.2},∙{VII.D.2.3.4},∙{VII.D.2.4},∙{VII.D.3.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_1_6:fr:xml~VII.D.2.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_1:fr:xml~VII.D.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_5:fr:xml~VII.D.2.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_2:fr:xml~VII.D.2.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_4:fr:xml~VII.D.2.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_4:fr:xml~VII.D.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_3_2_1:fr:xml~VII.D.3.2.1}",
+  "name": "M29573",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 106
+ },
+ {
+  "text": "VI.G,∙VII.C.2.1.1",
+  "unit": "{VI.G},∙{VII.C.2.1.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G:fr:xml~VI.G},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_2_1_1:fr:xml~VII.C.2.1.1}",
+  "name": "M29575",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 107
+ },
+ {
+  "text": "VI.G.1,∙VI.G.3.3,∙VI.G.3.4,∙IX.B.2",
+  "unit": "{VI.G.1},∙{VI.G.3.3},∙{VI.G.3.4},∙{IX.B.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G_1:fr:xml~VI.G.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G_3_3:fr:xml~VI.G.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G_3_4:fr:xml~VI.G.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_B_2:fr:xml~IX.B.2}",
+  "name": "M29577",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 111
+ },
+ {
+  "text": "I.D.2,∙I.D.3.3,∙I.D.3.5,∙I.D.4.3.1,∙I.D.5,∙I.D.7.1.3",
+  "unit": "{I.D.2},∙{I.D.3.3},∙{I.D.3.5},∙{I.D.4.3.1},∙{I.D.5},∙{I.D.7.1.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_2:fr:xml~I.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_3:fr:xml~I.D.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_5:fr:xml~I.D.3.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3_1:fr:xml~I.D.4.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_3:fr:xml~I.D.7.1.3}",
+  "name": "M29579",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 121
+ },
+ {
+  "text": "I.D.2,∙I.D.3.2,∙I.D.3.3,∙I.D.3.5,∙I.D.4.1,∙I.D.4.4,∙I.D.7.1.1,∙I.D.8.1.2,∙I.D.8.1.5,∙I.D.8.8.1",
+  "unit": "{I.D.2},∙{I.D.3.2},∙{I.D.3.3},∙{I.D.3.5},∙{I.D.4.1},∙{I.D.4.4},∙{I.D.7.1.1},∙{I.D.8.1.2},∙{I.D.8.1.5},∙{I.D.8.8.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_2:fr:xml~I.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_2:fr:xml~I.D.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_3:fr:xml~I.D.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_5:fr:xml~I.D.3.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_1:fr:xml~I.D.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_4:fr:xml~I.D.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_2:fr:xml~I.D.8.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_5:fr:xml~I.D.8.1.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_8_1:fr:xml~I.D.8.8.1}",
+  "name": "M29581",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 124
+ },
+ {
+  "text": "I.A.2.4.4,∙I.A.2.6,∙I.D.8.1.1,∙I.D.8.1.4",
+  "unit": "{I.A.2.4.4},∙{I.A.2.6},∙{I.D.8.1.1},∙{I.D.8.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_4:fr:xml~I.A.2.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_6:fr:xml~I.A.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_1:fr:xml~I.D.8.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_4:fr:xml~I.D.8.1.4}",
+  "name": "M29583",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 130
+ },
+ {
+  "text": "I.D.5,∙I.D.8.2,∙I.D.8.11",
+  "unit": "{I.D.5},∙{I.D.8.2},∙{I.D.8.11}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_2:fr:xml~I.D.8.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_11:fr:xml~I.D.8.11}",
+  "name": "M29585",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 136
+ },
+ {
+  "text": "I.D.7.1.1,∙I.D.7.3,∙I.D.8.8.2,∙I.D.9.2",
+  "unit": "{I.D.7.1.1},∙{I.D.7.3},∙{I.D.8.8.2},∙{I.D.9.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_3:fr:xml~I.D.7.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_8_2:fr:xml~I.D.8.8.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9_2:fr:xml~I.D.9.2}",
+  "name": "M29587",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 137
+ },
+ {
+  "text": "I.D.5,∙I.D.7,∙I.D.8.1.2,∙I.D.8.1.3",
+  "unit": "{I.D.5},∙{I.D.7},∙{I.D.8.1.2},∙{I.D.8.1.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7:fr:xml~I.D.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_2:fr:xml~I.D.8.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_3:fr:xml~I.D.8.1.3}",
+  "name": "M29589",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 156
+ },
+ {
+  "text": "I.D.7.1.3,∙I.D.9",
+  "unit": "{I.D.7.1.3},∙{I.D.9}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_3:fr:xml~I.D.7.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9:fr:xml~I.D.9}",
+  "name": "M29591",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 157
+ },
+ {
+  "text": "I.D.4.3.3,∙I.D.8.2.1,∙I.D.8.2.2,∙I.D.8.7,∙I.D.9.8",
+  "unit": "{I.D.4.3.3},∙{I.D.8.2.1},∙{I.D.8.2.2},∙{I.D.8.7},∙{I.D.9.8}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3_3:fr:xml~I.D.4.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_2_1:fr:xml~I.D.8.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_2_2:fr:xml~I.D.8.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_7:fr:xml~I.D.8.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9_8:fr:xml~I.D.9.8}",
+  "name": "M29593",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 182
+ },
+ {
+  "text": "II.C.3.2,∙II.C.3.3.1,∙II.C.4.2,∙II.C.5.2",
+  "unit": "{II.C.3.2},∙{II.C.3.3.1},∙{II.C.4.2},∙{II.C.5.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_1:fr:xml~II.C.3.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2}",
+  "name": "M29595",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 197
+ },
+ {
+  "text": "I.B.2,∙I.B.3.3,∙I.D.6,∙V.B.1.5.2,∙V.B.1.7,∙V.B.1.8,∙V.B.3,∙V.D.3",
+  "unit": "{I.B.2},∙{I.B.3.3},∙{I.D.6},∙{V.B.1.5.2},∙{V.B.1.7},∙{V.B.1.8},∙{V.B.3},∙{V.D.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_2:fr:xml~I.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_3_3:fr:xml~I.B.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_6:fr:xml~I.D.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_5_2:fr:xml~V.B.1.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_7:fr:xml~V.B.1.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_8:fr:xml~V.B.1.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_D_3:fr:xml~V.D.3}",
+  "name": "M29597",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 205
+ },
+ {
+  "text": "I.A.1.4.2,∙I.B.4.1,∙V.A.1,∙VI.L.2,∙VI.L.2.1,∙VI.L.2.2,∙VII.E.10.6,∙VII.E.17.4.6",
+  "unit": "{I.A.1.4.2},∙{I.B.4.1},∙{V.A.1},∙{VI.L.2},∙{VI.L.2.1},∙{VI.L.2.2},∙{VII.E.10.6},∙{VII.E.17.4.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_4_2:fr:xml~I.A.1.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_1:fr:xml~I.B.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_1:fr:xml~V.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2:fr:xml~VI.L.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2_1:fr:xml~VI.L.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2_2:fr:xml~VI.L.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10_6:fr:xml~VII.E.10.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_6:fr:xml~VII.E.17.4.6}",
+  "name": "M29599",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 206
+ },
+ {
+  "text": "VI.H.4.3.7,∙VIII.3",
+  "unit": "{VI.H.4.3.7},∙{VIII.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_4_3_7:fr:xml~VI.H.4.3.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_3:fr:xml~VIII.3}",
+  "name": "M29601",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 211
+ },
+ {
+  "text": "VI.E.3.1,∙VI.J.6.3,∙VI.J.9,∙VI.K.2.1,∙VII.D.2.4,∙VII.E.17.4.6",
+  "unit": "{VI.E.3.1},∙{VI.J.6.3},∙{VI.J.9},∙{VI.K.2.1},∙{VII.D.2.4},∙{VII.E.17.4.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_1:fr:xml~VI.E.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_3:fr:xml~VI.J.6.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_9:fr:xml~VI.J.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_2_1:fr:xml~VI.K.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_4:fr:xml~VII.D.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_6:fr:xml~VII.E.17.4.6}",
+  "name": "M29603",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 219
+ },
+ {
+  "text": "VI.B.2.2.1,∙VI.C.4.4.1,∙VI.D.1.2.1,∙VII.E.16.3.3",
+  "unit": "{VI.B.2.2.1},∙{VI.C.4.4.1},∙{VI.D.1.2.1},∙{VII.E.16.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_1:fr:xml~VI.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1_2_1:fr:xml~VI.D.1.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_16_3_3:fr:xml~VII.E.16.3.3}",
+  "name": "M29605",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 224
+ },
+ {
+  "text": "VI.B.4.1,∙VI.G.1,∙VI.G.3.3",
+  "unit": "{VI.B.4.1},∙{VI.G.1},∙{VI.G.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_1:fr:xml~VI.B.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G_1:fr:xml~VI.G.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_G_3_3:fr:xml~VI.G.3.3}",
+  "name": "M29607",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 270
+ },
+ {
+  "text": "I.D.2,∙I.D.3.1,∙I.D.3.2,∙I.D.3.3,∙I.D.3.5,∙I.D.4.1,∙I.D.4.4,∙I.D.7.1.1,∙I.D.8.1.2,∙I.D.8.1.5,∙I.D.8.8.1",
+  "unit": "{I.D.2},∙{I.D.3.1},∙{I.D.3.2},∙{I.D.3.3},∙{I.D.3.5},∙{I.D.4.1},∙{I.D.4.4},∙{I.D.7.1.1},∙{I.D.8.1.2},∙{I.D.8.1.5},∙{I.D.8.8.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_2:fr:xml~I.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_1:fr:xml~I.D.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_2:fr:xml~I.D.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_3:fr:xml~I.D.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_5:fr:xml~I.D.3.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_1:fr:xml~I.D.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_4:fr:xml~I.D.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_2:fr:xml~I.D.8.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_5:fr:xml~I.D.8.1.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_8_1:fr:xml~I.D.8.8.1}",
+  "name": "M29609",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 279
+ },
+ {
+  "text": "VI.J.6.1,∙VII.C.3.3.1,∙VII.E.7.2.4,∙VII.E.11.1,∙VII.E.12.1,∙VII.E.13.2,∙VII.E.14.2",
+  "unit": "{VI.J.6.1},∙{VII.C.3.3.1},∙{VII.E.7.2.4},∙{VII.E.11.1},∙{VII.E.12.1},∙{VII.E.13.2},∙{VII.E.14.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_1:fr:xml~VI.J.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_3_3_1:fr:xml~VII.C.3.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_2_4:fr:xml~VII.E.7.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_11_1:fr:xml~VII.E.11.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_12_1:fr:xml~VII.E.12.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_13_2:fr:xml~VII.E.13.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_14_2:fr:xml~VII.E.14.2}",
+  "name": "M29611",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_A",
+  "relativeParagraph": 298
+ },
+ {
+  "text": "I.B.2,∙I.B.3.3,∙I.D.6",
+  "unit": "{I.B.2},∙{I.B.3.3},∙{I.D.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_2:fr:xml~I.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_3_3:fr:xml~I.B.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_6:fr:xml~I.D.6}",
+  "name": "M29613",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_B",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "IV.6.2.1,∙IV.6.2.3,∙VI.E.8,∙VI.J.10,∙VI.K.3.1,∙VII.D.2.2.1",
+  "unit": "{IV.6.2.1},∙{IV.6.2.3},∙{VI.E.8},∙{VI.J.10},∙{VI.K.3.1},∙{VII.D.2.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_1:fr:xml~IV.6.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_3:fr:xml~IV.6.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_8:fr:xml~VI.E.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_10:fr:xml~VI.J.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_3_1:fr:xml~VI.K.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_1:fr:xml~VII.D.2.2.1}",
+  "name": "M29615",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_B",
+  "relativeParagraph": 25
+ },
+ {
+  "text": "II.B.1.1.4,∙II.B.4.1,∙III.A.3,∙III.A.6.1",
+  "unit": "{II.B.1.1.4},∙{II.B.4.1},∙{III.A.3},∙{III.A.6.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1_4:fr:xml~II.B.1.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_4_1:fr:xml~II.B.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_3:fr:xml~III.A.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_6_1:fr:xml~III.A.6.1}",
+  "name": "M29619",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 29
+ },
+ {
+  "text": "I.A.1.4.2,∙I.D.8.1.3,∙I.D.8.1.4,∙II.B",
+  "unit": "{I.A.1.4.2},∙{I.D.8.1.3},∙{I.D.8.1.4},∙{II.B}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_4_2:fr:xml~I.A.1.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_3:fr:xml~I.D.8.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_4:fr:xml~I.D.8.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B}",
+  "name": "M29621",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 33
+ },
+ {
+  "text": "I.A.2.5.3,∙I.A.2.6,∙II.A.3,∙II.B.1.2.2",
+  "unit": "{I.A.2.5.3},∙{I.A.2.6},∙{II.A.3},∙{II.B.1.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_5_3:fr:xml~I.A.2.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_6:fr:xml~I.A.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_3:fr:xml~II.A.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_2_2:fr:xml~II.B.1.2.2}",
+  "name": "M29623",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 38
+ },
+ {
+  "text": "II.B,∙II.C.2.1",
+  "unit": "{II.B},∙{II.C.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_1:fr:xml~II.C.2.1}",
+  "name": "M29625",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 65
+ },
+ {
+  "text": "IX.A,∙IX.A.1",
+  "unit": "{IX.A},∙{IX.A.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A:fr:xml~IX.A},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A_1:fr:xml~IX.A.1}",
+  "name": "M29627",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 73
+ },
+ {
+  "text": "IX.A,∙IX.A.1,∙IX.B.1",
+  "unit": "{IX.A},∙{IX.A.1},∙{IX.B.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A:fr:xml~IX.A},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A_1:fr:xml~IX.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_B_1:fr:xml~IX.B.1}",
+  "name": "M29629",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 74
+ },
+ {
+  "text": "VIII.2.6.1,∙VIII.2.6.3",
+  "unit": "{VIII.2.6.1},∙{VIII.2.6.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_6_1:fr:xml~VIII.2.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_6_3:fr:xml~VIII.2.6.3}",
+  "name": "M29631",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 90
+ },
+ {
+  "text": "I.C.4.1.4,∙II.A.7,∙II.B.6.2,∙V.B.3,∙VI.H.5,∙VII.E.5.2",
+  "unit": "{I.C.4.1.4},∙{II.A.7},∙{II.B.6.2},∙{V.B.3},∙{VI.H.5},∙{VII.E.5.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_7:fr:xml~II.A.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_6_2:fr:xml~II.B.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_5:fr:xml~VI.H.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_5_2:fr:xml~VII.E.5.2}",
+  "name": "M29633",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 100
+ },
+ {
+  "text": "II.A.6.1,∙II.A.7,∙VI.H.5.1.1,∙VI.H.5.2,∙VII.D.2.3.3",
+  "unit": "{II.A.6.1},∙{II.A.7},∙{VI.H.5.1.1},∙{VI.H.5.2},∙{VII.D.2.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_6_1:fr:xml~II.A.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_7:fr:xml~II.A.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_5_1_1:fr:xml~VI.H.5.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_5_2:fr:xml~VI.H.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_3:fr:xml~VII.D.2.3.3}",
+  "name": "M29635",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 115
+ },
+ {
+  "text": "II.B,∙II.B.1.1.1,∙II.B.1.1.4",
+  "unit": "{II.B},∙{II.B.1.1.1},∙{II.B.1.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1_1:fr:xml~II.B.1.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1_4:fr:xml~II.B.1.1.4}",
+  "name": "M29637",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 152
+ },
+ {
+  "text": "VIII.4,∙VIII.5",
+  "unit": "{VIII.4},∙{VIII.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_4:fr:xml~VIII.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_5:fr:xml~VIII.5}",
+  "name": "M29639",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 167
+ },
+ {
+  "text": "II.B.1.2.1,∙III.A.1,∙III.A.2",
+  "unit": "{II.B.1.2.1},∙{III.A.1},∙{III.A.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_2_1:fr:xml~II.B.1.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_1:fr:xml~III.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_2:fr:xml~III.A.2}",
+  "name": "M29641",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 174
+ },
+ {
+  "text": "I.C.1.8.3,∙I.C.1.9.2,∙V.B.3,∙VI.E.7.3.3",
+  "unit": "{I.C.1.8.3},∙{I.C.1.9.2},∙{V.B.3},∙{VI.E.7.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_3:fr:xml~I.C.1.8.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_9_2:fr:xml~I.C.1.9.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3_3:fr:xml~VI.E.7.3.3}",
+  "name": "M29643",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 184
+ },
+ {
+  "text": "I.C.1.5,∙I.C.2.10,∙I.C.2.12,∙I.C.3.1,∙I.C.4.1.4,∙I.C.4.2.2,∙VII.C.1.5.1,∙VII.D.2.3.3",
+  "unit": "{I.C.1.5},∙{I.C.2.10},∙{I.C.2.12},∙{I.C.3.1},∙{I.C.4.1.4},∙{I.C.4.2.2},∙{VII.C.1.5.1},∙{VII.D.2.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_5:fr:xml~I.C.1.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_10:fr:xml~I.C.2.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_1:fr:xml~I.C.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_2:fr:xml~I.C.4.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_5_1:fr:xml~VII.C.1.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_3:fr:xml~VII.D.2.3.3}",
+  "name": "M29645",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 243
+ },
+ {
+  "text": "V.B,∙V.B.1.1,∙V.B.1.4,∙V.B.1.6,∙V.B.1.8,∙V.B.1.9,∙V.B.2.2.1,∙V.B.3,∙V.C.1",
+  "unit": "{V.B},∙{V.B.1.1},∙{V.B.1.4},∙{V.B.1.6},∙{V.B.1.8},∙{V.B.1.9},∙{V.B.2.2.1},∙{V.B.3},∙{V.C.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B:fr:xml~V.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_1:fr:xml~V.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_4:fr:xml~V.B.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_6:fr:xml~V.B.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_8:fr:xml~V.B.1.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_9:fr:xml~V.B.1.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_2_2_1:fr:xml~V.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_C_1:fr:xml~V.C.1}",
+  "name": "M29647",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 248
+ },
+ {
+  "text": "IV.6.2.1,∙IV.6.2.2,∙VI.L.2.2,∙VI.L.4.1,∙VIII.2.6.1,∙VIII.3.1,∙X.2,∙X.3",
+  "unit": "{IV.6.2.1},∙{IV.6.2.2},∙{VI.L.2.2},∙{VI.L.4.1},∙{VIII.2.6.1},∙{VIII.3.1},∙{X.2},∙{X.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_1:fr:xml~IV.6.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_2:fr:xml~IV.6.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2_2:fr:xml~VI.L.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_4_1:fr:xml~VI.L.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_6_1:fr:xml~VIII.2.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_3_1:fr:xml~VIII.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_2:fr:xml~X.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_3:fr:xml~X.3}",
+  "name": "M29649",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 252
+ },
+ {
+  "text": "VIII.1,∙VIII.3.1",
+  "unit": "{VIII.1},∙{VIII.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_1:fr:xml~VIII.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_3_1:fr:xml~VIII.3.1}",
+  "name": "M29651",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 253
+ },
+ {
+  "text": "I.A.1.4.1,∙I.A.1.6,∙I.A.2.5.3,∙I.A.2.6,∙I.D.5,∙I.E.1.1,∙III.A.1,∙III.A.3",
+  "unit": "{I.A.1.4.1},∙{I.A.1.6},∙{I.A.2.5.3},∙{I.A.2.6},∙{I.D.5},∙{I.E.1.1},∙{III.A.1},∙{III.A.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_4_1:fr:xml~I.A.1.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_6:fr:xml~I.A.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_5_3:fr:xml~I.A.2.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_6:fr:xml~I.A.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_E_1_1:fr:xml~I.E.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_1:fr:xml~III.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_3:fr:xml~III.A.3}",
+  "name": "M29653",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 281
+ },
+ {
+  "text": "I.E.2.1,∙V,∙V.A.3,∙VI.L.2.2,∙VII.E.17.4.6",
+  "unit": "{I.E.2.1},∙{V},∙{V.A.3},∙{VI.L.2.2},∙{VII.E.17.4.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_E_2_1:fr:xml~I.E.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_3:fr:xml~V.A.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2_2:fr:xml~VI.L.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_6:fr:xml~VII.E.17.4.6}",
+  "name": "M29655",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 284
+ },
+ {
+  "text": "VI.L.1,∙VIII.3.1",
+  "unit": "{VI.L.1},∙{VIII.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_1:fr:xml~VI.L.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_3_1:fr:xml~VIII.3.1}",
+  "name": "M29657",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 286
+ },
+ {
+  "text": "V,∙V.A.3,∙V.A.6",
+  "unit": "{V},∙{V.A.3},∙{V.A.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_3:fr:xml~V.A.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_6:fr:xml~V.A.6}",
+  "name": "M29659",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 288
+ },
+ {
+  "text": "VI.J.5.3.4,∙VI.J.6.1,∙VII.B.2.6,∙VII.B.2.7.1,∙VII.E.17.4.2",
+  "unit": "{VI.J.5.3.4},∙{VI.J.6.1},∙{VII.B.2.6},∙{VII.B.2.7.1},∙{VII.E.17.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_1:fr:xml~VI.J.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_1:fr:xml~VII.B.2.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_2:fr:xml~VII.E.17.4.2}",
+  "name": "M29661",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_C",
+  "relativeParagraph": 292
+ },
+ {
+  "text": "V,∙V.A.6,∙V.B.1.4",
+  "unit": "{V},∙{V.A.6},∙{V.B.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_6:fr:xml~V.A.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_4:fr:xml~V.B.1.4}",
+  "name": "M29663",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "II.A.4.1,∙V,∙V.D.3",
+  "unit": "{II.A.4.1},∙{V},∙{V.D.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_4_1:fr:xml~II.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_D_3:fr:xml~V.D.3}",
+  "name": "M29665",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 14
+ },
+ {
+  "text": "VI.J.4.2,∙VI.J.5.1,∙VI.J.6.2,∙VI.J.6.3,∙VI.J.9,∙VII.E.17.4.6",
+  "unit": "{VI.J.4.2},∙{VI.J.5.1},∙{VI.J.6.2},∙{VI.J.6.3},∙{VI.J.9},∙{VII.E.17.4.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_4_2:fr:xml~VI.J.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_1:fr:xml~VI.J.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_2:fr:xml~VI.J.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_3:fr:xml~VI.J.6.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_9:fr:xml~VI.J.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_6:fr:xml~VII.E.17.4.6}",
+  "name": "M29667",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 21
+ },
+ {
+  "text": "VI.J.5.3.2,∙VI.J.6.2,∙VI.J.7,∙VII.B.2.4,∙VII.B.3.7",
+  "unit": "{VI.J.5.3.2},∙{VI.J.6.2},∙{VI.J.7},∙{VII.B.2.4},∙{VII.B.3.7}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_2:fr:xml~VI.J.5.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_2:fr:xml~VI.J.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_7:fr:xml~VI.J.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_4:fr:xml~VII.B.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_7:fr:xml~VII.B.3.7}",
+  "name": "M29669",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 41
+ },
+ {
+  "text": "VI.D,∙X.1",
+  "unit": "{VI.D},∙{X.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D:fr:xml~VI.D},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_1:fr:xml~X.1}",
+  "name": "M29671",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 113
+ },
+ {
+  "text": "VI.D.1,∙VI.D.1.4.2,∙VI.E.3.2.2,∙VI.E.7.4.2,∙VI.E.11",
+  "unit": "{VI.D.1},∙{VI.D.1.4.2},∙{VI.E.3.2.2},∙{VI.E.7.4.2},∙{VI.E.11}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1:fr:xml~VI.D.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1_4_2:fr:xml~VI.D.1.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_2_2:fr:xml~VI.E.3.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_4_2:fr:xml~VI.E.7.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_11:fr:xml~VI.E.11}",
+  "name": "M29673",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 114
+ },
+ {
+  "text": "VI.D.1.2.1,∙VI.D.2,∙VI.E.7.4.2",
+  "unit": "{VI.D.1.2.1},∙{VI.D.2},∙{VI.E.7.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1_2_1:fr:xml~VI.D.1.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_2:fr:xml~VI.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_4_2:fr:xml~VI.E.7.4.2}",
+  "name": "M29675",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 121
+ },
+ {
+  "text": "VI.D,∙VI.D.2,∙VI.K.5,∙VII.A.5.2,∙VII.A.5.3",
+  "unit": "{VI.D},∙{VI.D.2},∙{VI.K.5},∙{VII.A.5.2},∙{VII.A.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D:fr:xml~VI.D},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_2:fr:xml~VI.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_5:fr:xml~VI.K.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_2:fr:xml~VII.A.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_3:fr:xml~VII.A.5.3}",
+  "name": "M29677",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 131
+ },
+ {
+  "text": "VI.E.2.1,∙VI.E.3.2,∙VI.E.3.4,∙VI.E.5,∙VI.E.7.2,∙VI.E.7.3.3,∙VI.E.7.4.2,∙VII.E.13.1",
+  "unit": "{VI.E.2.1},∙{VI.E.3.2},∙{VI.E.3.4},∙{VI.E.5},∙{VI.E.7.2},∙{VI.E.7.3.3},∙{VI.E.7.4.2},∙{VII.E.13.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_2_1:fr:xml~VI.E.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_2:fr:xml~VI.E.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_4:fr:xml~VI.E.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_5:fr:xml~VI.E.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_2:fr:xml~VI.E.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3_3:fr:xml~VI.E.7.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_4_2:fr:xml~VI.E.7.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_13_1:fr:xml~VII.E.13.1}",
+  "name": "M29679",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 137
+ },
+ {
+  "text": "II.C.6.1,∙V.A",
+  "unit": "{II.C.6.1},∙{V.A}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6_1:fr:xml~II.C.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A:fr:xml~V.A}",
+  "name": "M29681",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 150
+ },
+ {
+  "text": "IV.1.1,∙IV.3,∙IV.4.1,∙IV.4.2,∙IV.6.1,∙IV.6.2.1,∙IV.6.2.3,∙IV.7.1,∙IV.7.3",
+  "unit": "{IV.1.1},∙{IV.3},∙{IV.4.1},∙{IV.4.2},∙{IV.6.1},∙{IV.6.2.1},∙{IV.6.2.3},∙{IV.7.1},∙{IV.7.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_1_1:fr:xml~IV.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_3:fr:xml~IV.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_4_1:fr:xml~IV.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_4_2:fr:xml~IV.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_1:fr:xml~IV.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_1:fr:xml~IV.6.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_3:fr:xml~IV.6.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_7_1:fr:xml~IV.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_7_3:fr:xml~IV.7.3}",
+  "name": "M29683",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 160
+ },
+ {
+  "text": "IV.6,∙VI.E.2.1",
+  "unit": "{IV.6},∙{VI.E.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6:fr:xml~IV.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_2_1:fr:xml~VI.E.2.1}",
+  "name": "M29685",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 161
+ },
+ {
+  "text": "IV.4.1,∙VII.B.2.5",
+  "unit": "{IV.4.1},∙{VII.B.2.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_4_1:fr:xml~IV.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_5:fr:xml~VII.B.2.5}",
+  "name": "M29687",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 164
+ },
+ {
+  "text": "IX,∙IX.B",
+  "unit": "{IX},∙{IX.B}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX:fr:xml~IX},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_B:fr:xml~IX.B}",
+  "name": "M29689",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 178
+ },
+ {
+  "text": "I.C.1.3,∙II.C.3.2,∙II.C.4.1,∙II.C.4.2,∙II.C.5.1,∙II.C.5.3",
+  "unit": "{I.C.1.3},∙{II.C.3.2},∙{II.C.4.1},∙{II.C.4.2},∙{II.C.5.1},∙{II.C.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_3:fr:xml~I.C.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3}",
+  "name": "M29691",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 184
+ },
+ {
+  "text": "II.C.2.1,∙II.C.3.2,∙II.C.5.2,∙II.C.5.3,∙II.C.6.2",
+  "unit": "{II.C.2.1},∙{II.C.3.2},∙{II.C.5.2},∙{II.C.5.3},∙{II.C.6.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_1:fr:xml~II.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6_2:fr:xml~II.C.6.2}",
+  "name": "M29693",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 258
+ },
+ {
+  "text": "I.A.1.6,∙I.D.1,∙I.D.2,∙I.D.5,∙I.D.7.1.1,∙I.D.8.9,∙V,∙VI.A.4.1,∙VI.J.5.3.4,∙VII.B.2.1,∙VII.B.2.5,∙VII.B.2.6,∙VII.B.2.7.2,∙VII.B.2.9,∙VII.B.3.4,∙VII.D.1.2,∙VII.D.4.3,∙VII.D.5.2.1,∙VII.D.5.2.4,∙VII.E.17.4.2,∙VIII.2.5",
+  "unit": "{I.A.1.6},∙{I.D.1},∙{I.D.2},∙{I.D.5},∙{I.D.7.1.1},∙{I.D.8.9},∙{V},∙{VI.A.4.1},∙{VI.J.5.3.4},∙{VII.B.2.1},∙{VII.B.2.5},∙{VII.B.2.6},∙{VII.B.2.7.2},∙{VII.B.2.9},∙{VII.B.3.4},∙{VII.D.1.2},∙{VII.D.4.3},∙{VII.D.5.2.1},∙{VII.D.5.2.4},∙{VII.E.17.4.2},∙{VIII.2.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_6:fr:xml~I.A.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_1:fr:xml~I.D.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_2:fr:xml~I.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_9:fr:xml~I.D.8.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_1:fr:xml~VI.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_1:fr:xml~VII.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_5:fr:xml~VII.B.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_2:fr:xml~VII.B.2.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_9:fr:xml~VII.B.2.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_4:fr:xml~VII.B.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_1_2:fr:xml~VII.D.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_4_3:fr:xml~VII.D.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2_1:fr:xml~VII.D.5.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2_4:fr:xml~VII.D.5.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_2:fr:xml~VII.E.17.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_5:fr:xml~VIII.2.5}",
+  "name": "M29695",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 259
+ },
+ {
+  "text": "III.A.1,∙V.B.1.3,∙V.B.1.5.1,∙V.B.1.5.2,∙V.B.1.8,∙V.B.2.2.1,∙V.B.2.2.2,∙V.B.3,∙V.D.3",
+  "unit": "{III.A.1},∙{V.B.1.3},∙{V.B.1.5.1},∙{V.B.1.5.2},∙{V.B.1.8},∙{V.B.2.2.1},∙{V.B.2.2.2},∙{V.B.3},∙{V.D.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_1:fr:xml~III.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_3:fr:xml~V.B.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_5_1:fr:xml~V.B.1.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_5_2:fr:xml~V.B.1.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_8:fr:xml~V.B.1.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_2_2_1:fr:xml~V.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_2_2_2:fr:xml~V.B.2.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_D_3:fr:xml~V.D.3}",
+  "name": "M29697",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 316
+ },
+ {
+  "text": "V.B.1.5,∙V.B.1.9,∙V.B.2.2.1,∙V.B.3",
+  "unit": "{V.B.1.5},∙{V.B.1.9},∙{V.B.2.2.1},∙{V.B.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_5:fr:xml~V.B.1.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_9:fr:xml~V.B.1.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_2_2_1:fr:xml~V.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_3:fr:xml~V.B.3}",
+  "name": "M29699",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 317
+ },
+ {
+  "text": "VI.B.2.1,∙VI.C.1,∙VI.C.2.4,∙VII.B.2.3",
+  "unit": "{VI.B.2.1},∙{VI.C.1},∙{VI.C.2.4},∙{VII.B.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_1:fr:xml~VI.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1:fr:xml~VI.C.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_4:fr:xml~VI.C.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_3:fr:xml~VII.B.2.3}",
+  "name": "M29701",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 337
+ },
+ {
+  "text": "VI.B,∙VI.B.2,∙VI.C.2,∙VI.C.3,∙VI.H.3.3,∙VII.D.5.2,∙VII.E.5.2,∙VII.E.17.4.3",
+  "unit": "{VI.B},∙{VI.B.2},∙{VI.C.2},∙{VI.C.3},∙{VI.H.3.3},∙{VII.D.5.2},∙{VII.E.5.2},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B:fr:xml~VI.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2:fr:xml~VI.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2:fr:xml~VI.C.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_3:fr:xml~VI.C.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_3_3:fr:xml~VI.H.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2:fr:xml~VII.D.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_5_2:fr:xml~VII.E.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29703",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 342
+ },
+ {
+  "text": "VI.B.1.1,∙VI.B.2.3,∙VI.B.3.1,∙VII.E.17.4.3",
+  "unit": "{VI.B.1.1},∙{VI.B.2.3},∙{VI.B.3.1},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_1:fr:xml~VI.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_3:fr:xml~VI.B.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_1:fr:xml~VI.B.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29705",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 359
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.2,∙VI.B.1.4,∙VI.B.2.2,∙VI.B.2.2.1,∙VI.B.2.2.2,∙VI.B.3.2,∙VI.C.2.5,∙VII.E.17.4.3",
+  "unit": "{VI.B.1},∙{VI.B.1.2},∙{VI.B.1.4},∙{VI.B.2.2},∙{VI.B.2.2.1},∙{VI.B.2.2.2},∙{VI.B.3.2},∙{VI.C.2.5},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_2:fr:xml~VI.B.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_4:fr:xml~VI.B.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2:fr:xml~VI.B.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_1:fr:xml~VI.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_2:fr:xml~VI.B.2.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_2:fr:xml~VI.B.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_5:fr:xml~VI.C.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29707",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 367
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.1,∙VI.B.1.2,∙VI.B.2.2,∙VI.B.2.2.1,∙VI.B.3.1",
+  "unit": "{VI.B.1},∙{VI.B.1.1},∙{VI.B.1.2},∙{VI.B.2.2},∙{VI.B.2.2.1},∙{VI.B.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_1:fr:xml~VI.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_2:fr:xml~VI.B.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2:fr:xml~VI.B.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_1:fr:xml~VI.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_1:fr:xml~VI.B.3.1}",
+  "name": "M29709",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 368
+ },
+ {
+  "text": "VI.B.1.3,∙VI.B.2,∙VI.B.4.1,∙VI.C.1.1,∙VI.C.1.3,∙VI.C.4.2",
+  "unit": "{VI.B.1.3},∙{VI.B.2},∙{VI.B.4.1},∙{VI.C.1.1},∙{VI.C.1.3},∙{VI.C.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_3:fr:xml~VI.B.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2:fr:xml~VI.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_1:fr:xml~VI.B.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_1:fr:xml~VI.C.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_3:fr:xml~VI.C.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_2:fr:xml~VI.C.4.2}",
+  "name": "M29711",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 373
+ },
+ {
+  "text": "VI.B.3.2,∙VI.B.4,∙VI.B.4.2,∙VII.E.17.4.3",
+  "unit": "{VI.B.3.2},∙{VI.B.4},∙{VI.B.4.2},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_2:fr:xml~VI.B.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4:fr:xml~VI.B.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_2:fr:xml~VI.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29713",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 384
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.3,∙VI.B.2.2.2,∙VI.B.4,∙VI.B.4.2,∙VI.C.4.4.1,∙VII.B.2.6,∙VII.B.2.8,∙VII.B.3.3",
+  "unit": "{VI.B.1},∙{VI.B.1.3},∙{VI.B.2.2.2},∙{VI.B.4},∙{VI.B.4.2},∙{VI.C.4.4.1},∙{VII.B.2.6},∙{VII.B.2.8},∙{VII.B.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_3:fr:xml~VI.B.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_2:fr:xml~VI.B.2.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4:fr:xml~VI.B.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_2:fr:xml~VI.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_8:fr:xml~VII.B.2.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_3:fr:xml~VII.B.3.3}",
+  "name": "M29715",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_D",
+  "relativeParagraph": 385
+ },
+ {
+  "text": "VI.C.4.4.1,∙VII.C.1.1.1,∙VII.C.1.1.2,∙VII.C.1.3.3,∙VII.E.6.4",
+  "unit": "{VI.C.4.4.1},∙{VII.C.1.1.1},∙{VII.C.1.1.2},∙{VII.C.1.3.3},∙{VII.E.6.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_1_1:fr:xml~VII.C.1.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_1_2:fr:xml~VII.C.1.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_3_3:fr:xml~VII.C.1.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_6_4:fr:xml~VII.E.6.4}",
+  "name": "M29717",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "I.C.2.4,∙I.C.2.8,∙I.C.4.2.2,∙I.C.5.2.4,∙I.C.5.3.1",
+  "unit": "{I.C.2.4},∙{I.C.2.8},∙{I.C.4.2.2},∙{I.C.5.2.4},∙{I.C.5.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_4:fr:xml~I.C.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_8:fr:xml~I.C.2.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_2:fr:xml~I.C.4.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_4:fr:xml~I.C.5.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_3_1:fr:xml~I.C.5.3.1}",
+  "name": "M29719",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 31
+ },
+ {
+  "text": "I.C.1.3,∙II.C.3.2,∙II.C.4.1,∙II.C.4.2,∙II.C.5.1,∙II.C.5.2,∙II.C.5.3",
+  "unit": "{I.C.1.3},∙{II.C.3.2},∙{II.C.4.1},∙{II.C.4.2},∙{II.C.5.1},∙{II.C.5.2},∙{II.C.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_3:fr:xml~I.C.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3}",
+  "name": "M29721",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 111
+ },
+ {
+  "text": "I.C.2,∙I.C.2.1,∙I.C.2.3,∙I.C.2.5,∙I.C.4.1.3",
+  "unit": "{I.C.2},∙{I.C.2.1},∙{I.C.2.3},∙{I.C.2.5},∙{I.C.4.1.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2:fr:xml~I.C.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_1:fr:xml~I.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_3:fr:xml~I.C.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_5:fr:xml~I.C.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_3:fr:xml~I.C.4.1.3}",
+  "name": "M29723",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 117
+ },
+ {
+  "text": "I.A.1.1,∙I.C.1.2,∙VII.E.10.6,∙X.4",
+  "unit": "{I.A.1.1},∙{I.C.1.2},∙{VII.E.10.6},∙{X.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_1:fr:xml~I.A.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_2:fr:xml~I.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10_6:fr:xml~VII.E.10.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_4:fr:xml~X.4}",
+  "name": "M29725",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 144
+ },
+ {
+  "text": "II.A.6.1,∙II.B,∙II.B.1.1.1,∙II.B.4.2,∙II.B.5.3.1,∙II.B.5.3.4",
+  "unit": "{II.A.6.1},∙{II.B},∙{II.B.1.1.1},∙{II.B.4.2},∙{II.B.5.3.1},∙{II.B.5.3.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_6_1:fr:xml~II.A.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1_1:fr:xml~II.B.1.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_4_2:fr:xml~II.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_5_3_1:fr:xml~II.B.5.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_5_3_4:fr:xml~II.B.5.3.4}",
+  "name": "M29727",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 146
+ },
+ {
+  "text": "VIII.2.4,∙VIII.2.5,∙VIII.2.6.3",
+  "unit": "{VIII.2.4},∙{VIII.2.5},∙{VIII.2.6.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_4:fr:xml~VIII.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_5:fr:xml~VIII.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_6_3:fr:xml~VIII.2.6.3}",
+  "name": "M29729",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 182
+ },
+ {
+  "text": "VIII.1,∙VIII.2.3,∙VIII.2.5,∙VIII.2.6",
+  "unit": "{VIII.1},∙{VIII.2.3},∙{VIII.2.5},∙{VIII.2.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_1:fr:xml~VIII.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_3:fr:xml~VIII.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_5:fr:xml~VIII.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_6:fr:xml~VIII.2.6}",
+  "name": "M29731",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 186
+ },
+ {
+  "text": "VIII.2.1,∙VIII.2.2,∙VIII.2.3",
+  "unit": "{VIII.2.1},∙{VIII.2.2},∙{VIII.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_1:fr:xml~VIII.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_2:fr:xml~VIII.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_3:fr:xml~VIII.2.3}",
+  "name": "M29733",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 191
+ },
+ {
+  "text": "I.C.1.1,∙I.C.1.2,∙I.C.2,∙I.C.4.1.1,∙I.C.4.2.3",
+  "unit": "{I.C.1.1},∙{I.C.1.2},∙{I.C.2},∙{I.C.4.1.1},∙{I.C.4.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_1:fr:xml~I.C.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_2:fr:xml~I.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2:fr:xml~I.C.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_1:fr:xml~I.C.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_3:fr:xml~I.C.4.2.3}",
+  "name": "M29735",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 257
+ },
+ {
+  "text": "I.C.2.12,∙I.E.1.1,∙II.A",
+  "unit": "{I.C.2.12},∙{I.E.1.1},∙{II.A}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_E_1_1:fr:xml~I.E.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A:fr:xml~II.A}",
+  "name": "M29737",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 271
+ },
+ {
+  "text": "II.A.1,∙II.A.4.1,∙II.A.4.2,∙II.A.5.1.2,∙II.A.5.2.1,∙II.A.7",
+  "unit": "{II.A.1},∙{II.A.4.1},∙{II.A.4.2},∙{II.A.5.1.2},∙{II.A.5.2.1},∙{II.A.7}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_1:fr:xml~II.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_4_1:fr:xml~II.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_4_2:fr:xml~II.A.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_5_1_2:fr:xml~II.A.5.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_5_2_1:fr:xml~II.A.5.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_7:fr:xml~II.A.7}",
+  "name": "M29739",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 282
+ },
+ {
+  "text": "II.A.2,∙II.A.5.1.1,∙II.A.5.1.2,∙II.A.7",
+  "unit": "{II.A.2},∙{II.A.5.1.1},∙{II.A.5.1.2},∙{II.A.7}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_2:fr:xml~II.A.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_5_1_1:fr:xml~II.A.5.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_5_1_2:fr:xml~II.A.5.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_7:fr:xml~II.A.7}",
+  "name": "M29741",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_E",
+  "relativeParagraph": 283
+ },
+ {
+  "text": "VI.A.1.2,∙VI.A.1.3,∙VI.A.2.1,∙VI.I.4.2",
+  "unit": "{VI.A.1.2},∙{VI.A.1.3},∙{VI.A.2.1},∙{VI.I.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_1_2:fr:xml~VI.A.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_1_3:fr:xml~VI.A.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_2_1:fr:xml~VI.A.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_4_2:fr:xml~VI.I.4.2}",
+  "name": "M29743",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_F",
+  "relativeParagraph": 48
+ },
+ {
+  "text": "I.D.3.7,∙I.D.4.1,∙I.D.4.3,∙I.D.4.4,∙I.D.7.1.1,∙I.D.8.1.2",
+  "unit": "{I.D.3.7},∙{I.D.4.1},∙{I.D.4.3},∙{I.D.4.4},∙{I.D.7.1.1},∙{I.D.8.1.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_7:fr:xml~I.D.3.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_1:fr:xml~I.D.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3:fr:xml~I.D.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_4:fr:xml~I.D.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_2:fr:xml~I.D.8.1.2}",
+  "name": "M29745",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_F",
+  "relativeParagraph": 52
+ },
+ {
+  "text": "VI.C.4.8,∙VI.C.5,∙VI.D.1.1,∙X.4",
+  "unit": "{VI.C.4.8},∙{VI.C.5},∙{VI.D.1.1},∙{X.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_8:fr:xml~VI.C.4.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_5:fr:xml~VI.C.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1_1:fr:xml~VI.D.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_4:fr:xml~X.4}",
+  "name": "M29747",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_F",
+  "relativeParagraph": 58
+ },
+ {
+  "text": "I.D.2,∙I.D.3.1,∙I.D.5,∙I.D.7,∙I.D.8.1.2,∙I.D.8.1.3,∙I.D.8.2.2,∙I.D.8.10,∙I.D.9.2",
+  "unit": "{I.D.2},∙{I.D.3.1},∙{I.D.5},∙{I.D.7},∙{I.D.8.1.2},∙{I.D.8.1.3},∙{I.D.8.2.2},∙{I.D.8.10},∙{I.D.9.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_2:fr:xml~I.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_1:fr:xml~I.D.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_5:fr:xml~I.D.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7:fr:xml~I.D.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_2:fr:xml~I.D.8.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_3:fr:xml~I.D.8.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_2_2:fr:xml~I.D.8.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_10:fr:xml~I.D.8.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9_2:fr:xml~I.D.9.2}",
+  "name": "M29749",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_H",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "I.B.2,∙I.B.3.1,∙I.B.3.2,∙VI.A.1.1,∙VI.E.3.4,∙VI.E.5,∙VI.E.7.3.1,∙VI.L",
+  "unit": "{I.B.2},∙{I.B.3.1},∙{I.B.3.2},∙{VI.A.1.1},∙{VI.E.3.4},∙{VI.E.5},∙{VI.E.7.3.1},∙{VI.L}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_2:fr:xml~I.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_3_1:fr:xml~I.B.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_3_2:fr:xml~I.B.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_1_1:fr:xml~VI.A.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_4:fr:xml~VI.E.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_5:fr:xml~VI.E.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3_1:fr:xml~VI.E.7.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L:fr:xml~VI.L}",
+  "name": "M29751",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_I",
+  "relativeParagraph": 49
+ },
+ {
+  "text": "I.C.5.2.2,∙I.C.5.3.1,∙II.B.5",
+  "unit": "{I.C.5.2.2},∙{I.C.5.3.1},∙{II.B.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_2:fr:xml~I.C.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_3_1:fr:xml~I.C.5.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_5:fr:xml~II.B.5}",
+  "name": "M29753",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_I",
+  "relativeParagraph": 54
+ },
+ {
+  "text": "I.C.2.12,∙I.C.3.2.6,∙I.C.4,∙I.C.4.1,∙I.C.4.1.4,∙I.C.4.2",
+  "unit": "{I.C.2.12},∙{I.C.3.2.6},∙{I.C.4},∙{I.C.4.1},∙{I.C.4.1.4},∙{I.C.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_2_6:fr:xml~I.C.3.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4:fr:xml~I.C.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1:fr:xml~I.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2:fr:xml~I.C.4.2}",
+  "name": "M29755",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_I",
+  "relativeParagraph": 113
+ },
+ {
+  "text": "I.B.4.4,∙I.C.5.2.1,∙I.C.5.2.2,∙I.C.5.2.3,∙I.D.9.2,∙II.B.1.2.1,∙VI.A.1.1,∙VI.A.4,∙VI.A.4.1,∙VI.A.4.2,∙VI.J.4.2,∙VI.J.5.3.2,∙VI.J.5.3.4,∙VII.D.2.3.3,∙VII.E.14.2,∙VII.E.17.4.5",
+  "unit": "{I.B.4.4},∙{I.C.5.2.1},∙{I.C.5.2.2},∙{I.C.5.2.3},∙{I.D.9.2},∙{II.B.1.2.1},∙{VI.A.1.1},∙{VI.A.4},∙{VI.A.4.1},∙{VI.A.4.2},∙{VI.J.4.2},∙{VI.J.5.3.2},∙{VI.J.5.3.4},∙{VII.D.2.3.3},∙{VII.E.14.2},∙{VII.E.17.4.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_4:fr:xml~I.B.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_1:fr:xml~I.C.5.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_2:fr:xml~I.C.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_3:fr:xml~I.C.5.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9_2:fr:xml~I.D.9.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_2_1:fr:xml~II.B.1.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_1_1:fr:xml~VI.A.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4:fr:xml~VI.A.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_1:fr:xml~VI.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_2:fr:xml~VI.A.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_4_2:fr:xml~VI.J.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_2:fr:xml~VI.J.5.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_3:fr:xml~VII.D.2.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_14_2:fr:xml~VII.E.14.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_5:fr:xml~VII.E.17.4.5}",
+  "name": "M29757",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_J",
+  "relativeParagraph": 14
+ },
+ {
+  "text": "VI.L.3,∙VII.A.2,∙VII.E.4,∙X.4",
+  "unit": "{VI.L.3},∙{VII.A.2},∙{VII.E.4},∙{X.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_3:fr:xml~VI.L.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_2:fr:xml~VII.A.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_4:fr:xml~VII.E.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_4:fr:xml~X.4}",
+  "name": "M29759",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_L",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "VI.I.1.1,∙VIII.1,∙VIII.3.1",
+  "unit": "{VI.I.1.1},∙{VIII.1},∙{VIII.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1_1:fr:xml~VI.I.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_1:fr:xml~VIII.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_3_1:fr:xml~VIII.3.1}",
+  "name": "M29761",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_L",
+  "relativeParagraph": 26
+ },
+ {
+  "text": "VI.I.1.2,∙VI.I.1.4",
+  "unit": "{VI.I.1.2},∙{VI.I.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1_2:fr:xml~VI.I.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1_4:fr:xml~VI.I.1.4}",
+  "name": "M29763",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "VI.I.2,∙VIII.2.1",
+  "unit": "{VI.I.2},∙{VIII.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2:fr:xml~VI.I.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_1:fr:xml~VIII.2.1}",
+  "name": "M29765",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 12
+ },
+ {
+  "text": "VI.C.4.4.1,∙VI.D.3.4,∙VI.I.1",
+  "unit": "{VI.C.4.4.1},∙{VI.D.3.4},∙{VI.I.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_3_4:fr:xml~VI.D.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1:fr:xml~VI.I.1}",
+  "name": "M29767",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 26
+ },
+ {
+  "text": "VI.I.2,∙VIII.1,∙VIII.2",
+  "unit": "{VI.I.2},∙{VIII.1},∙{VIII.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2:fr:xml~VI.I.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_1:fr:xml~VIII.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2:fr:xml~VIII.2}",
+  "name": "M29769",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 27
+ },
+ {
+  "text": "III.A.7,∙III.A.7.1,∙III.D.1,∙III.D.2,∙III.E",
+  "unit": "{III.A.7},∙{III.A.7.1},∙{III.D.1},∙{III.D.2},∙{III.E}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_7:fr:xml~III.A.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_7_1:fr:xml~III.A.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_D_1:fr:xml~III.D.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_D_2:fr:xml~III.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_E:fr:xml~III.E}",
+  "name": "M29771",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 130
+ },
+ {
+  "text": "III.A.1,∙III.A.5,∙III.A.7.1,∙III.B.1",
+  "unit": "{III.A.1},∙{III.A.5},∙{III.A.7.1},∙{III.B.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_1:fr:xml~III.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_5:fr:xml~III.A.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_7_1:fr:xml~III.A.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_B_1:fr:xml~III.B.1}",
+  "name": "M29775",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 208
+ },
+ {
+  "text": "I.B.4.3.4,∙I.D.1,∙I.D.9.5,∙II.A.6.1,∙II.B.1.1.4,∙II.B.2.1,∙VII.E.10.2.1",
+  "unit": "{I.B.4.3.4},∙{I.D.1},∙{I.D.9.5},∙{II.A.6.1},∙{II.B.1.1.4},∙{II.B.2.1},∙{VII.E.10.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_3_4:fr:xml~I.B.4.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_1:fr:xml~I.D.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_9_5:fr:xml~I.D.9.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_6_1:fr:xml~II.A.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1_4:fr:xml~II.B.1.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_2_1:fr:xml~II.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10_2_1:fr:xml~VII.E.10.2.1}",
+  "name": "M29777",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_M",
+  "relativeParagraph": 235
+ },
+ {
+  "text": "I.C.2.12,∙I.C.4,∙I.C.4.1.2,∙I.C.4.2.1,∙I.C.4.2.3",
+  "unit": "{I.C.2.12},∙{I.C.4},∙{I.C.4.1.2},∙{I.C.4.2.1},∙{I.C.4.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4:fr:xml~I.C.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_2:fr:xml~I.C.4.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_1:fr:xml~I.C.4.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_3:fr:xml~I.C.4.2.3}",
+  "name": "M29779",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_N",
+  "relativeParagraph": 75
+ },
+ {
+  "text": "I.C.1.8.6,∙I.C.1.9.2,∙I.C.2.1,∙I.C.2.11,∙I.C.3.1,∙I.C.3.2.4,∙I.C.3.2.5,∙I.C.3.2.6,∙I.C.4,∙I.C.4.1.4,∙I.C.4.2.1,∙I.C.4.2.2,∙I.C.4.2.3,∙I.C.5.2.2,∙I.C.5.3.1",
+  "unit": "{I.C.1.8.6},∙{I.C.1.9.2},∙{I.C.2.1},∙{I.C.2.11},∙{I.C.3.1},∙{I.C.3.2.4},∙{I.C.3.2.5},∙{I.C.3.2.6},∙{I.C.4},∙{I.C.4.1.4},∙{I.C.4.2.1},∙{I.C.4.2.2},∙{I.C.4.2.3},∙{I.C.5.2.2},∙{I.C.5.3.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_6:fr:xml~I.C.1.8.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_9_2:fr:xml~I.C.1.9.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_1:fr:xml~I.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_11:fr:xml~I.C.2.11},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_1:fr:xml~I.C.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_2_4:fr:xml~I.C.3.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_2_5:fr:xml~I.C.3.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_2_6:fr:xml~I.C.3.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4:fr:xml~I.C.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_1:fr:xml~I.C.4.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_2:fr:xml~I.C.4.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_3:fr:xml~I.C.4.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_2:fr:xml~I.C.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_3_1:fr:xml~I.C.5.3.1}",
+  "name": "M29781",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_N",
+  "relativeParagraph": 76
+ },
+ {
+  "text": "V.A.1,∙V.C,∙VI.L.2.2",
+  "unit": "{V.A.1},∙{V.C},∙{VI.L.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_1:fr:xml~V.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_C:fr:xml~V.C},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_2_2:fr:xml~VI.L.2.2}",
+  "name": "M29785",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_O",
+  "relativeParagraph": 73
+ },
+ {
+  "text": "VII.B.2.1,∙VII.B.2.7.1,∙VII.B.2.9,∙VII.B.3.2.1,∙VII.E.7.4.2",
+  "unit": "{VII.B.2.1},∙{VII.B.2.7.1},∙{VII.B.2.9},∙{VII.B.3.2.1},∙{VII.E.7.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_1:fr:xml~VII.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_1:fr:xml~VII.B.2.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_9:fr:xml~VII.B.2.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_2_1:fr:xml~VII.B.3.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_4_2:fr:xml~VII.E.7.4.2}",
+  "name": "M29787",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 11
+ },
+ {
+  "text": "VI.C.1.2,∙VI.D.1.4.3,∙VI.D.2,∙VI.E.2.2,∙VI.E.3.2.1,∙VI.E.5,∙VI.E.10,∙VI.J.9,∙VII.A.5.3,∙VII.B.3.4",
+  "unit": "{VI.C.1.2},∙{VI.D.1.4.3},∙{VI.D.2},∙{VI.E.2.2},∙{VI.E.3.2.1},∙{VI.E.5},∙{VI.E.10},∙{VI.J.9},∙{VII.A.5.3},∙{VII.B.3.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_2:fr:xml~VI.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_1_4_3:fr:xml~VI.D.1.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D_2:fr:xml~VI.D.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_2_2:fr:xml~VI.E.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_2_1:fr:xml~VI.E.3.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_5:fr:xml~VI.E.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_10:fr:xml~VI.E.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_9:fr:xml~VI.J.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_3:fr:xml~VII.A.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_4:fr:xml~VII.B.3.4}",
+  "name": "M29789",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 29
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.2,∙VI.B.1.4,∙VI.B.2.2,∙VI.B.3.2,∙VI.C.2.5,∙VII.E.17.4.3",
+  "unit": "{VI.B.1},∙{VI.B.1.2},∙{VI.B.1.4},∙{VI.B.2.2},∙{VI.B.3.2},∙{VI.C.2.5},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_2:fr:xml~VI.B.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_4:fr:xml~VI.B.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2:fr:xml~VI.B.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_2:fr:xml~VI.B.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_5:fr:xml~VI.C.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29791",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 68
+ },
+ {
+  "text": "VI.D,∙VI.F.1,∙VI.F.2.4,∙VI.K.5,∙VII.A.5.2,∙VII.A.5.3",
+  "unit": "{VI.D},∙{VI.F.1},∙{VI.F.2.4},∙{VI.K.5},∙{VII.A.5.2},∙{VII.A.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_D:fr:xml~VI.D},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_F_1:fr:xml~VI.F.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_F_2_4:fr:xml~VI.F.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_5:fr:xml~VI.K.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_2:fr:xml~VII.A.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_3:fr:xml~VII.A.5.3}",
+  "name": "M29793",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 76
+ },
+ {
+  "text": "VI.J.5.3.2,∙VI.J.6.2,∙VI.J.7,∙VI.J.8,∙VII.E.17.4.4",
+  "unit": "{VI.J.5.3.2},∙{VI.J.6.2},∙{VI.J.7},∙{VI.J.8},∙{VII.E.17.4.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_2:fr:xml~VI.J.5.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_2:fr:xml~VI.J.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_7:fr:xml~VI.J.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_8:fr:xml~VI.J.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_4:fr:xml~VII.E.17.4.4}",
+  "name": "M29795",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 92
+ },
+ {
+  "text": "VI.C.4.4,∙VI.C.4.4.1,∙VI.C.4.4.2,∙VII.C.1.2.2,∙VII.C.1.3.1,∙VII.E.17.4.5",
+  "unit": "{VI.C.4.4},∙{VI.C.4.4.1},∙{VI.C.4.4.2},∙{VII.C.1.2.2},∙{VII.C.1.3.1},∙{VII.E.17.4.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4:fr:xml~VI.C.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_2:fr:xml~VI.C.4.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_2_2:fr:xml~VII.C.1.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_1_3_1:fr:xml~VII.C.1.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_5:fr:xml~VII.E.17.4.5}",
+  "name": "M29797",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 93
+ },
+ {
+  "text": "VII.D.3.2.3,∙VII.E.6.6,∙VII.E.10.3,∙VII.E.14,∙VII.E.16.3.3",
+  "unit": "{VII.D.3.2.3},∙{VII.E.6.6},∙{VII.E.10.3},∙{VII.E.14},∙{VII.E.16.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_3_2_3:fr:xml~VII.D.3.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_6_6:fr:xml~VII.E.6.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10_3:fr:xml~VII.E.10.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_14:fr:xml~VII.E.14},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_16_3_3:fr:xml~VII.E.16.3.3}",
+  "name": "M29799",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 94
+ },
+ {
+  "text": "VII.B.2.1,∙VII.B.2.4,∙VII.B.2.6,∙VII.B.2.10,∙VII.B.3.4,∙VII.E.17.4.4,∙VII.E.17.4.5",
+  "unit": "{VII.B.2.1},∙{VII.B.2.4},∙{VII.B.2.6},∙{VII.B.2.10},∙{VII.B.3.4},∙{VII.E.17.4.4},∙{VII.E.17.4.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_1:fr:xml~VII.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_4:fr:xml~VII.B.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_10:fr:xml~VII.B.2.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_4:fr:xml~VII.B.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_4:fr:xml~VII.E.17.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_5:fr:xml~VII.E.17.4.5}",
+  "name": "M29801",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 95
+ },
+ {
+  "text": "VI.C.1.1,∙VI.C.1.2,∙VI.C.1.3,∙VI.C.2.2,∙VI.C.2.3,∙X.2",
+  "unit": "{VI.C.1.1},∙{VI.C.1.2},∙{VI.C.1.3},∙{VI.C.2.2},∙{VI.C.2.3},∙{X.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_1:fr:xml~VI.C.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_2:fr:xml~VI.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_3:fr:xml~VI.C.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_2:fr:xml~VI.C.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_3:fr:xml~VI.C.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_2:fr:xml~X.2}",
+  "name": "M29803",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 97
+ },
+ {
+  "text": "I.B.2,∙I.C.1.8.3,∙VI.H",
+  "unit": "{I.B.2},∙{I.C.1.8.3},∙{VI.H}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_2:fr:xml~I.B.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_3:fr:xml~I.C.1.8.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H:fr:xml~VI.H}",
+  "name": "M29805",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 129
+ },
+ {
+  "text": "I.C.1.8.4,∙I.C.4.1.4,∙III.A.3,∙VI.H.5",
+  "unit": "{I.C.1.8.4},∙{I.C.4.1.4},∙{III.A.3},∙{VI.H.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_1_8_4:fr:xml~I.C.1.8.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_3:fr:xml~III.A.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_5:fr:xml~VI.H.5}",
+  "name": "M29807",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 138
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.1,∙VI.B.1.2,∙VI.B.2.2,∙VI.B.2.2.1,∙VI.B.3.1,∙VI.H.3.3",
+  "unit": "{VI.B.1},∙{VI.B.1.1},∙{VI.B.1.2},∙{VI.B.2.2},∙{VI.B.2.2.1},∙{VI.B.3.1},∙{VI.H.3.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_1:fr:xml~VI.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_2:fr:xml~VI.B.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2:fr:xml~VI.B.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_1:fr:xml~VI.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_1:fr:xml~VI.B.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_H_3_3:fr:xml~VI.H.3.3}",
+  "name": "M29809",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 145
+ },
+ {
+  "text": "VI.B.2.2,∙VI.B.2.2.1,∙VI.B.3.1,∙VI.C.2.3,∙VI.C.4.1.2",
+  "unit": "{VI.B.2.2},∙{VI.B.2.2.1},∙{VI.B.3.1},∙{VI.C.2.3},∙{VI.C.4.1.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2:fr:xml~VI.B.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_1:fr:xml~VI.B.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_3_1:fr:xml~VI.B.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2_3:fr:xml~VI.C.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_1_2:fr:xml~VI.C.4.1.2}",
+  "name": "M29811",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 157
+ },
+ {
+  "text": "VI.A.1.4,∙VI.J.1,∙VII.B.2.1,∙VII.B.2.6,∙VII.B.2.7.1,∙X.1,∙X.3",
+  "unit": "{VI.A.1.4},∙{VI.J.1},∙{VII.B.2.1},∙{VII.B.2.6},∙{VII.B.2.7.1},∙{X.1},∙{X.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_1_4:fr:xml~VI.A.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_1:fr:xml~VI.J.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_1:fr:xml~VII.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_1:fr:xml~VII.B.2.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_1:fr:xml~X.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_3:fr:xml~X.3}",
+  "name": "M29813",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 164
+ },
+ {
+  "text": "II.A.5.2.2,∙VI,∙VI.B.1,∙VI.B.1.4,∙VI.B.4,∙VI.C.1.2,∙VII.E.10.5,∙VII.E.13.3,∙VII.E.17.5",
+  "unit": "{II.A.5.2.2},∙{VI},∙{VI.B.1},∙{VI.B.1.4},∙{VI.B.4},∙{VI.C.1.2},∙{VII.E.10.5},∙{VII.E.13.3},∙{VII.E.17.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_5_2_2:fr:xml~II.A.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI:fr:xml~VI},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_4:fr:xml~VI.B.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4:fr:xml~VI.B.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_2:fr:xml~VI.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10_5:fr:xml~VII.E.10.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_13_3:fr:xml~VII.E.13.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_5:fr:xml~VII.E.17.5}",
+  "name": "M29815",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 178
+ },
+ {
+  "text": "V,∙V.D.3",
+  "unit": "{V},∙{V.D.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_D_3:fr:xml~V.D.3}",
+  "name": "M29817",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 190
+ },
+ {
+  "text": "IV.1.1,∙V.A.6",
+  "unit": "{IV.1.1},∙{V.A.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_1_1:fr:xml~IV.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_A_6:fr:xml~V.A.6}",
+  "name": "M29819",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 194
+ },
+ {
+  "text": "V.B,∙V.B.1.1,∙V.B.1.9,∙V.B.1.10,∙V.C.1",
+  "unit": "{V.B},∙{V.B.1.1},∙{V.B.1.9},∙{V.B.1.10},∙{V.C.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B:fr:xml~V.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_1:fr:xml~V.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_9:fr:xml~V.B.1.9},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_B_1_10:fr:xml~V.B.1.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V_C_1:fr:xml~V.C.1}",
+  "name": "M29821",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 218
+ },
+ {
+  "text": "I.A.2.5.2,∙I.D.3.7,∙I.D.4.1,∙I.D.4.3.1,∙I.D.4.3.2,∙I.D.7.1.1,∙I.D.8.1.5",
+  "unit": "{I.A.2.5.2},∙{I.D.3.7},∙{I.D.4.1},∙{I.D.4.3.1},∙{I.D.4.3.2},∙{I.D.7.1.1},∙{I.D.8.1.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_5_2:fr:xml~I.A.2.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_3_7:fr:xml~I.D.3.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_1:fr:xml~I.D.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3_1:fr:xml~I.D.4.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3_2:fr:xml~I.D.4.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_7_1_1:fr:xml~I.D.7.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_5:fr:xml~I.D.8.1.5}",
+  "name": "M29823",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 264
+ },
+ {
+  "text": "VII.A.1,∙VII.A.2,∙VII.A.3.1,∙VII.A.3.3,∙VII.A.4",
+  "unit": "{VII.A.1},∙{VII.A.2},∙{VII.A.3.1},∙{VII.A.3.3},∙{VII.A.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_1:fr:xml~VII.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_2:fr:xml~VII.A.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_1:fr:xml~VII.A.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_3:fr:xml~VII.A.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_4:fr:xml~VII.A.4}",
+  "name": "M29825",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 298
+ },
+ {
+  "text": "VII.A.3.2,∙VII.A.3.3,∙VII.A.3.4,∙VII.A.4,∙VII.A.5.3,∙VII.A.6.2",
+  "unit": "{VII.A.3.2},∙{VII.A.3.3},∙{VII.A.3.4},∙{VII.A.4},∙{VII.A.5.3},∙{VII.A.6.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_2:fr:xml~VII.A.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_3:fr:xml~VII.A.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_4:fr:xml~VII.A.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_4:fr:xml~VII.A.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_5_3:fr:xml~VII.A.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_6_2:fr:xml~VII.A.6.2}",
+  "name": "M29827",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 321
+ },
+ {
+  "text": "VI.K.4.1.1,∙VII.E.2,∙VII.E.7.4.2,∙VII.E.12.1",
+  "unit": "{VI.K.4.1.1},∙{VII.E.2},∙{VII.E.7.4.2},∙{VII.E.12.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_4_1_1:fr:xml~VI.K.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_2:fr:xml~VII.E.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_4_2:fr:xml~VII.E.7.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_12_1:fr:xml~VII.E.12.1}",
+  "name": "M29829",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 344
+ },
+ {
+  "text": "VII.B.1.2,∙VII.B.3.4,∙VII.B.3.7,∙VII.B.5,∙VII.B.6,∙VII.B.7",
+  "unit": "{VII.B.1.2},∙{VII.B.3.4},∙{VII.B.3.7},∙{VII.B.5},∙{VII.B.6},∙{VII.B.7}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_1_2:fr:xml~VII.B.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_4:fr:xml~VII.B.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_7:fr:xml~VII.B.3.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_5:fr:xml~VII.B.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_6:fr:xml~VII.B.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_7:fr:xml~VII.B.7}",
+  "name": "M29831",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 407
+ },
+ {
+  "text": "VII.B.2.1,∙VII.B.2.4,∙VII.B.2.6,∙VII.B.2.7.1,∙VII.B.2.7.2,∙VII.B.3.4,∙VII.B.3.7,∙VII.E.17.4.4,∙VII.E.17.4.5",
+  "unit": "{VII.B.2.1},∙{VII.B.2.4},∙{VII.B.2.6},∙{VII.B.2.7.1},∙{VII.B.2.7.2},∙{VII.B.3.4},∙{VII.B.3.7},∙{VII.E.17.4.4},∙{VII.E.17.4.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_1:fr:xml~VII.B.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_4:fr:xml~VII.B.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_1:fr:xml~VII.B.2.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_2:fr:xml~VII.B.2.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_4:fr:xml~VII.B.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_3_7:fr:xml~VII.B.3.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_4:fr:xml~VII.E.17.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_5:fr:xml~VII.E.17.4.5}",
+  "name": "M29833",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 414
+ },
+ {
+  "text": "VII.C,∙VII.D",
+  "unit": "{VII.C},∙{VII.D}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C:fr:xml~VII.C},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D:fr:xml~VII.D}",
+  "name": "M29835",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 426
+ },
+ {
+  "text": "VII.C.5.1.1,∙VII.C.5.1.2,∙VII.C.5.1.3,∙VII.D.1.1,∙VII.D.2.1.3,∙VII.D.2.2.2,∙VII.D.2.3.3,∙VII.D.2.3.4,∙VII.D.3.2.2,∙VII.D.3.3,∙VII.D.5.2.5",
+  "unit": "{VII.C.5.1.1},∙{VII.C.5.1.2},∙{VII.C.5.1.3},∙{VII.D.1.1},∙{VII.D.2.1.3},∙{VII.D.2.2.2},∙{VII.D.2.3.3},∙{VII.D.2.3.4},∙{VII.D.3.2.2},∙{VII.D.3.3},∙{VII.D.5.2.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_5_1_1:fr:xml~VII.C.5.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_5_1_2:fr:xml~VII.C.5.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_5_1_3:fr:xml~VII.C.5.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_1_1:fr:xml~VII.D.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_1_3:fr:xml~VII.D.2.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_2:fr:xml~VII.D.2.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_3:fr:xml~VII.D.2.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_4:fr:xml~VII.D.2.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_3_2_2:fr:xml~VII.D.3.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_3_3:fr:xml~VII.D.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2_5:fr:xml~VII.D.5.2.5}",
+  "name": "M29837",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 459
+ },
+ {
+  "text": "VI.B.4.2,∙VI.C.4.2,∙VI.C.4.7,∙VI.J.5.3.4,∙VI.J.6.1,∙VII.E.3,∙VII.E.7.2.2",
+  "unit": "{VI.B.4.2},∙{VI.C.4.2},∙{VI.C.4.7},∙{VI.J.5.3.4},∙{VI.J.6.1},∙{VII.E.3},∙{VII.E.7.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_2:fr:xml~VI.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_2:fr:xml~VI.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_7:fr:xml~VI.C.4.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_1:fr:xml~VI.J.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_3:fr:xml~VII.E.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_2_2:fr:xml~VII.E.7.2.2}",
+  "name": "M29839",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 505
+ },
+ {
+  "text": "II.C.2.2,∙II.C.3.3.2,∙IX",
+  "unit": "{II.C.2.2},∙{II.C.3.3.2},∙{IX}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_2:fr:xml~II.C.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_2:fr:xml~II.C.3.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX:fr:xml~IX}",
+  "name": "M29841",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 519
+ },
+ {
+  "text": "VI.B.4.2,∙VI.C.4.2,∙VI.J.5.3.4,∙VII.E.3,∙VII.E.7.2.2,∙X.4",
+  "unit": "{VI.B.4.2},∙{VI.C.4.2},∙{VI.J.5.3.4},∙{VII.E.3},∙{VII.E.7.2.2},∙{X.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_2:fr:xml~VI.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_2:fr:xml~VI.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_3:fr:xml~VII.E.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_2_2:fr:xml~VII.E.7.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_4:fr:xml~X.4}",
+  "name": "M29843",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 532
+ },
+ {
+  "text": "I.A.1.4.1,∙I.A.1.6,∙I.A.2.4.4,∙I.A.2.4.5,∙I.A.2.5.3,∙I.D.8.1.1,∙I.D.8.1.3",
+  "unit": "{I.A.1.4.1},∙{I.A.1.6},∙{I.A.2.4.4},∙{I.A.2.4.5},∙{I.A.2.5.3},∙{I.D.8.1.1},∙{I.D.8.1.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_4_1:fr:xml~I.A.1.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_1_6:fr:xml~I.A.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_4:fr:xml~I.A.2.4.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_5:fr:xml~I.A.2.4.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_5_3:fr:xml~I.A.2.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_1:fr:xml~I.D.8.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_8_1_3:fr:xml~I.D.8.1.3}",
+  "name": "M29845",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 551
+ },
+ {
+  "text": "II.A.4.1,∙II.B.5.3.4,∙III.B.1,∙III.B.4,∙VII.D.4.1.4",
+  "unit": "{II.A.4.1},∙{II.B.5.3.4},∙{III.B.1},∙{III.B.4},∙{VII.D.4.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_4_1:fr:xml~II.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_5_3_4:fr:xml~II.B.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_B_1:fr:xml~III.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_B_4:fr:xml~III.B.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_4_1_4:fr:xml~VII.D.4.1.4}",
+  "name": "M29847",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 598
+ },
+ {
+  "text": "II.B.1.2.1,∙VI.C.4.1.1,∙VII.A.6.2,∙VIII.2.2",
+  "unit": "{II.B.1.2.1},∙{VI.C.4.1.1},∙{VII.A.6.2},∙{VIII.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_2_1:fr:xml~II.B.1.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_1_1:fr:xml~VI.C.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_6_2:fr:xml~VII.A.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VIII_2_2:fr:xml~VIII.2.2}",
+  "name": "M29849",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 602
+ },
+ {
+  "text": "IV.6.2.3,∙VI.K.4.1.1,∙VII.E.2",
+  "unit": "{IV.6.2.3},∙{VI.K.4.1.1},∙{VII.E.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IV_6_2_3:fr:xml~IV.6.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_4_1_1:fr:xml~VI.K.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_2:fr:xml~VII.E.2}",
+  "name": "M29851",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_P",
+  "relativeParagraph": 610
+ },
+ {
+  "text": "VII.D.2.1.6,∙VII.D.2.2.1,∙VII.D.2.2.5,∙VII.D.2.3.2,∙VII.D.2.3.3,∙VII.D.2.3.4,∙VII.D.2.4,∙VII.D.3.2.1",
+  "unit": "{VII.D.2.1.6},∙{VII.D.2.2.1},∙{VII.D.2.2.5},∙{VII.D.2.3.2},∙{VII.D.2.3.3},∙{VII.D.2.3.4},∙{VII.D.2.4},∙{VII.D.3.2.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_1_6:fr:xml~VII.D.2.1.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_1:fr:xml~VII.D.2.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_2_5:fr:xml~VII.D.2.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_2:fr:xml~VII.D.2.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_3:fr:xml~VII.D.2.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_3_4:fr:xml~VII.D.2.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_2_4:fr:xml~VII.D.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_3_2_1:fr:xml~VII.D.3.2.1}",
+  "name": "M29853",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 18
+ },
+ {
+  "text": "VI.J.5.4,∙VI.J.6,∙VII.B.6,∙VII.E.7.2.2",
+  "unit": "{VI.J.5.4},∙{VI.J.6},∙{VII.B.6},∙{VII.E.7.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_4:fr:xml~VI.J.5.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6:fr:xml~VI.J.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_6:fr:xml~VII.B.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_2_2:fr:xml~VII.E.7.2.2}",
+  "name": "M29855",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 56
+ },
+ {
+  "text": "VI.J.4.2,∙VI.L.4.3,∙VII.B.1.1,∙VII.E.7.4.2,∙X.3",
+  "unit": "{VI.J.4.2},∙{VI.L.4.3},∙{VII.B.1.1},∙{VII.E.7.4.2},∙{X.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_4_2:fr:xml~VI.J.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_L_4_3:fr:xml~VI.L.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_1_1:fr:xml~VII.B.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_4_2:fr:xml~VII.E.7.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_3:fr:xml~X.3}",
+  "name": "M29857",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 76
+ },
+ {
+  "text": "VI.J.5.4,∙VII.E.13.2,∙VII.E.13.3,∙VII.E.17,∙VII.E.17.4",
+  "unit": "{VI.J.5.4},∙{VII.E.13.2},∙{VII.E.13.3},∙{VII.E.17},∙{VII.E.17.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_4:fr:xml~VI.J.5.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_13_2:fr:xml~VII.E.13.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_13_3:fr:xml~VII.E.13.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17:fr:xml~VII.E.17},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4:fr:xml~VII.E.17.4}",
+  "name": "M29863",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 122
+ },
+ {
+  "text": "VII.C.7.2.1,∙VII.D.5.2.5,∙VII.E.10,∙X.4",
+  "unit": "{VII.C.7.2.1},∙{VII.D.5.2.5},∙{VII.E.10},∙{X.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_7_2_1:fr:xml~VII.C.7.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2_5:fr:xml~VII.D.5.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_10:fr:xml~VII.E.10},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_4:fr:xml~X.4}",
+  "name": "M29865",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 141
+ },
+ {
+  "text": "VI.C.3.2,∙VII.C.7,∙VII.C.7.2,∙VII.C.7.2.1,∙VII.C.7.2.3",
+  "unit": "{VI.C.3.2},∙{VII.C.7},∙{VII.C.7.2},∙{VII.C.7.2.1},∙{VII.C.7.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_3_2:fr:xml~VI.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_7:fr:xml~VII.C.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_7_2:fr:xml~VII.C.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_7_2_1:fr:xml~VII.C.7.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_7_2_3:fr:xml~VII.C.7.2.3}",
+  "name": "M29867",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 154
+ },
+ {
+  "text": "VI.I.1.1,∙VI.I.2.1,∙VI.I.2.2",
+  "unit": "{VI.I.1.1},∙{VI.I.2.1},∙{VI.I.2.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1_1:fr:xml~VI.I.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2_1:fr:xml~VI.I.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2_2:fr:xml~VI.I.2.2}",
+  "name": "M29869",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 184
+ },
+ {
+  "text": "VI.I.2.2,∙VI.I.2.3,∙VI.I.4,∙VI.I.4.1",
+  "unit": "{VI.I.2.2},∙{VI.I.2.3},∙{VI.I.4},∙{VI.I.4.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2_2:fr:xml~VI.I.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_2_3:fr:xml~VI.I.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_4:fr:xml~VI.I.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_4_1:fr:xml~VI.I.4.1}",
+  "name": "M29871",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 192
+ },
+ {
+  "text": "VI.C.4.1.1,∙VI.I.5.1",
+  "unit": "{VI.C.4.1.1},∙{VI.I.5.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_1_1:fr:xml~VI.C.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_5_1:fr:xml~VI.I.5.1}",
+  "name": "M29873",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 194
+ },
+ {
+  "text": "VI.C.1.1,∙VI.C.1.2,∙VI.C.1.3,∙VI.C.2,∙VII.B.2.3,∙VII.B.2.6,∙VII.B.2.7.2,∙VII.E.17.4.2",
+  "unit": "{VI.C.1.1},∙{VI.C.1.2},∙{VI.C.1.3},∙{VI.C.2},∙{VII.B.2.3},∙{VII.B.2.6},∙{VII.B.2.7.2},∙{VII.E.17.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_1:fr:xml~VI.C.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_2:fr:xml~VI.C.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_1_3:fr:xml~VI.C.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_2:fr:xml~VI.C.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_3:fr:xml~VII.B.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_2:fr:xml~VII.B.2.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_2:fr:xml~VII.E.17.4.2}",
+  "name": "M29875",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 230
+ },
+ {
+  "text": "II.C.3.3.2,∙IX.A,∙IX.A.1",
+  "unit": "{II.C.3.3.2},∙{IX.A},∙{IX.A.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_2:fr:xml~II.C.3.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A:fr:xml~IX.A},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_IX_A_1:fr:xml~IX.A.1}",
+  "name": "M29877",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 239
+ },
+ {
+  "text": "VI.E.2.3,∙VI.E.3.1,∙VI.E.3.3,∙VI.E.7.2.2,∙VI.E.7.3.3,∙VI.E.7.4.2",
+  "unit": "{VI.E.2.3},∙{VI.E.3.1},∙{VI.E.3.3},∙{VI.E.7.2.2},∙{VI.E.7.3.3},∙{VI.E.7.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_2_3:fr:xml~VI.E.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_1:fr:xml~VI.E.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_3:fr:xml~VI.E.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_2_2:fr:xml~VI.E.7.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3_3:fr:xml~VI.E.7.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_4_2:fr:xml~VI.E.7.4.2}",
+  "name": "M29879",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 287
+ },
+ {
+  "text": "I.C.2.3,∙I.C.2.4,∙I.C.2.7,∙I.C.2.12,∙I.C.3.2.4,∙I.C.4.1,∙I.C.4.1.1,∙I.C.4.2.3",
+  "unit": "{I.C.2.3},∙{I.C.2.4},∙{I.C.2.7},∙{I.C.2.12},∙{I.C.3.2.4},∙{I.C.4.1},∙{I.C.4.1.1},∙{I.C.4.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_3:fr:xml~I.C.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_4:fr:xml~I.C.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_7:fr:xml~I.C.2.7},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_3_2_4:fr:xml~I.C.3.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1:fr:xml~I.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_1:fr:xml~I.C.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_3:fr:xml~I.C.4.2.3}",
+  "name": "M29881",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 326
+ },
+ {
+  "text": "I.C.5.2.1,∙I.C.5.2.2,∙I.C.5.2.3,∙I.C.5.2.4,∙I.C.5.3.1,∙II.A.4.2",
+  "unit": "{I.C.5.2.1},∙{I.C.5.2.2},∙{I.C.5.2.3},∙{I.C.5.2.4},∙{I.C.5.3.1},∙{II.A.4.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_1:fr:xml~I.C.5.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_2:fr:xml~I.C.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_3:fr:xml~I.C.5.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_4:fr:xml~I.C.5.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_3_1:fr:xml~I.C.5.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_4_2:fr:xml~II.A.4.2}",
+  "name": "M29883",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 365
+ },
+ {
+  "text": "II.A.6.2,∙II.B,∙II.B.1,∙VII.D.4.1.4",
+  "unit": "{II.A.6.2},∙{II.B},∙{II.B.1},∙{VII.D.4.1.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_A_6_2:fr:xml~II.A.6.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1:fr:xml~II.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_4_1_4:fr:xml~VII.D.4.1.4}",
+  "name": "M29885",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 373
+ },
+ {
+  "text": "I.A.2.4.3,∙I.C.5.2.2,∙I.E.2.3,∙II.B,∙II.B.1.1",
+  "unit": "{I.A.2.4.3},∙{I.C.5.2.2},∙{I.E.2.3},∙{II.B},∙{II.B.1.1}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_3:fr:xml~I.A.2.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_5_2_2:fr:xml~I.C.5.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_E_2_3:fr:xml~I.E.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B:fr:xml~II.B},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_B_1_1:fr:xml~II.B.1.1}",
+  "name": "M29887",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_R",
+  "relativeParagraph": 380
+ },
+ {
+  "text": "I.A.2.4.1,∙I.A.2.4.3,∙I.B.4.5.1,∙II.C.3.2,∙II.C.4.2,∙II.C.6.1,∙VI.A.4.1,∙VII.E.14",
+  "unit": "{I.A.2.4.1},∙{I.A.2.4.3},∙{I.B.4.5.1},∙{II.C.3.2},∙{II.C.4.2},∙{II.C.6.1},∙{VI.A.4.1},∙{VII.E.14}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_1:fr:xml~I.A.2.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_A_2_4_3:fr:xml~I.A.2.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_5_1:fr:xml~I.B.4.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6_1:fr:xml~II.C.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_A_4_1:fr:xml~VI.A.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_14:fr:xml~VII.E.14}",
+  "name": "M29889",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_S",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "I.B.3.2,∙I.B.4.5.2,∙I.B.4.5.6,∙VI.J.4.2,∙VI.J.5.1,∙VII.B.2.6",
+  "unit": "{I.B.3.2},∙{I.B.4.5.2},∙{I.B.4.5.6},∙{VI.J.4.2},∙{VI.J.5.1},∙{VII.B.2.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_3_2:fr:xml~I.B.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_5_2:fr:xml~I.B.4.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_B_4_5_6:fr:xml~I.B.4.5.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_4_2:fr:xml~VI.J.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_1:fr:xml~VI.J.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6}",
+  "name": "M29891",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_S",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "II.C.2.1,∙II.C.3.2,∙II.C.4.1,∙II.C.4.2,∙II.C.5,∙II.C.5.1,∙II.C.5.2,∙II.C.5.3,∙II.C.5.3",
+  "unit": "{II.C.2.1},∙{II.C.3.2},∙{II.C.4.1},∙{II.C.4.2},∙{II.C.5},∙{II.C.5.1},∙{II.C.5.2},∙{II.C.5.3},∙{II.C.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_1:fr:xml~II.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5:fr:xml~II.C.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3}",
+  "name": "M29893",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_S",
+  "relativeParagraph": 28
+ },
+ {
+  "text": "I.C.2.12,∙I.C.4.1,∙I.C.4.1.1,∙I.C.4.1.4,∙I.C.4.2.1,∙II.C.2.3",
+  "unit": "{I.C.2.12},∙{I.C.4.1},∙{I.C.4.1.1},∙{I.C.4.1.4},∙{I.C.4.2.1},∙{II.C.2.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_2_12:fr:xml~I.C.2.12},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1:fr:xml~I.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_1:fr:xml~I.C.4.1.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_1_4:fr:xml~I.C.4.1.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_C_4_2_1:fr:xml~I.C.4.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_3:fr:xml~II.C.2.3}",
+  "name": "M29895",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_S",
+  "relativeParagraph": 65
+ },
+ {
+  "text": "II.C.1,∙II.C.3.3,∙II.C.3.3.2,∙II.C.4.1,∙II.C.6,∙VII.B.2.5",
+  "unit": "{II.C.1},∙{II.C.3.3},∙{II.C.3.3.2},∙{II.C.4.1},∙{II.C.6},∙{VII.B.2.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_1:fr:xml~II.C.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3:fr:xml~II.C.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_2:fr:xml~II.C.3.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6:fr:xml~II.C.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_5:fr:xml~VII.B.2.5}",
+  "name": "M29897",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_T",
+  "relativeParagraph": 5
+ },
+ {
+  "text": "VI.E.7.4.5,∙VI.I.1.2,∙VI.I.4.3,∙VI.J.6.1,∙VI.K.5,∙VII.A.3.1,∙VII.A.3.2,∙X.2",
+  "unit": "{VI.E.7.4.5},∙{VI.I.1.2},∙{VI.I.4.3},∙{VI.J.6.1},∙{VI.K.5},∙{VII.A.3.1},∙{VII.A.3.2},∙{X.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_4_5:fr:xml~VI.E.7.4.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_1_2:fr:xml~VI.I.1.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_I_4_3:fr:xml~VI.I.4.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_6_1:fr:xml~VI.J.6.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_5:fr:xml~VI.K.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_1:fr:xml~VII.A.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_3_2:fr:xml~VII.A.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_X_2:fr:xml~X.2}",
+  "name": "M29899",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_T",
+  "relativeParagraph": 47
+ },
+ {
+  "text": "III.A.1,∙VI.K.1.3,∙VII.A.2,∙VII.C.4.6,∙VII.E.7.5.3",
+  "unit": "{III.A.1},∙{VI.K.1.3},∙{VII.A.2},∙{VII.C.4.6},∙{VII.E.7.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_III_A_1:fr:xml~III.A.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_K_1_3:fr:xml~VI.K.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_A_2:fr:xml~VII.A.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_C_4_6:fr:xml~VII.C.4.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_7_5_3:fr:xml~VII.E.7.5.3}",
+  "name": "M29901",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_T",
+  "relativeParagraph": 75
+ },
+ {
+  "text": "I.D.4.3.3,∙II.C.3.2,∙II.C.3.3.1,∙II.C.4.2,∙II.C.5.2",
+  "unit": "{I.D.4.3.3},∙{II.C.3.2},∙{II.C.3.3.1},∙{II.C.4.2},∙{II.C.5.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_I_D_4_3_3:fr:xml~I.D.4.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_1:fr:xml~II.C.3.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2}",
+  "name": "M29903",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_U",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "II.C.2.1,∙II.C.2.3,∙II.C.3.1,∙II.C.4.1,∙II.C.4.2,∙II.C.5.1,∙II.C.5.2,∙II.C.5.3",
+  "unit": "{II.C.2.1},∙{II.C.2.3},∙{II.C.3.1},∙{II.C.4.1},∙{II.C.4.2},∙{II.C.5.1},∙{II.C.5.2},∙{II.C.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_1:fr:xml~II.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_3:fr:xml~II.C.2.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_1:fr:xml~II.C.3.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3}",
+  "name": "M29905",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_U",
+  "relativeParagraph": 31
+ },
+ {
+  "text": "II.C.1,∙II.C.2.1,∙II.C.3.2,∙II.C.4.1,∙II.C.4.2,∙II.C.5,∙II.C.5.1,∙II.C.5.2,∙II.C.5.3,∙II.C.5.3",
+  "unit": "{II.C.1},∙{II.C.2.1},∙{II.C.3.2},∙{II.C.4.1},∙{II.C.4.2},∙{II.C.5},∙{II.C.5.1},∙{II.C.5.2},∙{II.C.5.3},∙{II.C.5.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_1:fr:xml~II.C.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_2_1:fr:xml~II.C.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_2:fr:xml~II.C.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5:fr:xml~II.C.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_1:fr:xml~II.C.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_2:fr:xml~II.C.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_5_3:fr:xml~II.C.5.3}",
+  "name": "M29907",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_U",
+  "relativeParagraph": 38
+ },
+ {
+  "text": "II.C.1,∙II.C.3.2,∙II.C.3.3,∙II.C.3.3.2,∙II.C.4.1,∙II.C.6",
+  "unit": "{II.C.1},∙{II.C.3.2},∙{II.C.3.3},∙{II.C.3.3.2},∙{II.C.4.1},∙{II.C.6}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_1:fr:xml~II.C.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_2:fr:xml~II.C.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3:fr:xml~II.C.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_3_3_2:fr:xml~II.C.3.3.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_4_1:fr:xml~II.C.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_II_C_6:fr:xml~II.C.6}",
+  "name": "M29909",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_U",
+  "relativeParagraph": 39
+ },
+ {
+  "text": "VI.J.2.1,∙VI.J.2.2,∙VI.J.3.2.1,∙VI.J.5.1,∙VI.J.5.2,∙VI.J.5.3.3,∙VI.J.5.3.4,∙VI.J.5.4,∙VI.J.8,∙VII.E.17.3.2",
+  "unit": "{VI.J.2.1},∙{VI.J.2.2},∙{VI.J.3.2.1},∙{VI.J.5.1},∙{VI.J.5.2},∙{VI.J.5.3.3},∙{VI.J.5.3.4},∙{VI.J.5.4},∙{VI.J.8},∙{VII.E.17.3.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_2_1:fr:xml~VI.J.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_2_2:fr:xml~VI.J.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_3_2_1:fr:xml~VI.J.3.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_1:fr:xml~VI.J.5.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_2:fr:xml~VI.J.5.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_3:fr:xml~VI.J.5.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_4:fr:xml~VI.J.5.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_8:fr:xml~VI.J.8},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_3_2:fr:xml~VII.E.17.3.2}",
+  "name": "M29911",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_V",
+  "relativeParagraph": 17
+ },
+ {
+  "text": "VI.B.1,∙VI.B.1.3,∙VI.B.2.2.2,∙VI.B.4,∙VI.B.4.2,∙VI.C.4.4.1,∙VI.J.5.3.4,∙VII.B.2.7.1,∙VII.D.5.2.1,∙VII.E.17.4.3",
+  "unit": "{VI.B.1},∙{VI.B.1.3},∙{VI.B.2.2.2},∙{VI.B.4},∙{VI.B.4.2},∙{VI.C.4.4.1},∙{VI.J.5.3.4},∙{VII.B.2.7.1},∙{VII.D.5.2.1},∙{VII.E.17.4.3}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1:fr:xml~VI.B.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_1_3:fr:xml~VI.B.1.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_2_2_2:fr:xml~VI.B.2.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4:fr:xml~VI.B.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_B_4_2:fr:xml~VI.B.4.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_C_4_4_1:fr:xml~VI.C.4.4.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_J_5_3_4:fr:xml~VI.J.5.3.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_1:fr:xml~VII.B.2.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_D_5_2_1:fr:xml~VII.D.5.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_E_17_4_3:fr:xml~VII.E.17.4.3}",
+  "name": "M29913",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_V",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "V,∙VII.B.2.4,∙VII.B.2.5,∙VII.B.2.6,∙VII.B.2.7.2,∙VII.B.2.8",
+  "unit": "{V},∙{VII.B.2.4},∙{VII.B.2.5},∙{VII.B.2.6},∙{VII.B.2.7.2},∙{VII.B.2.8}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_V:fr:xml~V},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_4:fr:xml~VII.B.2.4},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_5:fr:xml~VII.B.2.5},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_6:fr:xml~VII.B.2.6},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_7_2:fr:xml~VII.B.2.7.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VII_B_2_8:fr:xml~VII.B.2.8}",
+  "name": "M29915",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_V",
+  "relativeParagraph": 29
+ },
+ {
+  "text": "VI.E.3.2.1,∙VI.E.7.1,∙VI.E.7.2.1,∙VI.E.7.2.2,∙VI.E.7.3,∙VI.E.7.3.3,∙VI.E.9",
+  "unit": "{VI.E.3.2.1},∙{VI.E.7.1},∙{VI.E.7.2.1},∙{VI.E.7.2.2},∙{VI.E.7.3},∙{VI.E.7.3.3},∙{VI.E.9}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_3_2_1:fr:xml~VI.E.3.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_1:fr:xml~VI.E.7.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_2_1:fr:xml~VI.E.7.2.1},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_2_2:fr:xml~VI.E.7.2.2},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3:fr:xml~VI.E.7.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_7_3_3:fr:xml~VI.E.7.3.3},∙{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_VI_E_9:fr:xml~VI.E.9}",
+  "name": "M29917",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "referringId": "caselawreport:CLR_GLO_V",
+  "relativeParagraph": 53
+ },
+ {
+  "text": "I.B.2,∙I.B.2.2.2.b",
+  "unit": "{I.B.2},∙{I.B.2.2.2.b}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_B_2:fr:xml#CLR_I_B_2~I.B.2},∙{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_B_2_2_2_b:fr:xml#CLR_I_B_2_2_2_b~I.B.2.2.2.b}",
+  "name": "M30533",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "III.B,∙III.B.1,∙IV.D.5.4",
+  "unit": "{III.B},∙{III.B.1},∙{IV.D.5.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_III_B:fr:xml#CLR_III_B~III.B},∙{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_III_B_1:fr:xml#CLR_III_B_1~III.B.1},∙{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_IV_D_5_4:fr:xml#CLR_IV_D_5_4~IV.D.5.4}",
+  "name": "M30535",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 212
+ },
+ {
+  "text": "IV.E.4.3.2.c,∙IV.E.4.3.3.c",
+  "unit": "{IV.E.4.3.2.c},∙{IV.E.4.3.3.c}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_IV_E_4_3_2_c:fr:xml#CLR_IV_E_4_3_2_c~IV.E.4.3.2.c},∙{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_IV_E_4_3_3_c:fr:xml#CLR_IV_E_4_3_3_c~IV.E.4.3.3.c}",
+  "name": "M30537",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 43
+ },
+ {
+  "text": "I.C.3.5.1,∙II.A.2.2.2,∙III.G.5,∙IV.F.3.10",
+  "unit": "{I.C.3.5.1},∙{II.A.2.2.2},∙{III.G.5},∙{IV.F.3.10}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_3_5_1:fr:xml#CLR_I_C_3_5_1~I.C.3.5.1},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_II_A_2_2_2:fr:xml#CLR_II_A_2_2_2~II.A.2.2.2},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_III_G_5:fr:xml#CLR_III_G_5~III.G.5},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_F_3_10:fr:xml#CLR_IV_F_3_10~IV.F.3.10}",
+  "name": "M31107",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 62
+ },
+ {
+  "text": "I.C.3.5.2.b,∙III.G.4.3.2",
+  "unit": "{I.C.3.5.2.b},∙{III.G.4.3.2}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_3_5_2_b:fr:xml#CLR_I_C_3_5_2_b~I.C.3.5.2.b},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_III_G_4_3_2:fr:xml#CLR_III_G_4_3_2~III.G.4.3.2}",
+  "name": "M31111",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 72
+ },
+ {
+  "text": "II.B.6.2,∙VI",
+  "unit": "{II.B.6.2},∙{VI}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_II_B_6_2:fr:xml#CLR_II_B_6_2~II.B.6.2},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_VI:fr:xml#CLR_VI~VI}",
+  "name": "M31113",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 149
+ },
+ {
+  "text": "II.F,∙IV.E.7.7.5.a",
+  "unit": "{II.F},∙{IV.E.7.7.5.a}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_II_F:fr:xml#CLR_II_F~II.F},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_E_7_7_5_a:fr:xml#CLR_IV_E_7_7_5_a~IV.E.7.7.5.a}",
+  "name": "M31115",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 156
+ },
+ {
+  "text": "I.B.4.3.5.b,∙II.A.4",
+  "unit": "{I.B.4.3.5.b},∙{II.A.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_B_4_3_5_b:fr:xml#CLR_I_B_4_3_5_b~I.B.4.3.5.b},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_II_A_4:fr:xml#CLR_II_A_4~II.A.4}",
+  "name": "M31117",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 247
+ },
+ {
+  "text": "I.B.4.2,∙I.B.4.5,∙I.B.4.5.1.a",
+  "unit": "{I.B.4.2},∙{I.B.4.5},∙{I.B.4.5.1.a}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_B_4_2:fr:xml#CLR_I_B_4_2~I.B.4.2},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_B_4_5:fr:xml#CLR_I_B_4_5~I.B.4.5},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_B_4_5_1_a:fr:xml#CLR_I_B_4_5_1_a~I.B.4.5.1.a}",
+  "name": "M31121",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 34
+ },
+ {
+  "text": "III.B.2.7,∙III.C.3,∙IV.C.1.3.13,∙IV.C.6.2.2.a,∙IV.E.4.2.6.d",
+  "unit": "{III.B.2.7},∙{III.C.3},∙{IV.C.1.3.13},∙{IV.C.6.2.2.a},∙{IV.E.4.2.6.d}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_III_B_2_7:fr:xml#CLR_III_B_2_7~III.B.2.7},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_III_C_3:fr:xml#CLR_III_C_3~III.C.3},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_C_1_3_13:fr:xml#CLR_IV_C_1_3_13~IV.C.1.3.13},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_C_6_2_2_a:fr:xml#CLR_IV_C_6_2_2_a~IV.C.6.2.2.a},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_E_4_2_6_d:fr:xml#CLR_IV_E_4_2_6_d~IV.E.4.2.6.d}",
+  "name": "M31123",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 12
+ },
+ {
+  "text": "I.C.8.1.3,∙I.C.8.1.3.b,∙I.C.8.1.3.c,∙II.E.2.6.5",
+  "unit": "{I.C.8.1.3},∙{I.C.8.1.3.b},∙{I.C.8.1.3.c},∙{II.E.2.6.5}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_8_1_3:fr:xml#CLR_I_C_8_1_3~I.C.8.1.3},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_8_1_3_b:fr:xml#CLR_I_C_8_1_3_b~I.C.8.1.3.b},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_I_C_8_1_3_c:fr:xml#CLR_I_C_8_1_3_c~I.C.8.1.3.c},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_II_E_2_6_5:fr:xml#CLR_II_E_2_6_5~II.E.2.6.5}",
+  "name": "M31127",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 328
+ },
+ {
+  "text": "IV.E.2.6.8.c,∙IV.E.8.4",
+  "unit": "{IV.E.2.6.8.c},∙{IV.E.8.4}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_E_2_6_8_c:fr:xml#CLR_IV_E_2_6_8_c~IV.E.2.6.8.c},∙{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_IV_E_8_4:fr:xml#CLR_IV_E_8_4~IV.E.8.4}",
+  "name": "M31129",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/fr/annexes.eplegal.zip",
+  "relativeParagraph": 6
+ }
+]

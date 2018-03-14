@@ -1,0 +1,29 @@
+[
+ {
+  "text": "G◦1/03,∙G∙2/03∙and∙G∙2/10",
+  "unit": "{G◦1/03},∙{G∙2/03}∙and∙{G∙2/10}",
+  "value": "{ep-legal:countries:EP::decisions:2003:1:1.0:electronicproofer:G_2003_0001:en:pdf#G_2003_0001~G◦1/03},∙{ep-legal:countries:EP::decisions:2003:1:1.0:electronicproofer:G_2003_0002:en:pdf#G_2003_0002~G∙2/03}∙and∙{ep-legal:countries:EP::decisions:2010:1:1.0:electronicproofer:G_2010_0002:en:html#G_2010_0002~G∙2/10}",
+  "name": "M12864",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 82
+ },
+ {
+  "text": "G∙1/03,∙G∙2/03∙and∙G◦2/10",
+  "unit": "{G∙1/03},∙{G∙2/03}∙and∙{G◦2/10}",
+  "value": "{ep-legal:countries:EP::decisions:2003:1:1.0:electronicproofer:G_2003_0001:en:pdf#G_2003_0001~G∙1/03},∙{ep-legal:countries:EP::decisions:2003:1:1.0:electronicproofer:G_2003_0002:en:pdf#G_2003_0002~G∙2/03}∙and∙{ep-legal:countries:EP::decisions:2010:1:1.0:electronicproofer:G_2010_0002:en:html#G_2010_0002~G◦2/10}",
+  "name": "M12866",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 83
+ },
+ {
+  "text": "J∙25/10∙and∙J∙9/10",
+  "unit": "{J∙25/10}∙and∙{J∙9/10}",
+  "value": "{ep-legal:countries:EP::decisions:2010:1:1.0:electronicproofer:J_2010_0025:en:html#J_2010_0025~J∙25/10}∙and∙{ep-legal:countries:EP::decisions:2010:1:1.0:electronicproofer:J_2010_0009:en:html#J_2010_0009~J∙9/10}",
+  "name": "M12892",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 177
+ }
+]

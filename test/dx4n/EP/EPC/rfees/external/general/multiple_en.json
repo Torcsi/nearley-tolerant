@@ -1,0 +1,12 @@
+[
+ {
+  "bad":true,
+ "text": "Articles◦4∙to◦8∙and∙Articles◦12∙and◦13",
+  "unit": "{Articles◦4}∙to◦{8}∙and∙{Articles◦12}∙and◦{13}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:4:en:xml#4~Articles◦4}∙to◦{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:8:en:xml#8~8}∙and∙{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:12:en:xml#12~Articles◦12}∙and◦{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:13:en:xml#13~13}",
+  "name": "M10184",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/en/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_134",
+  "relativeParagraph": 0
+ }
+]

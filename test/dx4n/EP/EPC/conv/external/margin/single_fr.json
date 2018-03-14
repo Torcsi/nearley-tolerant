@@ -1,0 +1,107 @@
+[
+ {
+  "text": "Art.∙52(1)",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_27",
+  "relativeParagraph": 1,
+  "name": "S29200",
+  "unit": "{Art.∙52(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A52_1:fr:xml#A52_1~Art.∙52(1)}"
+ },
+ {
+  "text": "Art.◦150(1)∙CBE",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_7",
+  "relativeParagraph": 1,
+  "name": "S29244",
+  "unit": "{Art.◦150(1)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A150_1:fr:xml#A150_1~Art.◦150(1)∙CBE}"
+ },
+ {
+  "text": "Art.◦151∙CBE",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_43",
+  "relativeParagraph": 1,
+  "name": "S29251",
+  "unit": "{Art.◦151∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A151:fr:xml#A151~Art.◦151∙CBE}"
+ },
+ {
+  "text": "Art.∙153(1)∙CBE",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_407",
+  "relativeParagraph": 1,
+  "name": "S29269",
+  "unit": "{Art.∙153(1)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:A153_1:fr:xml#A153_1~Art.∙153(1)∙CBE}"
+ },
+ {
+  "text": "Art.∙121∙CBE",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_465",
+  "relativeParagraph": 1,
+  "name": "S29279",
+  "unit": "{Art.∙121∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:A121:fr:xml#A121~Art.∙121∙CBE}"
+ },
+ {
+  "text": "Art.∙87(1)b)∙CBE",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S29297",
+  "unit": "{Art.∙87(1)b)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:A87_1_b:fr:xml#A87_1_b~Art.∙87(1)b)∙CBE}"
+ },
+ {
+  "text": "Art.∙54(4)∙CBE∙1973",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "referringId": "guiex:GLC_CII_4_3",
+  "relativeParagraph": 9,
+  "name": "S29366",
+  "unit": "{Art.∙54(4)∙CBE∙1973}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:A54_4:fr:xml~Art.∙54(4)∙CBE∙1973}"
+ },
+ {
+  "text": "Art.◦69◦CBE",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/B.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S29392",
+  "unit": "{Art.◦69◦CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A69:fr:xml~Art.◦69◦CBE}"
+ },
+ {
+  "text": "Art.◦54(4)∙CBE◦1973",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/fr/C.eplegal.zip",
+  "relativeParagraph": 10,
+  "name": "S29396",
+  "unit": "{Art.◦54(4)∙CBE◦1973}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1:1.0:electronicproofer:A54_4:fr:xml~Art.◦54(4)∙CBE◦1973}"
+ },
+ {
+  "text": "Article∙97(3)∙CBE",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/fr/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_45",
+  "relativeParagraph": 3,
+  "name": "S29504",
+  "unit": "{Article∙97(3)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A97_3:fr:xml#A97_3~Article∙97(3)∙CBE}"
+ },
+ {
+  "text": "Articles∙113(1)∙CBE",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/fr/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_82",
+  "relativeParagraph": 2,
+  "name": "S29506",
+  "unit": "{Articles∙113(1)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A113_1:fr:xml#A113_1~Articles∙113(1)∙CBE}"
+ },
+ {
+  "text": "Article∙114∙CBE",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/fr/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_82",
+  "relativeParagraph": 3,
+  "name": "S29507",
+  "unit": "{Article∙114∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:A114:fr:xml#A114~Article∙114∙CBE}"
+ }
+]

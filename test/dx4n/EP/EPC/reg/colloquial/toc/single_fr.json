@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevet∙européens",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 3,
+  "name": "S28134",
+  "unit": "{Règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevet∙européens}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:REG:fr:xml~Règlement∙d'exécution∙de∙la∙Convention∙sur∙la∙délivrance∙de∙brevet∙européens}"
+ },
+ {
+  "text": "règle◦103∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen",
+  "file": "/EP/organization/OJ/2014/01/issue/electronicproofer/fr/OJ_2014_i01_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_i01_toc",
+  "relativeParagraph": 10,
+  "name": "S28633",
+  "unit": "{règle◦103∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:R103:fr:xml#R103~règle◦103∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}"
+ },
+ {
+  "text": "règle∙82∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen",
+  "file": "/EP/organization/OJ/2015/10/issue/electronicproofer/fr/OJ_2015_i10_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2015_i10_toc",
+  "relativeParagraph": 2,
+  "name": "S28653",
+  "unit": "{règle∙82∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:R82:fr:xml#R82~règle∙82∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}"
+ }
+]

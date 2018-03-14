@@ -1,0 +1,134 @@
+[
+ {
+  "text": "R.∙1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 9,
+  "name": "S14879",
+  "unit": "{R.∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R1:de:xml~R.∙1}"
+ },
+ {
+  "text": "1.∙Abschnitt",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 17,
+  "name": "S14880",
+  "unit": "{1.∙Abschnitt}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:RI_II_1:de:xml~1.∙Abschnitt}"
+ },
+ {
+  "text": "R.∙62a",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 88,
+  "name": "S14882",
+  "unit": "{R.∙62a}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62a:de:xml~R.∙62a}"
+ },
+ {
+  "text": "R.∙70b",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 100,
+  "name": "S14883",
+  "unit": "{R.∙70b}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70b:de:xml~R.∙70b}"
+ },
+ {
+  "text": "R.∙1→xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S14917",
+  "unit": "{R.∙1→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R1:de:xml#R1~R.∙1→xxx}"
+ },
+ {
+  "text": "1.∙Abschnitt↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 13,
+  "name": "S14918",
+  "unit": "{1.∙Abschnitt↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RI_II_1:de:xml#RI_II_1~1.∙Abschnitt↲xxx}"
+ },
+ {
+  "text": "R.∙62a→xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 84,
+  "name": "S14919",
+  "unit": "{R.∙62a→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R62a:de:xml#R62a~R.∙62a→xxx}"
+ },
+ {
+  "text": "R.∙70b→xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 96,
+  "name": "S14920",
+  "unit": "{R.∙70b→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R70b:de:xml#R70b~R.∙70b→xxx}"
+ },
+ {
+  "text": "Kapitel∙VI↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 177,
+  "name": "S14921",
+  "unit": "{Kapitel∙VI↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_VI:de:xml#RVII_VI~Kapitel∙VI↲xxx}"
+ },
+ {
+  "text": "Kapitel∙VII↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 182,
+  "name": "S14922",
+  "unit": "{Kapitel∙VII↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_VII:de:xml#RVII_VII~Kapitel∙VII↲xxx}"
+ },
+ {
+  "text": "Kapitel∙VIII↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 184,
+  "name": "S14923",
+  "unit": "{Kapitel∙VIII↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_VIII:de:xml#RVII_VIII~Kapitel∙VIII↲xxx}"
+ },
+ {
+  "text": "Kapitel∙IX↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 186,
+  "name": "S14924",
+  "unit": "{Kapitel∙IX↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_IX:de:xml#RVII_IX~Kapitel∙IX↲xxx}"
+ },
+ {
+  "text": "Kapitel∙X↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 192,
+  "name": "S14925",
+  "unit": "{Kapitel∙X↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_X:de:xml#RVII_X~Kapitel∙X↲xxx}"
+ },
+ {
+  "text": "Kapitel∙XI↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 196,
+  "name": "S14926",
+  "unit": "{Kapitel∙XI↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:RVII_XI:de:xml#RVII_XI~Kapitel∙XI↲xxx}"
+ },
+ {
+  "text": "R.∙12c→xxx",
+  "file": "/EP/organization/EPC/2016/1/3.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 22,
+  "name": "S14929",
+  "unit": "{R.∙12c→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R12c:de:xml#R12c~R.∙12c→xxx}"
+ },
+ {
+  "text": "R.∙12d→xxx",
+  "file": "/EP/organization/EPC/2016/1/3.0/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 23,
+  "name": "S14930",
+  "unit": "{R.∙12d→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:2.0:electronicproofer:R12d:de:xml#R12d~R.∙12d→xxx}"
+ }
+]

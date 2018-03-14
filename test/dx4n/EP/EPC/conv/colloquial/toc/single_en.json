@@ -1,0 +1,30 @@
+[
+ {
+  "bad":true,"comment":"no space before("
+  "text": "Convention∙on∙the∙Grant∙of∙European∙Patents(European∙Patent∙Convention)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 2,
+  "name": "S01722",
+  "unit": "{Convention∙on∙the∙Grant∙of∙European∙Patents(European∙Patent∙Convention)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:ACVN:en:xml~Convention∙on∙the∙Grant∙of∙European∙Patents(European∙Patent∙Convention)}"
+ },
+ {
+  "text": "Article◦61,∙paragraph◦1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 29,
+  "name": "S01738",
+  "unit": "{Article◦61,∙paragraph◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A61_1:en:xml~Article◦61,∙paragraph◦1}"
+ },
+ {
+  "bad":true,
+  "text": "Convention∙on∙the∙Grant∙of∙European∙Patents↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S01766",
+  "unit": "{Convention∙on∙the∙Grant∙of∙European∙Patents↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:ACVN:en:xml#ACVN~Convention∙on∙the∙Grant∙of∙European∙Patents↲xxx}"
+ }
+]

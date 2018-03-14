@@ -1,0 +1,101 @@
+[
+ {
+  "text": "Preamble",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/conv.eplegal.zip",
+  "referringId": "EPC:ACVN",
+  "relativeParagraph": 6,
+  "name": "S01715",
+  "unit": "{Preamble}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:APRE:en:xml~Preamble}"
+ },
+ {
+  "text": "Article◦112∙EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 11,
+  "name": "S02156",
+  "unit": "{Article◦112∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A112:en:xml#A112~Article◦112∙EPC}"
+ },
+ {
+  "text": "Article◦112a∙EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 12,
+  "name": "S02157",
+  "unit": "{Article◦112a∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A112a:en:xml#A112a~Article◦112a∙EPC}"
+ },
+ {
+  "text": "Article∙83∙EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 69,
+  "name": "S02158",
+  "unit": "{Article∙83∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A83:en:xml#A83~Article∙83∙EPC}"
+ },
+ {
+  "text": "Article∙123(2)∙EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 75,
+  "name": "S02159",
+  "unit": "{Article∙123(2)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A123_2:en:xml#A123_2~Article∙123(2)∙EPC}"
+ },
+ {
+  "text": "Article◦112a◦EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 204,
+  "name": "S02163",
+  "unit": "{Article◦112a◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A112a:en:xml#A112a~Article◦112a◦EPC}"
+ },
+ {
+  "text": "Article◦112a(2)(c)◦EPC",
+  "file": "/EP/organization/OJ/2014/se5/issue/electronicproofer/en/OJ_2014_se5_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2014_se5_toc",
+  "relativeParagraph": 209,
+  "name": "S02165",
+  "unit": "{Article◦112a(2)(c)◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:A112a_2_c:en:xml#A112a_2_c~Article◦112a(2)(c)◦EPC}"
+ },
+ {
+  "text": "Article◦123(2)∙EPC",
+  "file": "/EP/organization/OJ/2015/se4/issue/electronicproofer/en/OJ_2015_se4_0.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se4_0",
+  "relativeParagraph": 169,
+  "name": "S02168",
+  "unit": "{Article◦123(2)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A123_2:en:xml#A123_2~Article◦123(2)∙EPC}"
+ },
+ {
+  "text": "Article◦24(3),∙second∙sentence,∙EPC",
+  "file": "/EP/organization/OJ/2015/se4/issue/electronicproofer/en/OJ_2015_se4_0.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se4_0",
+  "relativeParagraph": 261,
+  "name": "S02169",
+  "unit": "{Article◦24(3),∙second∙sentence,∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:A24_3:en:xml#A24_3~Article◦24(3),∙second∙sentence,∙EPC}"
+ },
+ {
+  "text": "Article◦61(1)(b)∙EPC",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 22,
+  "name": "S02175",
+  "unit": "{Article◦61(1)(b)∙EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:A61_1_b:en:xml#A61_1_b~Article◦61(1)(b)∙EPC}"
+ },
+ {
+  "text": "Article◦55◦EPC",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/en/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 70,
+  "name": "S02178",
+  "unit": "{Article◦55◦EPC}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:A55:en:xml#A55~Article◦55◦EPC}"
+ }
+]

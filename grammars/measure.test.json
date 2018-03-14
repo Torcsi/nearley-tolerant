@@ -6,19 +6,19 @@
         "methods":
         [
             {
-                "method":"findText",
+                "method":"Find text",
                 "interpreter":"none",
                 "field":"sequence",
                 "file": "measure.sequence.found.txt"
             },
             {
-                "method":"findUnit",
+                "method":"Find units",
                 "interpreter":"../lib/unit-interpreter.js",
                 "field":"unit",
                 "file": "measure.unit.found.txt"
             },
             {
-                "method":"findUnit",
+                "method":"Find units and values",
                 "interpreter":"../lib/unitvalue-interpreter.js",
                 "field":"unitvalue",
                 "file": "measure.value.found.txt"

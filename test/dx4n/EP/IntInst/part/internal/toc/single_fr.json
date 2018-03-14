@@ -1,0 +1,46 @@
+[
+ {
+  "text": "3.3.4.1.1→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-ib.eplegal.zip",
+  "referringId": "IntInst:IB",
+  "relativeParagraph": 55,
+  "name": "S28628",
+  "unit": "{3.3.4.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IB_III_3_3_4_1_1:fr:xml#IB_III_3_3_4_1_1~3.3.4.1.1→xxx}"
+ },
+ {
+  "text": "Annexe→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-ic.eplegal.zip",
+  "referringId": "IntInst:IC",
+  "relativeParagraph": 138,
+  "name": "S28629",
+  "unit": "{Annexe→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IC_V_AN:fr:xml#IC_V_AN~Annexe→xxx}"
+ },
+ {
+  "text": "Annexe∙1∙Liste∙de∙vérification∙destinée∙à∙l'examen∙de∙l'abrégé∙(cf.∙F-II,◦2.5)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-if.eplegal.zip",
+  "referringId": "IntInst:IF",
+  "relativeParagraph": 66,
+  "name": "S28630",
+  "unit": "{Annexe∙1∙Liste∙de∙vérification∙destinée∙à∙l'examen∙de∙l'abrégé∙(cf.∙F-II,◦2.5)}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IF_II_AN1:fr:xml#IF_II_AN1~Annexe∙1∙Liste∙de∙vérification∙destinée∙à∙l'examen∙de∙l'abrégé∙(cf.∙F-II,◦2.5)}"
+ },
+ {
+  "text": "Annexe∙2∙Unités∙reconnues∙dans∙la∙pratique∙internationale∙et∙conformes∙à∙la∙règle◦49(10)∙(cf.◦F-II,◦4.13)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/part-if.eplegal.zip",
+  "referringId": "IntInst:IF",
+  "relativeParagraph": 67,
+  "name": "S28631",
+  "unit": "{Annexe∙2∙Unités∙reconnues∙dans∙la∙pratique∙internationale∙et∙conformes∙à∙la∙règle◦49(10)∙(cf.◦F-II,◦4.13)}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IF_II_AN2:fr:xml#IF_II_AN2~Annexe∙2∙Unités∙reconnues∙dans∙la∙pratique∙internationale∙et∙conformes∙à∙la∙règle◦49(10)∙(cf.◦F-II,◦4.13)}"
+ },
+ {
+  "text": "Annexe∙1→xxx",
+  "file": "/EP/organization/IntInst/2015/1/1.0/electronicproofer/fr/part-if.eplegal.zip",
+  "relativeParagraph": 67,
+  "name": "S28632",
+  "unit": "{Annexe∙1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2015:1:1.0:electronicproofer:IF_II_AN1:fr:xml#IF_II_AN1~Annexe∙1→xxx}"
+ }
+]

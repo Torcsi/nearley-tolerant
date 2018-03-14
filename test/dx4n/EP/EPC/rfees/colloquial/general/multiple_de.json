@@ -1,0 +1,148 @@
+[
+ {
+  "bad":true,
+ "text": "Art.◦7◦(1),∙Art.◦7◦(3)∙",
+  "unit": "{Art.◦7◦(1)},∙{Art.◦7◦(3)∙}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_1:de:xml~Art.◦7◦(1)},∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_3:de:xml~Art.◦7◦(3)∙}",
+  "name": "M18709",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA_CXI_6_2_6",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Art.◦7◦(3)∙a)∙und∙b)",
+  "unit": "{Art.◦7◦(3)∙a)}∙und∙{b)}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3_a:de:xml#7_3_a~Art.◦7◦(3)∙a)}∙und∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3_b:de:xml#7_3_b~b)}",
+  "name": "M19473",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "guiex:GLA_CX_6_2_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikel∙5∙bis∙9∙der∙Gebührenordnung",
+  "unit": "{Artikel∙5}∙bis∙{9∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:5:de:xml#5~Artikel∙5}∙bis∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:9:de:xml#9~9∙der∙Gebührenordnung}",
+  "name": "M21143",
+  "file": "/EP/organization/OJ/1994/06/issue/electronicproofer/de/OJ_1994_419.eplegal.zip",
+  "referringId": "OJ:1994_419",
+  "relativeParagraph": 13
+ },
+ {
+  "text": "Artikel◦2∙und∙8∙der∙Gebührenordnung",
+  "unit": "{Artikel◦2}∙und∙{8∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:2:de:xml#2~Artikel◦2}∙und∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:8:de:xml#8~8∙der∙Gebührenordnung}",
+  "name": "M21603",
+  "file": "/EP/organization/OJ/1999/03/issue/electronicproofer/de/OJ_1999_167.eplegal.zip",
+  "referringId": "OJ:1999_167",
+  "relativeParagraph": 6
+ },
+ {
+  "text": "Artikel∙2∙und∙10∙Gebührenordnung",
+  "unit": "{Artikel∙2}∙und∙{10∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2005:1:1.0:electronicproofer:2:de:xml#2~Artikel∙2}∙und∙{ep-legal:countries:EP::EPC:2005:1:1.0:electronicproofer:10:de:xml#10~10∙Gebührenordnung}",
+  "name": "M21939",
+  "file": "/EP/organization/OJ/2005/07/issue/electronicproofer/de/OJ_2005_i07_toc.eplegal.zip",
+  "referringId": "OJ:2005_i07_toc",
+  "relativeParagraph": 11
+ },
+ {
+  "text": "Artikel∙5◦(2)∙und∙7◦(2)∙der∙Gebührenordnung",
+  "unit": "{Artikel∙5◦(2)}∙und∙{7◦(2)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:5_2:de:xml#5_2~Artikel∙5◦(2)}∙und∙{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:7_2:de:xml#7_2~7◦(2)∙der∙Gebührenordnung}",
+  "name": "M22063",
+  "file": "/EP/organization/OJ/2007/10/sup/electronicproofer/de/OJ_2007_i10_sup_5.eplegal.zip",
+  "referringId": "OJ:2007_i10_sup_5",
+  "relativeParagraph": 15
+ },
+ {
+  "text": "Artikel∙2∙und∙7◦(3)∙Gebührenordnung",
+  "unit": "{Artikel∙2}∙und∙{7◦(3)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:2:de:xml#2~Artikel∙2}∙und∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:7_3:de:xml#7_3~7◦(3)∙Gebührenordnung}",
+  "name": "M22517",
+  "file": "/EP/organization/OJ/2012/03/sup/electronicproofer/de/OJ_2012_i03_sup_15.eplegal.zip",
+  "referringId": "OJ:2012_i03_sup_15",
+  "relativeParagraph": 10
+ },
+ {
+  "text": "Artikeln◦9◦(1)∙und∙11◦b)∙der∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{11◦b)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:9_1:de:xml#9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:11_b:de:xml#11_b~11◦b)∙der∙Gebührenordnung}",
+  "name": "M22583",
+  "file": "/EP/organization/OJ/2013/01/issue/electronicproofer/de/OJ_2013_2.eplegal.zip",
+  "referringId": "OJ:2013_2",
+  "relativeParagraph": 20
+ },
+ {
+  "text": "Artikeln∙9∙(1)∙und∙11∙b)∙Gebührenordnung",
+  "unit": "{Artikeln∙9∙(1)}∙und∙{11∙b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:9_1:de:xml#9_1~Artikeln∙9∙(1)}∙und∙{ep-legal:countries:EP::EPC:2014:1:2.0:electronicproofer:11_b:de:xml#11_b~11∙b)∙Gebührenordnung}",
+  "name": "M22689",
+  "file": "/EP/organization/OJ/2014/03/issue/electronicproofer/de/OJ_2014_A37.eplegal.zip",
+  "referringId": "OJ:OJ_2014_A37",
+  "relativeParagraph": 16
+ },
+ {
+  "text": "Artikel∙5,∙6,∙7∙der∙Gebührenordnung",
+  "unit": "{Artikel∙5},∙{6},∙{7∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:5:de:xml#5~Artikel∙5},∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:6:de:xml#6~6},∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7:de:xml#7~7∙der∙Gebührenordnung}",
+  "name": "M22861",
+  "file": "/EP/organization/OJ/2015/03/issue/electronicproofer/de/OJ_2015_A28.eplegal.zip",
+  "referringId": "OJ:OJ_2015_A28",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Artikel∙5∙(2)∙und∙7∙(2)∙der∙Gebührenordnung",
+  "unit": "{Artikel∙5∙(2)}∙und∙{7∙(2)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:5_2:de:xml#5_2~Artikel∙5∙(2)}∙und∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_2:de:xml#7_2~7∙(2)∙der∙Gebührenordnung}",
+  "name": "M22965",
+  "file": "/EP/organization/OJ/2015/se3/issue/electronicproofer/de/OJ_2015_se3_8.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se3_8",
+  "relativeParagraph": 14
+ },
+ {
+  "text": "Artikel◦5◦(2)∙und◦7◦(2)∙der∙Gebührenordnung",
+  "unit": "{Artikel◦5◦(2)}∙und◦{7◦(2)∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:5_2:de:xml#5_2~Artikel◦5◦(2)}∙und◦{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:7_2:de:xml#7_2~7◦(2)∙der∙Gebührenordnung}",
+  "name": "M23067",
+  "file": "/EP/organization/OJ/2016/10/issue/electronicproofer/de/OJ_2016_A83.eplegal.zip",
+  "referringId": "OJ:OJ_2016_A83",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikel◦5,∙6,∙7∙der∙Gebührenordnung",
+  "unit": "{Artikel◦5},∙{6},∙{7∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:5:de:xml#5~Artikel◦5},∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:6:de:xml#6~6},∙{ep-legal:countries:EP::EPC:2016:1:1.8:electronicproofer:7:de:xml#7~7∙der∙Gebührenordnung}",
+  "name": "M23163",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_58.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_58",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "Artikel∙2∙Absätze∙1∙und∙2",
+  "unit": "{Artikel∙2∙Absätze∙1}∙und∙{2}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1:de:xml#2_1~Artikel∙2∙Absätze∙1}∙und∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_2:de:xml#2_2~2}",
+  "name": "M23331",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/de/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 72
+ },
+ {
+  "bad":true,
+ "text": "Nummern◦7∙und∙19,∙Absatz◦2∙Nummer◦7∙sowie∙Artikel◦14∙Absatz◦2∙der∙Gebührenordnung",
+  "unit": "{Nummern◦7}∙und∙{19},∙{Absatz◦2∙Nummer◦7}∙sowie∙{Artikel◦14∙Absatz◦2∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_7:de:xml#2_1_7~Nummern◦7}∙und∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_19:de:xml#2_1_19~19},∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_2_7:de:xml#2_2_7~Absatz◦2∙Nummer◦7}∙sowie∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:14_2:de:xml#14_2~Artikel◦14∙Absatz◦2∙der∙Gebührenordnung}",
+  "name": "M23333",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/de/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 80
+ },
+ {
+  "text": "Artikel◦2∙Absatz◦1∙Nummer◦7∙oder∙Absatz◦2∙Nummer◦7∙der∙Gebührenordnung",
+  "unit": "{Artikel◦2∙Absatz◦1∙Nummer◦7}∙oder∙{Absatz◦2∙Nummer◦7∙der∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_1_7:de:xml#2_1_7~Artikel◦2∙Absatz◦1∙Nummer◦7}∙oder∙{ep-legal:countries:EP::EPC:2018:1:2.0:electronicproofer:2_2_7:de:xml#2_2_7~Absatz◦2∙Nummer◦7∙der∙Gebührenordnung}",
+  "name": "M23335",
+  "file": "/EP/organization/OJ/2018/01/issue/electronicproofer/de/OJ_2018_A4.eplegal.zip",
+  "referringId": "OJ:OJ_2018_A4",
+  "relativeParagraph": 83
+ }
+]

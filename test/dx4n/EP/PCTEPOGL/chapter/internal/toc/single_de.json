@@ -1,0 +1,55 @@
+[
+ {
+  "text": "2.2.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB",
+  "relativeParagraph": 23,
+  "name": "S15400",
+  "unit": "{2.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIII_2_2_1:de:xml#PGB_CIII_2_2_1~2.2.1→xxx}"
+ },
+ {
+  "text": "Allgemeiner∙Hinweis",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/G.eplegal.zip",
+  "referringId": "PCTEPOGL:PGG",
+  "relativeParagraph": 3,
+  "name": "S15402",
+  "unit": "{Allgemeiner∙Hinweis}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGG_I:de:xml#PGG_I~Allgemeiner∙Hinweis}"
+ },
+ {
+  "text": "2.3.2.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/H.eplegal.zip",
+  "referringId": "PCTEPOGL:PGH",
+  "relativeParagraph": 18,
+  "name": "S15403",
+  "unit": "{2.3.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGH_CII_2_3_2_1:de:xml#PGH_CII_2_3_2_1~2.3.2.1→xxx}"
+ },
+ {
+  "text": "Anlage◦1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF",
+  "relativeParagraph": 44,
+  "name": "S15418",
+  "unit": "{Anlage◦1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIIA1:de:xml#PGF_CIIA1~Anlage◦1→xxx}"
+ },
+ {
+  "text": "Anlage→xxx",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF",
+  "relativeParagraph": 122,
+  "name": "S15419",
+  "unit": "{Anlage→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIVA:de:xml#PGF_CIVA~Anlage→xxx}"
+ },
+ {
+  "text": "Anlage∙1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/de/F.eplegal.zip",
+  "relativeParagraph": 43,
+  "name": "S15420",
+  "unit": "{Anlage∙1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGF_CIIA1:de:xml#PGF_CIIA1~Anlage∙1→xxx}"
+ }
+]

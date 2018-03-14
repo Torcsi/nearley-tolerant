@@ -1,0 +1,37 @@
+[
+ {
+  "text": "Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente(Europäisches∙Patentübereinkommen)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 2,
+  "name": "S14865",
+  "unit": "{Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente(Europäisches∙Patentübereinkommen)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:ACVN:de:xml~Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente(Europäisches∙Patentübereinkommen)}"
+ },
+ {
+  "text": "Artikel∙61∙Absatz∙1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 29,
+  "name": "S14881",
+  "unit": "{Artikel∙61∙Absatz∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A61_1:de:xml~Artikel∙61∙Absatz∙1}"
+ },
+ {
+  "text": "Artikel∙54∙Absatz◦3",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 216,
+  "name": "S14884",
+  "unit": "{Artikel∙54∙Absatz◦3}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A54_3:de:xml~Artikel∙54∙Absatz◦3}"
+ },
+ {
+  "text": "Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S14910",
+  "unit": "{Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:ACVN:de:xml#ACVN~Übereinkommen∙über∙die∙Erteilung∙europäischer∙Patente↲xxx}"
+ }
+]

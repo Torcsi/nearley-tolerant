@@ -1,0 +1,57 @@
+[
+ {
+  "text": "l'article◦83∙et∙l'article◦84∙CBE",
+  "unit": "{l'article◦83}∙et∙{l'article◦84∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:A83:fr:docx:conv:AIII_I:#A83~l'article◦83}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:A84:fr:docx:conv:AIII_I:#A84~l'article◦84∙CBE}",
+  "name": "M21896",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se5/internet/fr/OJ_2014_se5_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_se5_toc",
+  "relativeParagraph": 68,
+  "bad": true
+ },
+ {
+  "text": "l'article◦123(3)∙CBE∙et∙l'article∙69∙CBE",
+  "unit": "{l'article◦123(3)∙CBE}∙et∙{l'article∙69∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:A123_3:fr:docx:conv:AVII_I:A123#A123_3~l'article◦123(3)∙CBE}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:A69:fr:docx:conv:AII_III:#A69~l'article∙69∙CBE}",
+  "name": "M21902",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/se5/internet/fr/OJ_2014_se5_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_se5_toc",
+  "relativeParagraph": 89,
+  "bad": true
+ },
+ {
+  "text": "l'article∙83∙et∙l'article∙84∙CBE",
+  "unit": "{l'article∙83}∙et∙{l'article∙84∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:A83:fr:docx:conv:AIII_I:#A83~l'article∙83}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:A84:fr:docx:conv:AIII_I:#A84~l'article∙84∙CBE}",
+  "name": "M21904",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2015/se4/internet/fr/OJ_2015_se4_0.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2015_se4_0",
+  "relativeParagraph": 151,
+  "bad": true
+ },
+ {
+  "text": "l'article◦123(2)∙CBE∙et∙l'article◦123(3)∙CBE",
+  "unit": "{l'article◦123(2)∙CBE}∙et∙{l'article◦123(3)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:A123_2:fr:docx:conv:AVII_I:A123#A123_2~l'article◦123(2)∙CBE}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:A123_3:fr:docx:conv:AVII_I:A123#A123_3~l'article◦123(3)∙CBE}",
+  "name": "M21906",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2015/se4/internet/fr/OJ_2015_se4_0.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2015_se4_0",
+  "relativeParagraph": 183,
+  "bad": true
+ },
+ {
+  "text": "l'article∙123(2)∙et∙(3)∙CBE",
+  "unit": "{l'article∙123(2)}∙et∙{(3)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1::internet:A123_2:fr:docx:conv:AVII_I:A123#A123_2~l'article∙123(2)}∙et∙{ep-legal:countries:EP::EPC:2015:1::internet:A123_3:fr:docx:conv:AVII_I:A123#A123_3~(3)∙CBE}",
+  "name": "M21908",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2015/se5/internet/fr/OJ_2015_se5_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2015_se5_toc",
+  "relativeParagraph": 35,
+  "bad": true
+ }
+]

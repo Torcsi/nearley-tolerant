@@ -1,0 +1,29 @@
+[
+ {
+  "text": "PR◦3",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 100,
+  "name": "S01661",
+  "unit": "{PR◦3}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P3:en:xml~PR◦3}"
+ },
+ {
+  "text": "PR∙1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 72,
+  "name": "S01667",
+  "unit": "{PR∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1:en:xml~PR∙1}"
+ },
+ {
+  "text": "PR◦5(2)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 30,
+  "name": "S01671",
+  "unit": "{PR◦5(2)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P5_2:en:xml~PR◦5(2)}"
+ }
+]

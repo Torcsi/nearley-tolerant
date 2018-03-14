@@ -1,0 +1,11 @@
+[
+ {
+  "text": "articles∙2∙à∙4∙et∙l’article∙5,∙paragraphe∙1",
+  "unit": "{articles∙2}∙à∙{4}∙et∙{l’article∙5,∙paragraphe∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:P2:fr:docx:prorecog::#P2~articles∙2}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:P4:fr:docx:prorecog::#P4~4}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:P5_1:fr:docx:prorecog::P5#P5_1~l’article∙5,∙paragraphe∙1}",
+  "name": "M00306",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P6",
+  "relativeParagraph": 1
+ }
+]

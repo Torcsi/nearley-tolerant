@@ -1,0 +1,155 @@
+[
+ {
+  "text": "Chapter∙I∙–∙Introduction",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 3,
+  "name": "S02189",
+  "unit": "{Chapter∙I∙–∙Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CI:en:xml#PGA_CI~Chapter∙I∙–∙Introduction}"
+ },
+ {
+  "text": "1.→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 5,
+  "name": "S02190",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CII_1:en:xml#PGA_CII_1~1.→xxx}"
+ },
+ {
+  "text": "3.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 8,
+  "name": "S02191",
+  "unit": "{3.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CII_3_1:en:xml#PGA_CII_3_1~3.1→xxx}"
+ },
+ {
+  "text": "Introduction",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "referringId": "PCTEPOGL:PGE",
+  "relativeParagraph": 3,
+  "name": "S02193",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGE_I:en:xml#PGE_I~Introduction}"
+ },
+ {
+  "text": "Part∙A∙–∙Guidelines∙for∙Formalities∙Examination",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 8,
+  "name": "S02197",
+  "unit": "{Part∙A∙–∙Guidelines∙for∙Formalities∙Examination}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA:en:xml#PGA~Part∙A∙–∙Guidelines∙for∙Formalities∙Examination}"
+ },
+ {
+  "text": "Chapter∙I→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 9,
+  "name": "S02198",
+  "unit": "{Chapter∙I→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CI:en:xml#PGA_CI~Chapter∙I→xxx}"
+ },
+ {
+  "text": "Chapter∙II→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 10,
+  "name": "S02199",
+  "unit": "{Chapter∙II→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CII:en:xml#PGA_CII~Chapter∙II→xxx}"
+ },
+ {
+  "text": "Chapter∙III→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 14,
+  "name": "S02200",
+  "unit": "{Chapter∙III→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIII:en:xml#PGB_CIII~Chapter∙III→xxx}"
+ },
+ {
+  "text": "Chapter∙IV→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 15,
+  "name": "S02201",
+  "unit": "{Chapter∙IV→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIV:en:xml#PGB_CIV~Chapter∙IV→xxx}"
+ },
+ {
+  "text": "Chapter∙V→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 16,
+  "name": "S02202",
+  "unit": "{Chapter∙V→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CV:en:xml#PGB_CV~Chapter∙V→xxx}"
+ },
+ {
+  "text": "Chapter∙VI→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 17,
+  "name": "S02203",
+  "unit": "{Chapter∙VI→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVI:en:xml#PGB_CVI~Chapter∙VI→xxx}"
+ },
+ {
+  "text": "Chapter∙VII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 18,
+  "name": "S02204",
+  "unit": "{Chapter∙VII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVII:en:xml#PGB_CVII~Chapter∙VII→xxx}"
+ },
+ {
+  "text": "Chapter∙VIII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 19,
+  "name": "S02205",
+  "unit": "{Chapter∙VIII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVIII:en:xml#PGB_CVIII~Chapter∙VIII→xxx}"
+ },
+ {
+  "text": "Chapter∙IX→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 20,
+  "name": "S02206",
+  "unit": "{Chapter∙IX→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIX:en:xml#PGB_CIX~Chapter∙IX→xxx}"
+ },
+ {
+  "text": "Chapter∙X→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 21,
+  "name": "S02207",
+  "unit": "{Chapter∙X→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CX:en:xml#PGB_CX~Chapter∙X→xxx}"
+ },
+ {
+  "text": "Chapter∙XI→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 22,
+  "name": "S02208",
+  "unit": "{Chapter∙XI→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CXI:en:xml#PGB_CXI~Chapter∙XI→xxx}"
+ },
+ {
+  "text": "Chapter∙XII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 23,
+  "name": "S02209",
+  "unit": "{Chapter∙XII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CXII:en:xml#PGB_CXII~Chapter∙XII→xxx}"
+ }
+]

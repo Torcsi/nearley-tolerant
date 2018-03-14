@@ -1,0 +1,20 @@
+[
+ {
+ "bad":true,
+  "text": "Anhang∙IVerzeichnis∙der∙im∙Amtsblatt∙des∙EPA∙veröffentlichten∙Entscheidungen∙und∙Stellungnahmen∙der∙Großen∙Beschwerdekammer",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 12,
+  "name": "S14875",
+  "unit": "{Anhang∙IVerzeichnis∙der∙im∙Amtsblatt∙des∙EPA∙veröffentlichten∙Entscheidungen∙und∙Stellungnahmen∙der∙Großen∙Beschwerdekammer}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:AN1:de:xml~Anhang∙IVerzeichnis∙der∙im∙Amtsblatt∙des∙EPA∙veröffentlichten∙Entscheidungen∙und∙Stellungnahmen∙der∙Großen∙Beschwerdekammer}"
+ },
+ {
+  "text": "Anhang∙I↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 14,
+  "name": "S14915",
+  "unit": "{Anhang∙I↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:AN1:de:xml#AN1~Anhang∙I↲xxx}"
+ }
+]

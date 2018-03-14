@@ -1,0 +1,37 @@
+[
+ {
+  "text": "3.3.4.1.1→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/part-ib.eplegal.zip",
+  "referringId": "IntInst:IB",
+  "relativeParagraph": 56,
+  "name": "S15341",
+  "unit": "{3.3.4.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IB_III_3_3_4_1_1:de:xml#IB_III_3_3_4_1_1~3.3.4.1.1→xxx}"
+ },
+ {
+  "text": "Anlage→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/part-ic.eplegal.zip",
+  "referringId": "IntInst:IC",
+  "relativeParagraph": 139,
+  "name": "S15342",
+  "unit": "{Anlage→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IC_V_AN:de:xml#IC_V_AN~Anlage→xxx}"
+ },
+ {
+  "text": "Anlage∙1→xxx",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/de/part-if.eplegal.zip",
+  "referringId": "IntInst:IF",
+  "relativeParagraph": 66,
+  "name": "S15343",
+  "unit": "{Anlage∙1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:IF_II_AN1:de:xml#IF_II_AN1~Anlage∙1→xxx}"
+ },
+ {
+  "text": "Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)",
+  "file": "/EP/organization/IntInst/2016/1/1.0/electronicproofer/de/part-ih.eplegal.zip",
+  "relativeParagraph": 87,
+  "name": "S15344",
+  "unit": "{Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)}",
+  "value": "{ep-legal:countries:EP::IntInst:2016:1:1.0:electronicproofer:IH_IV:de:xml#IH_IV~Kapitel∙IV∙–Materielle∙Zulässigkeit∙von∙Änderungen∙–∙Art.◦123◦(2)∙und∙(3)}"
+ }
+]

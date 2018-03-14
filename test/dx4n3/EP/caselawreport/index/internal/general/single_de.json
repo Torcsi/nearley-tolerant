@@ -1,0 +1,56 @@
+[
+ {
+  "text": "Vorwort∙zur∙vierten∙Auflage→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 2,
+  "name": "S30139",
+  "unit": "{Vorwort∙zur∙vierten∙Auflage→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_FOREWORD:de:docx:foreword::#CLR_FOREWORD~Vorwort∙zur∙vierten∙Auflage→xxx}"
+ },
+ {
+  "text": "Hinweise∙für∙die∙Benutzung",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 3,
+  "name": "S30140",
+  "unit": "{Hinweise∙für∙die∙Benutzung}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_GUIDE:de:docx:guide::#CLR_GUIDE~Hinweise∙für∙die∙Benutzung}"
+ },
+ {
+  "text": "Leitsätze∙von∙zur∙Veröffentlichung",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 4,
+  "name": "S30141",
+  "unit": "{Leitsätze∙von∙zur∙Veröffentlichung}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_HEADWORDS:de:docx:headnotes::#CLR_HEADWORDS~Leitsätze∙von∙zur∙Veröffentlichung}"
+ },
+ {
+  "text": "Entscheidungsregister",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 5,
+  "name": "S30142",
+  "unit": "{Entscheidungsregister}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_DECISIONS:de:docx:tableofcases::#CLR_DECISIONS~Entscheidungsregister}"
+ },
+ {
+  "text": "Verzeichnis∙der∙zitierten∙Vorschriften",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 6,
+  "name": "S30143",
+  "unit": "{Verzeichnis∙der∙zitierten∙Vorschriften}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_CITATIONS:de:docx:indexofcitedprovisions::#CLR_CITATIONS~Verzeichnis∙der∙zitierten∙Vorschriften}"
+ },
+ {
+  "text": "Stichwortverzeichnis",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "CLR_MAININDEX",
+  "relativeParagraph": 7,
+  "name": "S30144",
+  "unit": "{Stichwortverzeichnis}",
+  "value": "{ep-legal:countries:EP::caselawreport:2002:1::internet:CLR_GLO:de:docx:keywordindex::#CLR_GLO~Stichwortverzeichnis}"
+ }
+]

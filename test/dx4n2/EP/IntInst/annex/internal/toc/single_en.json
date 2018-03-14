@@ -1,0 +1,62 @@
+[
+ {
+  "text": "1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 3,
+  "style": "TOC2",
+  "name": "S61698",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_I_1:en:docx:annex-i::ANNEX_I#ANNEX_I_1~1.→xxx}"
+ },
+ {
+  "text": "1.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 4,
+  "style": "TOC3",
+  "name": "S61699",
+  "unit": "{1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_I_1_1:en:docx:annex-i::ANNEX_I#ANNEX_I_1_1~1.1→xxx}"
+ },
+ {
+  "text": "1.1.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 5,
+  "style": "TOC4",
+  "name": "S61700",
+  "unit": "{1.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_I_1_1_1:en:docx:annex-i::ANNEX_I#ANNEX_I_1_1_1~1.1.1→xxx}"
+ },
+ {
+  "text": "1.1.2.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-i.eplegal.zip",
+  "referringId": "ANNEX_I",
+  "relativeParagraph": 7,
+  "style": "TOC5",
+  "name": "S61701",
+  "unit": "{1.1.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_I_1_1_2_1:en:docx:annex-i::ANNEX_I#ANNEX_I_1_1_2_1~1.1.2.1→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-iii.eplegal.zip",
+  "referringId": "ANNEX_III",
+  "relativeParagraph": 6,
+  "style": "TOC3",
+  "name": "S61702",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_III_1_1:en:docx:annex-iii::ANNEX_III#ANNEX_III_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "CP-5:→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/IntInst/2013/9/internet/en/annex-v.eplegal.zip",
+  "referringId": "ANNEX_V",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S61703",
+  "unit": "{CP-5:→xxx}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9::internet:ANNEX_V_CP5:en:docx:annex-v::ANNEX_V#ANNEX_V_CP5~CP-5:→xxx}"
+ }
+]

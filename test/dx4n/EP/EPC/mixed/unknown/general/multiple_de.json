@@ -1,0 +1,99 @@
+[
+ {
+  "text": "Artikel◦14∙Absatz◦2∙oder∙Regel◦40∙Absatz◦3",
+  "unit": "{Artikel◦14∙Absatz◦2}∙oder∙{Regel◦40∙Absatz◦3}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A14_2:de:xml~Artikel◦14∙Absatz◦2}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R40_3:de:xml~Regel◦40∙Absatz◦3}",
+  "name": "M18071",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R7",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Artikel∙94∙Absatz∙3∙und∙Regel∙71∙Absätze∙1∙und∙2",
+  "unit": "{Artikel∙94∙Absatz∙3}∙und∙{Regel∙71∙Absätze∙1}∙und∙{2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A94_3:de:xml~Artikel∙94∙Absatz∙3}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71_1:de:xml~Regel∙71∙Absätze∙1}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71_2:de:xml~2}",
+  "name": "M18085",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R36_1_a",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikel◦14∙Absatz◦2,∙Regel◦36∙Absatz◦2",
+  "unit": "{Artikel◦14∙Absatz◦2},∙{Regel◦36∙Absatz◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A14_2:de:xml~Artikel◦14∙Absatz◦2},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R36_2:de:xml~Regel◦36∙Absatz◦2}",
+  "name": "M18097",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R57_a",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Regel◦70∙Absatz◦1,∙Artikel◦94∙Absatz◦2∙und∙Regel◦70a∙Absatz◦1",
+  "unit": "{Regel◦70∙Absatz◦1},∙{Artikel◦94∙Absatz◦2}∙und∙{Regel◦70a∙Absatz◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70_1:de:xml~Regel◦70∙Absatz◦1},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A94_2:de:xml~Artikel◦94∙Absatz◦2}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70a_1:de:xml~Regel◦70a∙Absatz◦1}",
+  "name": "M18111",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R69_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikel◦99∙Absatz◦1∙oder∙Regel◦76∙Absatz◦2◦c)",
+  "unit": "{Artikel◦99∙Absatz◦1}∙oder∙{Regel◦76∙Absatz◦2◦c)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A99_1:de:xml~Artikel◦99∙Absatz◦1}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R76_2_c:de:xml~Regel◦76∙Absatz◦2◦c)}",
+  "name": "M18117",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R77_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikeln◦106∙bis◦108,∙Regel◦97∙oder∙Regel◦99∙Absatz◦1◦b)∙oder∙c)∙oder∙Absatz◦2",
+  "unit": "{Artikeln◦106}∙bis◦{108},∙{Regel◦97}∙oder∙{Regel◦99∙Absatz◦1◦b)}∙oder∙{c)}∙oder∙{Absatz◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A106:de:xml~Artikeln◦106}∙bis◦{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A108:de:xml~108},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R97:de:xml~Regel◦97}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_1_b:de:xml~Regel◦99∙Absatz◦1◦b)}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_1_c:de:xml~c)}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_2:de:xml~Absatz◦2}",
+  "name": "M18125",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R101_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikel◦112a∙Absatz◦1,∙2∙oder∙4,∙Regel◦106∙oder∙Regel◦107∙Absatz◦1◦b)∙oder◦2",
+  "unit": "{Artikel◦112a∙Absatz◦1},∙{2}∙oder∙{4},∙{Regel◦106}∙oder∙{Regel◦107∙Absatz◦1◦b)}∙oder◦{2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_1:de:xml~Artikel◦112a∙Absatz◦1},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_2:de:xml~2}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_4:de:xml~4},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R106:de:xml~Regel◦106}∙oder∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R107_1_b:de:xml~Regel◦107∙Absatz◦1◦b)}∙oder◦{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R107_2:de:xml~2}",
+  "name": "M18129",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R108_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikel◦128∙Absätze◦1∙bis◦4∙und∙Regel◦144",
+  "unit": "{Artikel◦128∙Absätze◦1}∙bis◦{4}∙und∙{Regel◦144}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A128_1:de:xml~Artikel◦128∙Absätze◦1}∙bis◦{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A128_4:de:xml~4}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R144:de:xml~Regel◦144}",
+  "name": "M18157",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R146",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikel◦55∙Absatz◦2∙und∙Regel◦25",
+  "unit": "{Artikel◦55∙Absatz◦2}∙und∙{Regel◦25}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A55_2:de:xml~Artikel◦55∙Absatz◦2}∙und∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R25:de:xml~Regel◦25}",
+  "name": "M18167",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/reg.eplegal.zip",
+  "referringId": "EPC:R159_1_h",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Artikeln◦9◦(1)∙und∙11∙b)∙Gebührenordnung",
+  "unit": "{Artikeln◦9◦(1)}∙und∙{11∙b)∙Gebührenordnung}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A9_1:de:xml#A9_1~Artikeln◦9◦(1)}∙und∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:11_b:de:xml#11_b~11∙b)∙Gebührenordnung}",
+  "name": "M18263",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/rfees.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikel◦94∙Absatz◦3∙und∙Regel◦71∙Absätze◦1∙und◦2",
+  "unit": "{Artikel◦94∙Absatz◦3}∙und∙{Regel◦71∙Absätze◦1}∙und◦{2}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:A94_3:de:xml#A94_3~Artikel◦94∙Absatz◦3}∙und∙{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R71_1:de:xml#R71_1~Regel◦71∙Absätze◦1}∙und◦{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:R71_2:de:xml#R71_2~2}",
+  "name": "M18305",
+  "file": "/EP/organization/EPC/2014/1/sls/electronicproofer/de/reg.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

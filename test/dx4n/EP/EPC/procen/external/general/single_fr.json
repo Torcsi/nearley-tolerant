@@ -1,0 +1,56 @@
+[
+ {
+  "text": "section◦III",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/procen.eplegal.zip",
+  "referringId": "EPC:CI_2",
+  "relativeParagraph": 0,
+  "name": "S26280",
+  "unit": "{section◦III}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:fr:xml~section◦III}"
+ },
+ {
+  "text": "section∙I,∙paragraphe◦2",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/procen.eplegal.zip",
+  "referringId": "EPC:CIV_2_a",
+  "relativeParagraph": 0,
+  "name": "S26281",
+  "unit": "{section∙I,∙paragraphe◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_2:fr:xml~section∙I,∙paragraphe◦2}"
+ },
+ {
+  "text": "paragraphe◦1,∙lettre◦b)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/procen.eplegal.zip",
+  "referringId": "EPC:CIV_2_c",
+  "relativeParagraph": 0,
+  "name": "S26282",
+  "unit": "{paragraphe◦1,∙lettre◦b)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_b:fr:xml~paragraphe◦1,∙lettre◦b)}"
+ },
+ {
+  "text": "section◦I,∙paragraphe◦1,∙lettre∙c)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/procen.eplegal.zip",
+  "referringId": "EPC:CV_1",
+  "relativeParagraph": 0,
+  "name": "S26283",
+  "unit": "{section◦I,∙paragraphe◦1,∙lettre∙c)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_c:fr:xml~section◦I,∙paragraphe◦1,∙lettre∙c)}"
+ },
+ {
+  "text": "section∙VI",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/procen.eplegal.zip",
+  "referringId": "EPC:CV_2",
+  "relativeParagraph": 0,
+  "name": "S26285",
+  "unit": "{section∙VI}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CVI:fr:xml~section∙VI}"
+ },
+ {
+  "text": "Prot.∙Centr.∙I(1)(b)",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "IntInst:ANNEX_I_1_1_3",
+  "relativeParagraph": 24,
+  "name": "S26810",
+  "unit": "{Prot.∙Centr.∙I(1)(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1:1.0:electronicproofer:CI_1_b:fr:xml#CI_1_b~Prot.∙Centr.∙I(1)(b)}"
+ }
+]

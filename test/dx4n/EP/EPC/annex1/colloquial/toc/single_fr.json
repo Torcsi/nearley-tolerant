@@ -1,0 +1,20 @@
+[
+ {
+"bad":true,
+  "text": "Annexe∙IListe∙des∙décisions∙et∙avis∙de∙la∙Grande∙Chambre∙de∙recours∙publiés∙au∙Journal∙officiel∙de∙l'OEB",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 12,
+  "name": "S28143",
+  "unit": "{Annexe∙IListe∙des∙décisions∙et∙avis∙de∙la∙Grande∙Chambre∙de∙recours∙publiés∙au∙Journal∙officiel∙de∙l'OEB}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:AN1:fr:xml~Annexe∙IListe∙des∙décisions∙et∙avis∙de∙la∙Grande∙Chambre∙de∙recours∙publiés∙au∙Journal∙officiel∙de∙l'OEB}"
+ },
+ {
+  "text": "Annexe∙I↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 14,
+  "name": "S28183",
+  "unit": "{Annexe∙I↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:AN1:fr:xml#AN1~Annexe∙I↲xxx}"
+ }
+]

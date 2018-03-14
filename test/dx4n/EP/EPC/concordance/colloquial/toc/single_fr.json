@@ -1,0 +1,29 @@
+[
+ {
+"bad":true,
+  "text": "Annexe∙IIListe∙de∙correspondance",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 13,
+  "name": "S28144",
+  "unit": "{Annexe∙IIListe∙de∙correspondance}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL:fr:xml~Annexe∙IIListe∙de∙correspondance}"
+ },
+ {
+  "text": "Abréviations",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 14,
+  "name": "S28145",
+  "unit": "{Abréviations}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL_IV:fr:xml~Abréviations}"
+ },
+ {
+  "text": "Annexe∙II↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 15,
+  "name": "S28184",
+  "unit": "{Annexe∙II↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:CL:fr:xml#CL~Annexe∙II↲xxx}"
+ }
+]

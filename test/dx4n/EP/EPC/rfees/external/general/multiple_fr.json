@@ -1,0 +1,11 @@
+[
+ {
+  "text": "articles◦4∙à◦8∙et∙les∙articles◦12∙et◦13",
+  "unit": "{articles◦4}∙à◦{8}∙et∙les∙{articles◦12}∙et◦{13}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:4:fr:xml#4~articles◦4}∙à◦{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:8:fr:xml#8~8}∙et∙les∙{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:12:fr:xml#12~articles◦12}∙et◦{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:13:fr:xml#13~13}",
+  "name": "M36795",
+  "file": "/EP/organization/UPPGuide/2017/1/1.0/electronicproofer/fr/UPPGuide.eplegal.zip",
+  "referringId": "UPPGuide:UPPG_134",
+  "relativeParagraph": 0
+ }
+]

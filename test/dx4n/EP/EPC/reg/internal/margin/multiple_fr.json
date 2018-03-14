@@ -1,0 +1,64 @@
+[
+ {
+  "text": "R.∙15,∙17,∙36,∙41,∙68,∙112,∙135,∙143,∙159,∙160",
+  "unit": "{R.∙15},∙{17},∙{36},∙{41},∙{68},∙{112},∙{135},∙{143},∙{159},∙{160}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R15:fr:xml~R.∙15},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R17:fr:xml~17},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R36:fr:xml~36},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R41:fr:xml~41},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R68:fr:xml~68},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R112:fr:xml~112},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R135:fr:xml~135},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R143:fr:xml~143},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R159:fr:xml~159},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R160:fr:xml~160}",
+  "name": "M38055",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R39",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙45,∙55-60,∙111-113,∙138,∙139,∙142,∙152",
+  "unit": "{R.∙45},∙{55}-{60},∙{111}-{113},∙{138},∙{139},∙{142},∙{152}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R45:fr:xml~R.∙45},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R55:fr:xml~55}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R60:fr:xml~60},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R111:fr:xml~111}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R113:fr:xml~113},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R138:fr:xml~138},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R139:fr:xml~139},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R142:fr:xml~142},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R152:fr:xml~152}",
+  "name": "M38063",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R57",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙65,∙70bis,∙137",
+  "unit": "{R.∙65},∙{70bis},∙{137}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R65:fr:xml~R.∙65},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70a:fr:xml~70bis},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R137:fr:xml~137}",
+  "name": "M38067",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R62",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙61-66,∙69-70ter,∙137",
+  "unit": "{R.∙61}-{66},∙{69}-{70ter},∙{137}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R61:fr:xml~R.∙61}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R66:fr:xml~66},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R69:fr:xml~69}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70b:fr:xml~70ter},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R137:fr:xml~137}",
+  "name": "M38069",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R65",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙3,∙6,∙76-86,∙112",
+  "unit": "{R.∙3},∙{6},∙{76}-{86},∙{112}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R3:fr:xml~R.∙3},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R6:fr:xml~6},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R76:fr:xml~76}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R86:fr:xml~86},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R112:fr:xml~112}",
+  "name": "M38071",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R89",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙57,∙58,∙62,∙65,∙68,∙70,∙71,∙80,∙161",
+  "unit": "{R.∙57},∙{58},∙{62},∙{65},∙{68},∙{70},∙{71},∙{80},∙{161}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R57:fr:xml~R.∙57},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R58:fr:xml~58},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62:fr:xml~62},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R65:fr:xml~65},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R68:fr:xml~68},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70:fr:xml~70},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71:fr:xml~71},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R80:fr:xml~80},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R161:fr:xml~161}",
+  "name": "M38087",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:R137",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙70,∙71bis",
+  "unit": "{R.∙70},∙{71bis}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R70:fr:xml#R70~R.∙70},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R71a:fr:xml#R71a~71bis}",
+  "name": "M38095",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

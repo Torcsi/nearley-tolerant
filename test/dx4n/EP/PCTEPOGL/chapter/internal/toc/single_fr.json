@@ -1,0 +1,55 @@
+[
+ {
+  "text": "2.2.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/fr/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB",
+  "relativeParagraph": 23,
+  "name": "S28686",
+  "unit": "{2.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIII_2_2_1:fr:xml#PGB_CIII_2_2_1~2.2.1→xxx}"
+ },
+ {
+  "text": "Avertissement",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/fr/G.eplegal.zip",
+  "referringId": "PCTEPOGL:PGG",
+  "relativeParagraph": 3,
+  "name": "S28688",
+  "unit": "{Avertissement}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGG_I:fr:xml#PGG_I~Avertissement}"
+ },
+ {
+  "text": "2.3.2.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/fr/H.eplegal.zip",
+  "referringId": "PCTEPOGL:PGH",
+  "relativeParagraph": 18,
+  "name": "S28689",
+  "unit": "{2.3.2.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGH_CII_2_3_2_1:fr:xml#PGH_CII_2_3_2_1~2.3.2.1→xxx}"
+ },
+ {
+  "text": "Annexe◦1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/fr/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF",
+  "relativeParagraph": 44,
+  "name": "S28705",
+  "unit": "{Annexe◦1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIIA1:fr:xml#PGF_CIIA1~Annexe◦1→xxx}"
+ },
+ {
+  "text": "Annexe→xxx",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/fr/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF",
+  "relativeParagraph": 122,
+  "name": "S28706",
+  "unit": "{Annexe→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIVA:fr:xml#PGF_CIVA~Annexe→xxx}"
+ },
+ {
+  "text": "Annexe∙1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/fr/F.eplegal.zip",
+  "relativeParagraph": 43,
+  "name": "S28708",
+  "unit": "{Annexe∙1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGF_CIIA1:fr:xml#PGF_CIIA1~Annexe∙1→xxx}"
+ }
+]

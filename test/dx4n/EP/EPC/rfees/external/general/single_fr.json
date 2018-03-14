@@ -1,0 +1,20 @@
+[
+ {
+  "text": "règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/fr/II.eplegal.zip",
+  "referringId": "caselawreport:CLR_II_C_6_1",
+  "relativeParagraph": 7,
+  "name": "S25556",
+  "unit": "{règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:FEE:fr:xml~règlement∙relatif∙aux∙taxes}"
+ },
+ {
+  "text": "Règlement∙relatif∙aux∙taxes",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/fr/VI.eplegal.zip",
+  "referringId": "caselawreport:CLR_VI_E_12",
+  "relativeParagraph": 6,
+  "name": "S25842",
+  "unit": "{Règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:FEE:fr:xml~Règlement∙relatif∙aux∙taxes}"
+ }
+]

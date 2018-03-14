@@ -1,0 +1,38 @@
+[
+ {
+  "text": "AnerkProt◦1◦(1),∙AnerkProt◦2",
+  "unit": "{AnerkProt◦1◦(1)},∙{AnerkProt◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_1:de:xml~AnerkProt◦1◦(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P2:de:xml~AnerkProt◦2}",
+  "name": "M25049",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 56
+ },
+ {
+  "text": "AnerkProt◦9,∙AnerkProt◦10",
+  "unit": "{AnerkProt◦9},∙{AnerkProt◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:de:xml~AnerkProt◦9},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P10:de:xml~AnerkProt◦10}",
+  "name": "M25129",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 80
+ },
+ {
+  "text": "AnerkProt◦1-11",
+  "unit": "{AnerkProt◦1}-{11}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1:de:xml~AnerkProt◦1}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P11:de:xml~11}",
+  "name": "M25237",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_R",
+  "relativeParagraph": 40
+ },
+ {
+  "text": "AnerkProt◦1◦(2),∙AnerkProt◦9,∙AnerkProt◦10",
+  "unit": "{AnerkProt◦1◦(2)},∙{AnerkProt◦9},∙{AnerkProt◦10}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1_2:de:xml~AnerkProt◦1◦(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P9:de:xml~AnerkProt◦9},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P10:de:xml~AnerkProt◦10}",
+  "name": "M25257",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_V",
+  "relativeParagraph": 40
+ }
+]

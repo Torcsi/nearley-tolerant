@@ -1,0 +1,64 @@
+[
+ {
+  "text": "ABl.∙2013,∙442",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 254,
+  "name": "S15209",
+  "unit": "{ABl.∙2013,∙442}",
+  "value": "{ep-legal:countries:EP::OJ:2013:10:issue:electronicproofer:2013_442:de:xml#2013_442~ABl.∙2013,∙442}"
+ },
+ {
+  "text": "1",
+  "file": "/EP/organization/OJ/2015/se2/issue/electronicproofer/de/OJ_2015_se2_0.eplegal.zip",
+  "referringId": "OJ:OJ_2015_se2_0",
+  "relativeParagraph": 4,
+  "name": "S15370",
+  "unit": "{1}",
+  "value": "{ep-legal:countries:EP::OJ:2015:se2:issue:electronicproofer:OJ_2015_se2_1:de:xml#OJ_2015_se2_1~1}"
+ },
+ {
+  "text": "ABl.∙EPA∙2009,∙486",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 9,
+  "name": "S15377",
+  "unit": "{ABl.∙EPA∙2009,∙486}",
+  "value": "{ep-legal:countries:EP::OJ:2009:10:issue:electronicproofer:2009_486:de:xml#2009_486~ABl.∙EPA∙2009,∙486}"
+ },
+ {
+  "text": "ABl.∙EPA∙2015,∙A29",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 10,
+  "name": "S15378",
+  "unit": "{ABl.∙EPA∙2015,∙A29}",
+  "value": "{ep-legal:countries:EP::OJ:2015:03:issue:electronicproofer:OJ_2015_A29:de:xml#OJ_2015_A29~ABl.∙EPA∙2015,∙A29}"
+ },
+ {
+  "text": "ABl.◦EPA∙2014,∙A6",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 34,
+  "name": "S15381",
+  "unit": "{ABl.◦EPA∙2014,∙A6}",
+  "value": "{ep-legal:countries:EP::OJ:2014:01:issue:electronicproofer:OJ_2014_A6:de:xml#OJ_2014_A6~ABl.◦EPA∙2014,∙A6}"
+ },
+ {
+  "text": "Beilage∙zum∙ABl.∙EPA∙1/2008,∙34",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 123,
+  "name": "S15385",
+  "unit": "{Beilage∙zum∙ABl.∙EPA∙1/2008,∙34}",
+  "value": "{ep-legal:countries:EP::OJ:2008:01:sup:electronicproofer:2008_i01_sup_34:de:xml#2008_i01_sup_34~Beilage∙zum∙ABl.∙EPA∙1/2008,∙34}"
+ },
+ {
+  "text": "Zusatzpublikation◦3,∙ABl.◦EPA∙2015",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 174,
+  "name": "S15391",
+  "unit": "{Zusatzpublikation◦3,∙ABl.◦EPA∙2015}",
+  "value": "{ep-legal:countries:EP::OJ:2015:se3:issue:electronicproofer:OJ_2015_se3_toc:de:xml#OJ_2015_se3_toc~Zusatzpublikation◦3,∙ABl.◦EPA∙2015}"
+ }
+]

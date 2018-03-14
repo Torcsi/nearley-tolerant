@@ -1,0 +1,29 @@
+lexer file invalid javascript file: W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\grammars\bad\badlexer.js
+Unexpected identifier,W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\grammars\bad\badlexer.js:1
+(function (exports, require, module, __filename, __dirname) { not a javascript file
+                                                                  ^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:607:28)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Module.require (module.js:587:17)
+    at require (internal/module.js:11:18)
+    at CaseTester._testLexer (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:102:13)
+    at CaseTester.perform (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:74:30)
+    at Context.<anonymous> (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\test\test_casetester.js:309:26)
+    at callFn (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:354:21)
+    at Test.Runnable.run (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runnable.js:346:7)
+    at Runner.runTest (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:442:10)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:560:12
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:356:14)
+    at C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:366:7
+    at next (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:290:14)
+    at Immediate.<anonymous> (C:\Users\attila\AppData\Roaming\npm\node_modules\mocha\lib\runner.js:334:5)
+    at runCallback (timers.js:789:20)
+    at tryOnImmediate (timers.js:751:5)
+    at processImmediate [as _immediateCallback] (timers.js:722:5)

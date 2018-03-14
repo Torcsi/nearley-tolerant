@@ -1,0 +1,38 @@
+[
+ {
+  "text": "sections∙III∙et∙IV",
+  "unit": "{sections∙III}∙et∙{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:CIII:fr:docx:procen::#CIII~sections∙III}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:CIV:fr:docx:procen::#CIV~IV}",
+  "name": "M13410",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/procen.eplegal.zip",
+  "referringId": "CII",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "paragraphes∙1∙et∙paragraphes∙2",
+  "unit": "{paragraphes∙1}∙et∙{paragraphes∙2}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:CV_1:fr:docx:procen::CV#CV_1~paragraphes∙1}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:CV_2:fr:docx:procen::CV#CV_2~paragraphes∙2}",
+  "name": "M14012",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/procen.eplegal.zip",
+  "referringId": "CV_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "sections◦III∙et∙IV",
+  "unit": "{sections◦III}∙et∙{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:CIII:fr:docx:procen::#CIII~sections◦III}∙et∙{ep-legal:countries:EP::EPC:2010:1::internet:CIV:fr:docx:procen::#CIV~IV}",
+  "name": "M14428",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/procen.eplegal.zip",
+  "referringId": "CII",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "paragraphes◦1∙et∙paragraphes◦2",
+  "unit": "{paragraphes◦1}∙et∙{paragraphes◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1::internet:CV_1:fr:docx:procen::CV#CV_1~paragraphes◦1}∙et∙{ep-legal:countries:EP::EPC:2010:1::internet:CV_2:fr:docx:procen::CV#CV_2~paragraphes◦2}",
+  "name": "M14430",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2010/1/internet/fr/procen.eplegal.zip",
+  "referringId": "CV_3",
+  "relativeParagraph": 0
+ }
+]

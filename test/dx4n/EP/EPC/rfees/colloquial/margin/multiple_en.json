@@ -1,0 +1,54 @@
+[
+ {
+  "text": "Art.◦7(1),∙(3)∙and∙(4)◦RFees",
+  "unit": "{Art.◦7(1)},∙{(3)}∙and∙{(4)◦RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_1:en:xml#7_1~Art.◦7(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3:en:xml#7_3~(3)}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:en:xml#7_4~(4)◦RFees}",
+  "name": "M12180",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA_CXI_4_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.◦7(3)◦∙and∙(4)◦RFees",
+  "unit": "{Art.◦7(3)◦}∙and∙{(4)◦RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3:en:xml#7_3~Art.◦7(3)◦}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_4:en:xml#7_4~(4)◦RFees}",
+  "name": "M12182",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA_CXI_6_2_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.◦2(2),◦Nos.◦3∙and∙3a◦RFees",
+  "unit": "{Art.◦2(2),◦Nos.◦3}∙and∙{3a◦RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:2_2_3:en:xml#2_2_3~Art.◦2(2),◦Nos.◦3}∙and∙{ep-legal:countries:EP::EPC:2011:1:1.0:electronicproofer:2_2_3a:en:xml#2_2_3a~3a◦RFees}",
+  "name": "M12204",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA_CIII_11_3_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.◦7(3)∙and∙(4)◦RFees",
+  "unit": "{Art.◦7(3)}∙and∙{(4)◦RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_3:en:xml#7_3~Art.◦7(3)}∙and∙{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:7_4:en:xml#7_4~(4)◦RFees}",
+  "name": "M12228",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.◦2(2),◦items◦3∙and∙3a,∙RFees",
+  "unit": "{Art.◦2(2),◦items◦3}∙and∙{3a,∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:2_2_3:en:xml#2_2_3~Art.◦2(2),◦items◦3}∙and∙{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:2_2_3a:en:xml#2_2_3a~3a,∙RFees}",
+  "name": "M12240",
+  "file": "/EP/organization/guiex/2017/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "Art.◦13(2),∙(3)∙RFees",
+  "unit": "{Art.◦13(2)},∙{(3)∙RFees}",
+  "value": "{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:13_2:en:xml#13_2~Art.◦13(2)},∙{ep-legal:countries:EP::EPC:2017:1:2.0:electronicproofer:13_3:en:xml#13_3~(3)∙RFees}",
+  "name": "M12458",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA_CII_9",
+  "relativeParagraph": 3
+ }
+]

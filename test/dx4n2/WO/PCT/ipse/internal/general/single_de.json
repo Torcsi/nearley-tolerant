@@ -1,0 +1,65 @@
+[
+ {
+  "text": "A4.05",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/de/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 5,
+  "name": "S32430",
+  "unit": "{A4.05}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_A4_05:de::ipse:PCTIPSE_A4:#PCTIPSE_A4_05~A4.05}"
+ },
+ {
+  "text": "14.01[02]",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/de/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 39,
+  "name": "S32432",
+  "unit": "{14.01[02]}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_14_01:de::ipse:PCTIPSE_14_A:#PCTIPSE_14_01~14.01[02]}"
+ },
+ {
+  "text": "A4.05[1]",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/de/F.eplegal.zip",
+  "referringId": "PGF_CII_4_3",
+  "relativeParagraph": 1,
+  "name": "S32448",
+  "unit": "{A4.05[1]}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A4_05_s1:de::ipse:PCTIPSE_4:#PCTIPSE_A4_05_s1~A4.05[1]}"
+ },
+ {
+  "text": "A14.01[2].1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/de/F.eplegal.zip",
+  "referringId": "PGF_CII_4_8",
+  "relativeParagraph": 1,
+  "name": "S32451",
+  "unit": "{A14.01[2].1}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A14_01_s2_1:de::ipse:PCTIPSE_14:#PCTIPSE_A14_01_s2_1~A14.01[2].1}"
+ },
+ {
+  "text": "A13.08.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/de/I.eplegal.zip",
+  "referringId": "PGI_3_2",
+  "relativeParagraph": 36,
+  "name": "S32463",
+  "unit": "{A13.08.1}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_A13_08_1:de::ipse:PCTIPSE_13:#PCTIPSE_A13_08_1~A13.08.1}"
+ },
+ {
+  "text": "Kapitel∙4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-gp.eplegal.zip",
+  "referringId": "IPGP_3_3",
+  "relativeParagraph": 3,
+  "name": "S32480",
+  "unit": "{Kapitel∙4}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_4:de::ipse:PCTIPSE_II:#PCTIPSE_4~Kapitel∙4}"
+ },
+ {
+  "text": "Kapitel◦4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/de/part-gp.eplegal.zip",
+  "referringId": "IPGP_3_3",
+  "relativeParagraph": 3,
+  "name": "S32501",
+  "unit": "{Kapitel◦4}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_4:de::ipse:PCTIPSE_II:PCTIPSE_4_01#PCTIPSE_4~Kapitel◦4}"
+ }
+]

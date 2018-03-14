@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Regel◦6.1◦a)◦iii)∙Budapester∙Vertrag∙und∙Regel◦6.1◦b)∙Budapester∙Vertrag",
+  "unit": "{Regel◦6.1◦a)◦iii)∙Budapester∙Vertrag}∙und∙{Regel◦6.1◦b)∙Budapester∙Vertrag}",
+  "value": "{ep-legal:countries:WO::BT:1981:1::internet:BR_6_1_a_iii:de::regulations:BR:BR_6_1#BR_6_1_a_iii~Regel◦6.1◦a)◦iii)∙Budapester∙Vertrag}∙und∙{ep-legal:countries:WO::BT:1981:1::internet:BR_6_1_b:de::regulations::BR_6_1#BR_6_1_b~Regel◦6.1◦b)∙Budapester∙Vertrag}",
+  "name": "M43606",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/de/C.eplegal.zip",
+  "referringId": "GLC_CII_6_3_i",
+  "relativeParagraph": 7
+ },
+ {
+  "text": "Regel◦6.1◦a)◦iii)∙und∙6.1◦b)∙Budapester∙Vertrag",
+  "unit": "{Regel◦6.1◦a)◦iii)}∙und∙{6.1◦b)∙Budapester∙Vertrag}",
+  "value": "{ep-legal:countries:WO::BT:1981:1::internet:BR_6_1_a_iii:de::regulations:BR:BR_6_1#BR_6_1_a_iii~Regel◦6.1◦a)◦iii)}∙und∙{ep-legal:countries:WO::BT:1981:1::internet:BR_6_1_b:de::regulations::BR_6_1#BR_6_1_b~6.1◦b)∙Budapester∙Vertrag}",
+  "name": "M43608",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/de/C.eplegal.zip",
+  "referringId": "GLC_CII_6_3_i",
+  "relativeParagraph": 7
+ }
+]

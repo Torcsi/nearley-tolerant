@@ -1,0 +1,5 @@
+invalid syntax at line 3 col 5:
+
+  baz -> %baz
+      ^
+Unexpected "-"

@@ -1,0 +1,470 @@
+[
+ {
+  "text": "subparagraphs◦(a)∙and∙(b)",
+  "unit": "{subparagraphs◦(a)}∙and∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:15_5_a:en::treaty:CI:15#15_5_a~subparagraphs◦(a)}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:15_5_b:en::treaty:CI:15#15_5_b~(b)}",
+  "name": "M78312",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "15_5",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "paragraphs◦(1)∙or∙(2)",
+  "unit": "{paragraphs◦(1)}∙or∙{(2)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:22_1:en:docx:treaty:CI:22#22_1~paragraphs◦(1)}∙or∙{ep-legal:countries:WO::PCT:0000:1::internet:22_2:en:docx:treaty:CI:22#22_2~(2)}",
+  "name": "M78314",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "22_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "subparagraphs◦(a)∙or∙(b)",
+  "unit": "{subparagraphs◦(a)}∙or∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:25_1_a:en::treaty:CI:25#25_1_a~subparagraphs◦(a)}∙or∙{ep-legal:countries:WO::PCT:0000:1::internet:25_1_b:en::treaty:CI:25#25_1_b~(b)}",
+  "name": "M78316",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "25_1",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "paragraphs◦(2)∙to∙(4)",
+  "unit": "{paragraphs◦(2)}∙to∙{(4)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:29_2:en:docx:treaty:CI:29#29_2~paragraphs◦(2)}∙to∙{ep-legal:countries:WO::PCT:0000:1::internet:29_4:en:docx:treaty:CI:29#29_4~(4)}",
+  "name": "M78318",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "29_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦33(1)∙to∙(4)",
+  "unit": "{Article◦33(1)}∙to∙{(4)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:33_1:en:docx:treaty:CII:33#33_1~Article◦33(1)}∙to∙{ep-legal:countries:WO::PCT:0000:1::internet:33_4:en:docx:treaty:CII:33#33_4~(4)}",
+  "name": "M78320",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "35_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)∙and∙Articles◦36(1)∙and∙(3)",
+  "unit": "{paragraph◦(1)}∙and∙{Articles◦36(1)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph◦(1)}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles◦36(1)}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:36_3:en:docx:treaty:CII:36#36_3~(3)}",
+  "name": "M78322",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)(a)∙or∙(b)",
+  "unit": "{paragraph◦(1)(a)}∙or∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:39_1_a:en::treaty:CII:39#39_1_a~paragraph◦(1)(a)}∙or∙{ep-legal:countries:WO::PCT:0000:1::internet:39_1_b:en::treaty:CII:39#39_1_b~(b)}",
+  "name": "M78324",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "39_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs◦(4),∙(5)",
+  "unit": "{paragraphs◦(4)},∙{(5)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:53_4:en:docx:treaty:CV:53#53_4~paragraphs◦(4)},∙{ep-legal:countries:WO::PCT:0000:1::internet:53_5:en:docx:treaty:CV:53#53_5~(5)}",
+  "name": "M78326",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_7",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "(9)∙and∙(11)",
+  "unit": "{(9)}∙and∙{(11)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:53_11:en::treaty:CV:53#53_11~(11)}",
+  "name": "M78328",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "60_4",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦53(5),∙(9)∙and∙(11)",
+  "unit": "{Articles◦53(5)},∙{(9)}∙and∙{(11)}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles◦53(5)},∙{ep-legal:countries:WO::PCT:0000:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:53_11:en::treaty:CV:53#53_11~(11)}",
+  "name": "M78330",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "61_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Articles◦30∙and∙38",
+  "unit": "{Articles◦30}∙and∙{38}",
+  "value": "{ep-legal:countries:WO::PCT:0000:1::internet:30:en:docx:treaty:CI:#30~Articles◦30}∙and∙{ep-legal:countries:WO::PCT:0000:1::internet:38:en:docx:treaty:CII:#38~38}",
+  "name": "M78332",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/0000/1/internet/en/treaty.eplegal.zip",
+  "referringId": "64_2_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "subparagraphs∙(a)∙and∙(b)",
+  "unit": "{subparagraphs∙(a)}∙and∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:15_5_a:en:docx:treaty:CI:15#15_5_a~subparagraphs∙(a)}∙and∙{ep-legal:countries:WO::PCT:2001:1::internet:15_5_b:en:docx:treaty:CI:15#15_5_b~(b)}",
+  "name": "M78416",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "15_5_c",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs∙(1)∙or∙(2)",
+  "unit": "{paragraphs∙(1)}∙or∙{(2)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:22_1:en:docx:treaty:CI:22#22_1~paragraphs∙(1)}∙or∙{ep-legal:countries:WO::PCT:2001:1::internet:22_2:en:docx:treaty:CI:22#22_2~(2)}",
+  "name": "M78418",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "22_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "subparagraphs∙(a)∙or∙(b)",
+  "unit": "{subparagraphs∙(a)}∙or∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:25_1_a:en:docx:treaty:CI:25#25_1_a~subparagraphs∙(a)}∙or∙{ep-legal:countries:WO::PCT:2001:1::internet:25_1_b:en:docx:treaty:CI:25#25_1_b~(b)}",
+  "name": "M78420",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "25_1_c",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs∙(2)∙to∙(4)",
+  "unit": "{paragraphs∙(2)}∙to∙{(4)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:29_2:en:docx:treaty:CI:29#29_2~paragraphs∙(2)}∙to∙{ep-legal:countries:WO::PCT:2001:1::internet:29_4:en:docx:treaty:CI:29#29_4~(4)}",
+  "name": "M78422",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "29_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article∙33(1)∙to∙(4)",
+  "unit": "{Article∙33(1)}∙to∙{(4)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:33_1:en:docx:treaty:CII:33#33_1~Article∙33(1)}∙to∙{ep-legal:countries:WO::PCT:2001:1::internet:33_4:en:docx:treaty:CII:33#33_4~(4)}",
+  "name": "M78424",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "35_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph∙(1)∙and∙Articles∙36(1)∙and∙(3)",
+  "unit": "{paragraph∙(1)}∙and∙{Articles∙36(1)}∙and∙{(3)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph∙(1)}∙and∙{ep-legal:countries:WO::PCT:2001:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles∙36(1)}∙and∙{ep-legal:countries:WO::PCT:2001:1::internet:36_3:en:docx:treaty:CII:36#36_3~(3)}",
+  "name": "M78426",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph∙(1)(a)∙or∙(b)",
+  "unit": "{paragraph∙(1)(a)}∙or∙{(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:39_1_a:en:docx:treaty:CII:39#39_1_a~paragraph∙(1)(a)}∙or∙{ep-legal:countries:WO::PCT:2001:1::internet:39_1_b:en:docx:treaty:CII:39#39_1_b~(b)}",
+  "name": "M78428",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "39_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs∙(4),∙(5)",
+  "unit": "{paragraphs∙(4)},∙{(5)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:53_4:en:docx:treaty:CV:53#53_4~paragraphs∙(4)},∙{ep-legal:countries:WO::PCT:2001:1::internet:53_5:en:docx:treaty:CV:53#53_5~(5)}",
+  "name": "M78430",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_7",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙53(5),∙(9)∙and∙(11)",
+  "unit": "{Articles∙53(5)},∙{(9)}∙and∙{(11)}",
+  "value": "{ep-legal:countries:WO::PCT:2001:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles∙53(5)},∙{ep-legal:countries:WO::PCT:2001:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:2001:1::internet:53_11:en:docx:treaty:CV:53#53_11~(11)}",
+  "name": "M78432",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2001/1/internet/en/treaty.eplegal.zip",
+  "referringId": "61_1_a",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs◦(1)∙or∙paragraph∙(2)",
+  "unit": "{paragraphs◦(1)}∙or∙{paragraph∙(2)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:22_1:en:docx:treaty:CI:22#22_1~paragraphs◦(1)}∙or∙{ep-legal:countries:WO::PCT:2003:1::internet:22_2:en:docx:treaty:CI:22#22_2~paragraph∙(2)}",
+  "name": "M78610",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "22_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦12(3),∙Article∙14(1)(b),∙Article∙14(3)(a)",
+  "unit": "{Articles◦12(3)},∙{Article∙14(1)(b)},∙{Article∙14(3)(a)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:12_3:en:docx:treaty:CI:12#12_3~Articles◦12(3)},∙{ep-legal:countries:WO::PCT:2003:1::internet:14_1_b:en::treaty:CI:14#14_1_b~Article∙14(1)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:14_3_a:en::treaty:CI:14#14_3_a~Article∙14(3)(a)}",
+  "name": "M78612",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "24_1_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦12(3),∙14(1)(b),∙14(3)(a)",
+  "unit": "{Articles◦12(3)},∙{14(1)(b)},∙{14(3)(a)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:12_3:en:docx:treaty:CI:12#12_3~Articles◦12(3)},∙{ep-legal:countries:WO::PCT:2003:1::internet:14_1_b:en::treaty:CI:14#14_1_b~14(1)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:14_3_a:en::treaty:CI:14#14_3_a~14(3)(a)}",
+  "name": "M78614",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "24_1_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraphs◦(2)∙to∙paragraph∙(4)",
+  "unit": "{paragraphs◦(2)}∙to∙{paragraph∙(4)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:29_2:en:docx:treaty:CI:29#29_2~paragraphs◦(2)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:29_4:en:docx:treaty:CI:29#29_4~paragraph∙(4)}",
+  "name": "M78616",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "29_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦33(1)∙to∙Article∙33(4)",
+  "unit": "{Article◦33(1)}∙to∙{Article∙33(4)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:33_1:en:docx:treaty:CII:33#33_1~Article◦33(1)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:33_4:en:docx:treaty:CII:33#33_4~Article∙33(4)}",
+  "name": "M78618",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "35_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)∙and∙Articles◦36(1)∙and∙Article∙36(3)∙and∙Article∙37(3)(b)",
+  "unit": "{paragraph◦(1)}∙and∙{Articles◦36(1)}∙and∙{Article∙36(3)}∙and∙{Article∙37(3)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph◦(1)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles◦36(1)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:36_3:en:docx:treaty:CII:36#36_3~Article∙36(3)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:37_3_b:en::treaty:CII:37#37_3_b~Article∙37(3)(b)}",
+  "name": "M78620",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)∙and∙Articles◦36(1)∙and∙36(3)∙and∙37(3)(b)",
+  "unit": "{paragraph◦(1)}∙and∙{Articles◦36(1)}∙and∙{36(3)}∙and∙{37(3)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph◦(1)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles◦36(1)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:36_3:en:docx:treaty:CII:36#36_3~36(3)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:37_3_b:en::treaty:CII:37#37_3_b~37(3)(b)}",
+  "name": "M78622",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)(a)∙or∙paragraph◦(1)(b)",
+  "unit": "{paragraph◦(1)(a)}∙or∙{paragraph◦(1)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:39_1_a:en::treaty:CII:39#39_1_a~paragraph◦(1)(a)}∙or∙{ep-legal:countries:WO::PCT:2003:1::internet:39_1_b:en::treaty:CII:39#39_1_b~paragraph◦(1)(b)}",
+  "name": "M78624",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "39_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph◦(1)(a)∙or∙paragraph∙(1)(b)",
+  "unit": "{paragraph◦(1)(a)}∙or∙{paragraph∙(1)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:39_1_a:en::treaty:CII:39#39_1_a~paragraph◦(1)(a)}∙or∙{ep-legal:countries:WO::PCT:2003:1::internet:39_1_b:en::treaty:CII:39#39_1_b~paragraph∙(1)(b)}",
+  "name": "M78626",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "39_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦47(2)(b),∙Article∙58(2)(b),∙Article∙58(3)∙and∙Article∙61(2)(b)",
+  "unit": "{Articles◦47(2)(b)},∙{Article∙58(2)(b)},∙{Article∙58(3)}∙and∙{Article∙61(2)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:47_2_b:en::treaty:CIII:47#47_2_b~Articles◦47(2)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:58_2_b:en::treaty:CV:58#58_2_b~Article∙58(2)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:58_3:en:docx:treaty:CV:58#58_3~Article∙58(3)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:61_2_b:en::treaty:CVII:61#61_2_b~Article∙61(2)(b)}",
+  "name": "M78628",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_6",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Articles◦47(2)(b),∙58(2)(b),∙58(3)∙and∙61(2)(b)",
+  "unit": "{Articles◦47(2)(b)},∙{58(2)(b)},∙{58(3)}∙and∙{61(2)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:47_2_b:en::treaty:CIII:47#47_2_b~Articles◦47(2)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:58_2_b:en::treaty:CV:58#58_2_b~58(2)(b)},∙{ep-legal:countries:WO::PCT:2003:1::internet:58_3:en:docx:treaty:CV:58#58_3~58(3)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:61_2_b:en::treaty:CVII:61#61_2_b~61(2)(b)}",
+  "name": "M78630",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_6",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "paragraphs◦(4),∙paragraph∙(5)",
+  "unit": "{paragraphs◦(4)},∙{paragraph∙(5)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:53_4:en:docx:treaty:CV:53#53_4~paragraphs◦(4)},∙{ep-legal:countries:WO::PCT:2003:1::internet:53_5:en:docx:treaty:CV:53#53_5~paragraph∙(5)}",
+  "name": "M78632",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_7",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article∙53(9)∙and∙Article∙53(11),∙Article∙54,∙Article∙55(4)∙to∙Article∙55(8),∙Article∙56",
+  "unit": "{Article∙53(9)}∙and∙{Article∙53(11)},∙{Article∙54},∙{Article∙55(4)}∙to∙{Article∙55(8)},∙{Article∙56}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:53_9:en:docx:treaty:CV:53#53_9~Article∙53(9)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:53_11:en:docx:treaty:CV:53#53_11~Article∙53(11)},∙{ep-legal:countries:WO::PCT:2003:1::internet:54:en:docx:treaty:CV:#54~Article∙54},∙{ep-legal:countries:WO::PCT:2003:1::internet:55_4:en:docx:treaty:CV:55#55_4~Article∙55(4)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:55_8:en:docx:treaty:CV:55#55_8~Article∙55(8)},∙{ep-legal:countries:WO::PCT:2003:1::internet:56:en:docx:treaty:CV:#56~Article∙56}",
+  "name": "M78634",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "60_4",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "(9)∙and∙(11),∙54,∙55(4)∙to∙(8),∙56",
+  "unit": "{(9)}∙and∙{(11)},∙{54},∙{55(4)}∙to∙{(8)},∙{56}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:53_11:en:docx:treaty:CV:53#53_11~(11)},∙{ep-legal:countries:WO::PCT:2003:1::internet:54:en:docx:treaty:CV:#54~54},∙{ep-legal:countries:WO::PCT:2003:1::internet:55_4:en:docx:treaty:CV:55#55_4~55(4)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:55_8:en:docx:treaty:CV:55#55_8~(8)},∙{ep-legal:countries:WO::PCT:2003:1::internet:56:en:docx:treaty:CV:#56~56}",
+  "name": "M78636",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "60_4",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦53(5),∙Article∙53(9)∙and∙Article∙53(11),∙Article∙54,∙Article∙55(4)∙to∙Article∙55(8),∙Article∙56",
+  "unit": "{Articles◦53(5)},∙{Article∙53(9)}∙and∙{Article∙53(11)},∙{Article∙54},∙{Article∙55(4)}∙to∙{Article∙55(8)},∙{Article∙56}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles◦53(5)},∙{ep-legal:countries:WO::PCT:2003:1::internet:53_9:en:docx:treaty:CV:53#53_9~Article∙53(9)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:53_11:en:docx:treaty:CV:53#53_11~Article∙53(11)},∙{ep-legal:countries:WO::PCT:2003:1::internet:54:en:docx:treaty:CV:#54~Article∙54},∙{ep-legal:countries:WO::PCT:2003:1::internet:55_4:en:docx:treaty:CV:55#55_4~Article∙55(4)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:55_8:en:docx:treaty:CV:55#55_8~Article∙55(8)},∙{ep-legal:countries:WO::PCT:2003:1::internet:56:en:docx:treaty:CV:#56~Article∙56}",
+  "name": "M78638",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "61_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Articles◦53(5),∙(9)∙and∙(11),∙54,∙55(4)∙to∙(8),∙56",
+  "unit": "{Articles◦53(5)},∙{(9)}∙and∙{(11)},∙{54},∙{55(4)}∙to∙{(8)},∙{56}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles◦53(5)},∙{ep-legal:countries:WO::PCT:2003:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:2003:1::internet:53_11:en:docx:treaty:CV:53#53_11~(11)},∙{ep-legal:countries:WO::PCT:2003:1::internet:54:en:docx:treaty:CV:#54~54},∙{ep-legal:countries:WO::PCT:2003:1::internet:55_4:en:docx:treaty:CV:55#55_4~55(4)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:55_8:en:docx:treaty:CV:55#55_8~(8)},∙{ep-legal:countries:WO::PCT:2003:1::internet:56:en:docx:treaty:CV:#56~56}",
+  "name": "M78640",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "61_1",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Article◦64(1)∙to∙Article◦64(5)",
+  "unit": "{Article◦64(1)}∙to∙{Article◦64(5)}",
+  "value": "{ep-legal:countries:WO::PCT:2003:1::internet:64_1:en:docx:treaty:CVIII:64#64_1~Article◦64(1)}∙to∙{ep-legal:countries:WO::PCT:2003:1::internet:64_5:en:docx:treaty:CVIII:64#64_5~Article◦64(5)}",
+  "name": "M78642",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2003/1/internet/en/treaty.eplegal.zip",
+  "referringId": "69_iv",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph∙(1)∙items∙(i)∙to∙paragraph∙(1)(iii)",
+  "unit": "{paragraph∙(1)∙items∙(i)}∙to∙{paragraph∙(1)(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:11_1_i:en:docx:treaty:CI:11#11_1_i~paragraph∙(1)∙items∙(i)}∙to∙{ep-legal:countries:WO::PCT:2009:1::internet:11_1_iii:en:docx:treaty:CI:11#11_1_iii~paragraph∙(1)(iii)}",
+  "name": "M78788",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "11_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "items∙(i)∙to∙(iii)",
+  "unit": "{items∙(i)}∙to∙{(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:11_1_i:en:docx:treaty:CI:11#11_1_i~items∙(i)}∙to∙{ep-legal:countries:WO::PCT:2009:1::internet:11_1_iii:en:docx:treaty:CI:11#11_1_iii~(iii)}",
+  "name": "M78790",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "11_3",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article∙11(1)∙items∙(i)∙to∙Article∙11(1)∙items∙(iii)",
+  "unit": "{Article∙11(1)∙items∙(i)}∙to∙{Article∙11(1)∙items∙(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:11_1_i:en:docx:treaty:CI:11#11_1_i~Article∙11(1)∙items∙(i)}∙to∙{ep-legal:countries:WO::PCT:2009:1::internet:11_1_iii:en:docx:treaty:CI:11#11_1_iii~Article∙11(1)∙items∙(iii)}",
+  "name": "M78792",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "14_4",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙12(3),∙Articles∙14(1)(b),∙Articles∙14(3)(a)",
+  "unit": "{Articles∙12(3)},∙{Articles∙14(1)(b)},∙{Articles∙14(3)(a)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:12_3:en:docx:treaty:CI:12#12_3~Articles∙12(3)},∙{ep-legal:countries:WO::PCT:2009:1::internet:14_1_b:en:docx:treaty:CI:14#14_1_b~Articles∙14(1)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:14_3_a:en:docx:treaty:CI:14#14_3_a~Articles∙14(3)(a)}",
+  "name": "M78794",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "24_1_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙12(3),∙14(1)(b),∙14(3)(a)",
+  "unit": "{Articles∙12(3)},∙{14(1)(b)},∙{14(3)(a)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:12_3:en:docx:treaty:CI:12#12_3~Articles∙12(3)},∙{ep-legal:countries:WO::PCT:2009:1::internet:14_1_b:en:docx:treaty:CI:14#14_1_b~14(1)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:14_3_a:en:docx:treaty:CI:14#14_3_a~14(3)(a)}",
+  "name": "M78796",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "24_1_ii",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙29(2)(i)∙and∙Articles∙29(2)(iii)",
+  "unit": "{Articles∙29(2)(i)}∙and∙{Articles∙29(2)(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:29_2_i:en:docx:treaty:CI:29#29_2_i~Articles∙29(2)(i)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:29_2_iii:en:docx:treaty:CI:29#29_2_iii~Articles∙29(2)(iii)}",
+  "name": "M78798",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "29_2_iv",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "(i)∙and∙(iii)",
+  "unit": "{(i)}∙and∙{(iii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:29_2_i:en:docx:treaty:CI:29#29_2_i~(i)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:29_2_iii:en:docx:treaty:CI:29#29_2_iii~(iii)}",
+  "name": "M78800",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "29_2_iv",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph∙(1)∙and∙Articles∙36(1)∙and∙(3)∙and∙Articles∙37(3)(b)",
+  "unit": "{paragraph∙(1)}∙and∙{Articles∙36(1)}∙and∙{(3)}∙and∙{Articles∙37(3)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph∙(1)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles∙36(1)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:36_3:en:docx:treaty:CII:36#36_3~(3)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:37_3_b:en:docx:treaty:CII:37#37_3_b~Articles∙37(3)(b)}",
+  "name": "M78802",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "paragraph∙(1)∙and∙Articles∙36(1)∙and∙(3)∙and∙37(3)(b)",
+  "unit": "{paragraph∙(1)}∙and∙{Articles∙36(1)}∙and∙{(3)}∙and∙{37(3)(b)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:38_1:en:docx:treaty:CII:38#38_1~paragraph∙(1)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:36_1:en:docx:treaty:CII:36#36_1~Articles∙36(1)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:36_3:en:docx:treaty:CII:36#36_3~(3)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:37_3_b:en:docx:treaty:CII:37#37_3_b~37(3)(b)}",
+  "name": "M78804",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "38_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙47(2)(b),∙Articles∙58(2)(b),∙Articles∙58(3)",
+  "unit": "{Articles∙47(2)(b)},∙{Articles∙58(2)(b)},∙{Articles∙58(3)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:47_2_b:en:docx:treaty:CIII:47#47_2_b~Articles∙47(2)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:58_2_b:en:docx:treaty:CV:58#58_2_b~Articles∙58(2)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:58_3:en:docx:treaty:CV:58#58_3~Articles∙58(3)}",
+  "name": "M78810",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_6_a",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙47(2)(b),∙58(2)(b),∙58(3)",
+  "unit": "{Articles∙47(2)(b)},∙{58(2)(b)},∙{58(3)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:47_2_b:en:docx:treaty:CIII:47#47_2_b~Articles∙47(2)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:58_2_b:en:docx:treaty:CV:58#58_2_b~58(2)(b)},∙{ep-legal:countries:WO::PCT:2009:1::internet:58_3:en:docx:treaty:CV:58#58_3~58(3)}",
+  "name": "M78812",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "53_6_a",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article∙58(3)∙subparagraph∙(a)(i)∙or∙Article∙58(3)∙subparagraph∙(a)(ii)",
+  "unit": "{Article∙58(3)∙subparagraph∙(a)(i)}∙or∙{Article∙58(3)∙subparagraph∙(a)(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:58_3_a_i:en:docx:treaty:CV:58#58_3_a_i~Article∙58(3)∙subparagraph∙(a)(i)}∙or∙{ep-legal:countries:WO::PCT:2009:1::internet:58_3_a_ii:en:docx:treaty:CV:58#58_3_a_ii~Article∙58(3)∙subparagraph∙(a)(ii)}",
+  "name": "M78814",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "58_3_b",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "subparagraph∙(a)(i)∙or∙(a)(ii)",
+  "unit": "{subparagraph∙(a)(i)}∙or∙{(a)(ii)}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:58_3_a_i:en:docx:treaty:CV:58#58_3_a_i~subparagraph∙(a)(i)}∙or∙{ep-legal:countries:WO::PCT:2009:1::internet:58_3_a_ii:en:docx:treaty:CV:58#58_3_a_ii~(a)(ii)}",
+  "name": "M78816",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "58_3_b",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙53(5),∙Articles∙53(9)∙and∙Articles∙53(11),∙Articles∙54,∙Articles∙55(4)∙to∙(8),∙Articles∙56",
+  "unit": "{Articles∙53(5)},∙{Articles∙53(9)}∙and∙{Articles∙53(11)},∙{Articles∙54},∙{Articles∙55(4)}∙to∙{(8)},∙{Articles∙56}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles∙53(5)},∙{ep-legal:countries:WO::PCT:2009:1::internet:53_9:en:docx:treaty:CV:53#53_9~Articles∙53(9)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:53_11:en:docx:treaty:CV:53#53_11~Articles∙53(11)},∙{ep-legal:countries:WO::PCT:2009:1::internet:54:en:docx:treaty:CV:#54~Articles∙54},∙{ep-legal:countries:WO::PCT:2009:1::internet:55_4:en:docx:treaty:CV:55#55_4~Articles∙55(4)}∙to∙{ep-legal:countries:WO::PCT:2009:1::internet:55_8:en:docx:treaty:CV:55#55_8~(8)},∙{ep-legal:countries:WO::PCT:2009:1::internet:56:en:docx:treaty:CV:#56~Articles∙56}",
+  "name": "M78818",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "60_4",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙53(5),∙(9)∙and∙(11),∙54,∙55(4)∙to∙(8),∙56",
+  "unit": "{Articles∙53(5)},∙{(9)}∙and∙{(11)},∙{54},∙{55(4)}∙to∙{(8)},∙{56}",
+  "value": "{ep-legal:countries:WO::PCT:2009:1::internet:53_5:en:docx:treaty:CV:53#53_5~Articles∙53(5)},∙{ep-legal:countries:WO::PCT:2009:1::internet:53_9:en:docx:treaty:CV:53#53_9~(9)}∙and∙{ep-legal:countries:WO::PCT:2009:1::internet:53_11:en:docx:treaty:CV:53#53_11~(11)},∙{ep-legal:countries:WO::PCT:2009:1::internet:54:en:docx:treaty:CV:#54~54},∙{ep-legal:countries:WO::PCT:2009:1::internet:55_4:en:docx:treaty:CV:55#55_4~55(4)}∙to∙{ep-legal:countries:WO::PCT:2009:1::internet:55_8:en:docx:treaty:CV:55#55_8~(8)},∙{ep-legal:countries:WO::PCT:2009:1::internet:56:en:docx:treaty:CV:#56~56}",
+  "name": "M78820",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2009/1/internet/en/treaty.eplegal.zip",
+  "referringId": "60_4",
+  "relativeParagraph": 0
+ }
+]

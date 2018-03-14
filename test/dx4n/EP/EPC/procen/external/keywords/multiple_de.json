@@ -1,0 +1,56 @@
+[
+ {
+  "text": "ZentProt◦I◦(3),∙ZentProt◦V",
+  "unit": "{ZentProt◦I◦(3)},∙{ZentProt◦V}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_3:de:xml~ZentProt◦I◦(3)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV:de:xml~ZentProt◦V}",
+  "name": "M25111",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_D",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "ZentProt◦I◦(1)◦(c),∙ZentProt◦I◦(3),∙ZentProt◦V◦(1)",
+  "unit": "{ZentProt◦I◦(1)◦(c)},∙{ZentProt◦I◦(3)},∙{ZentProt◦V◦(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_1_c:de:xml~ZentProt◦I◦(1)◦(c)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI_3:de:xml~ZentProt◦I◦(3)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV_1:de:xml~ZentProt◦V◦(1)}",
+  "name": "M25163",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 302
+ },
+ {
+  "text": "ZentProt◦III,∙ZentProt◦IV◦(1)◦(e)",
+  "unit": "{ZentProt◦III},∙{ZentProt◦IV◦(1)◦(e)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:de:xml~ZentProt◦III},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV_1_e:de:xml~ZentProt◦IV◦(1)◦(e)}",
+  "name": "M25183",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_I",
+  "relativeParagraph": 25
+ },
+ {
+  "text": "ZentProt◦I-IV",
+  "unit": "{ZentProt◦I}-{IV}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI:de:xml~ZentProt◦I}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIV:de:xml~IV}",
+  "name": "M25259",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_V",
+  "relativeParagraph": 56
+ },
+ {
+  "text": "ZentProt◦II,∙ZentProt◦III",
+  "unit": "{ZentProt◦II},∙{ZentProt◦III}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CII:de:xml~ZentProt◦II},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CIII:de:xml~ZentProt◦III}",
+  "name": "M25287",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_Z",
+  "relativeParagraph": 26
+ },
+ {
+  "text": "ZentProt◦I,∙ZentProt◦V◦(1)",
+  "unit": "{ZentProt◦I},∙{ZentProt◦V◦(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI:de:xml~ZentProt◦I},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CV_1:de:xml~ZentProt◦V◦(1)}",
+  "name": "M25297",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_Z",
+  "relativeParagraph": 61
+ }
+]

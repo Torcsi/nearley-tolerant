@@ -1,0 +1,26 @@
+[
+ {
+  "text": "B.◦Patentability",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 17,
+  "name": "S01803",
+  "unit": "{B.◦Patentability}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_B:en:xml#GA_B~B.◦Patentability}"
+ },
+ {
+  "text": "Prior∙rights",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 21,
+  "name": "S01805",
+  "unit": "{Prior∙rights}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_B_II_2:en:xml#GA_B_II_2~Prior∙rights}"
+ },
+ {
+  "text": "Prohibited∙matter",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 47,
+  "name": "S01827",
+  "unit": "{Prohibited∙matter}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_II_12:en:xml#GA_C_II_12~Prohibited∙matter}"
+ }
+]

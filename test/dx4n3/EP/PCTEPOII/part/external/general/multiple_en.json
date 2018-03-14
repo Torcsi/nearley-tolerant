@@ -1,0 +1,47 @@
+[
+ {
+  "text": "II/PCT-EPO∙IB-XI,∙4.2∙and∙4.3",
+  "unit": "{II/PCT-EPO∙IB-XI,∙4.2}∙and∙{4.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_4_2:en:docx:part-ib::IPB#IPB_XI_4_2~II/PCT-EPO∙IB-XI,∙4.2}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_4_3:en:docx:part-ib::IPB#IPB_XI_4_3~4.3}",
+  "name": "M78262",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/en/part-ib.eplegal.zip",
+  "referringId": "IPB_XI_1_1",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "II/PCT-EPO∙IC-VIII,∙2.2-2.3",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙2.2}-{2.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_2:en:docx:part-ic::IPC#IPC_VIII_2_2~II/PCT-EPO∙IC-VIII,∙2.2}-{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_3:en:docx:part-ic::IPC#IPC_VIII_2_3~2.3}",
+  "name": "M78274",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/en/part-ic.eplegal.zip",
+  "referringId": "IPC_III_4",
+  "relativeParagraph": 11
+ },
+ {
+  "text": "II/PCT-EPO∙IC-VIII,∙2.3∙and∙2.5",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{2.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_3:en:docx:part-ic::IPC#IPC_VIII_2_3~II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPC_VIII_2_5:en:docx:part-ic::IPC#IPC_VIII_2_5~2.5}",
+  "name": "M78280",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/en/part-ic.eplegal.zip",
+  "referringId": "IPC_IV_2_6",
+  "relativeParagraph": 3
+ },
+ {
+  "text": "II/PCT-EPO∙IB-VIII,∙2.1∙and∙II/PCT-EPO∙IB-XI,∙6.2",
+  "unit": "{II/PCT-EPO∙IB-VIII,∙2.1}∙and∙{II/PCT-EPO∙IB-XI,∙6.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_VIII_2_1:en:docx:part-ib::IPB#IPB_VIII_2_1~II/PCT-EPO∙IB-VIII,∙2.1}∙and∙{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPB_XI_6_2:en:docx:part-ib::IPB#IPB_XI_6_2~II/PCT-EPO∙IB-XI,∙6.2}",
+  "name": "M78282",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/en/part-ic.eplegal.zip",
+  "referringId": "IPC_VIII_2",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "II/PCT-EPO∙IC-VIII,∙2.3∙and∙II/PCT-EPO∙IC-VIII,∙2.5",
+  "unit": "{II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{II/PCT-EPO∙IC-VIII,∙2.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_3:en:docx:part-ic::IPC#IPC_VIII_2_3~II/PCT-EPO∙IC-VIII,∙2.3}∙and∙{ep-legal:countries:EP::PCTEPOII:2016:1::internet:IPC_VIII_2_5:en:docx:part-ic::IPC#IPC_VIII_2_5~II/PCT-EPO∙IC-VIII,∙2.5}",
+  "name": "M78300",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/en/part-ic.eplegal.zip",
+  "referringId": "IPC_IV_2_6",
+  "relativeParagraph": 3
+ }
+]

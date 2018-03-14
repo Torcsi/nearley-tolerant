@@ -1,0 +1,143 @@
+[
+ {
+  "text": "∙VIII,◦3.5",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CXI_6",
+  "relativeParagraph": 1,
+  "name": "S01463",
+  "unit": "{∙VIII,◦3.5}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVIII_3_5:en:xml#PGB_CVIII_3_5~∙VIII,◦3.5}"
+ },
+ {
+  "text": "B-XI,◦6",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "PCTEPOGL:PGB_CXII_5",
+  "relativeParagraph": 2,
+  "name": "S01464",
+  "unit": "{B-XI,◦6}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CXI_6:en:xml#PGB_CXI_6~B-XI,◦6}"
+ },
+ {
+  "text": "III",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "referringId": "PCTEPOGL:PGC_CIII_3",
+  "relativeParagraph": 3,
+  "name": "S01467",
+  "unit": "{III}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGH_CIII:en:xml#PGH_CIII~III}"
+ },
+ {
+  "text": "IV,◦2.2",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "referringId": "PCTEPOGL:PGC_CIV_5_3",
+  "relativeParagraph": 1,
+  "name": "S01469",
+  "unit": "{IV,◦2.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGC_CIV_2_2:en:xml#PGC_CIV_2_2~IV,◦2.2}"
+ },
+ {
+  "text": "◦5.4",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF_CIV_3_1",
+  "relativeParagraph": 2,
+  "name": "S01505",
+  "unit": "{◦5.4}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGG_CII_5_4:en:xml#PGG_CII_5_4~◦5.4}"
+ },
+ {
+  "text": "F-IV,◦6.4",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF_CIV_4_11",
+  "relativeParagraph": 4,
+  "name": "S01506",
+  "unit": "{F-IV,◦6.4}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIV_6_4:en:xml#PGF_CIV_6_4~F-IV,◦6.4}"
+ },
+ {
+  "text": "◦3",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "PCTEPOGL:PGF_CIV_6_4",
+  "relativeParagraph": 1,
+  "name": "S01507",
+  "unit": "{◦3}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF_CIII_3:en:xml#PGF_CIII_3~◦3}"
+ },
+ {
+  "text": "H-I",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/H.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01511",
+  "unit": "{H-I}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CI:en:xml#PGH_CI~H-I}"
+ },
+ {
+  "text": "B-III,∙2.3.1",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 2,
+  "name": "S01517",
+  "unit": "{B-III,∙2.3.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGB_CIII_2_3_1:en:xml#PGB_CIII_2_3_1~B-III,∙2.3.1}"
+ },
+ {
+  "text": "B-IV,∙1.2",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 6,
+  "name": "S01518",
+  "unit": "{B-IV,∙1.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGB_CIV_1_2:en:xml#PGB_CIV_1_2~B-IV,∙1.2}"
+ },
+ {
+  "text": "B-VI,∙2",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 12,
+  "name": "S01519",
+  "unit": "{B-VI,∙2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGB_CVI_2:en:xml#PGB_CVI_2~B-VI,∙2}"
+ },
+ {
+  "text": "Introduction",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 84,
+  "name": "S01520",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGM:en:xml#PGM~Introduction}"
+ },
+ {
+  "text": "B-III,◦2.2.1",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 101,
+  "name": "S01523",
+  "unit": "{B-III,◦2.2.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGB_CIII_2_2_1:en:xml#PGB_CIII_2_2_1~B-III,◦2.2.1}"
+ },
+ {
+  "text": "H-II,◦2.2.2.1",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/M.eplegal.zip",
+  "referringId": "PCTEPOGL:PGM",
+  "relativeParagraph": 109,
+  "name": "S01524",
+  "unit": "{H-II,◦2.2.2.1}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CII_2_2_2_1:en:xml#PGH_CII_2_2_2_1~H-II,◦2.2.2.1}"
+ },
+ {
+  "text": "H-II,∙2.2.2.2",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S01529",
+  "unit": "{H-II,∙2.2.2.2}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGH_CII_2_2_2_2:en:xml#PGH_CII_2_2_2_2~H-II,∙2.2.2.2}"
+ },
+ {
+  "text": "3.6",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S01532",
+  "unit": "{3.6}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2017:1:1.0:electronicproofer:PGB_CVIII_3_6:en:xml#PGB_CVIII_3_6~3.6}"
+ }
+]

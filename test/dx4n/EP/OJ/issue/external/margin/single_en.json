@@ -1,0 +1,183 @@
+[
+ {
+  "text": "OJ◦1994,◦75",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_26",
+  "relativeParagraph": 1,
+  "name": "S02694",
+  "unit": "{OJ◦1994,◦75}",
+  "value": "{ep-legal:countries:EP::OJ:1994:01-02:1.0:electronicproofer:1994_75:en:pdf~OJ◦1994,◦75}"
+ },
+ {
+  "text": "OJ∙1996,◦82",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_26",
+  "relativeParagraph": 1,
+  "name": "S02695",
+  "unit": "{OJ∙1996,◦82}",
+  "value": "{ep-legal:countries:EP::OJ:1996:01-02:1.0:electronicproofer:1996_82:en:pdf~OJ∙1996,◦82}"
+ },
+ {
+  "text": "OJ∙2004,∙619",
+  "file": "/EP/organization/guiapp1/2009/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_26",
+  "relativeParagraph": 1,
+  "name": "S02696",
+  "unit": "{OJ∙2004,∙619}",
+  "value": "{ep-legal:countries:EP::OJ:2004:12:1.0:electronicproofer:2004_619:en:pdf~OJ∙2004,∙619}"
+ },
+ {
+  "bad":true,
+ "text": "OJ∙2010,∙∙10",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S02724",
+  "unit": "{OJ∙2010,∙∙10}",
+  "value": "{ep-legal:countries:EP::OJ:2010:01:issue:electronicproofer:2010_10:en:doc#2010_10~OJ∙2010,∙∙10}"
+ },
+ {
+  "bad":true,
+ "text": "OJ∙2009,182",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02726",
+  "unit": "{OJ∙2009,182}",
+  "value": "{ep-legal:countries:EP::OJ:2009:03:issue:electronicproofer:2009_182:en:doc#2009_182~OJ∙2009,182}"
+ },
+ {
+  "bad":true,
+ "text": "10",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S02728",
+  "unit": "{10}",
+  "value": "{ep-legal:countries:EP::OJ:2010:01:issue:electronicproofer:2010_10:en:xml#2010_10~10}"
+ },
+ {
+  "text": "OJ∙2014,∙A98",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02730",
+  "unit": "{OJ∙2014,∙A98}",
+  "value": "{ep-legal:countries:EP::OJ:2014:10:issue:electronicproofer:OJ_2014_A98:en:xml#OJ_2014_A98~OJ∙2014,∙A98}"
+ },
+ {
+  "text": "Supplementary∙publication∙1,∙OJ◦2015",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02732",
+  "unit": "{Supplementary∙publication∙1,∙OJ◦2015}",
+  "value": "{ep-legal:countries:EP::OJ:2015:se1:issue:electronicproofer:OJ_2015_se1_toc:en:xml#OJ_2015_se1_toc~Supplementary∙publication∙1,∙OJ◦2015}"
+ },
+ {
+  "text": "Supplementary∙publication∙4,∙OJ∙2014",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_AVII_4",
+  "relativeParagraph": 2,
+  "name": "S02734",
+  "unit": "{Supplementary∙publication∙4,∙OJ∙2014}",
+  "value": "{ep-legal:countries:EP::OJ:2014:se4:issue:electronicproofer:OJ_2014_se4_toc:en:xml#OJ_2014_se4_toc~Supplementary∙publication∙4,∙OJ∙2014}"
+ },
+ {
+  "text": "OJ∙EPO∙2015,∙A82",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02740",
+  "unit": "{OJ∙EPO∙2015,∙A82}",
+  "value": "{ep-legal:countries:EP::OJ:2015:10:issue:electronicproofer:OJ_2015_A82:en:xml#OJ_2015_A82~OJ∙EPO∙2015,∙A82}"
+ },
+ {
+  "bad":true,
+ "text": "1996,∙82",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_551",
+  "relativeParagraph": 2,
+  "name": "S02785",
+  "unit": "{1996,∙82}",
+  "value": "{ep-legal:countries:EP::OJ:1996:01-02:issue:electronicproofer:1996_82:en:pdf#1996_82~1996,∙82}"
+ },
+ {
+  "text": "OJ∙2014,∙Suppl.∙4",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02804",
+  "unit": "{OJ∙2014,∙Suppl.∙4}",
+  "value": "{ep-legal:countries:EP::OJ:2014:se4:issue:electronicproofer:OJ_2014_se4_toc:en:xml#OJ_2014_se4_toc~OJ∙2014,∙Suppl.∙4}"
+ },
+ {
+  "text": "OJ∙2015,∙Suppl.∙Publ.∙3",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02822",
+  "unit": "{OJ∙2015,∙Suppl.∙Publ.∙3}",
+  "value": "{ep-legal:countries:EP::OJ:2015:se3:issue:electronicproofer:OJ_2015_se3_toc:en:pdf#OJ_2015_se3_toc~OJ∙2015,∙Suppl.∙Publ.∙3}"
+ },
+ {
+  "text": "OJ◦EPO◦2007,◦533",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA_CII_3",
+  "relativeParagraph": 3,
+  "name": "S02890",
+  "unit": "{OJ◦EPO◦2007,◦533}",
+  "value": "{ep-legal:countries:EP::OJ:2007:11:issue:electronicproofer:2007_533:en:xml#2007_533~OJ◦EPO◦2007,◦533}"
+ },
+ {
+  "text": "Supplementary∙publication∙3,∙OJ◦EPO◦2015,∙17",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA_CII_3_2",
+  "relativeParagraph": 4,
+  "name": "S02891",
+  "unit": "{Supplementary∙publication∙3,∙OJ◦EPO◦2015,∙17}",
+  "value": "{ep-legal:countries:EP::OJ:2015:se3:issue:electronicproofer:OJ_2015_se3_17:en:xml#OJ_2015_se3_17~Supplementary∙publication∙3,∙OJ◦EPO◦2015,∙17}"
+ },
+ {
+  "text": "OJ∙EPO∙2008,∙521",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA_CII_4_2",
+  "relativeParagraph": 2,
+  "name": "S02892",
+  "unit": "{OJ∙EPO∙2008,∙521}",
+  "value": "{ep-legal:countries:EP::OJ:2008:11:issue:electronicproofer:2008_521:en:xml#2008_521~OJ∙EPO∙2008,∙521}"
+ },
+ {
+  "text": "OJ◦EPO◦2015,◦A59",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 3,
+  "name": "S02926",
+  "unit": "{OJ◦EPO◦2015,◦A59}",
+  "value": "{ep-legal:countries:EP::OJ:2015:06:issue:electronicproofer:OJ_2015_A59:en:xml#OJ_2015_A59~OJ◦EPO◦2015,◦A59}"
+ },
+ {
+  "text": "OJ∙EPO∙2015,◦A93",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S02928",
+  "unit": "{OJ∙EPO∙2015,◦A93}",
+  "value": "{ep-legal:countries:EP::OJ:2015:11:issue:electronicproofer:OJ_2015_A93:en:xml#OJ_2015_A93~OJ∙EPO∙2015,◦A93}"
+ },
+ {
+  "text": "OJ◦EPO∙2008,∙521",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA_CII_8_2",
+  "relativeParagraph": 2,
+  "name": "S02937",
+  "unit": "{OJ◦EPO∙2008,∙521}",
+  "value": "{ep-legal:countries:EP::OJ:2008:11:issue:electronicproofer:2008_521:en:xml#2008_521~OJ◦EPO∙2008,∙521}"
+ },
+ {
+  "text": "OJ◦EPO∙2014,∙A30",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S02940",
+  "unit": "{OJ◦EPO∙2014,∙A30}",
+  "value": "{ep-legal:countries:EP::OJ:2014:03:issue:electronicproofer:OJ_2014_A30:en:xml#OJ_2014_A30~OJ◦EPO∙2014,∙A30}"
+ },
+ {
+  "text": "OJ◦EPO◦2017,∙A21",
+  "file": "/EP/organization/PCTEPOGL/2017/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S02941",
+  "unit": "{OJ◦EPO◦2017,∙A21}",
+  "value": "{ep-legal:countries:EP::OJ:2017:03:issue:electronicproofer:OJ_2017_A21:en:xml#OJ_2017_A21~OJ◦EPO◦2017,∙A21}"
+ }
+]

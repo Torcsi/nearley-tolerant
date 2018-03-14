@@ -1,0 +1,47 @@
+[
+ {
+  "text": "General∙Part",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2003/1/internet/en/G.eplegal.zip",
+  "referringId": "GLI_2_1",
+  "relativeParagraph": 16,
+  "name": "S59274",
+  "unit": "{General∙Part}",
+  "value": "{ep-legal:countries:EP::guiex:2003:1::internet:GLI:en:docx:G::#GLI~General∙Part}"
+ },
+ {
+  "text": "General∙Part,◦2.2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2013/1/internet/en/K.eplegal.zip",
+  "referringId": "GLK_A",
+  "relativeParagraph": 4,
+  "name": "S59378",
+  "unit": "{General∙Part,◦2.2}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1::internet:GLI_2_2:en:docx:I::GLI#GLI_2_2~General∙Part,◦2.2}"
+ },
+ {
+  "text": "General∙Part,◦6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2013/1/internet/en/K.eplegal.zip",
+  "referringId": "GLK_C",
+  "relativeParagraph": 418,
+  "name": "S59383",
+  "unit": "{General∙Part,◦6}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1::internet:GLI_6:en:docx:I::GLI#GLI_6~General∙Part,◦6}"
+ },
+ {
+  "text": "General∙Part,∙2.2",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/en/K.eplegal.zip",
+  "referringId": "GLK_A",
+  "relativeParagraph": 6,
+  "name": "S59401",
+  "unit": "{General∙Part,∙2.2}",
+  "value": "{ep-legal:countries:EP::guiex:2014:1::internet:GLI_2_2:en:docx:I::GLI#GLI_2_2~General∙Part,∙2.2}"
+ },
+ {
+  "text": "General∙Part,∙6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/en/K.eplegal.zip",
+  "referringId": "GLK_C",
+  "relativeParagraph": 424,
+  "name": "S59405",
+  "unit": "{General∙Part,∙6}",
+  "value": "{ep-legal:countries:EP::guiex:2014:1::internet:GLI_6:en:docx:I::GLI#GLI_6~General∙Part,∙6}"
+ }
+]

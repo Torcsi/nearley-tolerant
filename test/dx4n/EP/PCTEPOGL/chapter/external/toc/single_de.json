@@ -1,0 +1,155 @@
+[
+ {
+  "text": "Kapitel∙I∙–∙Einleitung",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 3,
+  "name": "S15397",
+  "unit": "{Kapitel∙I∙–∙Einleitung}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CI:de:xml#PGA_CI~Kapitel∙I∙–∙Einleitung}"
+ },
+ {
+  "text": "1.→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 5,
+  "name": "S15398",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CII_1:de:xml#PGA_CII_1~1.→xxx}"
+ },
+ {
+  "text": "3.1→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/A.eplegal.zip",
+  "referringId": "PCTEPOGL:PGA",
+  "relativeParagraph": 8,
+  "name": "S15399",
+  "unit": "{3.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA_CII_3_1:de:xml#PGA_CII_3_1~3.1→xxx}"
+ },
+ {
+  "text": "Einleitung",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/E.eplegal.zip",
+  "referringId": "PCTEPOGL:PGE",
+  "relativeParagraph": 3,
+  "name": "S15401",
+  "unit": "{Einleitung}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGE_I:de:xml#PGE_I~Einleitung}"
+ },
+ {
+  "text": "Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 8,
+  "name": "S15405",
+  "unit": "{Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGA:de:xml#PGA~Teil∙A∙–∙Richtlinien∙für∙die∙Formalprüfung}"
+ },
+ {
+  "text": "Kapitel∙I→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 12,
+  "name": "S15406",
+  "unit": "{Kapitel∙I→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CI:de:xml#PGB_CI~Kapitel∙I→xxx}"
+ },
+ {
+  "text": "Kapitel∙II→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 13,
+  "name": "S15407",
+  "unit": "{Kapitel∙II→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CII:de:xml#PGB_CII~Kapitel∙II→xxx}"
+ },
+ {
+  "text": "Kapitel∙III→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 14,
+  "name": "S15408",
+  "unit": "{Kapitel∙III→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIII:de:xml#PGB_CIII~Kapitel∙III→xxx}"
+ },
+ {
+  "text": "Kapitel∙IV→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 15,
+  "name": "S15409",
+  "unit": "{Kapitel∙IV→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIV:de:xml#PGB_CIV~Kapitel∙IV→xxx}"
+ },
+ {
+  "text": "Kapitel∙V→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 16,
+  "name": "S15410",
+  "unit": "{Kapitel∙V→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CV:de:xml#PGB_CV~Kapitel∙V→xxx}"
+ },
+ {
+  "text": "Kapitel∙VI→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 17,
+  "name": "S15411",
+  "unit": "{Kapitel∙VI→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVI:de:xml#PGB_CVI~Kapitel∙VI→xxx}"
+ },
+ {
+  "text": "Kapitel∙VII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 18,
+  "name": "S15412",
+  "unit": "{Kapitel∙VII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVII:de:xml#PGB_CVII~Kapitel∙VII→xxx}"
+ },
+ {
+  "text": "Kapitel∙VIII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 19,
+  "name": "S15413",
+  "unit": "{Kapitel∙VIII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CVIII:de:xml#PGB_CVIII~Kapitel∙VIII→xxx}"
+ },
+ {
+  "text": "Kapitel∙IX→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 20,
+  "name": "S15414",
+  "unit": "{Kapitel∙IX→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CIX:de:xml#PGB_CIX~Kapitel∙IX→xxx}"
+ },
+ {
+  "text": "Kapitel∙X→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 21,
+  "name": "S15415",
+  "unit": "{Kapitel∙X→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CX:de:xml#PGB_CX~Kapitel∙X→xxx}"
+ },
+ {
+  "text": "Kapitel∙XI→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 22,
+  "name": "S15416",
+  "unit": "{Kapitel∙XI→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CXI:de:xml#PGB_CXI~Kapitel∙XI→xxx}"
+ },
+ {
+  "text": "Kapitel∙XII→xxx",
+  "file": "/EP/organization/PCTEPOGL/2015/1/1.0/electronicproofer/de/I.eplegal.zip",
+  "referringId": "PCTEPOGL:PGI_INDEX",
+  "relativeParagraph": 23,
+  "name": "S15417",
+  "unit": "{Kapitel∙XII→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2015:1:1.0:electronicproofer:PGB_CXII:de:xml#PGB_CXII~Kapitel∙XII→xxx}"
+ }
+]

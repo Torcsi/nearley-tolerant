@@ -1,0 +1,44 @@
+[
+ {
+  "text": "Vorwort∙zur∙fünften∙Auflage",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/de/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 1,
+  "name": "S14816",
+  "unit": "{Vorwort∙zur∙fünften∙Auflage}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_FOREWORD:de:xml~Vorwort∙zur∙fünften∙Auflage}"
+ },
+ {
+  "text": "VORWORT∙ZUR∙SECHSTEN∙AUFLAGE",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S14828",
+  "unit": "{VORWORT∙ZUR∙SECHSTEN∙AUFLAGE}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:de:xml~VORWORT∙ZUR∙SECHSTEN∙AUFLAGE}"
+ },
+ {
+  "text": "Vorwort∙zur∙sechsten∙Auflage",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/de/toc.eplegal.zip",
+  "referringId": "caselawreport:CLR_TOC",
+  "relativeParagraph": 1,
+  "name": "S14832",
+  "unit": "{Vorwort∙zur∙sechsten∙Auflage}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:de:xml~Vorwort∙zur∙sechsten∙Auflage}"
+ },
+ {
+  "text": "Vorwort∙zur∙siebenten∙Auflage",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S14840",
+  "unit": "{Vorwort∙zur∙siebenten∙Auflage}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_FOREWORD:de:xml#CLR_FOREWORD~Vorwort∙zur∙siebenten∙Auflage}"
+ },
+ {
+  "text": "Vorwort∙zur∙achten∙Auflage",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S14847",
+  "unit": "{Vorwort∙zur∙achten∙Auflage}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_FOREWORD:de:xml#CLR_FOREWORD~Vorwort∙zur∙achten∙Auflage}"
+ }
+]

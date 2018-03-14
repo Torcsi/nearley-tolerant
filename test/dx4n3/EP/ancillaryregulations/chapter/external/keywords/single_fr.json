@@ -1,0 +1,29 @@
+[
+ {
+  "text": "RRT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/keywordindex.eplegal.zip",
+  "referringId": "ANC_INDEX",
+  "relativeParagraph": 3,
+  "name": "S04501",
+  "unit": "{RRT}",
+  "value": "{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:AP_III:fr:docx:III::OJ_1999_120#AP_III~RRT}"
+ },
+ {
+  "text": "RRT.5(2)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/keywordindex.eplegal.zip",
+  "referringId": "ANC_INDEX_A",
+  "relativeParagraph": 7,
+  "name": "S04504",
+  "unit": "{RRT.5(2)}",
+  "value": "{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:AP_III_FA5_2:fr:docx:III:AP_III:#AP_III_FA5_2~RRT.5(2)}"
+ },
+ {
+  "text": "RRT.10c",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/ancillaryregulations/2001/1/internet/fr/keywordindex.eplegal.zip",
+  "referringId": "ANC_INDEX_M",
+  "relativeParagraph": 11,
+  "name": "S04512",
+  "unit": "{RRT.10c}",
+  "value": "{ep-legal:countries:EP::ancillaryregulations:2001:1::internet:AP_III_FA10c:fr:docx:III:AP_III_FA10b:OJ_1999_42#AP_III_FA10c~RRT.10c}"
+ }
+]

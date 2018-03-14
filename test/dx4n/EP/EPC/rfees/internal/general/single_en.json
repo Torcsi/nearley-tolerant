@@ -1,0 +1,27 @@
+[
+ {
+  "text": "paragraph∙(a)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/rfees.eplegal.zip",
+  "referringId": "EPC:7_3_b",
+  "relativeParagraph": 0,
+  "name": "S00507",
+  "unit": "{paragraph∙(a)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:7_3_a:en:xml~paragraph∙(a)}"
+ },
+ {
+  "text": "Article◦1,∙point∙2",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/rfees.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S00519",
+  "unit": "{Article◦1,∙point∙2}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:1:en:xml#1~Article◦1,∙point∙2}"
+ },
+ {
+  "text": "Article◦1,∙point◦3",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/rfees.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S00520",
+  "unit": "{Article◦1,∙point◦3}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:1:en:xml#1~Article◦1,∙point◦3}"
+ }
+]

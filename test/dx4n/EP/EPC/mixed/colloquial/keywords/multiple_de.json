@@ -1,0 +1,47 @@
+[
+ {
+  "text": "Art◦153,∙R◦159◦(1)◦c)",
+  "unit": "{Art◦153},∙{R◦159◦(1)◦c)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A153:de:xml~Art◦153},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R159_1_c:de:xml~R◦159◦(1)◦c)}",
+  "name": "M25043",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 44
+ },
+ {
+  "text": "A◦(2),∙R◦55",
+  "unit": "{A◦(2)},∙{R◦55}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A90_2:de:xml~A◦(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R55:de:xml~R◦55}",
+  "name": "M25055",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 74
+ },
+ {
+  "text": "A◦52◦(2)◦a),∙R◦27,∙R◦29",
+  "unit": "{A◦52◦(2)◦a)},∙{R◦27},∙{R◦29}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A52_2_a:de:xml~A◦52◦(2)◦a)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R27:de:xml~R◦27},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R29:de:xml~R◦29}",
+  "name": "M25127",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 69
+ },
+ {
+  "text": "A◦22,∙A◦112a,∙R◦143◦(1)◦v)",
+  "unit": "{A◦22},∙{A◦112a},∙{R◦143◦(1)◦v)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A22:de:xml~A◦22},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a:de:xml~A◦112a},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R143_1_v:de:xml~R◦143◦(1)◦v)}",
+  "name": "M25247",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_U",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "A◦135,∙R◦155∙(2),∙R◦156∙(1)",
+  "unit": "{A◦135},∙{R◦155∙(2)},∙{R◦156∙(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A135:de:xml~A◦135},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R155_2:de:xml~R◦155∙(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R156_1:de:xml~R◦156∙(1)}",
+  "name": "M25289",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_Z",
+  "relativeParagraph": 30
+ }
+]

@@ -1,0 +1,64 @@
+[
+ {
+  "text": "R.∙15,∙17,∙36,∙41,∙68,∙112,∙135,∙143,∙159,∙160",
+  "unit": "{R.∙15},∙{17},∙{36},∙{41},∙{68},∙{112},∙{135},∙{143},∙{159},∙{160}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R15:en:xml~R.∙15},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R17:en:xml~17},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R36:en:xml~36},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R41:en:xml~41},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R68:en:xml~68},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R112:en:xml~112},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R135:en:xml~135},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R143:en:xml~143},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R159:en:xml~159},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R160:en:xml~160}",
+  "name": "M11572",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R39",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙45,∙55-60,∙111-113,∙138,∙139,∙142,∙152",
+  "unit": "{R.∙45},∙{55}-{60},∙{111}-{113},∙{138},∙{139},∙{142},∙{152}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R45:en:xml~R.∙45},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R55:en:xml~55}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R60:en:xml~60},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R111:en:xml~111}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R113:en:xml~113},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R138:en:xml~138},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R139:en:xml~139},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R142:en:xml~142},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R152:en:xml~152}",
+  "name": "M11580",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R57",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙65,∙70a,∙137",
+  "unit": "{R.∙65},∙{70a},∙{137}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R65:en:xml~R.∙65},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70a:en:xml~70a},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R137:en:xml~137}",
+  "name": "M11584",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R62",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙61-66,∙69-70b,∙137",
+  "unit": "{R.∙61}-{66},∙{69}-{70b},∙{137}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R61:en:xml~R.∙61}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R66:en:xml~66},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R69:en:xml~69}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70b:en:xml~70b},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R137:en:xml~137}",
+  "name": "M11586",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R65",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "R.∙3,∙6,∙76-86,∙112",
+  "unit": "{R.∙3},∙{6},∙{76}-{86},∙{112}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R3:en:xml~R.∙3},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R6:en:xml~6},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R76:en:xml~76}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R86:en:xml~86},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R112:en:xml~112}",
+  "name": "M11588",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R89",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙57,∙58,∙62,∙65,∙68,∙70,∙71,∙80,∙161",
+  "unit": "{R.∙57},∙{58},∙{62},∙{65},∙{68},∙{70},∙{71},∙{80},∙{161}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R57:en:xml~R.∙57},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R58:en:xml~58},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R62:en:xml~62},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R65:en:xml~65},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R68:en:xml~68},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70:en:xml~70},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71:en:xml~71},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R80:en:xml~80},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R161:en:xml~161}",
+  "name": "M11604",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R137",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "R.∙70,∙71a",
+  "unit": "{R.∙70},∙{71a}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R70:en:xml#R70~R.∙70},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:R71a:en:xml#R71a~71a}",
+  "name": "M11612",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

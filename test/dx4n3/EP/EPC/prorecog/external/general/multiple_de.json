@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Artikel∙4∙und∙5",
+  "unit": "{Artikel∙4}∙und∙{5}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:P4:de:docx:prorecog::#P4~Artikel∙4}∙und∙{ep-legal:countries:EP::EPC:2001:1::internet:P5:de:docx:prorecog::#P5~5}",
+  "name": "M41072",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/de/prorecog.eplegal.zip",
+  "referringId": "P2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Artikeln◦2∙bis◦6",
+  "unit": "{Artikeln◦2}∙bis◦{6}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:P2:de:docx:prorecog::#P2~Artikeln◦2}∙bis◦{ep-legal:countries:EP::EPC:2007:1::internet:P6:de:docx:prorecog::#P6~6}",
+  "name": "M41928",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/de/prorecog.eplegal.zip",
+  "referringId": "P1_1",
+  "relativeParagraph": 0
+ }
+]

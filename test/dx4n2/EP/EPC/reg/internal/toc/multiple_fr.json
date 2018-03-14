@@ -1,0 +1,35 @@
+[
+ {
+  "text": "règle◦6∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen∙et∙l'article◦14(1)∙du∙règlement∙relatif∙aux∙taxes",
+  "unit": "{règle◦6∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}∙et∙{l'article◦14(1)∙du∙règlement∙relatif∙aux∙taxes}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R6:fr:docx:reg:RI_I:#R6~règle◦6∙du∙règlement∙d'exécution∙de∙la∙Convention∙sur∙le∙brevet∙européen}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:14_1:fr:docx:rfees::14#14_1~l'article◦14(1)∙du∙règlement∙relatif∙aux∙taxes}",
+  "name": "M26428",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/01/internet/fr/OJ_2014_i01_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i01_toc",
+  "relativeParagraph": 12,
+  "bad": true
+ },
+ {
+  "text": "règles◦36,∙38∙et∙135∙CBE",
+  "unit": "{règles◦36},∙{38}∙et∙{135∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2014:sls::sls:R36:fr:docx:reg:RIII_I:#R36~règles◦36},∙{ep-legal:countries:EP::EPC:2014:sls::sls:R38:fr:docx:reg:RIII_I:#R38~38}∙et∙{ep-legal:countries:EP::EPC:2014:sls::sls:R135:fr:docx:reg:RVII_V:#R135~135∙CBE}",
+  "name": "M26430",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2014/02/internet/fr/OJ_2014_i02_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2014_i02_toc",
+  "relativeParagraph": 8,
+  "bad": true
+ },
+ {
+  "text": "règles◦51(2)∙et◦162(2)∙CBE",
+  "unit": "{règles◦51(2)}∙et◦{162(2)∙CBE}",
+  "value": "{ep-legal:countries:EP::EPC:2016:3.0::internet:R51_2:fr:docx:reg:RIII_III:R51#R51_2~règles◦51(2)}∙et◦{ep-legal:countries:EP::EPC:2016:3.0::internet:R162_2:fr:docx:reg:RIX:R162#R162_2~162(2)∙CBE}",
+  "name": "M26446",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/12/internet/fr/OJ_2016_i12_toc.eplegal.zip",
+  "style": "EPOTOCP1",
+  "referringId": "OJ_2016_i12_toc",
+  "relativeParagraph": 9,
+  "bad": true
+ }
+]

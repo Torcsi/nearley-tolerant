@@ -1,0 +1,672 @@
+[
+ {
+  "text": "Foreword",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 11,
+  "style": "TOC1",
+  "name": "S61358",
+  "unit": "{Foreword}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1::internet:GA_FOREWORD:en:docx:complete:GA_INDEX:#GA_FOREWORD~Foreword}"
+ },
+ {
+  "text": "A.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 12,
+  "style": "TOC1",
+  "name": "S61359",
+  "unit": "{A.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1::internet:GA_A:en:docx:complete:GA_FOREWORD:#GA_A~A.→xxx}"
+ },
+ {
+  "text": "I.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 13,
+  "style": "TOC2",
+  "name": "S61360",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1::internet:GA_A_I:en:docx:complete:GA_A:GA_1#GA_A_I~I.→xxx}"
+ },
+ {
+  "text": "B.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 18,
+  "style": "TOC1",
+  "name": "S61361",
+  "unit": "{B.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1::internet:GA_B:en:docx:complete:GA_A_V:GA_27#GA_B~B.→xxx}"
+ },
+ {
+  "text": "Annex∙I→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2013/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 38,
+  "style": "TOC1A",
+  "name": "S61362",
+  "unit": "{Annex∙I→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1::internet:GA_AI:en:docx:complete:GA_D_X_2:#GA_AI~Annex∙I→xxx}"
+ },
+ {
+  "text": "A.◦General",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 9,
+  "style": "TOC1",
+  "name": "S61363",
+  "unit": "{A.◦General}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_A:en:docx:complete:GA_FOREWORD:#GA_A~A.◦General}"
+ },
+ {
+  "text": "Legal∙factors",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 14,
+  "style": "TOC3",
+  "name": "S61364",
+  "unit": "{Legal∙factors}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_A_IV_1:en:docx:complete:GA_A_IV:GA_13#GA_A_IV_1~Legal∙factors}"
+ },
+ {
+  "text": "Economic∙factors",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 15,
+  "style": "TOC3",
+  "name": "S61365",
+  "unit": "{Economic∙factors}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_A_IV_2:en:docx:complete:GA_A_IV_1:GA_16#GA_A_IV_2~Economic∙factors}"
+ },
+ {
+  "text": "B.◦Patentability",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 17,
+  "style": "TOC1",
+  "name": "S61366",
+  "unit": "{B.◦Patentability}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_B:en:docx:complete:GA_A_V:GA_27#GA_B~B.◦Patentability}"
+ },
+ {
+  "text": "Basic∙principles",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 20,
+  "style": "TOC3",
+  "name": "S61367",
+  "unit": "{Basic∙principles}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_B_II_1:en:docx:complete:GA_B_II:GA_32#GA_B_II_1~Basic∙principles}"
+ },
+ {
+  "text": "Prior∙rights",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 21,
+  "style": "TOC3",
+  "name": "S61368",
+  "unit": "{Prior∙rights}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_B_II_2:en:docx:complete:GA_B_II_1:GA_34#GA_B_II_2~Prior∙rights}"
+ },
+ {
+  "text": "Entitlement∙to∙file∙European∙patent∙applications",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 25,
+  "style": "TOC3",
+  "name": "S61369",
+  "unit": "{Entitlement∙to∙file∙European∙patent∙applications}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_1:en:docx:complete:GA_C_I:GA_38#GA_C_I_1~Entitlement∙to∙file∙European∙patent∙applications}"
+ },
+ {
+  "text": "States∙for∙which∙European∙patent∙applications∙may∙be∙filed",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 26,
+  "style": "TOC3",
+  "name": "S61370",
+  "unit": "{States∙for∙which∙European∙patent∙applications∙may∙be∙filed}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_2:en:docx:complete:GA_C_I_1:GA_39#GA_C_I_2~States∙for∙which∙European∙patent∙applications∙may∙be∙filed}"
+ },
+ {
+  "text": "Languages∙for∙European∙patent∙applications",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 27,
+  "style": "TOC3",
+  "name": "S61371",
+  "unit": "{Languages∙for∙European∙patent∙applications}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_3:en:docx:complete:GA_C_I_2:GA_42#GA_C_I_3~Languages∙for∙European∙patent∙applications}"
+ },
+ {
+  "text": "Language∙arrangements∙to∙assist∙applicants∙from∙certain∙contracting∙states",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 28,
+  "style": "TOC3",
+  "name": "S61372",
+  "unit": "{Language∙arrangements∙to∙assist∙applicants∙from∙certain∙contracting∙states}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_4:en:docx:complete:GA_C_I_3:GA_44#GA_C_I_4~Language∙arrangements∙to∙assist∙applicants∙from∙certain∙contracting∙states}"
+ },
+ {
+  "text": "Items∙making∙up∙a∙European∙patent∙application",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 29,
+  "style": "TOC3",
+  "name": "S61373",
+  "unit": "{Items∙making∙up∙a∙European∙patent∙application}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_5:en:docx:complete:GA_C_I_4:GA_47#GA_C_I_5~Items∙making∙up∙a∙European∙patent∙application}"
+ },
+ {
+  "text": "Request∙for∙grant",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 30,
+  "style": "TOC3",
+  "name": "S61374",
+  "unit": "{Request∙for∙grant}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_6:en:docx:complete:GA_C_I_5:GA_48#GA_C_I_6~Request∙for∙grant}"
+ },
+ {
+  "text": "Designation∙of∙inventor",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 31,
+  "style": "TOC3",
+  "name": "S61375",
+  "unit": "{Designation∙of∙inventor}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_7:en:docx:complete:GA_C_I_6:GA_49#GA_C_I_7~Designation∙of∙inventor}"
+ },
+ {
+  "text": "Claiming∙priority",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 32,
+  "style": "TOC3",
+  "name": "S61376",
+  "unit": "{Claiming∙priority}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_8:en:docx:complete:GA_C_I_7:GA_52#GA_C_I_8~Claiming∙priority}"
+ },
+ {
+  "text": "Filing∙by∙reference",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 33,
+  "style": "TOC3",
+  "name": "S61377",
+  "unit": "{Filing∙by∙reference}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_9:en:docx:complete:GA_C_I_8:GA_57#GA_C_I_9~Filing∙by∙reference}"
+ },
+ {
+  "text": "Representation",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 34,
+  "style": "TOC3",
+  "name": "S61378",
+  "unit": "{Representation}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_I_10:en:docx:complete:GA_C_I_9:GA_58#GA_C_I_10~Representation}"
+ },
+ {
+  "text": "Disclosing∙your∙invention",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 36,
+  "style": "TOC3",
+  "name": "S61379",
+  "unit": "{Disclosing∙your∙invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_1:en:docx:complete:GA_C_II:GA_67#GA_C_II_1~Disclosing∙your∙invention}"
+ },
+ {
+  "text": "Unity∙of∙invention",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 37,
+  "style": "TOC3",
+  "name": "S61380",
+  "unit": "{Unity∙of∙invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_2:en:docx:complete:GA_C_II_1:GA_69#GA_C_II_2~Unity∙of∙invention}"
+ },
+ {
+  "text": "Drafting∙the∙technical∙application∙documents",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 38,
+  "style": "TOC3",
+  "name": "S61381",
+  "unit": "{Drafting∙the∙technical∙application∙documents}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_3:en:docx:complete:GA_C_II_2:GA_70#GA_C_II_3~Drafting∙the∙technical∙application∙documents}"
+ },
+ {
+  "text": "Description",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 39,
+  "style": "TOC3",
+  "name": "S61382",
+  "unit": "{Description}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_4:en:docx:complete:GA_C_II_3:GA_73#GA_C_II_4~Description}"
+ },
+ {
+  "text": "Biotechnology∙applications",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 40,
+  "style": "TOC3",
+  "name": "S61383",
+  "unit": "{Biotechnology∙applications}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_5:en:docx:complete:GA_C_II_4:#GA_C_II_5~Biotechnology∙applications}"
+ },
+ {
+  "text": "(a)∙Nucleotide∙and∙amino∙acid∙sequences",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 41,
+  "style": "TOC4",
+  "name": "S61384",
+  "unit": "{(a)∙Nucleotide∙and∙amino∙acid∙sequences}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_6:en:docx:complete:GA_C_II_5:GA_75a#GA_C_II_6~(a)∙Nucleotide∙and∙amino∙acid∙sequences}"
+ },
+ {
+  "text": "(b)∙Depositing∙biological∙material∙to∙supplement∙the∙description",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 42,
+  "style": "TOC4",
+  "name": "S61385",
+  "unit": "{(b)∙Depositing∙biological∙material∙to∙supplement∙the∙description}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_7:en:docx:complete:GA_C_II_6:GA_76#GA_C_II_7~(b)∙Depositing∙biological∙material∙to∙supplement∙the∙description}"
+ },
+ {
+  "text": "Claims",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 43,
+  "style": "TOC3",
+  "name": "S61386",
+  "unit": "{Claims}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_8:en:docx:complete:GA_C_II_7:GA_82#GA_C_II_8~Claims}"
+ },
+ {
+  "text": "Claims∙incurring∙fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 44,
+  "style": "TOC3",
+  "name": "S61387",
+  "unit": "{Claims∙incurring∙fees}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_9:en:docx:complete:GA_C_II_8:GA_92#GA_C_II_9~Claims∙incurring∙fees}"
+ },
+ {
+  "text": "Drawings",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 45,
+  "style": "TOC3",
+  "name": "S61388",
+  "unit": "{Drawings}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_10:en:docx:complete:GA_C_II_9:GA_94#GA_C_II_10~Drawings}"
+ },
+ {
+  "text": "Abstract",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 46,
+  "style": "TOC3",
+  "name": "S61389",
+  "unit": "{Abstract}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_11:en:docx:complete:GA_C_II_10:GA_97#GA_C_II_11~Abstract}"
+ },
+ {
+  "text": "Prohibited∙matter",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 47,
+  "style": "TOC3",
+  "name": "S61390",
+  "unit": "{Prohibited∙matter}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_12:en:docx:complete:GA_C_II_11:GA_101#GA_C_II_12~Prohibited∙matter}"
+ },
+ {
+  "text": "Unitary∙character∙of∙European∙patent∙applications∙and∙patents",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 48,
+  "style": "TOC3",
+  "name": "S61391",
+  "unit": "{Unitary∙character∙of∙European∙patent∙applications∙and∙patents}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_II_13:en:docx:complete:GA_C_II_12:GA_102#GA_C_II_13~Unitary∙character∙of∙European∙patent∙applications∙and∙patents}"
+ },
+ {
+  "text": "Where∙to∙file",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 50,
+  "style": "TOC3",
+  "name": "S61392",
+  "unit": "{Where∙to∙file}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_1:en:docx:complete:GA_C_III:GA_104#GA_C_III_1~Where∙to∙file}"
+ },
+ {
+  "text": "How∙to∙file",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 51,
+  "style": "TOC3",
+  "name": "S61393",
+  "unit": "{How∙to∙file}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_2:en:docx:complete:GA_C_III_1:GA_106#GA_C_III_2~How∙to∙file}"
+ },
+ {
+  "text": "Confirmation∙on∙paper",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 52,
+  "style": "TOC3",
+  "name": "S61394",
+  "unit": "{Confirmation∙on∙paper}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_3:en:docx:complete:GA_C_III_2:GA_109#GA_C_III_3~Confirmation∙on∙paper}"
+ },
+ {
+  "text": "Date∙of∙receipt",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 53,
+  "style": "TOC3",
+  "name": "S61395",
+  "unit": "{Date∙of∙receipt}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_4:en:docx:complete:GA_C_III_3:GA_110#GA_C_III_4~Date∙of∙receipt}"
+ },
+ {
+  "text": "Acknowledgement∙of∙receipt",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 54,
+  "style": "TOC3",
+  "name": "S61396",
+  "unit": "{Acknowledgement∙of∙receipt}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_5:en:docx:complete:GA_C_III_4:GA_111#GA_C_III_5~Acknowledgement∙of∙receipt}"
+ },
+ {
+  "text": "Applications∙filed∙with∙national∙authorities∙and∙forwarded∙to∙the∙EPO",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 55,
+  "style": "TOC3",
+  "name": "S61397",
+  "unit": "{Applications∙filed∙with∙national∙authorities∙and∙forwarded∙to∙the∙EPO}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_6:en:docx:complete:GA_C_III_5:GA_112#GA_C_III_6~Applications∙filed∙with∙national∙authorities∙and∙forwarded∙to∙the∙EPO}"
+ },
+ {
+  "text": "Fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 56,
+  "style": "TOC3",
+  "name": "S61398",
+  "unit": "{Fees}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_7:en:docx:complete:GA_C_III_6:GA_114#GA_C_III_7~Fees}"
+ },
+ {
+  "text": "Fee∙amounts∙and∙payment∙methods",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 57,
+  "style": "TOC3",
+  "name": "S61399",
+  "unit": "{Fee∙amounts∙and∙payment∙methods}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_8:en:docx:complete:GA_C_III_7:GA_121#GA_C_III_8~Fee∙amounts∙and∙payment∙methods}"
+ },
+ {
+  "text": "Refund∙of∙fees",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 58,
+  "style": "TOC3",
+  "name": "S61400",
+  "unit": "{Refund∙of∙fees}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_III_9:en:docx:complete:GA_C_III_8:GA_122a#GA_C_III_9~Refund∙of∙fees}"
+ },
+ {
+  "text": "Where∙and∙how∙to∙file",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 60,
+  "style": "TOC3",
+  "name": "S61401",
+  "unit": "{Where∙and∙how∙to∙file}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_IV_1:en:docx:complete:GA_C_IV:GA_123#GA_C_IV_1~Where∙and∙how∙to∙file}"
+ },
+ {
+  "text": "Signature",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 61,
+  "style": "TOC3",
+  "name": "S61402",
+  "unit": "{Signature}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_C_IV_2:en:docx:complete:GA_C_IV_1:GA_125#GA_C_IV_2~Signature}"
+ },
+ {
+  "text": "Examination∙on∙filing",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 68,
+  "style": "TOC3",
+  "name": "S61403",
+  "unit": "{Examination∙on∙filing}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_II_1:en:docx:complete:GA_D_II:GA_136#GA_D_II_1~Examination∙on∙filing}"
+ },
+ {
+  "text": "Formalities∙examination",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 69,
+  "style": "TOC3",
+  "name": "S61404",
+  "unit": "{Formalities∙examination}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_II_2:en:docx:complete:GA_D_II_1:GA_140#GA_D_II_2~Formalities∙examination}"
+ },
+ {
+  "text": "European∙search∙report",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 70,
+  "style": "TOC3",
+  "name": "S61405",
+  "unit": "{European∙search∙report}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_II_3:en:docx:complete:GA_D_II_2:GA_144#GA_D_II_3~European∙search∙report}"
+ },
+ {
+  "text": "Request∙for∙examination",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 73,
+  "style": "TOC3",
+  "name": "S61406",
+  "unit": "{Request∙for∙examination}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_IV_1:en:docx:complete:GA_D_IV:GA_155#GA_D_IV_1~Request∙for∙examination}"
+ },
+ {
+  "text": "Stages∙of∙the∙procedure",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 74,
+  "style": "TOC3",
+  "name": "S61407",
+  "unit": "{Stages∙of∙the∙procedure}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_IV_2:en:docx:complete:GA_D_IV_1:GA_160#GA_D_IV_2~Stages∙of∙the∙procedure}"
+ },
+ {
+  "text": "Amending∙applications∙before∙and∙during∙examination∙proceedings",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 75,
+  "style": "TOC3",
+  "name": "S61408",
+  "unit": "{Amending∙applications∙before∙and∙during∙examination∙proceedings}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_IV_3:en:docx:complete:GA_D_IV_2:GA_171#GA_D_IV_3~Amending∙applications∙before∙and∙during∙examination∙proceedings}"
+ },
+ {
+  "text": "National∙requirements∙governing∙translations∙of∙European∙patents",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 76,
+  "style": "TOC3",
+  "name": "S61409",
+  "unit": "{National∙requirements∙governing∙translations∙of∙European∙patents}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_IV_4:en:docx:complete:GA_D_IV_3:GA_177#GA_D_IV_4~National∙requirements∙governing∙translations∙of∙European∙patents}"
+ },
+ {
+  "text": "Opposition∙period",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 78,
+  "style": "TOC3",
+  "name": "S61410",
+  "unit": "{Opposition∙period}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_V_1:en:docx:complete:GA_D_V:GA_178#GA_D_V_1~Opposition∙period}"
+ },
+ {
+  "text": "Grounds∙for∙opposition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 79,
+  "style": "TOC3",
+  "name": "S61411",
+  "unit": "{Grounds∙for∙opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_V_2:en:docx:complete:GA_D_V_1:GA_179#GA_D_V_2~Grounds∙for∙opposition}"
+ },
+ {
+  "text": "Form∙and∙content∙of∙the∙notice∙of∙opposition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 80,
+  "style": "TOC3",
+  "name": "S61412",
+  "unit": "{Form∙and∙content∙of∙the∙notice∙of∙opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_V_3:en:docx:complete:GA_D_V_2:GA_180#GA_D_V_3~Form∙and∙content∙of∙the∙notice∙of∙opposition}"
+ },
+ {
+  "text": "Examination∙of∙the∙notice∙of∙opposition∙for∙admissibility",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 81,
+  "style": "TOC3",
+  "name": "S61413",
+  "unit": "{Examination∙of∙the∙notice∙of∙opposition∙for∙admissibility}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_V_4:en:docx:complete:GA_D_V_3:GA_181#GA_D_V_4~Examination∙of∙the∙notice∙of∙opposition∙for∙admissibility}"
+ },
+ {
+  "text": "Substantive∙examination∙of∙the∙opposition",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 82,
+  "style": "TOC3",
+  "name": "S61414",
+  "unit": "{Substantive∙examination∙of∙the∙opposition}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_V_5:en:docx:complete:GA_D_V_4:GA_183#GA_D_V_5~Substantive∙examination∙of∙the∙opposition}"
+ },
+ {
+  "text": "Filing∙an∙appeal",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 85,
+  "style": "TOC3",
+  "name": "S61415",
+  "unit": "{Filing∙an∙appeal}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_VII_1:en:docx:complete:GA_D_VII:GA_197#GA_D_VII_1~Filing∙an∙appeal}"
+ },
+ {
+  "text": "Interlocutory∙revision",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 86,
+  "style": "TOC3",
+  "name": "S61416",
+  "unit": "{Interlocutory∙revision}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_VII_2:en:docx:complete:GA_D_VII_1:GA_202#GA_D_VII_2~Interlocutory∙revision}"
+ },
+ {
+  "text": "Stages∙of∙the∙procedure∙before∙the∙boards∙of∙appeal",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 87,
+  "style": "TOC3",
+  "name": "S61417",
+  "unit": "{Stages∙of∙the∙procedure∙before∙the∙boards∙of∙appeal}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_VII_3:en:docx:complete:GA_D_VII_2:GA_203#GA_D_VII_3~Stages∙of∙the∙procedure∙before∙the∙boards∙of∙appeal}"
+ },
+ {
+  "text": "Petition∙for∙review",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 88,
+  "style": "TOC3",
+  "name": "S61418",
+  "unit": "{Petition∙for∙review}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_VII_4:en:docx:complete:GA_D_VII_3:GA_207#GA_D_VII_4~Petition∙for∙review}"
+ },
+ {
+  "text": "Missed∙time∙limits",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 92,
+  "style": "TOC3",
+  "name": "S61419",
+  "unit": "{Missed∙time∙limits}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_X_1:en:docx:complete:GA_D_X:GA_222#GA_D_X_1~Missed∙time∙limits}"
+ },
+ {
+  "text": "Completion∙of∙an∙omitted∙act",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2015/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 93,
+  "style": "TOC3",
+  "name": "S61420",
+  "unit": "{Completion∙of∙an∙omitted∙act}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1::internet:GA_D_X_2:en:docx:complete:GA_D_X_1:GA_224#GA_D_X_2~Completion∙of∙an∙omitted∙act}"
+ },
+ {
+  "text": "(a)→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2016/1.0/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 39,
+  "style": "TOC4",
+  "name": "S61421",
+  "unit": "{(a)→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1.0::internet:GA_C_II_6:en:docx:complete:GA_C_II_5:GA_75a#GA_C_II_6~(a)→xxx}"
+ },
+ {
+  "text": "Date∙of∙filing",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2017/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 51,
+  "style": "TOC3",
+  "name": "S61422",
+  "unit": "{Date∙of∙filing}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1::internet:GA_C_III_4:en:docx:complete:GA_C_III_3:GA_110#GA_C_III_4~Date∙of∙filing}"
+ },
+ {
+  "text": "Examination∙as∙to∙formal∙and∙other∙requirements",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2017/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 67,
+  "style": "TOC3",
+  "name": "S61423",
+  "unit": "{Examination∙as∙to∙formal∙and∙other∙requirements}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1::internet:GA_D_II_2:en:docx:complete:GA_D_II_1:GA_139#GA_D_II_2~Examination∙as∙to∙formal∙and∙other∙requirements}"
+ },
+ {
+  "text": "Lack∙of∙unity∙of∙invention",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiapp1/2017/1/internet/en/complete.eplegal.zip",
+  "referringId": "GA_INDEX",
+  "relativeParagraph": 69,
+  "style": "TOC3",
+  "name": "S61424",
+  "unit": "{Lack∙of∙unity∙of∙invention}",
+  "value": "{ep-legal:countries:EP::guiapp1:2017:1::internet:GA_D_II_4:en:docx:complete:GA_D_II_3:GA_147#GA_D_II_4~Lack∙of∙unity∙of∙invention}"
+ }
+]

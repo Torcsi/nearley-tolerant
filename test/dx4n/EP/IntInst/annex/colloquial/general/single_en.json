@@ -1,0 +1,58 @@
+[
+ {
+  "text": "Annex◦VIb",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S00954",
+  "unit": "{Annex◦VIb}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb:en:xml#ANNEX_VIb~Annex◦VIb}"
+ },
+ {
+  "text": "Annex◦II",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S00958",
+  "unit": "{Annex◦II}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_II:en:xml#ANNEX_II~Annex◦II}"
+ },
+ {
+  "text": "Annex◦VIb,◦5.4",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S00960",
+  "unit": "{Annex◦VIb,◦5.4}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb_5_4:en:xml#ANNEX_VIb_5_4~Annex◦VIb,◦5.4}"
+ },
+ {
+  "text": "Annex◦VIb,◦4",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ib.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S00969",
+  "unit": "{Annex◦VIb,◦4}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb_4:en:xml#ANNEX_VIb_4~Annex◦VIb,◦4}"
+ },
+ {
+  "text": "Annex◦VIb,∙5.5",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-if.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01000",
+  "unit": "{Annex◦VIb,∙5.5}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_VIb_5_5:en:xml#ANNEX_VIb_5_5~Annex◦VIb,∙5.5}"
+ },
+ {
+  "text": "Annex∙V",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/part-ig.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S01006",
+  "unit": "{Annex∙V}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:ANNEX_V:en:xml#ANNEX_V~Annex∙V}"
+ },
+ {
+  "text": "Annex◦V,◦CP◦24",
+  "file": "/EP/organization/IntInst/2014/11/1.0/electronicproofer/en/part-ig.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S01037",
+  "unit": "{Annex◦V,◦CP◦24}",
+  "value": "{ep-legal:countries:EP::IntInst:2014:11:1.0:electronicproofer:ANNEX_V_CP24:en:xml#ANNEX_V_CP24~Annex◦V,◦CP◦24}"
+ }
+]

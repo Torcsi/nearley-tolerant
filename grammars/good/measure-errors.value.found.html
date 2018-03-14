@@ -1,0 +1,30 @@
+<html><head><style type='text/css'>
+body {font-family:'Arial'}
+table {border-collapse:collapse}td {vertical-align:top;border:solid 1px black}
+table.result td{width:33%}
+div.common{color:blue}
+div.exp{color:red}
+div.rec{color:red;text-decoration:line-through}
+div.difference div.difference div.difference{padding-left:1em}
+div.caseok {color:gray}
+</style></head>
+<body><h1>Values</h1>
+<div class='test'><div class='caption'>Measure test cases: Field <b>unitvalue</b></div>
+<div class='case'><div class='caption'>1/1</div>
+<table class='result'>
+<tr><td colspan='3' class='input'>
+<div class='ms'>"Recipe: 1 kg flour, 2 l milk, mix well; add 1 g salt, 1 l vinegar, mix again"</div>
+</td></tr>
+<tr><td>Expected</td><td>Received</td><td>Diff</td></tr>
+<tr>
+<td class='expected'>
+<div class='ms'>["{1 kg flour}={measure=1'kg,name=flour}, {2 l milk}={measure=2'l,name=milk}",<br/>"{1 g salt}={measure=1'g,name=salt}, {1 l vinegar}={measure=1'l,name=vinegar}",<br/>"{1 g salt}={measure=1'g,name=salt}"]</div>
+</td>
+<td class='received'>
+<div class='ms'>["{1 kg flour}={measure=1'kg,name=flour}, {2 l milk}={measure=2'l,name=milk}",<br/>"{1 g salt}={measure=1'g,name=salt}, {1 l vinegar}={measure=1'l,name=vinegar}"]</div>
+</td>
+<td class='diff'><div class='report'><div class='at'></div><div class='difference'><div class='report'><div class='at'></div><div class='difference'>at: 2: missing array elements: [{1 g salt}={measure=...</div></div></div></div></td>
+</tr>
+</table>
+</div>
+</div>

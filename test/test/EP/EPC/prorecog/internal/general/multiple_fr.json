@@ -1,0 +1,29 @@
+[
+ {
+  "text": "articles∙2∙à∙4∙et∙l’article∙5,∙paragraphe∙1",
+  "unit": "{articles∙2}∙à∙{4}∙et∙{l’article∙5,∙paragraphe∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:P2:fr:docx:prorecog::#P2~articles∙2}∙à∙{ep-legal:countries:EP::EPC:2001:1::internet:P4:fr:docx:prorecog::#P4~4}∙et∙{ep-legal:countries:EP::EPC:2001:1::internet:P5_1:fr:docx:prorecog::P5#P5_1~l’article∙5,∙paragraphe∙1}",
+  "name": "M11788",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P6",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles∙2◦à◦article∙6",
+  "unit": "{articles∙2}◦à◦{article∙6}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:P2:fr:docx:prorecog::#P2~articles∙2}◦à◦{ep-legal:countries:EP::EPC:2006:1::internet:P6:fr:docx:prorecog::#P6~article∙6}",
+  "name": "M12004",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P7",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "articles∙2∙à∙4∙et∙l'article∙5,∙paragraphe∙1",
+  "unit": "{articles∙2}∙à∙{4}∙et∙{l'article∙5,∙paragraphe∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1::internet:P2:fr:docx:prorecog::#P2~articles∙2}∙à∙{ep-legal:countries:EP::EPC:2007:1::internet:P4:fr:docx:prorecog::#P4~4}∙et∙{ep-legal:countries:EP::EPC:2007:1::internet:P5_1:fr:docx:prorecog::P5#P5_1~l'article∙5,∙paragraphe∙1}",
+  "name": "M12230",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2007/1/internet/fr/prorecog.eplegal.zip",
+  "referringId": "P6",
+  "relativeParagraph": 1
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+  "text": "ANERKENNUNGSPROTOKOLL",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 3,
+  "name": "S30861",
+  "unit": "{ANERKENNUNGSPROTOKOLL}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:REC:de:docx:prorecog::#REC~ANERKENNUNGSPROTOKOLL}"
+ },
+ {
+  "text": "ZENTRALISIERUNGSPROTOKOLL",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 4,
+  "name": "S30862",
+  "unit": "{ZENTRALISIERUNGSPROTOKOLL}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:CEN:de:docx:procen::#CEN~ZENTRALISIERUNGSPROTOKOLL}"
+ },
+ {
+  "text": "PROTOKOLL∙ÜBER∙VORRECHTE∙UND∙IMMUNITÄTEN",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 5,
+  "name": "S30863",
+  "unit": "{PROTOKOLL∙ÜBER∙VORRECHTE∙UND∙IMMUNITÄTEN}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:IMM:de:docx:proprimm::#IMM~PROTOKOLL∙ÜBER∙VORRECHTE∙UND∙IMMUNITÄTEN}"
+ },
+ {
+  "text": "Anhang∙I∙–∙Verzeichnis∙der∙veröffentlichten∙Entscheidungen/Stellungnahmen∙der∙Großen∙Beschwerdekammern",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S30864",
+  "unit": "{Anhang∙I∙–∙Verzeichnis∙der∙veröffentlichten∙Entscheidungen/Stellungnahmen∙der∙Großen∙Beschwerdekammern}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:AN1:de:docx:annex1::#AN1~Anhang∙I∙–∙Verzeichnis∙der∙veröffentlichten∙Entscheidungen/Stellungnahmen∙der∙Großen∙Beschwerdekammern}"
+ },
+ {
+  "text": "Alphabetisches∙Sachregister",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2002/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S30865",
+  "unit": "{Alphabetisches∙Sachregister}",
+  "value": "{ep-legal:countries:EP::EPC:2002:1::internet:GLO:de:docx:keywordindex::#GLO~Alphabetisches∙Sachregister}"
+ },
+ {
+  "text": "PERSONALSTANDSPROTOKOLL",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 7,
+  "name": "S30882",
+  "unit": "{PERSONALSTANDSPROTOKOLL}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:STA:de:docx:staffreg::#STA~PERSONALSTANDSPROTOKOLL}"
+ },
+ {
+  "text": "ANHANG∙I∙–∙VERZEICHNIS∙DER∙IM∙AMTSBLATT∙DES∙EPA∙VERÖFFENTLICHTEN∙ENTSCHEIDUNGEN∙UND∙STELLUNGNAHMEN∙DER∙GROßEN∙BESCHWERDEKAMMER",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2006/1/internet/de/index.eplegal.zip",
+  "referringId": "INDEX",
+  "relativeParagraph": 9,
+  "name": "S30883",
+  "unit": "{ANHANG∙I∙–∙VERZEICHNIS∙DER∙IM∙AMTSBLATT∙DES∙EPA∙VERÖFFENTLICHTEN∙ENTSCHEIDUNGEN∙UND∙STELLUNGNAHMEN∙DER∙GROßEN∙BESCHWERDEKAMMER}",
+  "value": "{ep-legal:countries:EP::EPC:2006:1::internet:AN1:de:docx:annex1::#AN1~ANHANG∙I∙–∙VERZEICHNIS∙DER∙IM∙AMTSBLATT∙DES∙EPA∙VERÖFFENTLICHTEN∙ENTSCHEIDUNGEN∙UND∙STELLUNGNAHMEN∙DER∙GROßEN∙BESCHWERDEKAMMER}"
+ }
+]

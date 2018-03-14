@@ -1,0 +1,20 @@
+[
+ {
+  "text": "Partie∙générale,◦2.1,∙C-I,◦3",
+  "unit": "{Partie∙générale,◦2.1},∙{C-I,◦3}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1::internet:GLI_2_1:fr:docx:I::GLI#GLI_2_1~Partie∙générale,◦2.1},∙{ep-legal:countries:EP::guiex:2013:1::internet:GLC_CI_3:fr:docx:C::GLC#GLC_CI_3~C-I,◦3}",
+  "name": "M17532",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2013/1/internet/fr/K.eplegal.zip",
+  "referringId": "GLK_V",
+  "relativeParagraph": 36
+ },
+ {
+  "text": "Partie∙générale,∙2.1,∙C-I,◦3",
+  "unit": "{Partie∙générale,∙2.1},∙{C-I,◦3}",
+  "value": "{ep-legal:countries:EP::guiex:2014:1::internet:GLI_2_1:fr:docx:I::GLI#GLI_2_1~Partie∙générale,∙2.1},∙{ep-legal:countries:EP::guiex:2014:1::internet:GLC_CI_3:fr:docx:C::GLC#GLC_CI_3~C-I,◦3}",
+  "name": "M17684",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/guiex/2014/1/internet/fr/K.eplegal.zip",
+  "referringId": "GLK_V",
+  "relativeParagraph": 34
+ }
+]

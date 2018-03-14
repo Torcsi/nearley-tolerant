@@ -1,0 +1,28 @@
+[
+ {
+  "text": "Anhang∙IIKonkordanzliste",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 13,
+  "name": "S14876",
+  "unit": "{Anhang∙IIKonkordanzliste}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL:de:xml~Anhang∙IIKonkordanzliste}"
+ },
+ {
+  "text": "Abkürzungen",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 14,
+  "name": "S14877",
+  "unit": "{Abkürzungen}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CL_IV:de:xml~Abkürzungen}"
+ },
+ {
+  "text": "Anhang∙II↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/de/index.eplegal.zip",
+  "relativeParagraph": 15,
+  "name": "S14916",
+  "unit": "{Anhang∙II↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:CL:de:xml#CL~Anhang∙II↲xxx}"
+ }
+]

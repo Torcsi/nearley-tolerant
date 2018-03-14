@@ -1,0 +1,52 @@
+[
+ {
+  "text": "Foreword∙to∙the∙fifth∙edition",
+  "file": "/EP/organization/caselawreport/2007/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:TOC",
+  "relativeParagraph": 1,
+  "name": "S01683",
+  "unit": "{Foreword∙to∙the∙fifth∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2007:1:1.0:electronicproofer:CLR_FOREWORD:en:xml~Foreword∙to∙the∙fifth∙edition}"
+ },
+ {
+  "text": "FOREWORD∙TO∙THE∙SIXTH∙EDITION",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S01695",
+  "unit": "{FOREWORD∙TO∙THE∙SIXTH∙EDITION}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:en:xml~FOREWORD∙TO∙THE∙SIXTH∙EDITION}"
+ },
+ {
+  "text": "Foreword∙to∙the∙sixth∙edition",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "referringId": "caselawreport:CLR_TOC",
+  "relativeParagraph": 1,
+  "name": "S01699",
+  "unit": "{Foreword∙to∙the∙sixth∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_FOREWORD:en:xml~Foreword∙to∙the∙sixth∙edition}"
+ },
+ {
+  "text": "Foreword∙to∙the∙seventh∙edition",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S01707",
+  "unit": "{Foreword∙to∙the∙seventh∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_FOREWORD:en:xml#CLR_FOREWORD~Foreword∙to∙the∙seventh∙edition}"
+ },
+ {
+  "text": "Foreword∙to∙the∙eighth∙edition",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S01713",
+  "unit": "{Foreword∙to∙the∙eighth∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_FOREWORD:en:xml#CLR_FOREWORD~Foreword∙to∙the∙eighth∙edition}"
+ },
+ {
+  "text": "Foreword∙to∙the∙EIGHTH∙edition",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S01714",
+  "unit": "{Foreword∙to∙the∙EIGHTH∙edition}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_FOREWORD:en:xml#CLR_FOREWORD~Foreword∙to∙the∙EIGHTH∙edition}"
+ }
+]

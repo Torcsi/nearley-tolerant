@@ -1,0 +1,59 @@
+[
+ {
+  "bad":true,
+ "text": "IB-XI,∙6.2.1",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vib.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S00900",
+  "unit": "{IB-XI,∙6.2.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_XI_6_2_1:en:xml#IB_XI_6_2_1~IB-XI,∙6.2.1}"
+ },
+ {
+  "bad":true,
+ "text": "IB-XI,◦5",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vib.eplegal.zip",
+  "relativeParagraph": 5,
+  "name": "S00902",
+  "unit": "{IB-XI,◦5}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_XI_5:en:xml#IB_XI_5~IB-XI,◦5}"
+ },
+ {
+  "bad":true,
+ "text": "IB-XI,◦5.1",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vib.eplegal.zip",
+  "relativeParagraph": 32,
+  "name": "S00903",
+  "unit": "{IB-XI,◦5.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IB_XI_5_1:en:xml#IB_XI_5_1~IB-XI,◦5.1}"
+ },
+ {
+  "bad":true,
+ "text": "IE-V,◦3.1",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VII_2_1_5",
+  "relativeParagraph": 6,
+  "name": "S00911",
+  "unit": "{IE-V,◦3.1}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IE_V_3_1:en:xml#IE_V_3_1~IE-V,◦3.1}"
+ },
+ {
+  "bad":true,
+ "text": "IC-III,◦1.2",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VII_2_2_3_3",
+  "relativeParagraph": 3,
+  "name": "S00912",
+  "unit": "{IC-III,◦1.2}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IC_III_1_2:en:xml#IC_III_1_2~IC-III,◦1.2}"
+ },
+ {
+  "bad":true,
+ "text": "IC-VI∙15.3.5",
+  "file": "/EP/organization/IntInst/2013/9/1.0/electronicproofer/en/annex-vii.eplegal.zip",
+  "referringId": "IntInst:ANNEX_VII_2_10_4_9",
+  "relativeParagraph": 2,
+  "name": "S00927",
+  "unit": "{IC-VI∙15.3.5}",
+  "value": "{ep-legal:countries:EP::IntInst:2013:9:1.0:electronicproofer:IC_VI:en:xml#IC_VI~IC-VI∙15.3.5}"
+ }
+]

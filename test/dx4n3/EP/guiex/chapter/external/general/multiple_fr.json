@@ -1,0 +1,20 @@
+[
+ {
+  "text": "DIR/OEB∙G-VII,◦5.4.2.1∙à∙DIR/OEB∙G-VII,◦5.4.2.4",
+  "unit": "{DIR/OEB∙G-VII,◦5.4.2.1}∙à∙{DIR/OEB∙G-VII,◦5.4.2.4}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_1:fr:docx:G::GLG#GLG_CVII_5_4_2_1~DIR/OEB∙G-VII,◦5.4.2.1}∙à∙{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_4:fr:docx:G::GLG#GLG_CVII_5_4_2_4~DIR/OEB∙G-VII,◦5.4.2.4}",
+  "name": "M23066",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/fr/G.eplegal.zip",
+  "referringId": "PGG_CVII_5_4_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "DIR/OEB∙C-III,∙2.3∙et∙DIR/OEB∙F-V,∙13.1(iv)",
+  "unit": "{DIR/OEB∙C-III,∙2.3}∙et∙{DIR/OEB∙F-V,∙13.1(iv)}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1::internet:GLC_CIII_2_3:fr:docx:C::GLC#GLC_CIII_2_3~DIR/OEB∙C-III,∙2.3}∙et∙{ep-legal:countries:EP::guiex:2015:1::internet:GLF_CV_13_1_iv:fr:docx:F::GLF#GLF_CV_13_1_iv~DIR/OEB∙F-V,∙13.1(iv)}",
+  "name": "M23128",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/fr/part-ib.eplegal.zip",
+  "referringId": "IPB_VII_1",
+  "relativeParagraph": 9
+ }
+]

@@ -1,0 +1,29 @@
+[
+ {
+  "text": "Kapitel∙1∙bis∙3",
+  "unit": "{Kapitel∙1}∙bis∙{3}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_1:de::ipse:PCTIPSE_I:#PCTIPSE_1~Kapitel∙1}∙bis∙{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_3:de::ipse:PCTIPSE_2_I:#PCTIPSE_3~3}",
+  "name": "M51674",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-gp.eplegal.zip",
+  "referringId": "IPGP_3_3",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "9.34∙und∙9.35",
+  "unit": "{9.34}∙und∙{9.35}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_9_34:de::ipse:PCTIPSE_9_D_5:#PCTIPSE_9_34~9.34}∙und∙{ep-legal:countries:WO::PCT:2014:1::internet:PCTIPSE_9_35:de::ipse:PCTIPSE_9_D_5:#PCTIPSE_9_35~9.35}",
+  "name": "M51688",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ib.eplegal.zip",
+  "referringId": "IPB_VIII_3_3",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Kapitel◦1∙bis∙3",
+  "unit": "{Kapitel◦1}∙bis∙{3}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_1:de::ipse:PCTIPSE_I:PCTIPSE_1_01#PCTIPSE_1~Kapitel◦1}∙bis∙{ep-legal:countries:WO::PCT:2016:1::internet:PCTIPSE_3:de::ipse:PCTIPSE_2:PCTIPSE_3_01#PCTIPSE_3~3}",
+  "name": "M51726",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2016/1/internet/de/part-gp.eplegal.zip",
+  "referringId": "IPGP_3_3",
+  "relativeParagraph": 1
+ }
+]

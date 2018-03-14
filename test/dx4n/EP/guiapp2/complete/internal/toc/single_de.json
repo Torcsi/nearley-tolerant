@@ -1,0 +1,1463 @@
+[
+ {
+  "text": "A.→xxx",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 7,
+  "name": "S15005",
+  "unit": "{A.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A:de:xml#GA_A~A.→xxx}"
+ },
+ {
+  "text": "Anwendbares∙Recht",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 9,
+  "name": "S15007",
+  "unit": "{Anwendbares∙Recht}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A_2:de:xml#GA_A_2~Anwendbares∙Recht}"
+ },
+ {
+  "text": "Die∙Rolle∙des∙EPA∙in∙der∙internationalen∙Phase",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 12,
+  "name": "S15010",
+  "unit": "{Die∙Rolle∙des∙EPA∙in∙der∙internationalen∙Phase}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A_5:de:xml#GA_A_5~Die∙Rolle∙des∙EPA∙in∙der∙internationalen∙Phase}"
+ },
+ {
+  "text": "Die∙Rolle∙des∙EPA∙in∙der∙europäischen∙Phase",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 14,
+  "name": "S15012",
+  "unit": "{Die∙Rolle∙des∙EPA∙in∙der∙europäischen∙Phase}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A_7:de:xml#GA_A_7~Die∙Rolle∙des∙EPA∙in∙der∙europäischen∙Phase}"
+ },
+ {
+  "text": "Vertretung∙in∙der∙internationalen∙Phase",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 16,
+  "name": "S15014",
+  "unit": "{Vertretung∙in∙der∙internationalen∙Phase}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A_9:de:xml#GA_A_9~Vertretung∙in∙der∙internationalen∙Phase}"
+ },
+ {
+  "text": "Berechnung∙von∙Fristen∙in∙der∙internationalen∙Phase",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 17,
+  "name": "S15015",
+  "unit": "{Berechnung∙von∙Fristen∙in∙der∙internationalen∙Phase}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_A_10:de:xml#GA_A_10~Berechnung∙von∙Fristen∙in∙der∙internationalen∙Phase}"
+ },
+ {
+  "text": "B.→xxx",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 18,
+  "name": "S15016",
+  "unit": "{B.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B:de:xml#GA_B~B.→xxx}"
+ },
+ {
+  "text": "Wer∙kann∙eine∙internationale∙Anmeldung∙beim∙EPA∙einreichen?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 19,
+  "name": "S15017",
+  "unit": "{Wer∙kann∙eine∙internationale∙Anmeldung∙beim∙EPA∙einreichen?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_1:de:xml#GA_B_1~Wer∙kann∙eine∙internationale∙Anmeldung∙beim∙EPA∙einreichen?}"
+ },
+ {
+  "text": "Wo∙kann∙man∙beim∙EPA∙als∙Anmeldeamt∙einreichen?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 20,
+  "name": "S15018",
+  "unit": "{Wo∙kann∙man∙beim∙EPA∙als∙Anmeldeamt∙einreichen?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_2:de:xml#GA_B_2~Wo∙kann∙man∙beim∙EPA∙als∙Anmeldeamt∙einreichen?}"
+ },
+ {
+  "text": "Bestandteile∙der∙internationalen∙Anmeldung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 21,
+  "name": "S15019",
+  "unit": "{Bestandteile∙der∙internationalen∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_3:de:xml#GA_B_3~Bestandteile∙der∙internationalen∙Anmeldung}"
+ },
+ {
+  "text": "Einbeziehung∙von∙fehlenden∙Teilen∙und∙Bestandteilen∙durch∙Verweis",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 22,
+  "name": "S15020",
+  "unit": "{Einbeziehung∙von∙fehlenden∙Teilen∙und∙Bestandteilen∙durch∙Verweis}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_4:de:xml#GA_B_4~Einbeziehung∙von∙fehlenden∙Teilen∙und∙Bestandteilen∙durch∙Verweis}"
+ },
+ {
+  "text": "Internationales∙Anmeldedatum",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 23,
+  "name": "S15021",
+  "unit": "{Internationales∙Anmeldedatum}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_5:de:xml#GA_B_5~Internationales∙Anmeldedatum}"
+ },
+ {
+  "text": "Möglichkeiten∙der∙Einreichung∙beim∙EPA∙als∙Anmeldeamt",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 24,
+  "name": "S15022",
+  "unit": "{Möglichkeiten∙der∙Einreichung∙beim∙EPA∙als∙Anmeldeamt}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_6:de:xml#GA_B_6~Möglichkeiten∙der∙Einreichung∙beim∙EPA∙als∙Anmeldeamt}"
+ },
+ {
+  "text": "Anzahl∙von∙Exemplaren∙der∙eingereichten∙Unterlagen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 25,
+  "name": "S15023",
+  "unit": "{Anzahl∙von∙Exemplaren∙der∙eingereichten∙Unterlagen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_7:de:xml#GA_B_7~Anzahl∙von∙Exemplaren∙der∙eingereichten∙Unterlagen}"
+ },
+ {
+  "text": "Unmittelbare∙Einreichung∙oder∙Einreichung∙auf∙dem∙Postweg",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 26,
+  "name": "S15024",
+  "unit": "{Unmittelbare∙Einreichung∙oder∙Einreichung∙auf∙dem∙Postweg}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_8:de:xml#GA_B_8~Unmittelbare∙Einreichung∙oder∙Einreichung∙auf∙dem∙Postweg}"
+ },
+ {
+  "text": "Verlust∙oder∙Verzögerung∙bei∙der∙Postzustellung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 27,
+  "name": "S15025",
+  "unit": "{Verlust∙oder∙Verzögerung∙bei∙der∙Postzustellung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_9:de:xml#GA_B_9~Verlust∙oder∙Verzögerung∙bei∙der∙Postzustellung}"
+ },
+ {
+  "text": "Einreichung∙per∙Fax",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 28,
+  "name": "S15026",
+  "unit": "{Einreichung∙per∙Fax}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_10:de:xml#GA_B_10~Einreichung∙per∙Fax}"
+ },
+ {
+  "text": "E-Mails,∙Telegramme,∙Fernschreiben∙und∙Ähnliches",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 29,
+  "name": "S15027",
+  "unit": "{E-Mails,∙Telegramme,∙Fernschreiben∙und∙Ähnliches}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_11:de:xml#GA_B_11~E-Mails,∙Telegramme,∙Fernschreiben∙und∙Ähnliches}"
+ },
+ {
+  "text": "Einreichung∙anderer∙Schriftstücke",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 30,
+  "name": "S15028",
+  "unit": "{Einreichung∙anderer∙Schriftstücke}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_12:de:xml#GA_B_12~Einreichung∙anderer∙Schriftstücke}"
+ },
+ {
+  "text": "Empfangsbestätigung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 31,
+  "name": "S15029",
+  "unit": "{Empfangsbestätigung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_13:de:xml#GA_B_13~Empfangsbestätigung}"
+ },
+ {
+  "text": "Elektronische∙Einreichung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 32,
+  "name": "S15030",
+  "unit": "{Elektronische∙Einreichung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_14:de:xml#GA_B_14~Elektronische∙Einreichung}"
+ },
+ {
+  "text": "Online-Einreichung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 33,
+  "name": "S15031",
+  "unit": "{Online-Einreichung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_15:de:xml#GA_B_15~Online-Einreichung}"
+ },
+ {
+  "text": "Einreichung∙auf∙Datenträgern∙(\"Offline-Einreichung\")",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 34,
+  "name": "S15032",
+  "unit": "{Einreichung∙auf∙Datenträgern∙(\"Offline-Einreichung\")}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_16:de:xml#GA_B_16~Einreichung∙auf∙Datenträgern∙(\"Offline-Einreichung\")}"
+ },
+ {
+  "text": "Online-Einreichung∙in∙unkonvertiertem∙Format",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 35,
+  "name": "S15033",
+  "unit": "{Online-Einreichung∙in∙unkonvertiertem∙Format}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_17:de:xml#GA_B_17~Online-Einreichung∙in∙unkonvertiertem∙Format}"
+ },
+ {
+  "text": "Teilanmeldungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 37,
+  "name": "S15035",
+  "unit": "{Teilanmeldungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_19:de:xml#GA_B_19~Teilanmeldungen}"
+ },
+ {
+  "text": "Nennung∙des∙Erfinders",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 39,
+  "name": "S15037",
+  "unit": "{Nennung∙des∙Erfinders}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_21:de:xml#GA_B_21~Nennung∙des∙Erfinders}"
+ },
+ {
+  "text": "Vertretung∙im∙Verfahren∙vor∙dem∙EPA∙als∙Anmeldeamt",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 40,
+  "name": "S15038",
+  "unit": "{Vertretung∙im∙Verfahren∙vor∙dem∙EPA∙als∙Anmeldeamt}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_22:de:xml#GA_B_22~Vertretung∙im∙Verfahren∙vor∙dem∙EPA∙als∙Anmeldeamt}"
+ },
+ {
+  "text": "Zwei∙oder∙mehr∙Anmelder∙-∙gemeinsamer∙Anwalt∙und∙gemeinsamer∙Vertreter",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 41,
+  "name": "S15039",
+  "unit": "{Zwei∙oder∙mehr∙Anmelder∙-∙gemeinsamer∙Anwalt∙und∙gemeinsamer∙Vertreter}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_23:de:xml#GA_B_23~Zwei∙oder∙mehr∙Anmelder∙-∙gemeinsamer∙Anwalt∙und∙gemeinsamer∙Vertreter}"
+ },
+ {
+  "text": "Bestellung∙eines∙Anwalts,∙gemeinsamen∙Anwalts∙oder∙gemeinsamen∙Vertreters",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 42,
+  "name": "S15040",
+  "unit": "{Bestellung∙eines∙Anwalts,∙gemeinsamen∙Anwalts∙oder∙gemeinsamen∙Vertreters}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_24:de:xml#GA_B_24~Bestellung∙eines∙Anwalts,∙gemeinsamen∙Anwalts∙oder∙gemeinsamen∙Vertreters}"
+ },
+ {
+  "text": "Zusammenschluss∙von∙zugelassenen∙Vertretern",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 43,
+  "name": "S15041",
+  "unit": "{Zusammenschluss∙von∙zugelassenen∙Vertretern}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_25:de:xml#GA_B_25~Zusammenschluss∙von∙zugelassenen∙Vertretern}"
+ },
+ {
+  "text": "Zustellanschrift",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 44,
+  "name": "S15042",
+  "unit": "{Zustellanschrift}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_26:de:xml#GA_B_26~Zustellanschrift}"
+ },
+ {
+  "text": "Verzicht",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 45,
+  "name": "S15043",
+  "unit": "{Verzicht}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_27:de:xml#GA_B_27~Verzicht}"
+ },
+ {
+  "text": "Bestellung∙eines∙Anwalts∙für∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Anmeldeamt",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 46,
+  "name": "S15044",
+  "unit": "{Bestellung∙eines∙Anwalts∙für∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Anmeldeamt}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_28:de:xml#GA_B_28~Bestellung∙eines∙Anwalts∙für∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Anmeldeamt}"
+ },
+ {
+  "text": "Für∙welche∙Staaten∙können∙internationale∙Anmeldungen∙eingereicht∙werden?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 47,
+  "name": "S15045",
+  "unit": "{Für∙welche∙Staaten∙können∙internationale∙Anmeldungen∙eingereicht∙werden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_29:de:xml#GA_B_29~Für∙welche∙Staaten∙können∙internationale∙Anmeldungen∙eingereicht∙werden?}"
+ },
+ {
+  "text": "Ausnahme∙von∙der∙Bestimmung∙aufgrund∙nationaler∙Rechtsvorschriften",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 48,
+  "name": "S15046",
+  "unit": "{Ausnahme∙von∙der∙Bestimmung∙aufgrund∙nationaler∙Rechtsvorschriften}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_30:de:xml#GA_B_30~Ausnahme∙von∙der∙Bestimmung∙aufgrund∙nationaler∙Rechtsvorschriften}"
+ },
+ {
+  "text": "Erstreckung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 49,
+  "name": "S15047",
+  "unit": "{Erstreckung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_31:de:xml#GA_B_31~Erstreckung}"
+ },
+ {
+  "text": "Die∙Internationale∙Recherchenbehörde∙(ISA)",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 53,
+  "name": "S15051",
+  "unit": "{Die∙Internationale∙Recherchenbehörde∙(ISA)}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_35:de:xml#GA_B_35~Die∙Internationale∙Recherchenbehörde∙(ISA)}"
+ },
+ {
+  "text": "Berücksichtigung∙einer∙früheren∙Recherche",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 54,
+  "name": "S15052",
+  "unit": "{Berücksichtigung∙einer∙früheren∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_36:de:xml#GA_B_36~Berücksichtigung∙einer∙früheren∙Recherche}"
+ },
+ {
+  "text": "Rückerstattung∙der∙Recherchengebühr∙für∙eine∙prioritätsbegründende∙Anmeldung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 55,
+  "name": "S15053",
+  "unit": "{Rückerstattung∙der∙Recherchengebühr∙für∙eine∙prioritätsbegründende∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_37:de:xml#GA_B_37~Rückerstattung∙der∙Recherchengebühr∙für∙eine∙prioritätsbegründende∙Anmeldung}"
+ },
+ {
+  "text": "Anmeldungen∙mit∙Bezugnahme∙auf∙biologisches∙Material",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 56,
+  "name": "S15054",
+  "unit": "{Anmeldungen∙mit∙Bezugnahme∙auf∙biologisches∙Material}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_38:de:xml#GA_B_38~Anmeldungen∙mit∙Bezugnahme∙auf∙biologisches∙Material}"
+ },
+ {
+  "text": "Anmeldungen,∙die∙Nucleotid-∙und/oder∙Aminosäuresequenzen∙offenbaren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 57,
+  "name": "S15055",
+  "unit": "{Anmeldungen,∙die∙Nucleotid-∙und/oder∙Aminosäuresequenzen∙offenbaren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_39:de:xml#GA_B_39~Anmeldungen,∙die∙Nucleotid-∙und/oder∙Aminosäuresequenzen∙offenbaren}"
+ },
+ {
+  "text": "Unterschrift",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 58,
+  "name": "S15056",
+  "unit": "{Unterschrift}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_40:de:xml#GA_B_40~Unterschrift}"
+ },
+ {
+  "text": "Sprache∙der∙internationalen∙Anmeldung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 59,
+  "name": "S15057",
+  "unit": "{Sprache∙der∙internationalen∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_41:de:xml#GA_B_41~Sprache∙der∙internationalen∙Anmeldung}"
+ },
+ {
+  "text": "Gebühren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 60,
+  "name": "S15058",
+  "unit": "{Gebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_42:de:xml#GA_B_42~Gebühren}"
+ },
+ {
+  "text": "Höhe∙der∙Gebühren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 61,
+  "name": "S15059",
+  "unit": "{Höhe∙der∙Gebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_43:de:xml#GA_B_43~Höhe∙der∙Gebühren}"
+ },
+ {
+  "text": "Zahlungsart",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 62,
+  "name": "S15060",
+  "unit": "{Zahlungsart}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_44:de:xml#GA_B_44~Zahlungsart}"
+ },
+ {
+  "text": "Ermäßigungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 63,
+  "name": "S15061",
+  "unit": "{Ermäßigungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_45:de:xml#GA_B_45~Ermäßigungen}"
+ },
+ {
+  "text": "Verspätete∙Zahlung∙von∙Gebühren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 64,
+  "name": "S15062",
+  "unit": "{Verspätete∙Zahlung∙von∙Gebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_B_46:de:xml#GA_B_46~Verspätete∙Zahlung∙von∙Gebühren}"
+ },
+ {
+  "text": "I.→xxx",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 66,
+  "name": "S15063",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I:de:xml#GA_C_I~I.→xxx}"
+ },
+ {
+  "text": "Die∙Rolle∙des∙EPA∙als∙ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 67,
+  "name": "S15064",
+  "unit": "{Die∙Rolle∙des∙EPA∙als∙ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_1:de:xml#GA_C_I_1~Die∙Rolle∙des∙EPA∙als∙ISA}"
+ },
+ {
+  "text": "Zuständigkeit∙des∙EPA∙als∙ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 68,
+  "name": "S15065",
+  "unit": "{Zuständigkeit∙des∙EPA∙als∙ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_2:de:xml#GA_C_I_2~Zuständigkeit∙des∙EPA∙als∙ISA}"
+ },
+ {
+  "text": "Bestimmung∙durch∙das∙Anmeldeamt",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 69,
+  "name": "S15066",
+  "unit": "{Bestimmung∙durch∙das∙Anmeldeamt}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_3:de:xml#GA_C_I_3~Bestimmung∙durch∙das∙Anmeldeamt}"
+ },
+ {
+  "text": "Beschränkte∙Zuständigkeit",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 70,
+  "name": "S15067",
+  "unit": "{Beschränkte∙Zuständigkeit}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_4:de:xml#GA_C_I_4~Beschränkte∙Zuständigkeit}"
+ },
+ {
+  "text": "Auswahl∙der∙ISA∙und∙Folgen∙der∙Auswahl",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 71,
+  "name": "S15068",
+  "unit": "{Auswahl∙der∙ISA∙und∙Folgen∙der∙Auswahl}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_5:de:xml#GA_C_I_5~Auswahl∙der∙ISA∙und∙Folgen∙der∙Auswahl}"
+ },
+ {
+  "text": "Übersetzung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 72,
+  "name": "S15069",
+  "unit": "{Übersetzung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_6:de:xml#GA_C_I_6~Übersetzung}"
+ },
+ {
+  "text": "Sprache∙des∙weiteren∙Schriftverkehrs",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 73,
+  "name": "S15070",
+  "unit": "{Sprache∙des∙weiteren∙Schriftverkehrs}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_7:de:xml#GA_C_I_7~Sprache∙des∙weiteren∙Schriftverkehrs}"
+ },
+ {
+  "text": "Auf∙Niederländisch∙eingereichte∙Anmeldungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 74,
+  "name": "S15071",
+  "unit": "{Auf∙Niederländisch∙eingereichte∙Anmeldungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_8:de:xml#GA_C_I_8~Auf∙Niederländisch∙eingereichte∙Anmeldungen}"
+ },
+ {
+  "text": "Vertretung∙vor∙dem∙EPA∙als∙ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 75,
+  "name": "S15072",
+  "unit": "{Vertretung∙vor∙dem∙EPA∙als∙ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_9:de:xml#GA_C_I_9~Vertretung∙vor∙dem∙EPA∙als∙ISA}"
+ },
+ {
+  "text": "Ermäßigung∙der∙Recherchengebühr",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 76,
+  "name": "S15073",
+  "unit": "{Ermäßigung∙der∙Recherchengebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_10:de:xml#GA_C_I_10~Ermäßigung∙der∙Recherchengebühr}"
+ },
+ {
+  "text": "Rückerstattung∙der∙Recherchengebühr",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 77,
+  "name": "S15074",
+  "unit": "{Rückerstattung∙der∙Recherchengebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_I_11:de:xml#GA_C_I_11~Rückerstattung∙der∙Recherchengebühr}"
+ },
+ {
+  "text": "Allgemeines",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 79,
+  "name": "S15075",
+  "unit": "{Allgemeines}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_1:de:xml#GA_C_II_1~Allgemeines}"
+ },
+ {
+  "text": "Erstellung∙des∙ISR∙und∙des∙WO-ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 80,
+  "name": "S15076",
+  "unit": "{Erstellung∙des∙ISR∙und∙des∙WO-ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_2:de:xml#GA_C_II_2~Erstellung∙des∙ISR∙und∙des∙WO-ISA}"
+ },
+ {
+  "text": "Mehrere∙unabhängige∙Ansprüche",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 81,
+  "name": "S15077",
+  "unit": "{Mehrere∙unabhängige∙Ansprüche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_3:de:xml#GA_C_II_3~Mehrere∙unabhängige∙Ansprüche}"
+ },
+ {
+  "text": "Internationale∙Veröffentlichung∙der∙Anmeldung∙und∙des∙ISR",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 85,
+  "name": "S15079",
+  "unit": "{Internationale∙Veröffentlichung∙der∙Anmeldung∙und∙des∙ISR}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_7:de:xml#GA_C_II_7~Internationale∙Veröffentlichung∙der∙Anmeldung∙und∙des∙ISR}"
+ },
+ {
+  "text": "Einsichtnahme∙in∙den∙WO-ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 86,
+  "name": "S15080",
+  "unit": "{Einsichtnahme∙in∙den∙WO-ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_8:de:xml#GA_C_II_8~Einsichtnahme∙in∙den∙WO-ISA}"
+ },
+ {
+  "text": "Verfahren∙nach∙Erhalt∙des∙ISR∙und∙WO-ISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 87,
+  "name": "S15081",
+  "unit": "{Verfahren∙nach∙Erhalt∙des∙ISR∙und∙WO-ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_9:de:xml#GA_C_II_9~Verfahren∙nach∙Erhalt∙des∙ISR∙und∙WO-ISA}"
+ },
+ {
+  "text": "Informelle∙Stellungnahmen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 89,
+  "name": "S15083",
+  "unit": "{Informelle∙Stellungnahmen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_11:de:xml#GA_C_II_11~Informelle∙Stellungnahmen}"
+ },
+ {
+  "text": "Internationaler∙vorläufiger∙Bericht∙zur∙Patentfähigkeit∙nach∙Kapitel◦I",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 91,
+  "name": "S15085",
+  "unit": "{Internationaler∙vorläufiger∙Bericht∙zur∙Patentfähigkeit∙nach∙Kapitel◦I}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_II_13:de:xml#GA_C_II_13~Internationaler∙vorläufiger∙Bericht∙zur∙Patentfähigkeit∙nach∙Kapitel◦I}"
+ },
+ {
+  "text": "Wann∙führt∙das∙EPA∙keine∙(vollständige)∙Recherche∙durch?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 94,
+  "name": "S15087",
+  "unit": "{Wann∙führt∙das∙EPA∙keine∙(vollständige)∙Recherche∙durch?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_1:de:xml#GA_C_III_1~Wann∙führt∙das∙EPA∙keine∙(vollständige)∙Recherche∙durch?}"
+ },
+ {
+  "text": "Keine∙Recherche",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 95,
+  "name": "S15088",
+  "unit": "{Keine∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_2:de:xml#GA_C_III_2~Keine∙Recherche}"
+ },
+ {
+  "text": "Unvollständige∙Recherche",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 96,
+  "name": "S15089",
+  "unit": "{Unvollständige∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_3:de:xml#GA_C_III_3~Unvollständige∙Recherche}"
+ },
+ {
+  "text": "Beschränkungen∙in∙Bezug∙auf∙den∙Gegenstand",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 97,
+  "name": "S15090",
+  "unit": "{Beschränkungen∙in∙Bezug∙auf∙den∙Gegenstand}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_4:de:xml#GA_C_III_4~Beschränkungen∙in∙Bezug∙auf∙den∙Gegenstand}"
+ },
+ {
+  "text": "Geschäftsmethoden",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 98,
+  "name": "S15091",
+  "unit": "{Geschäftsmethoden}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_5:de:xml#GA_C_III_5~Geschäftsmethoden}"
+ },
+ {
+  "text": "Komplexe∙Anmeldungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 99,
+  "name": "S15092",
+  "unit": "{Komplexe∙Anmeldungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_6:de:xml#GA_C_III_6~Komplexe∙Anmeldungen}"
+ },
+ {
+  "text": "Nucleotid-∙und∙Aminosäuresequenzen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 100,
+  "name": "S15093",
+  "unit": "{Nucleotid-∙und∙Aminosäuresequenzen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_7:de:xml#GA_C_III_7~Nucleotid-∙und∙Aminosäuresequenzen}"
+ },
+ {
+  "text": "Mangelnde∙Einheitlichkeit∙der∙Erfindung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 101,
+  "name": "S15094",
+  "unit": "{Mangelnde∙Einheitlichkeit∙der∙Erfindung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_8:de:xml#GA_C_III_8~Mangelnde∙Einheitlichkeit∙der∙Erfindung}"
+ },
+ {
+  "text": "Aufeinanderfolge∙von∙Einwänden∙wegen∙mangelnder∙Einheitlichkeit",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 102,
+  "name": "S15095",
+  "unit": "{Aufeinanderfolge∙von∙Einwänden∙wegen∙mangelnder∙Einheitlichkeit}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_9:de:xml#GA_C_III_9~Aufeinanderfolge∙von∙Einwänden∙wegen∙mangelnder∙Einheitlichkeit}"
+ },
+ {
+  "text": "Rechtsfolgen∙bei∙Nichtentrichtung∙zusätzlicher∙Gebühren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 103,
+  "name": "S15096",
+  "unit": "{Rechtsfolgen∙bei∙Nichtentrichtung∙zusätzlicher∙Gebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_10:de:xml#GA_C_III_10~Rechtsfolgen∙bei∙Nichtentrichtung∙zusätzlicher∙Gebühren}"
+ },
+ {
+  "text": "Widerspruchsverfahren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 104,
+  "name": "S15097",
+  "unit": "{Widerspruchsverfahren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_11:de:xml#GA_C_III_11~Widerspruchsverfahren}"
+ },
+ {
+  "text": "Einstufiges∙Widerspruchsverfahren",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 105,
+  "name": "S15098",
+  "unit": "{Einstufiges∙Widerspruchsverfahren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_III_12:de:xml#GA_C_III_12~Einstufiges∙Widerspruchsverfahren}"
+ },
+ {
+  "text": "Umfang∙und∙Beschränkungen∙der∙SIS",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 108,
+  "name": "S15099",
+  "unit": "{Umfang∙und∙Beschränkungen∙der∙SIS}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_IV_2:de:xml#GA_C_IV_2~Umfang∙und∙Beschränkungen∙der∙SIS}"
+ },
+ {
+  "text": "Erfordernisse∙für∙die∙Einreichung∙eines∙SIS-Antrags",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 109,
+  "name": "S15100",
+  "unit": "{Erfordernisse∙für∙die∙Einreichung∙eines∙SIS-Antrags}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_IV_3:de:xml#GA_C_IV_3~Erfordernisse∙für∙die∙Einreichung∙eines∙SIS-Antrags}"
+ },
+ {
+  "text": "Vertretung∙vor∙dem∙EPA∙als∙SISA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 110,
+  "name": "S15101",
+  "unit": "{Vertretung∙vor∙dem∙EPA∙als∙SISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_C_IV_4:de:xml#GA_C_IV_4~Vertretung∙vor∙dem∙EPA∙als∙SISA}"
+ },
+ {
+  "text": "Zuständigkeit∙des∙EPA∙als∙IPEA",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 117,
+  "name": "S15105",
+  "unit": "{Zuständigkeit∙des∙EPA∙als∙IPEA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_4:de:xml#GA_D_I_4~Zuständigkeit∙des∙EPA∙als∙IPEA}"
+ },
+ {
+  "text": "Das∙EPA∙oder∙eine∙europäische∙ISA∙war∙als∙ISA∙tätig",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 119,
+  "name": "S15106",
+  "unit": "{Das∙EPA∙oder∙eine∙europäische∙ISA∙war∙als∙ISA∙tätig}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_6:de:xml#GA_D_I_6~Das∙EPA∙oder∙eine∙europäische∙ISA∙war∙als∙ISA∙tätig}"
+ },
+ {
+  "text": "Wahlmöglichkeit∙des∙Anmelders",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 120,
+  "name": "S15107",
+  "unit": "{Wahlmöglichkeit∙des∙Anmelders}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_7:de:xml#GA_D_I_7~Wahlmöglichkeit∙des∙Anmelders}"
+ },
+ {
+  "text": "Verlängerung∙der∙Frist∙für∙den∙Eintritt∙in∙die∙nationale∙Phase∙bis∙zum∙Ablauf∙von∙30∙Monaten",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 126,
+  "name": "S15112",
+  "unit": "{Verlängerung∙der∙Frist∙für∙den∙Eintritt∙in∙die∙nationale∙Phase∙bis∙zum∙Ablauf∙von∙30∙Monaten}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_13:de:xml#GA_D_I_13~Verlängerung∙der∙Frist∙für∙den∙Eintritt∙in∙die∙nationale∙Phase∙bis∙zum∙Ablauf∙von∙30∙Monaten}"
+ },
+ {
+  "text": "Frist∙für∙die∙Erstellung∙des∙IPER",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 127,
+  "name": "S15113",
+  "unit": "{Frist∙für∙die∙Erstellung∙des∙IPER}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_14:de:xml#GA_D_I_14~Frist∙für∙die∙Erstellung∙des∙IPER}"
+ },
+ {
+  "text": "Übersetzung∙der∙internationalen∙Anmeldung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 128,
+  "name": "S15114",
+  "unit": "{Übersetzung∙der∙internationalen∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_15:de:xml#GA_D_I_15~Übersetzung∙der∙internationalen∙Anmeldung}"
+ },
+ {
+  "text": "In∙Niederländisch∙eingereichte∙Anmeldungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 129,
+  "name": "S15115",
+  "unit": "{In∙Niederländisch∙eingereichte∙Anmeldungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_16:de:xml#GA_D_I_16~In∙Niederländisch∙eingereichte∙Anmeldungen}"
+ },
+ {
+  "text": "Sprache∙des∙Antrags",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 130,
+  "name": "S15116",
+  "unit": "{Sprache∙des∙Antrags}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_17:de:xml#GA_D_I_17~Sprache∙des∙Antrags}"
+ },
+ {
+  "text": "Vertretung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 132,
+  "name": "S15117",
+  "unit": "{Vertretung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_19:de:xml#GA_D_I_19~Vertretung}"
+ },
+ {
+  "text": "Welche∙Staaten∙können∙ausgewählt∙werden?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 133,
+  "name": "S15118",
+  "unit": "{Welche∙Staaten∙können∙ausgewählt∙werden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_20:de:xml#GA_D_I_20~Welche∙Staaten∙können∙ausgewählt∙werden?}"
+ },
+ {
+  "text": "Gebührenermäßigungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 136,
+  "name": "S15119",
+  "unit": "{Gebührenermäßigungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_23:de:xml#GA_D_I_23~Gebührenermäßigungen}"
+ },
+ {
+  "text": "Folgen∙unterbliebener∙oder∙verspäteter∙Gebührenzahlung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 137,
+  "name": "S15120",
+  "unit": "{Folgen∙unterbliebener∙oder∙verspäteter∙Gebührenzahlung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_24:de:xml#GA_D_I_24~Folgen∙unterbliebener∙oder∙verspäteter∙Gebührenzahlung}"
+ },
+ {
+  "text": "Mängel∙im∙Antrag∙und∙Möglichkeiten∙zu∙ihrer∙Behebung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 139,
+  "name": "S15122",
+  "unit": "{Mängel∙im∙Antrag∙und∙Möglichkeiten∙zu∙ihrer∙Behebung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_I_26:de:xml#GA_D_I_26~Mängel∙im∙Antrag∙und∙Möglichkeiten∙zu∙ihrer∙Behebung}"
+ },
+ {
+  "text": "Änderungen",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 142,
+  "name": "S15124",
+  "unit": "{Änderungen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_2:de:xml#GA_D_II_2~Änderungen}"
+ },
+ {
+  "text": "Der∙erste∙schriftliche∙Bescheid",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 144,
+  "name": "S15125",
+  "unit": "{Der∙erste∙schriftliche∙Bescheid}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_4:de:xml#GA_D_II_4~Der∙erste∙schriftliche∙Bescheid}"
+ },
+ {
+  "text": "Der∙zweite∙schriftliche∙Bescheid",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 145,
+  "name": "S15126",
+  "unit": "{Der∙zweite∙schriftliche∙Bescheid}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_5:de:xml#GA_D_II_5~Der∙zweite∙schriftliche∙Bescheid}"
+ },
+ {
+  "text": "Das∙EPA∙war∙nicht∙als∙ISA∙tätig",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 146,
+  "name": "S15127",
+  "unit": "{Das∙EPA∙war∙nicht∙als∙ISA∙tätig}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_6:de:xml#GA_D_II_6~Das∙EPA∙war∙nicht∙als∙ISA∙tätig}"
+ },
+ {
+  "text": "Erster∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙keine∙Einwände∙erhoben",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 148,
+  "name": "S15129",
+  "unit": "{Erster∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙keine∙Einwände∙erhoben}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_8:de:xml#GA_D_II_8~Erster∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙keine∙Einwände∙erhoben}"
+ },
+ {
+  "text": "Zweiter∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙Einwände∙erhoben",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 149,
+  "name": "S15130",
+  "unit": "{Zweiter∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙Einwände∙erhoben}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_9:de:xml#GA_D_II_9~Zweiter∙Fall:∙Das∙EPA∙war∙ISA∙und∙hat∙Einwände∙erhoben}"
+ },
+ {
+  "text": "Dritter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙keine∙Einwände",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 150,
+  "name": "S15131",
+  "unit": "{Dritter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙keine∙Einwände}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_10:de:xml#GA_D_II_10~Dritter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙keine∙Einwände}"
+ },
+ {
+  "text": "Vierter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙Einwände",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 151,
+  "name": "S15132",
+  "unit": "{Vierter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙Einwände}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_11:de:xml#GA_D_II_11~Vierter∙Fall:∙Das∙EPA∙war∙nicht∙ISA∙und∙erhebt∙als∙IPEA∙Einwände}"
+ },
+ {
+  "text": "Frist∙für∙die∙Stellungnahme∙zum∙schriftlichen∙Bescheid",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 152,
+  "name": "S15133",
+  "unit": "{Frist∙für∙die∙Stellungnahme∙zum∙schriftlichen∙Bescheid}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_12:de:xml#GA_D_II_12~Frist∙für∙die∙Stellungnahme∙zum∙schriftlichen∙Bescheid}"
+ },
+ {
+  "text": "Kontakte∙zwischen∙Anmelder∙und∙EPA∙während∙des∙Verfahrens",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 155,
+  "name": "S15136",
+  "unit": "{Kontakte∙zwischen∙Anmelder∙und∙EPA∙während∙des∙Verfahrens}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_15:de:xml#GA_D_II_15~Kontakte∙zwischen∙Anmelder∙und∙EPA∙während∙des∙Verfahrens}"
+ },
+ {
+  "text": "Einheitlichkeit∙der∙Erfindung",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 157,
+  "name": "S15137",
+  "unit": "{Einheitlichkeit∙der∙Erfindung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_17:de:xml#GA_D_II_17~Einheitlichkeit∙der∙Erfindung}"
+ },
+ {
+  "text": "Was∙ist∙nach∙Erhalt∙des∙IPER∙zu∙tun?",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 158,
+  "name": "S15138",
+  "unit": "{Was∙ist∙nach∙Erhalt∙des∙IPER∙zu∙tun?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_D_II_18:de:xml#GA_D_II_18~Was∙ist∙nach∙Erhalt∙des∙IPER∙zu∙tun?}"
+ },
+ {
+  "text": "Anhang∙I",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "referringId": "guiapp2:TITLE",
+  "relativeParagraph": 160,
+  "name": "S15140",
+  "unit": "{Anhang∙I}",
+  "value": "{ep-legal:countries:EP::guiapp2:2011:1:1.0:electronicproofer:GA_AI:de:xml#GA_AI~Anhang∙I}"
+ },
+ {
+  "text": "Antrag∙auf∙telefonische∙Rücksprache",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 154,
+  "name": "S15141",
+  "unit": "{Antrag∙auf∙telefonische∙Rücksprache}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_D_II_15:de:xml#GA_D_II_15~Antrag∙auf∙telefonische∙Rücksprache}"
+ },
+ {
+  "text": "Wann∙ist∙das∙EPA∙Bestimmungsamt∙oder∙ausgewähltes∙Amt?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 161,
+  "name": "S15142",
+  "unit": "{Wann∙ist∙das∙EPA∙Bestimmungsamt∙oder∙ausgewähltes∙Amt?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_1:de:xml#GA_E_I_1~Wann∙ist∙das∙EPA∙Bestimmungsamt∙oder∙ausgewähltes∙Amt?}"
+ },
+ {
+  "text": "Wann∙kann∙das∙EPA∙als∙Bestimmungsamt∙tätig∙werden?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 162,
+  "name": "S15143",
+  "unit": "{Wann∙kann∙das∙EPA∙als∙Bestimmungsamt∙tätig∙werden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_2:de:xml#GA_E_I_2~Wann∙kann∙das∙EPA∙als∙Bestimmungsamt∙tätig∙werden?}"
+ },
+ {
+  "text": "Wann∙kann∙das∙EPA∙als∙ausgewähltes∙Amt∙tätig∙werden?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 163,
+  "name": "S15144",
+  "unit": "{Wann∙kann∙das∙EPA∙als∙ausgewähltes∙Amt∙tätig∙werden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_3:de:xml#GA_E_I_3~Wann∙kann∙das∙EPA∙als∙ausgewähltes∙Amt∙tätig∙werden?}"
+ },
+ {
+  "text": "Wann∙muss∙der∙Anmelder∙über∙den∙Schutzumfang∙des∙europäischen∙Patents∙entscheiden?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 164,
+  "name": "S15145",
+  "unit": "{Wann∙muss∙der∙Anmelder∙über∙den∙Schutzumfang∙des∙europäischen∙Patents∙entscheiden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_4:de:xml#GA_E_I_4~Wann∙muss∙der∙Anmelder∙über∙den∙Schutzumfang∙des∙europäischen∙Patents∙entscheiden?}"
+ },
+ {
+  "text": "Wann∙muss∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙ausgewähltem∙Amt∙eingeleitet∙werden?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 165,
+  "name": "S15146",
+  "unit": "{Wann∙muss∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙ausgewähltem∙Amt∙eingeleitet∙werden?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_5:de:xml#GA_E_I_5~Wann∙muss∙die∙europäische∙Phase∙vor∙dem∙EPA∙als∙Bestimmungsamt∙oder∙ausgewähltem∙Amt∙eingeleitet∙werden?}"
+ },
+ {
+  "text": "Verfahrenssprache∙in∙der∙europäischen∙Phase",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 166,
+  "name": "S15147",
+  "unit": "{Verfahrenssprache∙in∙der∙europäischen∙Phase}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_6:de:xml#GA_E_I_6~Verfahrenssprache∙in∙der∙europäischen∙Phase}"
+ },
+ {
+  "text": "Wie∙und∙wo∙sollte∙der∙Anmelder∙das∙Verfahren∙vor∙dem∙EPA∙als∙Bestimmungsamt/ausgewähltem∙Amt∙einleiten∙(Formblatt∙1200)?",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 167,
+  "name": "S15148",
+  "unit": "{Wie∙und∙wo∙sollte∙der∙Anmelder∙das∙Verfahren∙vor∙dem∙EPA∙als∙Bestimmungsamt/ausgewähltem∙Amt∙einleiten∙(Formblatt∙1200)?}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_7:de:xml#GA_E_I_7~Wie∙und∙wo∙sollte∙der∙Anmelder∙das∙Verfahren∙vor∙dem∙EPA∙als∙Bestimmungsamt/ausgewähltem∙Amt∙einleiten∙(Formblatt∙1200)?}"
+ },
+ {
+  "text": "Antrag∙auf∙vorzeitige∙Bearbeitung",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 168,
+  "name": "S15149",
+  "unit": "{Antrag∙auf∙vorzeitige∙Bearbeitung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_8:de:xml#GA_E_I_8~Antrag∙auf∙vorzeitige∙Bearbeitung}"
+ },
+ {
+  "text": "PACE-Antrag∙kombiniert∙mit∙Verzicht∙auf∙Mitteilung∙nach∙Regel◦161/162",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 170,
+  "name": "S15151",
+  "unit": "{PACE-Antrag∙kombiniert∙mit∙Verzicht∙auf∙Mitteilung∙nach∙Regel◦161/162}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_I_10:de:xml#GA_E_I_10~PACE-Antrag∙kombiniert∙mit∙Verzicht∙auf∙Mitteilung∙nach∙Regel◦161/162}"
+ },
+ {
+  "text": "Die∙für∙den∙Eintritt∙in∙die∙europäische∙Phase∙zu∙vollziehenden∙Schritte∙im∙Überblick",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 172,
+  "name": "S15152",
+  "unit": "{Die∙für∙den∙Eintritt∙in∙die∙europäische∙Phase∙zu∙vollziehenden∙Schritte∙im∙Überblick}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_II_1:de:xml#GA_E_II_1~Die∙für∙den∙Eintritt∙in∙die∙europäische∙Phase∙zu∙vollziehenden∙Schritte∙im∙Überblick}"
+ },
+ {
+  "text": "Mindesterfordernisse",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 173,
+  "name": "S15153",
+  "unit": "{Mindesterfordernisse}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_II_2:de:xml#GA_E_II_2~Mindesterfordernisse}"
+ },
+ {
+  "text": "Weitere∙Erfordernisse",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 174,
+  "name": "S15154",
+  "unit": "{Weitere∙Erfordernisse}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_II_3:de:xml#GA_E_II_3~Weitere∙Erfordernisse}"
+ },
+ {
+  "text": "Höhe∙der∙in∙der∙europäischen∙Phase∙zu∙entrichtenden∙Gebühren",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 175,
+  "name": "S15155",
+  "unit": "{Höhe∙der∙in∙der∙europäischen∙Phase∙zu∙entrichtenden∙Gebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_II_4:de:xml#GA_E_II_4~Höhe∙der∙in∙der∙europäischen∙Phase∙zu∙entrichtenden∙Gebühren}"
+ },
+ {
+  "text": "Nichterfüllung∙des∙Erfordernisses,∙einen∙zugelassenen∙Vertreter∙zu∙bestellen",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 178,
+  "name": "S15157",
+  "unit": "{Nichterfüllung∙des∙Erfordernisses,∙einen∙zugelassenen∙Vertreter∙zu∙bestellen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_III_2:de:xml#GA_E_III_2~Nichterfüllung∙des∙Erfordernisses,∙einen∙zugelassenen∙Vertreter∙zu∙bestellen}"
+ },
+ {
+  "text": "Bestellung∙eines∙Vertreters∙-∙Vollmacht",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 179,
+  "name": "S15158",
+  "unit": "{Bestellung∙eines∙Vertreters∙-∙Vollmacht}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_III_3:de:xml#GA_E_III_3~Bestellung∙eines∙Vertreters∙-∙Vollmacht}"
+ },
+ {
+  "text": "Auskünfte∙über∙den∙Stand∙der∙Technik∙(Formblatt∙1200,∙Feld◦6.3)",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 182,
+  "name": "S15160",
+  "unit": "{Auskünfte∙über∙den∙Stand∙der∙Technik∙(Formblatt∙1200,∙Feld◦6.3)}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_2:de:xml#GA_E_IV_2~Auskünfte∙über∙den∙Stand∙der∙Technik∙(Formblatt∙1200,∙Feld◦6.3)}"
+ },
+ {
+  "text": "Änderung∙der∙Anmeldung∙-∙Mitteilung∙nach∙Regel◦161/162",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 183,
+  "name": "S15161",
+  "unit": "{Änderung∙der∙Anmeldung∙-∙Mitteilung∙nach∙Regel◦161/162}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_3:de:xml#GA_E_IV_3~Änderung∙der∙Anmeldung∙-∙Mitteilung∙nach∙Regel◦161/162}"
+ },
+ {
+  "text": "Verzicht∙auf∙die∙Mitteilung∙nach∙Regel◦161/162",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 184,
+  "name": "S15162",
+  "unit": "{Verzicht∙auf∙die∙Mitteilung∙nach∙Regel◦161/162}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_4:de:xml#GA_E_IV_4~Verzicht∙auf∙die∙Mitteilung∙nach∙Regel◦161/162}"
+ },
+ {
+  "text": "Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙eine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 185,
+  "name": "S15163",
+  "unit": "{Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙eine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_5:de:xml#GA_E_IV_5~Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙eine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}"
+ },
+ {
+  "text": "Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 186,
+  "name": "S15164",
+  "unit": "{Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_6:de:xml#GA_E_IV_6~Änderungen∙und∙die∙Mitteilung∙nach∙Regel∙161/162,∙wenn∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}"
+ },
+ {
+  "text": "Änderungen∙und∙Anspruchsgebühren",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 187,
+  "name": "S15165",
+  "unit": "{Änderungen∙und∙Anspruchsgebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IV_7:de:xml#GA_E_IV_7~Änderungen∙und∙Anspruchsgebühren}"
+ },
+ {
+  "text": "Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anmeldung",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 190,
+  "name": "S15167",
+  "unit": "{Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anmeldung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_V_2:de:xml#GA_E_V_2~Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anmeldung}"
+ },
+ {
+  "text": "Was∙die∙Übersetzung∙enthalten∙muss",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 191,
+  "name": "S15168",
+  "unit": "{Was∙die∙Übersetzung∙enthalten∙muss}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_V_3:de:xml#GA_E_V_3~Was∙die∙Übersetzung∙enthalten∙muss}"
+ },
+ {
+  "text": "Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anlagen∙zum∙IPER",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 192,
+  "name": "S15169",
+  "unit": "{Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anlagen∙zum∙IPER}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_V_4:de:xml#GA_E_V_4~Folgen∙der∙Nichteinreichung∙einer∙Übersetzung∙der∙Anlagen∙zum∙IPER}"
+ },
+ {
+  "text": "Biologisches∙Material∙(Formblatt∙1200,∙Feld∙8)",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 194,
+  "name": "S15170",
+  "unit": "{Biologisches∙Material∙(Formblatt∙1200,∙Feld∙8)}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VI_1:de:xml#GA_E_VI_1~Biologisches∙Material∙(Formblatt∙1200,∙Feld∙8)}"
+ },
+ {
+  "text": "Nucleotid-∙und∙Aminosäuresequenzen∙(Formblatt◦1200,∙Feld◦9)",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 196,
+  "name": "S15172",
+  "unit": "{Nucleotid-∙und∙Aminosäuresequenzen∙(Formblatt◦1200,∙Feld◦9)}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VI_3:de:xml#GA_E_VI_3~Nucleotid-∙und∙Aminosäuresequenzen∙(Formblatt◦1200,∙Feld◦9)}"
+ },
+ {
+  "text": "Folgen∙der∙Nichteinreichung∙eines∙Sequenzprotokolls",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 197,
+  "name": "S15173",
+  "unit": "{Folgen∙der∙Nichteinreichung∙eines∙Sequenzprotokolls}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VI_4:de:xml#GA_E_VI_4~Folgen∙der∙Nichteinreichung∙eines∙Sequenzprotokolls}"
+ },
+ {
+  "text": "Seitengebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 199,
+  "name": "S15174",
+  "unit": "{Seitengebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VII_1:de:xml#GA_E_VII_1~Seitengebühr}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Anmeldegebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 200,
+  "name": "S15175",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Anmeldegebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VII_2:de:xml#GA_E_VII_2~Versäumung∙der∙Zahlungsfrist∙für∙die∙Anmeldegebühr}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Benennungsgebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 202,
+  "name": "S15176",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Benennungsgebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VIII_1:de:xml#GA_E_VIII_1~Versäumung∙der∙Zahlungsfrist∙für∙die∙Benennungsgebühr}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Erstreckungsgebühren",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 204,
+  "name": "S15178",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Erstreckungsgebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_VIII_3:de:xml#GA_E_VIII_3~Versäumung∙der∙Zahlungsfrist∙für∙die∙Erstreckungsgebühren}"
+ },
+ {
+  "text": "Fälle,∙in∙denen∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 206,
+  "name": "S15179",
+  "unit": "{Fälle,∙in∙denen∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IX_1:de:xml#GA_E_IX_1~Fälle,∙in∙denen∙keine∙ergänzende∙europäische∙Recherche∙durchgeführt∙wird}"
+ },
+ {
+  "text": "Recherchengebühr∙für∙die∙ergänzende∙europäische∙Recherche",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 208,
+  "name": "S15181",
+  "unit": "{Recherchengebühr∙für∙die∙ergänzende∙europäische∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IX_3:de:xml#GA_E_IX_3~Recherchengebühr∙für∙die∙ergänzende∙europäische∙Recherche}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Recherchengebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 211,
+  "name": "S15182",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Recherchengebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_IX_6:de:xml#GA_E_IX_6~Versäumung∙der∙Zahlungsfrist∙für∙die∙Recherchengebühr}"
+ },
+ {
+  "text": "Ermäßigung,∙wenn∙der∙IPER∙vom∙EPA∙erstellt∙wurde",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 216,
+  "name": "S15186",
+  "unit": "{Ermäßigung,∙wenn∙der∙IPER∙vom∙EPA∙erstellt∙wurde}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_X_4:de:xml#GA_E_X_4~Ermäßigung,∙wenn∙der∙IPER∙vom∙EPA∙erstellt∙wurde}"
+ },
+ {
+  "text": "Jahresgebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 219,
+  "name": "S15188",
+  "unit": "{Jahresgebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XI_1:de:xml#GA_E_XI_1~Jahresgebühr}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Jahresgebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 220,
+  "name": "S15189",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Jahresgebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XI_2:de:xml#GA_E_XI_2~Versäumung∙der∙Zahlungsfrist∙für∙die∙Jahresgebühr}"
+ },
+ {
+  "text": "Anspruchsgebühren",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 221,
+  "name": "S15190",
+  "unit": "{Anspruchsgebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XI_3:de:xml#GA_E_XI_3~Anspruchsgebühren}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Anspruchsgebühr",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 222,
+  "name": "S15191",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Anspruchsgebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XI_4:de:xml#GA_E_XI_4~Versäumung∙der∙Zahlungsfrist∙für∙die∙Anspruchsgebühr}"
+ },
+ {
+  "text": "Fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 224,
+  "name": "S15192",
+  "unit": "{Fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XII_1:de:xml#GA_E_XII_1~Fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder}"
+ },
+ {
+  "text": "Nichterfüllung∙des∙Erfordernisses,∙fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder∙einzureichen",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 225,
+  "name": "S15193",
+  "unit": "{Nichterfüllung∙des∙Erfordernisses,∙fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder∙einzureichen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XII_2:de:xml#GA_E_XII_2~Nichterfüllung∙des∙Erfordernisses,∙fehlende∙Angaben∙zum∙Erfinder∙oder∙zu∙einem∙Anmelder∙einzureichen}"
+ },
+ {
+  "text": "Ausstellungsbescheinigung",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 226,
+  "name": "S15194",
+  "unit": "{Ausstellungsbescheinigung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XII_3:de:xml#GA_E_XII_3~Ausstellungsbescheinigung}"
+ },
+ {
+  "text": "Nichterfüllung∙des∙Erfordernisses,∙eine∙Abschrift∙oder∙das∙Aktenzeichen∙einzureichen",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 229,
+  "name": "S15196",
+  "unit": "{Nichterfüllung∙des∙Erfordernisses,∙eine∙Abschrift∙oder∙das∙Aktenzeichen∙einzureichen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XIII_2:de:xml#GA_E_XIII_2~Nichterfüllung∙des∙Erfordernisses,∙eine∙Abschrift∙oder∙das∙Aktenzeichen∙einzureichen}"
+ },
+ {
+  "text": "Nichterfüllung∙des∙Erfordernisses,∙eine∙Übersetzung∙oder∙Erklärung∙einzureichen",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 231,
+  "name": "S15198",
+  "unit": "{Nichterfüllung∙des∙Erfordernisses,∙eine∙Übersetzung∙oder∙Erklärung∙einzureichen}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XIII_4:de:xml#GA_E_XIII_4~Nichterfüllung∙des∙Erfordernisses,∙eine∙Übersetzung∙oder∙Erklärung∙einzureichen}"
+ },
+ {
+  "text": "Keine∙ergänzende∙Recherche:∙EPA∙war∙ISA",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 235,
+  "name": "S15200",
+  "unit": "{Keine∙ergänzende∙Recherche:∙EPA∙war∙ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XV_1:de:xml#GA_E_XV_1~Keine∙ergänzende∙Recherche:∙EPA∙war∙ISA}"
+ },
+ {
+  "text": "Durchführung∙einer∙ergänzenden∙Recherche:∙EPA∙war∙nicht∙ISA",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 236,
+  "name": "S15201",
+  "unit": "{Durchführung∙einer∙ergänzenden∙Recherche:∙EPA∙war∙nicht∙ISA}",
+  "value": "{ep-legal:countries:EP::guiapp2:2012:1:1.0:electronicproofer:GA_E_XV_2:de:xml#GA_E_XV_2~Durchführung∙einer∙ergänzenden∙Recherche:∙EPA∙war∙nicht∙ISA}"
+ },
+ {
+  "text": "Abschließende∙Recherche",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 142,
+  "name": "S15202",
+  "unit": "{Abschließende∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2014:1:1.0:electronicproofer:GA_D_II_4:de:xml#GA_D_II_4~Abschließende∙Recherche}"
+ },
+ {
+  "text": "Einwendungen∙Dritter",
+  "file": "/EP/organization/guiapp2/2014/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 143,
+  "name": "S15203",
+  "unit": "{Einwendungen∙Dritter}",
+  "value": "{ep-legal:countries:EP::guiapp2:2014:1:1.0:electronicproofer:GA_D_II_5:de:xml#GA_D_II_5~Einwendungen∙Dritter}"
+ },
+ {
+  "text": "E-Mails,∙Telegramme,∙Teletex∙und∙Ähnliches",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 31,
+  "name": "S15210",
+  "unit": "{E-Mails,∙Telegramme,∙Teletex∙und∙Ähnliches}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_B_11:de:xml#GA_B_11~E-Mails,∙Telegramme,∙Teletex∙und∙Ähnliches}"
+ },
+ {
+  "text": "Aufhebung∙der∙Zuständigkeitsbeschränkung",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 73,
+  "name": "S15212",
+  "unit": "{Aufhebung∙der∙Zuständigkeitsbeschränkung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_C_I_4:de:xml#GA_C_I_4~Aufhebung∙der∙Zuständigkeitsbeschränkung}"
+ },
+ {
+  "text": "Zusätzliche∙Recherche",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 146,
+  "name": "S15214",
+  "unit": "{Zusätzliche∙Recherche}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_D_II_4:de:xml#GA_D_II_4~Zusätzliche∙Recherche}"
+ },
+ {
+  "text": "Berichtigung∙von∙Fehlern∙des∙Anmeldeamts∙oder∙des∙IB",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 241,
+  "name": "S15217",
+  "unit": "{Berichtigung∙von∙Fehlern∙des∙Anmeldeamts∙oder∙des∙IB}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_E_XIV_3:de:xml#GA_E_XIV_3~Berichtigung∙von∙Fehlern∙des∙Anmeldeamts∙oder∙des∙IB}"
+ },
+ {
+  "text": "Ergänzende∙europäische∙Recherche∙ist∙durchzuführen:∙EPA∙war∙nicht∙als∙(S)ISA∙tätig",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 243,
+  "name": "S15218",
+  "unit": "{Ergänzende∙europäische∙Recherche∙ist∙durchzuführen:∙EPA∙war∙nicht∙als∙(S)ISA∙tätig}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_E_XV_1:de:xml#GA_E_XV_1~Ergänzende∙europäische∙Recherche∙ist∙durchzuführen:∙EPA∙war∙nicht∙als∙(S)ISA∙tätig}"
+ },
+ {
+  "text": "Keine∙ergänzende∙Recherche∙durchgeführt:∙EPA∙war∙als∙(S)ISA∙tätig",
+  "file": "/EP/organization/guiapp2/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 244,
+  "name": "S15219",
+  "unit": "{Keine∙ergänzende∙Recherche∙durchgeführt:∙EPA∙war∙als∙(S)ISA∙tätig}",
+  "value": "{ep-legal:countries:EP::guiapp2:2015:1:1.0:electronicproofer:GA_E_XV_2:de:xml#GA_E_XV_2~Keine∙ergänzende∙Recherche∙durchgeführt:∙EPA∙war∙als∙(S)ISA∙tätig}"
+ },
+ {
+  "text": "Validierung",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 50,
+  "name": "S15220",
+  "unit": "{Validierung}",
+  "value": "{ep-legal:countries:EP::guiapp2:2016:1:1.0:electronicproofer:GA_B_31:de:xml#GA_B_31~Validierung}"
+ },
+ {
+  "text": "Rückerstattung∙der∙internationalen∙Recherchengebühr",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 57,
+  "name": "S15221",
+  "unit": "{Rückerstattung∙der∙internationalen∙Recherchengebühr}",
+  "value": "{ep-legal:countries:EP::guiapp2:2016:1:1.0:electronicproofer:GA_B_38:de:xml#GA_B_38~Rückerstattung∙der∙internationalen∙Recherchengebühr}"
+ },
+ {
+  "text": "Versäumung∙der∙Zahlungsfrist∙für∙die∙Validierungsgebühren",
+  "file": "/EP/organization/guiapp2/2016/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 209,
+  "name": "S15223",
+  "unit": "{Versäumung∙der∙Zahlungsfrist∙für∙die∙Validierungsgebühren}",
+  "value": "{ep-legal:countries:EP::guiapp2:2016:1:1.0:electronicproofer:GA_E_VIII_4:de:xml#GA_E_VIII_4~Versäumung∙der∙Zahlungsfrist∙für∙die∙Validierungsgebühren}"
+ },
+ {
+  "text": "E-Mails,∙Telegramme,∙TeletexTelex∙und∙Ähnliches",
+  "file": "/EP/organization/guiapp2/2017/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 29,
+  "name": "S15224",
+  "unit": "{E-Mails,∙Telegramme,∙TeletexTelex∙und∙Ähnliches}",
+  "value": "{ep-legal:countries:EP::guiapp2:2017:1:1.0:electronicproofer:GA_B_11:de:xml#GA_B_11~E-Mails,∙Telegramme,∙TeletexTelex∙und∙Ähnliches}"
+ },
+ {
+  "text": "Einreichung∙andererweiterer∙Schriftstücke",
+  "file": "/EP/organization/guiapp2/2017/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 30,
+  "name": "S15225",
+  "unit": "{Einreichung∙andererweiterer∙Schriftstücke}",
+  "value": "{ep-legal:countries:EP::guiapp2:2017:1:1.0:electronicproofer:GA_B_12:de:xml#GA_B_12~Einreichung∙andererweiterer∙Schriftstücke}"
+ }
+]

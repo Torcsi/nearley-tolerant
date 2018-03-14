@@ -1,0 +1,38 @@
+[
+ {
+  "text": "FEE∙Article◦5,∙paragraph∙1(a)∙and∙FEE∙Article◦5,∙paragraph∙1(b)",
+  "unit": "{FEE∙Article◦5,∙paragraph∙1(a)}∙and∙{FEE∙Article◦5,∙paragraph∙1(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:5_1_a:en:docx:rfees::5#5_1_a~FEE∙Article◦5,∙paragraph∙1(a)}∙and∙{ep-legal:countries:EP::EPC:2001:1::internet:5_1_b:en:docx:rfees::5#5_1_b~FEE∙Article◦5,∙paragraph∙1(b)}",
+  "name": "M69136",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/en/rfees.eplegal.zip",
+  "referringId": "6_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦2,∙item∙3∙RRF,∙Article◦2,∙item∙3a∙RRF,∙Article◦2,∙item∙7∙RRF∙and∙Article◦2,∙item∙15∙RRF",
+  "unit": "{Article◦2,∙item∙3∙RRF},∙{Article◦2,∙item∙3a∙RRF},∙{Article◦2,∙item∙7∙RRF}∙and∙{Article◦2,∙item∙15∙RRF}",
+  "value": "{ep-legal:countries:EP::EPC:2011:1::internet:2:en:docx:rfees::#2~Article◦2,∙item∙3∙RRF},∙{ep-legal:countries:EP::EPC:2011:1::internet:2:en:docx:rfees::#2~Article◦2,∙item∙3a∙RRF},∙{ep-legal:countries:EP::EPC:2011:1::internet:2:en:docx:rfees::#2~Article◦2,∙item∙7∙RRF}∙and∙{ep-legal:countries:EP::EPC:2011:1::internet:2:en:docx:rfees::#2~Article◦2,∙item∙15∙RRF}",
+  "name": "M70148",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2011/1/internet/en/rfees.eplegal.zip",
+  "referringId": "2_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦2,∙item◦3∙RFees,∙Article◦2,∙item◦3a∙RFees,∙Article∙2∙item◦7∙RFees∙and∙Article∙2,∙item◦15∙of∙the∙Rules∙relating∙to∙Fees",
+  "unit": "{Article◦2,∙item◦3∙RFees},∙{Article◦2,∙item◦3a∙RFees},∙{Article∙2∙item◦7∙RFees}∙and∙{Article∙2,∙item◦15∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1.0::internet:2:en:docx:rfees::#2~Article◦2,∙item◦3∙RFees},∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:en:docx:rfees::#2~Article◦2,∙item◦3a∙RFees},∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:en:docx:rfees::#2~Article∙2∙item◦7∙RFees}∙and∙{ep-legal:countries:EP::EPC:2014:1.0::internet:2:en:docx:rfees::#2~Article∙2,∙item◦15∙of∙the∙Rules∙relating∙to∙Fees}",
+  "name": "M70244",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2014/1.0/internet/en/rfees.eplegal.zip",
+  "referringId": "2_2",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦9(1)∙and∙11(b)∙of∙the∙Rules∙relating∙to∙Fees",
+  "unit": "{Articles◦9(1)}∙and∙{11(b)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2014:1.0::internet:9_1:en:docx:rfees::9#9_1~Articles◦9(1)}∙and∙{ep-legal:countries:EP::EPC:2014:1.0::internet:11_b:en:docx:rfees::11#11_b~11(b)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "name": "M70252",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2014/1.0/internet/en/rfees.eplegal.zip",
+  "referringId": "11",
+  "relativeParagraph": 1
+ }
+]

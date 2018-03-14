@@ -1,0 +1,65 @@
+[
+ {
+  "text": "JO◦2004,∙413∙et∙448",
+  "unit": "{JO◦2004,∙413}∙et∙{448}",
+  "value": "{ep-legal:countries:EP::OJ:2004:08-09::internet:OJ_2004_413:fr:docx:OJ_2004_413::#OJ_2004_413~JO◦2004,∙413}∙et∙{ep-legal:countries:EP::OJ:2004:08-09::internet:OJ_2004_448:fr:docx:OJ_2004_448::#OJ_2004_448~448}",
+  "name": "M00580",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_D_8_14",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "JO◦2004,◦413◦et◦448",
+  "unit": "{JO◦2004,◦413}◦et◦{448}",
+  "value": "{ep-legal:countries:EP::OJ:2004:08-09::internet:OJ_2004_413:fr:docx:OJ_2004_413::#OJ_2004_413~JO◦2004,◦413}◦et◦{ep-legal:countries:EP::OJ:2004:08-09::internet:OJ_2004_448:fr:docx:OJ_2004_448::#OJ_2004_448~448}",
+  "name": "M00620",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_B_1_2_1_b",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "JO◦1999,∙660∙-∙667",
+  "unit": "{JO◦1999,∙660}∙-∙{667}",
+  "value": "{ep-legal:countries:EP::OJ:1999:11::internet:OJ_1999_660:fr:docx:OJ_1999_660::#OJ_1999_660~JO◦1999,∙660}∙-∙{ep-legal:countries:EP::OJ:1999:11::internet:OJ_1999_660:fr:docx:OJ_1999_660::#OJ_1999_660~667}",
+  "name": "M00664",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_C_6_1",
+  "relativeParagraph": 9
+ },
+ {
+  "text": "JO∙1995,∙409,∙420",
+  "unit": "{JO∙1995,∙409},∙{420}",
+  "value": "{ep-legal:countries:EP::OJ:1995:06::internet:OJ_1995_409:fr:docx:OJ_1995_409::#OJ_1995_409~JO∙1995,∙409},∙{ep-legal:countries:EP::OJ:1995:06::internet:OJ_1995_409:fr:docx:OJ_1995_409::#OJ_1995_409~420}",
+  "name": "M01274",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VII.eplegal.zip",
+  "referringId": "CLR_VII_B_3_5",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "JO◦1995,◦409,∙420",
+  "unit": "{JO◦1995,◦409},∙{420}",
+  "value": "{ep-legal:countries:EP::OJ:1995:06::internet:OJ_1995_409:fr:docx:OJ_1995_409::#OJ_1995_409~JO◦1995,◦409},∙{ep-legal:countries:EP::OJ:1995:06::internet:OJ_1995_409:fr:docx:OJ_1995_409::#OJ_1995_409~420}",
+  "name": "M01278",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VII.eplegal.zip",
+  "referringId": "CLR_VII_B_3_5",
+  "relativeParagraph": 12
+ },
+ {
+  "text": "JO◦2002,◦429∙et∙JO◦2004,◦361",
+  "unit": "{JO◦2002,◦429}∙et∙{JO◦2004,◦361}",
+  "value": "{ep-legal:countries:EP::OJ:2002:08-09::internet:OJ_2002_429:fr:docx:OJ_2002_429::#OJ_2002_429~JO◦2002,◦429}∙et∙{ep-legal:countries:EP::OJ:2004:07::internet:OJ_2004_361:fr:docx:OJ_2004_361::#OJ_2004_361~JO◦2004,◦361}",
+  "name": "M01390",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VIII.eplegal.zip",
+  "referringId": "CLR_VIII_1",
+  "relativeParagraph": 4
+ },
+ {
+  "text": "JO◦1980,◦177∙et∙le∙JO◦1980,◦183",
+  "unit": "{JO◦1980,◦177}∙et∙le∙{JO◦1980,◦183}",
+  "value": "{ep-legal:countries:EP::OJ:1980:07::internet:OJ_1980_177:fr:docx:OJ_1980_177::#OJ_1980_177~JO◦1980,◦177}∙et∙le∙{ep-legal:countries:EP::OJ:1980:07::internet:OJ_1980_183:fr:docx:OJ_1980_183::#OJ_1980_183~JO◦1980,◦183}",
+  "name": "M01392",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VIII.eplegal.zip",
+  "referringId": "CLR_VIII_3",
+  "relativeParagraph": 2
+ }
+]

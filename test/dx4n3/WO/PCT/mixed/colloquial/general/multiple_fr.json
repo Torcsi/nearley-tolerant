@@ -1,0 +1,20 @@
+[
+ {
+  "text": "art.◦34.2)b),∙Règle∙66.3.a),∙Règle∙66.4,∙Règle∙66.4bis","bad":true,
+  "unit": "{art.◦34.2)b)},∙{Règle∙66.3.a)},∙{Règle∙66.4},∙{Règle∙66.4bis}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:34_2_b:fr:docx:treaty:CII:34#34_2_b~art.◦34.2)b)},∙{ep-legal:countries:WO::PCT:2014:1::internet:REG_66_3_a:fr:docx:regulations:REG_C:REG_66#REG_66_3_a~Règle∙66.3.a)},∙{ep-legal:countries:WO::PCT:2014:1::internet:REG_66_4:fr:docx:regulations:REG_C:REG_66#REG_66_4~Règle∙66.4},∙{ep-legal:countries:WO::PCT:2014:1::internet:REG_66_4a:fr:docx:regulations:REG_C:REG_66#REG_66_4a~Règle∙66.4bis}",
+  "name": "M46875",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2015/1/internet/fr/I.eplegal.zip",
+  "referringId": "PGI_3_1",
+  "relativeParagraph": 101
+ },
+ {
+  "text": "règle∙66.2.a)ii)∙ou∙l’article∙35.2)","bad":true,
+  "unit": "{règle∙66.2.a)ii)}∙ou∙{l’article∙35.2)}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1::internet:REG_66_2_a_ii:fr:docx:regulations:REG_C:REG_66#REG_66_2_a_ii~règle∙66.2.a)ii)}∙ou∙{ep-legal:countries:WO::PCT:2014:1::internet:35_2:fr:docx:treaty:CII:35#35_2~l’article∙35.2)}",
+  "name": "M47321",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2014/1/internet/fr/ipse.eplegal.zip",
+  "referringId": "PCTIPSE_17_10_v",
+  "relativeParagraph": 0
+ }
+]

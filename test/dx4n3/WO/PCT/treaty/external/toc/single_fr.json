@@ -1,0 +1,32 @@
+[
+ {
+  "text": "chapitre∙II∙du∙PCT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/09/internet/fr/OJ_2016_i09_toc.eplegal.zip",
+  "referringId": "OJ_2016_i09_toc",
+  "relativeParagraph": 9,
+  "style": "EPOTOCP1",
+  "name": "S05907",
+  "unit": "{chapitre∙II∙du∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:CII:fr::treaty:CI:31#CII~chapitre∙II∙du∙PCT}"
+ },
+ {
+  "text": "chapitre◦II∙du∙PCT",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/OJ/2016/se4/internet/fr/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ_2016_se4_toc",
+  "relativeParagraph": 148,
+  "style": "EPOTOCP1",
+  "name": "S05925",
+  "unit": "{chapitre◦II∙du∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2016:1::internet:CII:fr::treaty:CI:31#CII~chapitre◦II∙du∙PCT}"
+ },
+ {
+  "text": "Préambule",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/WO/PCT/2000/1/internet/fr/treaty.eplegal.zip",
+  "referringId": "TITLE",
+  "relativeParagraph": 4,
+  "style": "TOC1",
+  "name": "S05973",
+  "unit": "{Préambule}",
+  "value": "{ep-legal:countries:WO::PCT:2000:1::internet:PRE:fr::treaty:DOCUMENT:1#PRE~Préambule}"
+ }
+]

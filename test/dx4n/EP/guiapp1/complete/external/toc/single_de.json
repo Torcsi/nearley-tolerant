@@ -1,0 +1,42 @@
+[
+ {
+  "text": "Inanspruchnahme∙der∙Priorität",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 32,
+  "name": "S14956",
+  "unit": "{Inanspruchnahme∙der∙Priorität}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_C_I_8:de:xml#GA_C_I_8~Inanspruchnahme∙der∙Priorität}"
+ },
+ {
+  "text": "Prüfungsantrag",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 73,
+  "name": "S14987",
+  "unit": "{Prüfungsantrag}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_1:de:xml#GA_D_IV_1~Prüfungsantrag}"
+ },
+ {
+  "text": "Änderungen∙der∙Anmeldung∙vor∙und∙während∙des∙Prüfungsverfahrens",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 75,
+  "name": "S14989",
+  "unit": "{Änderungen∙der∙Anmeldung∙vor∙und∙während∙des∙Prüfungsverfahrens}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_IV_3:de:xml#GA_D_IV_3~Änderungen∙der∙Anmeldung∙vor∙und∙während∙des∙Prüfungsverfahrens}"
+ },
+ {
+  "text": "Prüfung∙der∙Zulässigkeit∙des∙Einspruchs",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 81,
+  "name": "S14994",
+  "unit": "{Prüfung∙der∙Zulässigkeit∙des∙Einspruchs}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_4:de:xml#GA_D_V_4~Prüfung∙der∙Zulässigkeit∙des∙Einspruchs}"
+ },
+ {
+  "text": "Materiellrechtliche∙Prüfung∙des∙Einspruchs",
+  "file": "/EP/organization/guiapp1/2015/1/1.0/electronicproofer/de/complete.eplegal.zip",
+  "relativeParagraph": 82,
+  "name": "S14995",
+  "unit": "{Materiellrechtliche∙Prüfung∙des∙Einspruchs}",
+  "value": "{ep-legal:countries:EP::guiapp1:2015:1:1.0:electronicproofer:GA_D_V_5:de:xml#GA_D_V_5~Materiellrechtliche∙Prüfung∙des∙Einspruchs}"
+ }
+]

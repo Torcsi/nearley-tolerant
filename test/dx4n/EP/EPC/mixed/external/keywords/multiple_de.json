@@ -1,0 +1,12 @@
+[
+ {
+  "bad":true,
+ "text": "R◦51◦(2),∙GebO◦2◦(1).5",
+  "unit": "{R◦51◦(2)},∙{GebO◦2◦(1).5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R51_2:de:xml~R◦51◦(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_5:de:xml~GebO◦2◦(1).5}",
+  "name": "M25295",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/de/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_Z",
+  "relativeParagraph": 57
+ }
+]

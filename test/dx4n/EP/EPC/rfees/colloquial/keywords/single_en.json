@@ -1,0 +1,75 @@
+[
+ {
+  "bad":true,
+ "text": "Rules∙relating∙to∙Fees",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:GLO",
+  "relativeParagraph": 11,
+  "name": "S01646",
+  "unit": "{Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:FEE:en:xml~Rules∙relating∙to∙Fees}"
+ },
+ {
+  "text": "RFees◦2(1).5",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 12,
+  "name": "S01649",
+  "unit": "{RFees◦2(1).5}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_5:en:xml~RFees◦2(1).5}"
+ },
+ {
+  "text": "RFees◦1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_C",
+  "relativeParagraph": 97,
+  "name": "S01668",
+  "unit": "{RFees◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:1:en:xml~RFees◦1}"
+ },
+ {
+  "text": "RFees∙2(1).2",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 274,
+  "name": "S01673",
+  "unit": "{RFees∙2(1).2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_2:en:xml~RFees∙2(1).2}"
+ },
+ {
+  "text": "RFees◦1(b)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_F",
+  "relativeParagraph": 15,
+  "name": "S01674",
+  "unit": "{RFees◦1(b)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:1_b:en:xml~RFees◦1(b)}"
+ },
+ {
+  "text": "RFees◦2(1).1a",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_F",
+  "relativeParagraph": 30,
+  "name": "S01675",
+  "unit": "{RFees◦2(1).1a}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_1a:en:xml~RFees◦2(1).1a}"
+ },
+ {
+  "text": "RFees∙13",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_F",
+  "relativeParagraph": 44,
+  "name": "S01676",
+  "unit": "{RFees∙13}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:13:en:xml~RFees∙13}"
+ },
+ {
+  "text": "RFees◦3(1)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_P",
+  "relativeParagraph": 55,
+  "name": "S01680",
+  "unit": "{RFees◦3(1)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:3_1:en:xml~RFees◦3(1)}"
+ }
+]

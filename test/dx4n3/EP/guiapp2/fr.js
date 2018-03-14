@@ -1,0 +1,12 @@
+let {atom,regexp,Lexer,use,equivalences} = require('../../../../lib/lexer-tolerant.js');
+let tihyLexer = new Lexer("tihyLexer");
+use(tihyLexer);
+
+atom("GuiAppAnnexNo",regexp("([Ll]')?[aA]nnexes?[ \xa0][IVX]+"));
+atom("GuiAppAnnexNoAlone",regexp("[IVX]+"));
+atom("GuiAppChapterNo",regexp("[Cc]hapitre[ \xa0][A-Z]"));
+atom("GuiAppPointNo",regexp("point[s]?[ \xa0][1-9][0-9]*(bis|ter|quater)?"));
+equivalences("GuiAppAnnexNoAlone","RomanUpper");
+equivalences("GuiAppPointNo","PointNo");
+
+module.exports = tihyLexer;

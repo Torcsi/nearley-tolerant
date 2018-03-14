@@ -1,0 +1,27 @@
+[
+ {
+  "text": "DIR/OEB∙partie∙générale,∙7,∙A-III,∙12",
+  "unit": "{DIR/OEB∙partie∙générale,∙7},∙{A-III,∙12}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLG_7:fr:xml#GLG_7~DIR/OEB∙partie∙générale,∙7},∙{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIII_12:fr:xml#GLA_CIII_12~A-III,∙12}",
+  "name": "M38319",
+  "file": "/EP/organization/guiapp2/2011/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp2:GA_122",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙7,∙A-III,∙12",
+  "unit": "{DIR/OEB,∙partie∙générale,∙7},∙{A-III,∙12}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLI_7:fr:xml#GLI_7~DIR/OEB,∙partie∙générale,∙7},∙{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLA_CIII_12:fr:xml#GLA_CIII_12~A-III,∙12}",
+  "name": "M38411",
+  "file": "/EP/organization/guiapp2/2012/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "DIR/OEB,∙partie∙générale,∙7,∙A-III,∙12-12.5",
+  "unit": "{DIR/OEB,∙partie∙générale,∙7},∙{A-III,∙12}-{12.5}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLI_7:fr:xml#GLI_7~DIR/OEB,∙partie∙générale,∙7},∙{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLA_CIII_12:fr:xml#GLA_CIII_12~A-III,∙12}-{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLA_CIII_12_5:fr:xml#GLA_CIII_12_5~12.5}",
+  "name": "M38667",
+  "file": "/EP/organization/guiapp2/2017/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

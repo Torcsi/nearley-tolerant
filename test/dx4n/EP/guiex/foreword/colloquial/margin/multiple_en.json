@@ -1,0 +1,18 @@
+[
+ {
+  "text": "G-IV∙to∙G-VI",
+  "unit": "{G-IV}∙to∙{G-VI}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CIV:en:xml#GLG_CIV~G-IV}∙to∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CVI:en:xml#GLG_CVI~G-VI}",
+  "name": "M11716",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-IV∙and∙G-VI",
+  "unit": "{G-IV}∙and∙{G-VI}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CIV:en:xml#GLG_CIV~G-IV}∙and∙{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLG_CVI:en:xml#GLG_CVI~G-VI}",
+  "name": "M11718",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/en/complete.eplegal.zip",
+  "relativeParagraph": 3
+ }
+]

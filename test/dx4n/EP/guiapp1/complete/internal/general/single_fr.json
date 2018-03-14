@@ -1,0 +1,62 @@
+[
+ {
+  "text": "point∙8",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_FOREWORD",
+  "relativeParagraph": 3,
+  "name": "S26363",
+  "unit": "{point∙8}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_8:fr:xml#GA_8~point∙8}"
+ },
+ {
+  "text": "point◦9",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_5",
+  "relativeParagraph": 2,
+  "name": "S26364",
+  "unit": "{point◦9}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_9:fr:xml#GA_9~point◦9}"
+ },
+ {
+  "text": "points◦159",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_56",
+  "relativeParagraph": 3,
+  "name": "S26367",
+  "unit": "{points◦159}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_159:fr:xml#GA_159~points◦159}"
+ },
+ {
+  "text": "points∙213",
+  "file": "/EP/organization/guiapp1/2013/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "referringId": "guiapp1:GA_168",
+  "relativeParagraph": 4,
+  "name": "S26369",
+  "unit": "{points∙213}",
+  "value": "{ep-legal:countries:EP::guiapp1:2013:1:1.0:electronicproofer:GA_213:fr:xml#GA_213~points∙213}"
+ },
+ {
+  "text": "Annexe◦II",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26373",
+  "unit": "{Annexe◦II}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1:1.0:electronicproofer:GA_AII:fr:xml#GA_AII~Annexe◦II}"
+ },
+ {
+  "text": "point◦44bis",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S26374",
+  "unit": "{point◦44bis}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1:1.0:electronicproofer:GA_44a:fr:xml#GA_44a~point◦44bis}"
+ },
+ {
+  "text": "212",
+  "file": "/EP/organization/guiapp1/2016/1/1.0/electronicproofer/fr/complete.eplegal.zip",
+  "relativeParagraph": 14,
+  "name": "S26377",
+  "unit": "{212}",
+  "value": "{ep-legal:countries:EP::guiapp1:2016:1:1.0:electronicproofer:GA_212:fr:xml#GA_212~212}"
+ }
+]

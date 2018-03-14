@@ -1,0 +1,11 @@
+[
+ {
+  "text": "articles◦12,∙13,∙14∙lettres∙b),∙e)∙et∙g)",
+  "unit": "{articles◦12},∙{13},∙{14∙lettres∙b)},∙{e)}∙et∙{g)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I12:fr:xml~articles◦12},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I13:fr:xml~13},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_b:fr:xml~14∙lettres∙b)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_e:fr:xml~e)}∙et∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I14_g:fr:xml~g)}",
+  "name": "M31803",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/proprimm.eplegal.zip",
+  "referringId": "EPC:I22",
+  "relativeParagraph": 1
+ }
+]

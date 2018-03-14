@@ -1,0 +1,380 @@
+[
+ {
+  "text": "CHAPTER∙I",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 1,
+  "name": "S02084",
+  "unit": "{CHAPTER∙I}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CI:en:xml~CHAPTER∙I}"
+ },
+ {
+  "text": "1.",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 2,
+  "name": "S02085",
+  "unit": "{1.}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CI_1:en:xml~1.}"
+ },
+ {
+  "text": "1.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 8,
+  "name": "S02086",
+  "unit": "{1.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_1_1:en:xml~1.1}"
+ },
+ {
+  "text": "1.8.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 16,
+  "name": "S02087",
+  "unit": "{1.8.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_1_8_1:en:xml~1.8.1}"
+ },
+ {
+  "text": "4.1.3.1",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 27,
+  "name": "S02088",
+  "unit": "{4.1.3.1}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_4_1_3_1:en:xml~4.1.3.1}"
+ },
+ {
+  "text": "5",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:GLA",
+  "relativeParagraph": 30,
+  "name": "S02089",
+  "unit": "{5}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CII_5:en:xml~5}"
+ },
+ {
+  "text": "Chapter∙XI∙–∙Annex",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/B.eplegal.zip",
+  "referringId": "guiex:GLB",
+  "relativeParagraph": 155,
+  "name": "S02090",
+  "unit": "{Chapter∙XI∙–∙Annex}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLB_CXIA:en:xml~Chapter∙XI∙–∙Annex}"
+ },
+ {
+  "text": "CHAPTER∙II∙–∙Annex",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/C.eplegal.zip",
+  "referringId": "guiex:GLC",
+  "relativeParagraph": 44,
+  "name": "S02091",
+  "unit": "{CHAPTER∙II∙–∙Annex}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLC_CIIA:en:xml~CHAPTER∙II∙–∙Annex}"
+ },
+ {
+  "text": "INTRODUCTION",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "referringId": "guiex:GLE",
+  "relativeParagraph": 2,
+  "name": "S02092",
+  "unit": "{INTRODUCTION}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLE_I:en:xml~INTRODUCTION}"
+ },
+ {
+  "text": "Part∙A",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 18,
+  "name": "S02094",
+  "unit": "{Part∙A}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA:en:xml~Part∙A}"
+ },
+ {
+  "text": "Chapter∙I",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 20,
+  "name": "S02095",
+  "unit": "{Chapter∙I}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLA_CI:en:xml~Chapter∙I}"
+ },
+ {
+  "text": "∙Annex",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:GLG_INDEX",
+  "relativeParagraph": 45,
+  "name": "S02096",
+  "unit": "{∙Annex}",
+  "value": "{ep-legal:countries:EP::guiex:2007:1:1.0:electronicproofer:GLB_CXIA:en:xml~∙Annex}"
+ },
+ {
+  "text": "1.○Overview",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA",
+  "relativeParagraph": 3,
+  "name": "S02097",
+  "unit": "{1.○Overview}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CI_1:en:xml#GLA_CI_1~1.○Overview}"
+ },
+ {
+  "text": "1.1○Filing∙of∙applications∙by∙delivery∙by∙hand∙or∙by∙post",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA",
+  "relativeParagraph": 9,
+  "name": "S02098",
+  "unit": "{1.1○Filing∙of∙applications∙by∙delivery∙by∙hand∙or∙by∙post}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_1_1:en:xml#GLA_CII_1_1~1.1○Filing∙of∙applications∙by∙delivery∙by∙hand∙or∙by∙post}"
+ },
+ {
+  "text": "1.8.1○Applications∙filed∙before∙1◦January◦2002",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA",
+  "relativeParagraph": 17,
+  "name": "S02099",
+  "unit": "{1.8.1○Applications∙filed∙before∙1◦January◦2002}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_1_8_1:en:xml#GLA_CII_1_8_1~1.8.1○Applications∙filed∙before∙1◦January◦2002}"
+ },
+ {
+  "text": "4.1.3.1○Reference∙to∙a∙previously∙filed∙application",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/A.eplegal.zip",
+  "referringId": "guiex:D4N_GLA",
+  "relativeParagraph": 28,
+  "name": "S02100",
+  "unit": "{4.1.3.1○Reference∙to∙a∙previously∙filed∙application}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII_4_1_3_1:en:xml#GLA_CII_4_1_3_1~4.1.3.1○Reference∙to∙a∙previously∙filed∙application}"
+ },
+ {
+  "text": "Introduction",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "referringId": "guiex:D4N_GLE",
+  "relativeParagraph": 3,
+  "name": "S02101",
+  "unit": "{Introduction}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_I:en:xml#GLE_I~Introduction}"
+ },
+ {
+  "text": "Part∙A∙–∙Guidelines∙for∙Formalities∙Examination",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 17,
+  "name": "S02102",
+  "unit": "{Part∙A∙–∙Guidelines∙for∙Formalities∙Examination}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA:en:xml#GLA~Part∙A∙–∙Guidelines∙for∙Formalities∙Examination}"
+ },
+ {
+  "text": "Chapter∙I○Introduction",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 19,
+  "name": "S02103",
+  "unit": "{Chapter∙I○Introduction}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CI:en:xml#GLA_CI~Chapter∙I○Introduction}"
+ },
+ {
+  "text": "Chapter∙II○Filing∙of∙applications∙and∙examination∙on∙filing",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 20,
+  "name": "S02104",
+  "unit": "{Chapter∙II○Filing∙of∙applications∙and∙examination∙on∙filing}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CII:en:xml#GLA_CII~Chapter∙II○Filing∙of∙applications∙and∙examination∙on∙filing}"
+ },
+ {
+  "text": "Chapter∙III○Examination∙of∙formal∙requirements",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 21,
+  "name": "S02105",
+  "unit": "{Chapter∙III○Examination∙of∙formal∙requirements}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIII:en:xml#GLA_CIII~Chapter∙III○Examination∙of∙formal∙requirements}"
+ },
+ {
+  "text": "Chapter∙IV○Special∙provisions",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 22,
+  "name": "S02106",
+  "unit": "{Chapter∙IV○Special∙provisions}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIV:en:xml#GLA_CIV~Chapter∙IV○Special∙provisions}"
+ },
+ {
+  "text": "Chapter∙V○Communicating∙the∙formalities∙report;∙amendment∙of∙application;∙correction◦of◦errors",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 23,
+  "name": "S02107",
+  "unit": "{Chapter∙V○Communicating∙the∙formalities∙report;∙amendment∙of∙application;∙correction◦of◦errors}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CV:en:xml#GLA_CV~Chapter∙V○Communicating∙the∙formalities∙report;∙amendment∙of∙application;∙correction◦of◦errors}"
+ },
+ {
+  "text": "Chapter∙VI○Publication∙of∙application;∙request∙for∙examination∙and∙transmission∙of◦the◦dossier◦to◦Examining∙Division",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 24,
+  "name": "S02108",
+  "unit": "{Chapter∙VI○Publication∙of∙application;∙request∙for∙examination∙and∙transmission∙of◦the◦dossier◦to◦Examining∙Division}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVI:en:xml#GLA_CVI~Chapter∙VI○Publication∙of∙application;∙request∙for∙examination∙and∙transmission∙of◦the◦dossier◦to◦Examining∙Division}"
+ },
+ {
+  "text": "Chapter∙VII○Applications∙under∙the∙Patent∙Cooperation∙Treaty∙(PCT)∙before∙the∙EPO∙acting◦as◦a◦designated◦or∙elected∙Office",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 25,
+  "name": "S02109",
+  "unit": "{Chapter∙VII○Applications∙under∙the∙Patent∙Cooperation∙Treaty∙(PCT)∙before∙the∙EPO∙acting◦as◦a◦designated◦or∙elected∙Office}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVII:en:xml#GLA_CVII~Chapter∙VII○Applications∙under∙the∙Patent∙Cooperation∙Treaty∙(PCT)∙before∙the∙EPO∙acting◦as◦a◦designated◦or∙elected∙Office}"
+ },
+ {
+  "text": "Chapter∙VIII○Languages",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 26,
+  "name": "S02110",
+  "unit": "{Chapter∙VIII○Languages}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CVIII:en:xml#GLA_CVIII~Chapter∙VIII○Languages}"
+ },
+ {
+  "text": "Chapter∙IX○Common∙provisions",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 27,
+  "name": "S02111",
+  "unit": "{Chapter∙IX○Common∙provisions}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CIX:en:xml#GLA_CIX~Chapter∙IX○Common∙provisions}"
+ },
+ {
+  "text": "Chapter∙X○Drawings",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 28,
+  "name": "S02112",
+  "unit": "{Chapter∙X○Drawings}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CX:en:xml#GLA_CX~Chapter∙X○Drawings}"
+ },
+ {
+  "text": "Chapter∙XI○Fees",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 29,
+  "name": "S02113",
+  "unit": "{Chapter∙XI○Fees}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXI:en:xml#GLA_CXI~Chapter∙XI○Fees}"
+ },
+ {
+  "text": "Chapter∙XII○Inspection∙of∙files;∙communication∙of∙information∙contained∙in∙files;∙consultation◦of◦the∙Register∙of∙European∙Patents;∙issuance∙of∙certified∙copies",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 30,
+  "name": "S02114",
+  "unit": "{Chapter∙XII○Inspection∙of∙files;∙communication∙of∙information∙contained∙in∙files;∙consultation◦of◦the∙Register∙of∙European∙Patents;∙issuance∙of∙certified∙copies}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLA_CXII:en:xml#GLA_CXII~Chapter∙XII○Inspection∙of∙files;∙communication∙of∙information∙contained∙in∙files;∙consultation◦of◦the∙Register∙of∙European∙Patents;∙issuance∙of∙certified∙copies}"
+ },
+ {
+  "text": "–∙Annex○Checklist∙for∙considering∙the∙abstract∙(see∙XI,∙5)",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 44,
+  "name": "S02115",
+  "unit": "{–∙Annex○Checklist∙for∙considering∙the∙abstract∙(see∙XI,∙5)}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLB_CXIA:en:xml#GLB_CXIA~–∙Annex○Checklist∙for∙considering∙the∙abstract∙(see∙XI,∙5)}"
+ },
+ {
+  "text": "Chapter∙XIII○Registering∙transfers,∙licences,∙other∙rights,∙etc.",
+  "file": "/EP/organization/guiex/2010/1/1.0/electronicproofer/en/G.eplegal.zip",
+  "referringId": "guiex:D4N_GLG_INDEX",
+  "relativeParagraph": 83,
+  "name": "S02116",
+  "unit": "{Chapter∙XIII○Registering∙transfers,∙licences,∙other∙rights,∙etc.}",
+  "value": "{ep-legal:countries:EP::guiex:2010:1:1.0:electronicproofer:GLE_CXIII:en:xml#GLE_CXIII~Chapter∙XIII○Registering∙transfers,∙licences,∙other∙rights,∙etc.}"
+ },
+ {
+  "text": "Annex∙1→xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "guiex:GLF",
+  "relativeParagraph": 45,
+  "name": "S02117",
+  "unit": "{Annex∙1→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIIA1:en:xml#GLF_CIIA1~Annex∙1→xxx}"
+ },
+ {
+  "text": "Annex→xxx",
+  "file": "/EP/organization/guiex/2012/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "referringId": "guiex:GLF",
+  "relativeParagraph": 123,
+  "name": "S02118",
+  "unit": "{Annex→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2012:1:1.0:electronicproofer:GLF_CIVA:en:xml#GLF_CIVA~Annex→xxx}"
+ },
+ {
+  "text": "Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,∙2.5)",
+  "file": "/EP/organization/guiex/2013/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 45,
+  "name": "S02127",
+  "unit": "{Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,∙2.5)}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLF_CIIA1:en:xml#GLF_CIIA1~Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,∙2.5)}"
+ },
+ {
+  "text": "Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)",
+  "file": "/EP/organization/guiex/2013/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 46,
+  "name": "S02128",
+  "unit": "{Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)}",
+  "value": "{ep-legal:countries:EP::guiex:2013:1:1.0:electronicproofer:GLF_CIIA2:en:xml#GLF_CIIA2~Annex∙2∙Units∙recognised∙in∙international∙practice∙and∙complying∙with∙Rule◦49(10)∙(see◦F-II,◦4.13)}"
+ },
+ {
+  "text": "Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights",
+  "file": "/EP/organization/guiex/2014/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "relativeParagraph": 288,
+  "name": "S02129",
+  "unit": "{Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights}",
+  "value": "{ep-legal:countries:EP::guiex:2014:1:1.0:electronicproofer:GLE_CXII:en:xml#GLE_CXII~Chapter∙XII∙–Registration∙of∙changes∙of∙name,∙transfers,∙licences∙and∙other∙rights}"
+ },
+ {
+  "text": "Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 45,
+  "name": "S02130",
+  "unit": "{Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLF_CIIA1:en:xml#GLF_CIIA1~Annex∙1∙Checklist∙for∙considering∙the∙abstract∙(see∙F-II,◦2.5)}"
+ },
+ {
+  "text": ".2→xxx",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/en/H.eplegal.zip",
+  "relativeParagraph": 89,
+  "name": "S02131",
+  "unit": "{.2→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1:1.0:electronicproofer:GLH_CIV_2_2:en:xml#GLH_CIV_2_2~.2→xxx}"
+ },
+ {
+  "text": "Chapter∙XI∙–Appeals",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "relativeParagraph": 259,
+  "name": "S02132",
+  "unit": "{Chapter∙XI∙–Appeals}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLE_CXI:en:xml#GLE_CXI~Chapter∙XI∙–Appeals}"
+ },
+ {
+  "text": "Chapter∙XII∙–Request∙from∙a∙national∙court∙for∙a∙technical∙opinion∙concerning∙a∙European∙patent",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/en/E.eplegal.zip",
+  "relativeParagraph": 278,
+  "name": "S02133",
+  "unit": "{Chapter∙XII∙–Request∙from∙a∙national∙court∙for∙a∙technical∙opinion∙concerning∙a∙European∙patent}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLE_CXII:en:xml#GLE_CXII~Chapter∙XII∙–Request∙from∙a∙national∙court∙for∙a∙technical∙opinion∙concerning∙a∙European∙patent}"
+ },
+ {
+  "text": "Annex◦1→xxx",
+  "file": "/EP/organization/guiex/2016/1/1.0/electronicproofer/en/F.eplegal.zip",
+  "relativeParagraph": 46,
+  "name": "S02134",
+  "unit": "{Annex◦1→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1:1.0:electronicproofer:GLF_CIIA1:en:xml#GLF_CIIA1~Annex◦1→xxx}"
+ },
+ {
+  "text": "Chapter∙XIV→xxx",
+  "file": "/EP/organization/guiex/2017/1/1.0/electronicproofer/en/I.eplegal.zip",
+  "relativeParagraph": 81,
+  "name": "S02135",
+  "unit": "{Chapter∙XIV→xxx}",
+  "value": "{ep-legal:countries:EP::guiex:2017:1:1.0:electronicproofer:GLE_CXIV:en:xml#GLE_CXIV~Chapter∙XIV→xxx}"
+ }
+]

@@ -1,0 +1,19 @@
+[
+ {
+  "text": "Prot.∙Centr.∙I(1)b)",
+  "file": "/EP/organization/guiex/2007/1/1.0/electronicproofer/fr/B.eplegal.zip",
+  "referringId": "guiex:GLB_CII_4_6",
+  "relativeParagraph": 2,
+  "name": "S29362",
+  "unit": "{Prot.∙Centr.∙I(1)b)}",
+  "value": "{ep-legal:countries:EP::EPC:2007:1:1.0:electronicproofer:CI_1_b:fr:xml~Prot.∙Centr.∙I(1)b)}"
+ },
+ {
+  "text": "Prot.◦Centr.◦I(1)b)",
+  "file": "/EP/organization/guiex/2015/1/1.0/electronicproofer/fr/B.eplegal.zip",
+  "relativeParagraph": 2,
+  "name": "S29422",
+  "unit": "{Prot.◦Centr.◦I(1)b)}",
+  "value": "{ep-legal:countries:EP::EPC:2015:1:2.0:electronicproofer:CI_1_b:fr:xml#CI_1_b~Prot.◦Centr.◦I(1)b)}"
+ }
+]

@@ -1,0 +1,83 @@
+[
+ {
+  "text": "C-IV,∙2.3.6",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_A_1_1",
+  "relativeParagraph": 1,
+  "name": "S00049",
+  "unit": "{C-IV,∙2.3.6}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CIV_2_3_6:fr:docx:C::GLC#GLC_CIV_2_3_6~C-IV,∙2.3.6}"
+ },
+ {
+  "text": "C-IV,∙5.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_C_1_8_7_c",
+  "relativeParagraph": 4,
+  "name": "S00092",
+  "unit": "{C-IV,∙5.1}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CIV_5_1:fr:docx:C::GLC#GLC_CIV_5_1~C-IV,∙5.1}"
+ },
+ {
+  "text": "C-IV,∙7.7◦(iii)",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_C_4_2_2",
+  "relativeParagraph": 6,
+  "name": "S00095",
+  "unit": "{C-IV,∙7.7◦(iii)}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CIV_7_7_iii:fr:docx:C::GLC#GLC_CIV_7_7_iii~C-IV,∙7.7◦(iii)}"
+ },
+ {
+  "text": "C-IV.9.9",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/I.eplegal.zip",
+  "referringId": "CLR_I_D_5",
+  "relativeParagraph": 2,
+  "name": "S00104",
+  "unit": "{C-IV.9.9}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CIV_9_9:fr:docx:C::GLC#GLC_CIV_9_9~C-IV.9.9}"
+ },
+ {
+  "text": "C-III,∙7.4a",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/II.eplegal.zip",
+  "referringId": "CLR_II_C_5_3",
+  "relativeParagraph": 5,
+  "name": "S00142",
+  "unit": "{C-III,∙7.4a}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CIII_7_4a:fr:docx:C::GLC#GLC_CIII_7_4a~C-III,∙7.4a}"
+ },
+ {
+  "text": "C-VI,◦5.3.4",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/III.eplegal.zip",
+  "referringId": "CLR_III_A_1_6_2",
+  "relativeParagraph": 2,
+  "name": "S00151",
+  "unit": "{C-VI,◦5.3.4}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CVI_5_3_4:fr:docx:C::GLC#GLC_CVI_5_3_4~C-VI,◦5.3.4}"
+ },
+ {
+  "text": "A-VI",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/III.eplegal.zip",
+  "referringId": "CLR_III_F_1_2",
+  "relativeParagraph": 2,
+  "name": "S00169",
+  "unit": "{A-VI}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLA_CVI:fr:docx:A::GLA#GLA_CVI~A-VI}"
+ },
+ {
+  "text": "C-V,◦2.1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/IV.eplegal.zip",
+  "referringId": "CLR_IV",
+  "relativeParagraph": 1,
+  "name": "S00198",
+  "unit": "{C-V,◦2.1}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLC_CV_2_1:fr:docx:C::GLC#GLC_CV_2_1~C-V,◦2.1}"
+ },
+ {
+  "text": "E-X,◦10",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/caselawreport/2007/1/internet/fr/VI.eplegal.zip",
+  "referringId": "CLR_VI_M_6_1",
+  "relativeParagraph": 3,
+  "name": "S00290",
+  "unit": "{E-X,◦10}",
+  "value": "{ep-legal:countries:EP::guiex:2006:1::internet:GLE_CX_10:fr:docx:E::GLE#GLE_CX_10~E-X,◦10}"
+ }
+]

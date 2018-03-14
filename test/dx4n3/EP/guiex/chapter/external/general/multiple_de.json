@@ -1,0 +1,38 @@
+[
+ {
+  "text": "RL/EPA∙G-VII,◦5.4.2.1◦-◦G-VII,◦5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA",
+  "unit": "{RL/EPA∙G-VII,◦5.4.2.1}◦-◦{G-VII,◦5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_1:de:docx:G::GLG#GLG_CVII_5_4_2_1~RL/EPA∙G-VII,◦5.4.2.1}◦-◦{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_4:de:docx:G::GLG#GLG_CVII_5_4_2_4~G-VII,◦5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA}",
+  "name": "M51608",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/de/G.eplegal.zip",
+  "referringId": "PGG_CVII_5_4_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "G-VII,◦5.4.2.1◦-◦5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA",
+  "unit": "{G-VII,◦5.4.2.1}◦-◦{5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA}",
+  "value": "{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_1:de:docx:G::GLG#GLG_CVII_5_4_2_1~G-VII,◦5.4.2.1}◦-◦{ep-legal:countries:EP::guiex:2016:1::internet:GLG_CVII_5_4_2_4:de:docx:G::GLG#GLG_CVII_5_4_2_4~5.4.2.4∙der∙Richtlinien∙für∙die∙Prüfung∙im∙EPA}",
+  "name": "M51610",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOGL/2016/1/internet/de/G.eplegal.zip",
+  "referringId": "PGG_CVII_5_4_2",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "RL/EPA∙C-III,∙2.3∙und∙RL/EPA∙F-V,∙13.1◦iv)",
+  "unit": "{RL/EPA∙C-III,∙2.3}∙und∙{RL/EPA∙F-V,∙13.1◦iv)}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1::internet:GLC_CIII_2_3:de:docx:C::GLC#GLC_CIII_2_3~RL/EPA∙C-III,∙2.3}∙und∙{ep-legal:countries:EP::guiex:2015:1::internet:GLF_CV_13_1_iv:de:docx:F::GLF#GLF_CV_13_1_iv~RL/EPA∙F-V,∙13.1◦iv)}",
+  "name": "M51678",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ib.eplegal.zip",
+  "referringId": "IPB_VII_1",
+  "relativeParagraph": 8
+ },
+ {
+  "text": "RL/EPA∙C-III,∙2.3∙und∙F-V,∙13.1◦iv)",
+  "unit": "{RL/EPA∙C-III,∙2.3}∙und∙{F-V,∙13.1◦iv)}",
+  "value": "{ep-legal:countries:EP::guiex:2015:1::internet:GLC_CIII_2_3:de:docx:C::GLC#GLC_CIII_2_3~RL/EPA∙C-III,∙2.3}∙und∙{ep-legal:countries:EP::guiex:2015:1::internet:GLF_CV_13_1_iv:de:docx:F::GLF#GLF_CV_13_1_iv~F-V,∙13.1◦iv)}",
+  "name": "M51680",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/part-ib.eplegal.zip",
+  "referringId": "IPB_VII_1",
+  "relativeParagraph": 8
+ }
+]

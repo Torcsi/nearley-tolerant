@@ -1,0 +1,46 @@
+[
+ {
+  "text": "Article◦61∙and∙Rules◦16∙and∙17",
+  "unit": "{Article◦61}∙and∙{Rules◦16}∙and∙{17}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A61:en:xml~Article◦61}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R16:en:xml~Rules◦16}∙and∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R17:en:xml~17}",
+  "name": "M05392",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R18_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Rule◦70,∙paragraph◦1,∙Article◦94,∙paragraph◦2",
+  "unit": "{Rule◦70,∙paragraph◦1},∙{Article◦94,∙paragraph◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R70_1:en:xml~Rule◦70,∙paragraph◦1},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A94_2:en:xml~Article◦94,∙paragraph◦2}",
+  "name": "M05424",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R69_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles◦106∙to∙108,∙Rule◦97∙or∙Rule◦99,∙paragraph◦1(b)∙or∙(c)∙or∙paragraph◦2",
+  "unit": "{Articles◦106}∙to∙{108},∙{Rule◦97}∙or∙{Rule◦99,∙paragraph◦1(b)}∙or∙{(c)}∙or∙{paragraph◦2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A106:en:xml~Articles◦106}∙to∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A108:en:xml~108},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R97:en:xml~Rule◦97}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_1_b:en:xml~Rule◦99,∙paragraph◦1(b)}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_1_c:en:xml~(c)}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R99_2:en:xml~paragraph◦2}",
+  "name": "M05430",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R101_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Article◦112a,∙paragraphs◦1,∙2∙or∙4,∙Rule◦106∙or∙Rule◦107,∙paragraph◦1(b)∙or◦2",
+  "unit": "{Article◦112a,∙paragraphs◦1},∙{2}∙or∙{4},∙{Rule◦106}∙or∙{Rule◦107,∙paragraph◦1(b)}∙or◦{2}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_1:en:xml~Article◦112a,∙paragraphs◦1},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_2:en:xml~2}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A112a_4:en:xml~4},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R106:en:xml~Rule◦106}∙or∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R107_1_b:en:xml~Rule◦107,∙paragraph◦1(b)}∙or◦{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R107_2:en:xml~2}",
+  "name": "M05434",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/reg.eplegal.zip",
+  "referringId": "EPC:R108_1",
+  "relativeParagraph": 0
+ },
+ {
+  "text": "Articles∙9(1)∙and∙11(b)∙of∙the∙Rules∙relating∙to∙Fees",
+  "unit": "{Articles∙9(1)}∙and∙{11(b)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A9_1:en:xml#A9_1~Articles∙9(1)}∙and∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:11_b:en:xml#11_b~11(b)∙of∙the∙Rules∙relating∙to∙Fees}",
+  "name": "M05540",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/rfees.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

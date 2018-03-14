@@ -1,0 +1,12 @@
+Unexpected token { in JSON at position 1329
+SyntaxError: Unexpected token { in JSON at position 1329
+    at JSON.parse (<anonymous>)
+    at CaseTester.loadFile (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:13:22)
+    at CaseTester.perform (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\lib\nearley-casetester.js:47:16)
+    at Object.<anonymous> (W:\EPO\TenderNo. 2037\tihy4\TIHYCompiler2\nearley-tolerant\nearley-tolerant\bin\nearley-tester.js:9:22)
+    at Module._compile (module.js:643:30)
+    at Object.Module._extensions..js (module.js:654:10)
+    at Module.load (module.js:556:32)
+    at tryModuleLoad (module.js:499:12)
+    at Function.Module._load (module.js:491:3)
+    at Function.Module.runMain (module.js:684:10)

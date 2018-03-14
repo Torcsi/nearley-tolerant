@@ -1,0 +1,18 @@
+[
+ {
+  "text": "ANNEXES",
+  "file": "/EP/organization/caselawreport/2010/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 20,
+  "name": "S01698",
+  "unit": "{ANNEXES}",
+  "value": "{ep-legal:countries:EP::caselawreport:2010:1:1.0:electronicproofer:CLR_ANNEXES:en:xml~ANNEXES}"
+ },
+ {
+  "text": "Annexes",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/index.eplegal.zip",
+  "relativeParagraph": 16,
+  "name": "S01708",
+  "unit": "{Annexes}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_ANNEXES:en:xml#CLR_ANNEXES~Annexes}"
+ }
+]

@@ -1,0 +1,37 @@
+[
+ {
+  "text": "PPI◦16(1),∙PPI◦17,∙PPI◦19(2),∙PPI◦24(1),(2),∙PPI◦25,∙PCen◦I-VIII",
+  "unit": "{PPI◦16(1)},∙{PPI◦17},∙{PPI◦19(2)},∙{PPI◦24(1)},{(2)},∙{PPI◦25},∙{PCen◦I}-{VIII}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I16_1:en:xml~PPI◦16(1)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I17:en:xml~PPI◦17},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I19_2:en:xml~PPI◦19(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I24_1:en:xml~PPI◦24(1)},{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I24_2:en:xml~(2)},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:I25:en:xml~PPI◦25},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CI:en:xml~PCen◦I}-{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:CVIII:en:xml~VIII}",
+  "name": "M11076",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_A",
+  "relativeParagraph": 36
+ },
+ {
+  "text": "R◦14,∙R◦16,∙R◦78,∙PR◦1",
+  "unit": "{R◦14},∙{R◦16},∙{R◦78},∙{PR◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R14:en:xml~R◦14},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R16:en:xml~R◦16},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R78:en:xml~R◦78},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:P1:en:xml~PR◦1}",
+  "name": "M11186",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_E",
+  "relativeParagraph": 40
+ },
+ {
+  "text": "R◦71,∙RFees◦2(1).7,∙RFees◦2(1).8",
+  "unit": "{R◦71},∙{RFees◦2(1).7},∙{RFees◦2(1).8}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:R71:en:xml~R◦71},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_7:en:xml~RFees◦2(1).7},∙{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:2_1_8:en:xml~RFees◦2(1).8}",
+  "name": "M11320",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "referringId": "EPC:G_P",
+  "relativeParagraph": 125
+ },
+ {
+  "text": "A◦153,∙RFees◦2(1).2",
+  "unit": "{A◦153},∙{RFees◦2(1).2}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:A153:en:xml#A153~A◦153},∙{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:2_1_2:en:xml#2_1_2~RFees◦2(1).2}",
+  "name": "M11402",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/en/keywordindex.eplegal.zip",
+  "relativeParagraph": 55
+ }
+]

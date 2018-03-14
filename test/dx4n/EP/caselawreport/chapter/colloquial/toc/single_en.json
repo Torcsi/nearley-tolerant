@@ -1,0 +1,34 @@
+[
+ {
+  "text": "I.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "relativeParagraph": 6,
+  "name": "S01709",
+  "unit": "{I.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I:en:xml#CLR_I~I.→xxx}"
+ },
+ {
+  "text": "A.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "relativeParagraph": 7,
+  "name": "S01710",
+  "unit": "{A.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_A:en:xml#CLR_I_A~A.→xxx}"
+ },
+ {
+  "text": "B.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "relativeParagraph": 10,
+  "name": "S01711",
+  "unit": "{B.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_I_B:en:xml#CLR_I_B~B.→xxx}"
+ },
+ {
+  "text": "R.→xxx",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/toc.eplegal.zip",
+  "relativeParagraph": 179,
+  "name": "S01712",
+  "unit": "{R.→xxx}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_III_R:en:xml#CLR_III_R~R.→xxx}"
+ }
+]

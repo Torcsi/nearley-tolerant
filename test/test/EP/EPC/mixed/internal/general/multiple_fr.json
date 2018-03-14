@@ -1,0 +1,11 @@
+[
+ {
+  "text": "paragraphe∙2∙et∙l'article∙86,∙paragraphes∙2∙et∙3",
+  "unit": "{paragraphe∙2}∙et∙{l'article∙86,∙paragraphes∙2}∙et∙{3}",
+  "value": "{ep-legal:countries:EP::EPC:0000:1::internet:R37_2:fr:docx:reg:RIII_III:R37#R37_2~paragraphe∙2}∙et∙{ep-legal:countries:EP::EPC:0000:1::internet:A86_2:fr:docx:conv:AIII_I:A86#A86_2~l'article∙86,∙paragraphes∙2}∙et∙{ep-legal:countries:EP::EPC:0000:1::internet:A86_3:fr:docx:conv:AIII_I:A86#A86_3~3}",
+  "name": "M11726",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/0000/1/internet/fr/reg.eplegal.zip",
+  "referringId": "R37",
+  "relativeParagraph": 6
+ }
+]

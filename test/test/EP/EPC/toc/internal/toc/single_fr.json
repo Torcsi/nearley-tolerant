@@ -1,0 +1,72 @@
+[
+ {
+  "text": "PRÉAMBULE",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/conv.eplegal.zip",
+  "referringId": "ACVN",
+  "relativeParagraph": 4,
+  "style": "TOC1",
+  "name": "S00109",
+  "unit": "{PRÉAMBULE}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:APRE:fr:docx:conv::#APRE~PRÉAMBULE}"
+ },
+ {
+  "text": "Art.∙1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/conv.eplegal.zip",
+  "referringId": "ATOC_I_I",
+  "relativeParagraph": 1,
+  "style": "TOC3",
+  "name": "S00110",
+  "unit": "{Art.∙1→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:A1:fr:docx:conv:AI_I:#A1~Art.∙1→xxx}"
+ },
+ {
+  "text": "Art.∙69∙→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/conv.eplegal.zip",
+  "referringId": "ATOC_II_III",
+  "relativeParagraph": 7,
+  "style": "TOC3",
+  "name": "S00111",
+  "unit": "{Art.∙69∙→xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:A69:fr:docx:conv:AII_III:#A69~Art.∙69∙→xxx}"
+ },
+ {
+  "text": "Art.∙1",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S00112",
+  "unit": "{Art.∙1}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:1:fr:docx:rfees::#1~Art.∙1}"
+ },
+ {
+  "text": "Art.∙10bis",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 15,
+  "style": "TOC3",
+  "name": "S00113",
+  "unit": "{Art.∙10bis}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10a:fr:docx:rfees::#10a~Art.∙10bis}"
+ },
+ {
+  "text": "Art.∙10ter",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 16,
+  "style": "TOC3",
+  "name": "S00114",
+  "unit": "{Art.∙10ter}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10b:fr:docx:rfees::#10b~Art.∙10ter}"
+ },
+ {
+  "text": "Art.∙10quater",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/EPC/2001/1/internet/fr/rfees.eplegal.zip",
+  "referringId": "FEE",
+  "relativeParagraph": 17,
+  "style": "TOC3",
+  "name": "S00115",
+  "unit": "{Art.∙10quater}",
+  "value": "{ep-legal:countries:EP::EPC:2001:1::internet:10c:fr:docx:rfees::#10c~Art.∙10quater}"
+ }
+]

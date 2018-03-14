@@ -1,0 +1,29 @@
+[
+ {
+"bad":true,
+  "text": "Convention∙sur∙la∙délivrance∙de∙brevets∙européens(Convention∙sur∙le∙brevets∙européen)",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "referringId": "EPC:INDEX",
+  "relativeParagraph": 2,
+  "name": "S28133",
+  "unit": "{Convention∙sur∙la∙délivrance∙de∙brevets∙européens(Convention∙sur∙le∙brevets∙européen)}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:ACVN:fr:xml~Convention∙sur∙la∙délivrance∙de∙brevets∙européens(Convention∙sur∙le∙brevets∙européen)}"
+ },
+ {
+  "text": "l'article◦61,∙paragraphe◦1",
+  "file": "/EP/organization/EPC/2010/1/1.0/electronicproofer/fr/reg.eplegal.zip",
+  "referringId": "EPC:REG",
+  "relativeParagraph": 29,
+  "name": "S28149",
+  "unit": "{l'article◦61,∙paragraphe◦1}",
+  "value": "{ep-legal:countries:EP::EPC:2010:1:1.0:electronicproofer:A61_1:fr:xml~l'article◦61,∙paragraphe◦1}"
+ },
+ {
+  "text": "Convention∙sur∙la∙délivrance∙de∙brevets∙européens↲xxx",
+  "file": "/EP/organization/EPC/2013/1/1.0/electronicproofer/fr/index.eplegal.zip",
+  "relativeParagraph": 4,
+  "name": "S28178",
+  "unit": "{Convention∙sur∙la∙délivrance∙de∙brevets∙européens↲xxx}",
+  "value": "{ep-legal:countries:EP::EPC:2013:1:1.0:electronicproofer:ACVN:fr:xml#ACVN~Convention∙sur∙la∙délivrance∙de∙brevets∙européens↲xxx}"
+ }
+]

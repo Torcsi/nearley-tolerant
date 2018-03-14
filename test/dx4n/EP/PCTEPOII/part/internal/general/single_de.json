@@ -1,0 +1,19 @@
+[
+ {
+  "text": ",◦IC-IV,∙5.3",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/de/part-ic.eplegal.zip",
+  "referringId": "PCTEPOII:IPC_IV_5_4",
+  "relativeParagraph": 8,
+  "name": "S14692",
+  "unit": "{,◦IC-IV,∙5.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPC_IV_5_3:de:xml#IPC_IV_5_3~,◦IC-IV,∙5.3}"
+ },
+ {
+  "text": "IC-IV,◦5.3",
+  "file": "/EP/organization/PCTEPOII/2016/1/1.0/electronicproofer/de/part-ic.eplegal.zip",
+  "relativeParagraph": 8,
+  "name": "S14706",
+  "unit": "{IC-IV,◦5.3}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2016:1:1.0:electronicproofer:IPC_IV_5_3:de:xml#IPC_IV_5_3~IC-IV,◦5.3}"
+ }
+]

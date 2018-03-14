@@ -1,0 +1,72 @@
+[
+ {
+  "text": "1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 4,
+  "style": "TOC2",
+  "name": "S33963",
+  "unit": "{1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_1:de:docx:annex-i::IPANNEX_I#IPANNEX_I_1~1.→xxx}"
+ },
+ {
+  "text": "1.1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 5,
+  "style": "TOC3",
+  "name": "S33964",
+  "unit": "{1.1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_1_1:de:docx:annex-i::IPANNEX_I#IPANNEX_I_1_1~1.1.→xxx}"
+ },
+ {
+  "text": "1.2→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 6,
+  "style": "TOC3",
+  "name": "S33965",
+  "unit": "{1.2→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_1_2:de:docx:annex-i::IPANNEX_I#IPANNEX_I_1_2~1.2→xxx}"
+ },
+ {
+  "text": "3.1.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 16,
+  "style": "TOC4",
+  "name": "S33966",
+  "unit": "{3.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_3_1_1:de:docx:annex-i::IPANNEX_I#IPANNEX_I_3_1_1~3.1.1→xxx}"
+ },
+ {
+  "text": "3.1.1.1→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 17,
+  "style": "TOC5",
+  "name": "S33967",
+  "unit": "{3.1.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_3_1_1_1:de:docx:annex-i::IPANNEX_I#IPANNEX_I_3_1_1_1~3.1.1.1→xxx}"
+ },
+ {
+  "text": "4.1.2.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 24,
+  "style": "TOC4",
+  "name": "S33968",
+  "unit": "{4.1.2.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_4_1_2:de:docx:annex-i::IPANNEX_I#IPANNEX_I_4_1_2~4.1.2.→xxx}"
+ },
+ {
+  "text": "4.1.2.1.→xxx",
+  "file": "C:/docxml4net/storage/htdocs/documentLibrary/EP/PCTEPOII/2015/1/internet/de/annex-i.eplegal.zip",
+  "referringId": "IPANNEX_I",
+  "relativeParagraph": 25,
+  "style": "TOC5",
+  "name": "S33969",
+  "unit": "{4.1.2.1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1::internet:IPANNEX_I_4_1_2_1:de:docx:annex-i::IPANNEX_I#IPANNEX_I_4_1_2_1~4.1.2.1.→xxx}"
+ }
+]

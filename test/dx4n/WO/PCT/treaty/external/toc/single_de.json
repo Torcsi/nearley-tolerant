@@ -1,0 +1,65 @@
+[
+ {
+  "text": "Kapitel∙II∙PCT",
+  "file": "/EP/organization/OJ/2016/09/issue/electronicproofer/de/OJ_2016_i09_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_i09_toc",
+  "relativeParagraph": 9,
+  "name": "S15376",
+  "unit": "{Kapitel∙II∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:de:xml#CII~Kapitel∙II∙PCT}"
+ },
+ {
+  "text": "Kapitel◦II∙PCT",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 149,
+  "name": "S15387",
+  "unit": "{Kapitel◦II∙PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:de:xml#CII~Kapitel◦II∙PCT}"
+ },
+ {
+  "text": "Kapitel◦II◦PCT",
+  "file": "/EP/organization/OJ/2016/se4/issue/electronicproofer/de/OJ_2016_se4_toc.eplegal.zip",
+  "referringId": "OJ:OJ_2016_se4_toc",
+  "relativeParagraph": 150,
+  "name": "S15388",
+  "unit": "{Kapitel◦II◦PCT}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CII:de:xml#CII~Kapitel◦II◦PCT}"
+ },
+ {
+  "text": "Präambel",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/de/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 6,
+  "name": "S15470",
+  "unit": "{Präambel}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:PRE:de:xml#PRE~Präambel}"
+ },
+ {
+  "text": "Einleitende∙Bestimmungen",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/de/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 7,
+  "name": "S15471",
+  "unit": "{Einleitende∙Bestimmungen}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:INTRO:de:xml#INTRO~Einleitende∙Bestimmungen}"
+ },
+ {
+  "text": "Artikel∙1→xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/de/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 8,
+  "name": "S15472",
+  "unit": "{Artikel∙1→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:1:de:xml#1~Artikel∙1→xxx}"
+ },
+ {
+  "text": "Kapitel∙I:→xxx",
+  "file": "/WO/organization/PCT/2014/1/1.0/electronicproofer/de/treaty.eplegal.zip",
+  "referringId": "PCT:TITLE",
+  "relativeParagraph": 10,
+  "name": "S15473",
+  "unit": "{Kapitel∙I:→xxx}",
+  "value": "{ep-legal:countries:WO::PCT:2014:1:1.0:electronicproofer:CI:de:xml#CI~Kapitel∙I:→xxx}"
+ }
+]

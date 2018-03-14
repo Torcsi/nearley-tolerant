@@ -1,0 +1,26 @@
+[
+ {
+  "text": "C-II∙bis◦IX",
+  "unit": "{C-II}∙bis◦{IX}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGC_CII:de:xml#PGC_CII~C-II}∙bis◦{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGC_CIX:de:xml#PGC_CIX~IX}",
+  "name": "M23429",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 1
+ },
+ {
+  "text": "Teilen◦F,∙G∙und∙H",
+  "unit": "{Teilen◦F},∙{G}∙und∙{H}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGF:de:xml#PGF~Teilen◦F},∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGG:de:xml#PGG~G}∙und∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH:de:xml#PGH~H}",
+  "name": "M23431",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/de/C.eplegal.zip",
+  "relativeParagraph": 2
+ },
+ {
+  "text": "H-II∙und∙H-III",
+  "unit": "{H-II}∙und∙{H-III}",
+  "value": "{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CII:de:xml#PGH_CII~H-II}∙und∙{ep-legal:countries:EP::PCTEPOGL:2016:1:1.0:electronicproofer:PGH_CIII:de:xml#PGH_CIII~H-III}",
+  "name": "M23477",
+  "file": "/EP/organization/PCTEPOGL/2016/1/1.0/electronicproofer/de/H.eplegal.zip",
+  "relativeParagraph": 1
+ }
+]

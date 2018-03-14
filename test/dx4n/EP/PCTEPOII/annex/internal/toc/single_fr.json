@@ -1,0 +1,31 @@
+[
+ {
+  "text": "3.1.1.1→xxx",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "PCTEPOII:IPANNEX_I",
+  "relativeParagraph": 16,
+  "name": "S28718",
+  "unit": "{3.1.1.1→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPANNEX_I_3_1_1_1:fr:xml#IPANNEX_I_3_1_1_1~3.1.1.1→xxx}"
+ },
+ {
+"bad":true,
+  "text": "4.1.2.→xxx",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "PCTEPOII:IPANNEX_I",
+  "relativeParagraph": 23,
+  "name": "S28719",
+  "unit": "{4.1.2.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPANNEX_I_4_1_2:fr:xml#IPANNEX_I_4_1_2~4.1.2.→xxx}"
+ },
+ {
+"bad":true,
+  "text": "4.1.2.1.→xxx",
+  "file": "/EP/organization/PCTEPOII/2015/1/1.0/electronicproofer/fr/annex-i.eplegal.zip",
+  "referringId": "PCTEPOII:IPANNEX_I",
+  "relativeParagraph": 24,
+  "name": "S28720",
+  "unit": "{4.1.2.1.→xxx}",
+  "value": "{ep-legal:countries:EP::PCTEPOII:2015:1:1.0:electronicproofer:IPANNEX_I_4_1_2_1:fr:xml#IPANNEX_I_4_1_2_1~4.1.2.1.→xxx}"
+ }
+]

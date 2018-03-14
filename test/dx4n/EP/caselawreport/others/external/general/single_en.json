@@ -1,0 +1,246 @@
+[
+ {
+  "text": "Art.◦11∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "relativeParagraph": 49,
+  "name": "S00300",
+  "unit": "{Art.◦11∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_11:en:xml#CLR_RPBA_11~Art.◦11∙RPBA}"
+ },
+ {
+  "text": "Art.◦7(1)◦RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_B_2_2_1",
+  "relativeParagraph": 2,
+  "name": "S00301",
+  "unit": "{Art.◦7(1)◦RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_7:en:xml#CLR_RPBA_7~Art.◦7(1)◦RPBA}"
+ },
+ {
+  "text": "Art.◦8(1)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_B_2_2_1",
+  "relativeParagraph": 2,
+  "name": "S00302",
+  "unit": "{Art.◦8(1)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_8_1:en:xml#CLR_RPBA_8_1~Art.◦8(1)∙RPBA}"
+ },
+ {
+  "bad":true,
+ "text": "∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_B_2_3_1",
+  "relativeParagraph": 2,
+  "name": "S00303",
+  "unit": "{∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~∙RPBA}"
+ },
+ {
+  "text": "Article∙15(3)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_B_2_3_3",
+  "relativeParagraph": 0,
+  "name": "S00305",
+  "unit": "{Article∙15(3)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_15_3:en:xml#CLR_RPBA_15_3~Article∙15(3)∙RPBA}"
+ },
+ {
+  "text": "Art.∙15∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_C_1_1_1",
+  "relativeParagraph": 4,
+  "name": "S00307",
+  "unit": "{Art.∙15∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_15:en:xml#CLR_RPBA_15~Art.∙15∙RPBA}"
+ },
+ {
+  "text": "Art.∙15(2)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_C_4_1_2",
+  "relativeParagraph": 1,
+  "name": "S00308",
+  "unit": "{Art.∙15(2)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_15_2:en:xml#CLR_RPBA_15_2~Art.∙15(2)∙RPBA}"
+ },
+ {
+  "text": "Art.∙19(1),∙second∙sentence,∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_C_4_13",
+  "relativeParagraph": 1,
+  "name": "S00311",
+  "unit": "{Art.∙19(1),∙second∙sentence,∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_19_1:en:xml#CLR_RPBA_19_1~Art.∙19(1),∙second∙sentence,∙RPBA}"
+ },
+ {
+  "text": "Art.◦19(1),∙second∙sentence,∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_C_4_13",
+  "relativeParagraph": 1,
+  "name": "S00312",
+  "unit": "{Art.◦19(1),∙second∙sentence,∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_19_1:en:xml#CLR_RPBA_19_1~Art.◦19(1),∙second∙sentence,∙RPBA}"
+ },
+ {
+  "text": "Art.◦11a∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_C_5_1",
+  "relativeParagraph": 1,
+  "name": "S00313",
+  "unit": "{Art.◦11a∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Art.◦11a∙RPBA}"
+ },
+ {
+  "text": "Art.∙4(1)∙RPEBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/III.eplegal.zip",
+  "referringId": "caselawreport:CLR_III_J_3",
+  "relativeParagraph": 2,
+  "name": "S00315",
+  "unit": "{Art.∙4(1)∙RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPEBA_4_1:en:xml#CLR_RPEBA_4_1~Art.∙4(1)∙RPEBA}"
+ },
+ {
+  "active":false, "comment":"is this a link?",
+  "text": "Rules∙of∙Procedure∙of∙the∙Boards∙of∙Appeal",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_1_1_2",
+  "relativeParagraph": 1,
+  "name": "S00338",
+  "unit": "{Rules∙of∙Procedure∙of∙the∙Boards∙of∙Appeal}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Rules∙of∙Procedure∙of∙the∙Boards∙of∙Appeal}"
+ },
+ {
+  "active":false, "comment":"is this a link?",
+  "text": "RPBA∙2003",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_1_1_2",
+  "relativeParagraph": 1,
+  "name": "S00339",
+  "unit": "{RPBA∙2003}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~RPBA∙2003}"
+ },
+ {
+  "text": "Art.◦10b(3)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_1_2_3",
+  "relativeParagraph": 7,
+  "name": "S00340",
+  "unit": "{Art.◦10b(3)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Art.◦10b(3)∙RPBA}"
+ },
+ {
+  "text": "Art.◦10a(4)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_1_4_3",
+  "relativeParagraph": 3,
+  "name": "S00342",
+  "unit": "{Art.◦10a(4)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Art.◦10a(4)∙RPBA}"
+ },
+ {
+  "text": "Art.◦10b∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_7_2_1_a",
+  "relativeParagraph": 9,
+  "name": "S00347",
+  "unit": "{Art.◦10b∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Art.◦10b∙RPBA}"
+ },
+ {
+  "text": "Art.◦16(1)(c)∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_C_7_2_2_a",
+  "relativeParagraph": 8,
+  "name": "S00348",
+  "unit": "{Art.◦16(1)(c)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~Art.◦16(1)(c)∙RPBA}"
+ },
+ {
+  "active":false, "comment":"is this a link?",
+  "text": "RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_E_4_1_1",
+  "relativeParagraph": 1,
+  "name": "S00361",
+  "unit": "{RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA:en:xml#CLR_RPBA~RPBA}"
+ },
+ {
+  "text": "Article∙11∙RPBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_E_7_4_5",
+  "relativeParagraph": 0,
+  "name": "S00365",
+  "unit": "{Article∙11∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPBA_11:en:xml#CLR_RPBA_11~Article∙11∙RPBA}"
+ },
+ {
+  "text": "Art.◦4(1)∙RPEBA",
+  "file": "/EP/organization/caselawreport/2013/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_E_9_1",
+  "relativeParagraph": 3,
+  "name": "S00368",
+  "unit": "{Art.◦4(1)∙RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2013:1:1.0:electronicproofer:CLR_RPEBA_4_1:en:xml#CLR_RPEBA_4_1~Art.◦4(1)∙RPEBA}"
+ },
+ {
+  "text": "Article◦12(4)∙RPBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "relativeParagraph": 0,
+  "name": "S00435",
+  "unit": "{Article◦12(4)∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPBA_12_4:en:xml#CLR_RPBA_12_4~Article◦12(4)∙RPBA}"
+ },
+ {
+  "text": "Art.◦11",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "relativeParagraph": 1,
+  "name": "S00437",
+  "unit": "{Art.◦11}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPBA_11:en:xml#CLR_RPBA_11~Art.◦11}"
+ },
+ {
+  "text": "Art.◦19∙RPEBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_F_1",
+  "relativeParagraph": 3,
+  "name": "S00438",
+  "unit": "{Art.◦19∙RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPEBA_19:en:xml#CLR_RPEBA_19~Art.◦19∙RPEBA}"
+ },
+ {
+  "text": "Article∙12(1)∙RPEBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_F_3_7",
+  "relativeParagraph": 0,
+  "name": "S00440",
+  "unit": "{Article∙12(1)∙RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPEBA_12_1:en:xml#CLR_RPEBA_12_1~Article∙12(1)∙RPEBA}"
+ },
+ {
+  "text": "Article◦13∙RPBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_F_3_13_16",
+  "relativeParagraph": 0,
+  "name": "S00441",
+  "unit": "{Article◦13∙RPBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPBA_13:en:xml#CLR_RPBA_13~Article◦13∙RPBA}"
+ },
+ {
+  "text": "Art.◦12a(8)∙RPEBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_F_4_4",
+  "relativeParagraph": 1,
+  "name": "S00442",
+  "unit": "{Art.◦12a(8)∙RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPEBA_12a_8:en:xml#CLR_RPEBA_12a_8~Art.◦12a(8)∙RPEBA}"
+ },
+ {
+  "text": "Art.◦12a(10)◦RPEBA",
+  "file": "/EP/organization/caselawreport/2016/1/1.0/electronicproofer/en/IV.eplegal.zip",
+  "referringId": "caselawreport:CLR_IV_F_4_7",
+  "relativeParagraph": 1,
+  "name": "S00443",
+  "unit": "{Art.◦12a(10)◦RPEBA}",
+  "value": "{ep-legal:countries:EP::caselawreport:2016:1:1.0:electronicproofer:CLR_RPEBA_12a_10:en:xml#CLR_RPEBA_12a_10~Art.◦12a(10)◦RPEBA}"
+ }
+]
